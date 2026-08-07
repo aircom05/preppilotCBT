@@ -1,0 +1,62 @@
+.config-card {
+  background: var(--surface);
+
+  border: 1px solid var(--border);
+
+  border-radius: 18px;
+
+  padding: clamp(1rem, 3vw, 1rem);
+
+  width: 100%;
+
+  box-sizing: border-box;
+  margin-bottom: 1.5rem;
+}
+
+.config-card-header {
+  display: flex;
+
+  align-items: center;
+
+  gap: 0.5rem;
+
+  margin-bottom: 1rem;
+}
+
+.config-card-header h3 {
+  margin: 0;
+
+  font-size: clamp(1rem, 2vw, 1.2rem);
+
+  font-weight: 600;
+
+  color: var(--text);
+}
+
+.config-card-icon {
+  font-size: 1rem;
+
+  color: #2563eb;
+
+  display: flex;
+
+  align-items: center;
+}
+
+.config-card-body {
+  display: flex;
+
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 0.75rem;
+}
+
+.config-card-header {
+  display: flex;
+
+  align-items: center;
+
+  gap: 0.5rem;
+
+  margin-bottom: 1rem;
+}

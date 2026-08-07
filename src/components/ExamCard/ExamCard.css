@@ -1,0 +1,203 @@
+.exam-home {
+  width: 100%;
+  max-width: 720px;
+  margin: 50px auto;
+  padding: 1rem;
+  /* Mobile (default) */
+
+  margin-bottom: 2rem;
+}
+
+/* Tablet */
+@media (min-width: 768px) {
+  .exam-home {
+    margin-bottom: 3rem;
+  }
+}
+
+/* Desktop */
+@media (min-width: 1200px) {
+  .exam-home {
+    margin-bottom: 1.5rem;
+  }
+}
+
+.exam-home > * + * {
+  margin-top: 1rem;
+}
+
+.exam-title {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.exam-icon {
+  font-size: 2rem;
+}
+
+.exam-card-actions {
+  display: flex;
+  justify-content: center;
+  margin-top: 1.75rem;
+}
+
+.exam-description {
+  text-align: center;
+  margin: 1rem 0 1.5rem;
+  color: #6b7280;
+  font-size: 1rem;
+}
+
+.exam-divider {
+  border: none;
+
+  border-top: 1px solid #e5e7eb;
+
+  margin: 1.5rem 0;
+}
+
+.fa-play {
+  margin-right: 8px;
+}
+
+.exam-title h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #1f2937;
+}
+
+.exam-settings {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin: 2rem 0;
+  background: var(--background);
+
+  border: 1px solid var(--border);
+
+  border-radius: 18px;
+
+  padding: 1.5rem;
+}
+
+.setting-group {
+  margin-bottom: 1.5rem;
+}
+
+.setting-group label {
+  display: flex;
+
+  align-items: center;
+
+  gap: 0.4rem;
+
+  font-size: 1rem;
+
+  font-weight: 700;
+
+  color: #1f2937;
+
+  margin-bottom: 0.8rem;
+}
+
+.setting-options {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  transition:
+    background 0.25s,
+    transform 0.15s;
+}
+
+.setting-options button {
+  padding: 0.7rem 1.2rem;
+
+  border: none;
+
+  border-radius: 999px;
+
+  background: var(--background);
+
+  color: var(--text);
+
+  cursor: pointer;
+
+  transition: 0.2s;
+
+  font-weight: 600;
+}
+
+.setting-options button:hover {
+  background: var(--text-secondary);
+  color: var(--background);
+}
+
+.setting-options button.active {
+  background: var(--primary);
+
+  color: white;
+  transition: 0.2s;
+}
+
+.selected-config {
+  background: #f8fafc;
+
+  border: 1px solid var(--border);
+
+  border-radius: 16px;
+
+  padding: 1rem;
+
+  margin: 2rem 0;
+
+  text-align: center;
+}
+
+.selected-config h4 {
+  margin-bottom: 0.5rem;
+
+  color: var(--text);
+}
+
+.selected-config p {
+  color: var(--primary);
+
+  font-weight: 700;
+
+  font-size: 1rem;
+}
+
+.exam-info {
+  margin: 1.25rem 0;
+  padding: 1rem;
+
+  background: var(--background);
+
+  border: 1px solid var(--border);
+
+  border-radius: 14px;
+
+  text-align: center;
+}
+
+.info-label {
+  display: block;
+
+  font-size: 0.85rem;
+
+  color: var(--text);
+
+  margin-bottom: 0.35rem;
+
+  font-weight: 600;
+}
+
+.info-value {
+  font-size: 1rem;
+
+  font-weight: 700;
+
+  color: var(--primary);
+}

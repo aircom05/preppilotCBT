@@ -1,0 +1,13 @@
+import './Card.css';
+
+const Card = ({ children }) => {
+  return (
+    <div className="card">
+      <div className="card-accent"></div>
+
+      <div className="card-content">{children}</div>
+    </div>
+  );
+};
+
+export default Card;

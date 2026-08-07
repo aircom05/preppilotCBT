@@ -1,0 +1,132 @@
+.about-page {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding: 2rem 1rem;
+
+  background: var(--background);
+  color: var(--text);
+}
+
+.about-card {
+  width: min(900px, 100%);
+}
+
+.back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  text-decoration: none;
+  margin-bottom: 2rem;
+  font-weight: 600;
+
+  color: var(--primary);
+}
+
+.back-link:hover {
+  opacity: 0.8;
+}
+
+.about-header {
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+.about-header h1 {
+  font-size: clamp(2rem, 5vw, 3rem);
+  margin-bottom: 0.5rem;
+
+  color: var(--text);
+}
+
+.tagline {
+  font-size: 1.1rem;
+  color: var(--text-secondary);
+}
+
+.version {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.35rem 0.8rem;
+  border-radius: 999px;
+  font-size: 0.85rem;
+
+  background: rgba(37, 99, 235, 0.12);
+  color: var(--primary);
+}
+
+.about-section {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  border-radius: 16px;
+
+  background: var(--surface);
+  border: 1px solid var(--border);
+}
+
+.about-section h2 {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 1rem;
+
+  color: var(--text);
+}
+
+.about-section p,
+.about-section li {
+  color: var(--text-secondary);
+  line-height: 1.8;
+}
+
+.feature-list {
+  padding-left: 1.2rem;
+}
+
+.feature-list li {
+  margin-bottom: 0.7rem;
+}
+
+.developer-card h3 {
+  margin: 0.5rem 0;
+
+  color: var(--text);
+}
+
+.github-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 1rem;
+  text-decoration: none;
+  font-weight: 600;
+
+  color: var(--primary);
+}
+
+.github-link:hover {
+  opacity: 0.8;
+}
+
+.about-footer {
+  margin-top: 3rem;
+  text-align: center;
+
+  color: var(--text-secondary);
+}
+
+.about-footer small {
+  display: block;
+  margin-top: 0.5rem;
+  opacity: 0.8;
+}
+
+@media (max-width: 480px) {
+  .about-section {
+    padding: 1rem;
+  }
+
+  .about-header h1 {
+    font-size: 2rem;
+  }
+}

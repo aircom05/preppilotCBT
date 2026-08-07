@@ -1,0 +1,21 @@
+.exam-title {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.exam-icon {
+  font-size: clamp(2rem, 5vw, 2.7rem);
+  color: var(--primary);
+  flex-shrink: 0;
+}
+
+.exam-title h2 {
+  font-size: clamp(1.6rem, 5vw, 2.3rem);
+  margin: 0;
+  color: var(--text);
+}
+
+.exam-description {
+  margin: 1rem 0 2rem;
+}
