@@ -1,0 +1,99 @@
+@import './variables.css';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary: #2563eb;
+  /* Layout */
+  --page-max-width: 900px;
+  --page-padding: 1.5rem;
+  --section-gap: 2rem;
+
+  /* Cards */
+  --card-padding: 2rem;
+  --card-radius: 18px;
+
+  /* Buttons */
+  --button-height: 52px;
+
+  /* Transition */
+  --transition: all 0.25s ease;
+}
+
+.page-container {
+  max-width: var(--page-max-width);
+  margin: 0 auto;
+  padding: var(--page-padding);
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+body {
+  background: var(--background);
+  color: var(--text-primary);
+  font-family: 'Poppins', sans-serif;
+  line-height: 1.5;
+}
+
+button {
+  cursor: pointer;
+  font-family: inherit;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+[data-theme='dark'] {
+  background: #111827;
+
+  color: white;
+}
+
+[data-accent='green'] {
+  --primary: #16a34a;
+}
+
+[data-accent='purple'] {
+  --primary: #9333ea;
+}
+
+[data-accent='orange'] {
+  --primary: #ea580c;
+}
+
+[data-accent='red'] {
+  --primary: #dc2626;
+}
+
+/* Tablet */
+
+@media (max-width: 768px) {
+  :root {
+    --card-padding: 1.25rem;
+
+    --page-padding: 1rem;
+  }
+}
+
+/* Phones */
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+}

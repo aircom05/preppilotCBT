@@ -1,0 +1,20 @@
+.palette-btn.correct {
+  background: #22c55e;
+  color: var(--text);
+}
+
+.palette-btn.wrong {
+  background: #ef4444;
+  color: var(--text);
+}
+
+.palette-btn.unanswered {
+  background: var(--surface);
+  color: var(--text);
+}
+
+.palette-btn.current {
+  background: #2563eb;
+  color: white;
+  font-weight: 700;
+}

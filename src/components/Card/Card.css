@@ -1,0 +1,48 @@
+.card {
+  background: var(--surface);
+
+  border-radius: var(--radius-lg);
+
+  box-shadow: var(--shadow);
+
+  transition: var(--transition);
+
+  overflow: hidden;
+
+  width: 100%;
+
+  animation: fadeUp 0.6s ease;
+  margin-bottom: 3rem;
+}
+
+@media (min-width: 768px) {
+  .card {
+    margin-bottom: 3rem;
+  }
+
+  /* Desktop */
+  @media (min-width: 1200px) {
+    .card {
+      margin-bottom: 1.5rem;
+    }
+  }
+}
+
+.card:hover {
+  transform: translateY(-4px);
+}
+
+.card-accent {
+  width: 100%;
+  height: 5px;
+
+  background: linear-gradient(
+    90deg,
+    var(--gradient-start),
+    var(--gradient-end)
+  );
+}
+
+.card-content {
+  width: 100%;
+}

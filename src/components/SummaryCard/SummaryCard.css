@@ -1,0 +1,13 @@
+.selected-config {
+  background: var(--background);
+
+  border: 1px solid var(--border);
+
+  border-radius: 16px;
+
+  padding: 1rem;
+
+  margin: 2rem 0;
+
+  text-align: center;
+}

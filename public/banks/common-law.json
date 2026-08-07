@@ -1,0 +1,4030 @@
+{
+  "metadata": {
+    "id": "common-law",
+    "title": "LAW PAPER I (General Principles of Common Law)",
+    "version": "1.0.0",
+    "totalQuestions": 335
+  },
+  "questions": [
+    {
+      "id": "common-law-001",
+      "question": "A civil servant refuses to implement a directive because it is inconsistent with an existing statute. Which principle of law best justifies the officer's action?",
+      "options": [
+        "Rule of precedent",
+        "Supremacy of law",
+        "Judicial discretion",
+        "Parliamentary privilege"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The material emphasizes that civil servants must operate strictly within powers conferred by the Constitution and legislation. Law is supreme over administrative directives."
+    },
+    {
+      "id": "common-law-002",
+      "question": "John Austin's definition of law primarily emphasizes that law is—",
+      "options": [
+        "an instrument of morality",
+        "a command of the sovereign backed by sanctions",
+        "an expression of community customs",
+        "an agreement among citizens"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Austin defined law as the command of the sovereign backed by sanction."
+    },
+    {
+      "id": "common-law-003",
+      "question": "Which scholar viewed law primarily as a tool for balancing individual and social interests?",
+      "options": [
+        "Hans Kelsen",
+        "Lon Fuller",
+        "Roscoe Pound",
+        "John Austin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Roscoe Pound regarded law as a tool for social engineering balancing individual and societal interests."
+    },
+    {
+      "id": "common-law-004",
+      "question": "A judge decides a case mainly by relying on decisions reached in earlier similar cases. This demonstrates the principle of—",
+      "options": [
+        "Judicial review",
+        "Stare decisis",
+        "Equity",
+        "Natural justice"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Stare decisis means courts stand by previously decided cases to ensure consistency."
+    },
+    {
+      "id": "common-law-005",
+      "question": "A dispute concerns ownership of family property between siblings. Which branch of law is primarily applicable?",
+      "options": [
+        "Criminal law",
+        "Administrative law",
+        "Private law",
+        "Constitutional law"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Private law governs relationships between individuals and includes family matters and succession."
+    },
+    {
+      "id": "common-law-006",
+      "question": "Which of the following is NOT identified as a purpose of  law in the seminar material?",
+      "options": [
+        "Maintaining social order",
+        "Resolving disputes",
+        "Maximizing government revenue",
+        "Protecting society from harm"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Revenue generation is not listed among the purposes of law."
+    },
+    {
+      "id": "common-law-007",
+      "question": "A ministry dismisses an employee without giving the officer an opportunity to be heard. Equity would most likely object because it offends—",
+      "options": [
+        "Fairness",
+        "Consideration",
+        "Offer",
+        "Capacity"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Equity emphasizes fairness and justice in individual cases."
+    },
+    {
+      "id": "common-law-008",
+      "question": "The statement, \"Equity treats as done what ought to be done,\" primarily reflects the equitable doctrine that—",
+      "options": [
+        "substance prevails over procedure",
+        "legal obligations should be treated as fulfilled where justice requires",
+        "contracts override equity",
+        "judges cannot exercise discretion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The maxim means equity regards obligations that ought to have been performed as already accomplished."
+    },
+    {
+      "id": "common-law-009",
+      "question": "A claimant intentionally conceals fraudulent conduct but seeks an equitable injunction. Which equitable maxim defeats the claim?",
+      "options": [
+        "Equity follows the law",
+        "Delay defeats equity",
+        "He who comes to equity must come with clean hands",
+        "Equity looks to intent"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A party seeking equitable relief must act honestly and in good faith."
+    },
+    {
+      "id": "common-law-010",
+      "question": "Which of the following best demonstrates good faith in civil service?",
+      "options": [
+        "Withholding information from the public",
+        "Transparent decision-making",
+        "Favoring political allies",
+        "Selective enforcement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Transparency in decision-making is listed as an application of good faith."
+    },
+    {
+      "id": "common-law-011",
+      "question": "Who creates a trust by transferring assets to another for the benefit of beneficiaries?",
+      "options": [
+        "Trustee",
+        "Beneficiary",
+        "Settlor",
+        "Executor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The settlor creates the trust and transfers the assets."
+    },
+    {
+      "id": "common-law-012",
+      "question": "Which person manages trust property?",
+      "options": [
+        "Beneficiary",
+        "Trustee",
+        "Settlor",
+        "Donee"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The trustee is responsible for managing trust assets."
+    },
+    {
+      "id": "common-law-013",
+      "question": "Which type of trust is specifically listed in the seminar as one of the recognized trusts?",
+      "options": [
+        "Secret trust",
+        "Pension trust",
+        "Charitable trust",
+        "Family trust"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pension Trust is expressly listed among the types of trusts discussed."
+    },
+    {
+      "id": "common-law-014",
+      "question": "A government accountant diverts public funds for personal use. Which trust principle has primarily been violated?",
+      "options": [
+        "Capacity",
+        "Fiduciary duty",
+        "Offer",
+        "Acceptance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Civil servants owe fiduciary duties in managing public resources."
+    },
+    {
+      "id": "common-law-015",
+      "question": "The principal objective of the law of tort is to—",
+      "options": [
+        "punish offenders through imprisonment",
+        "regulate marriages",
+        "provide civil remedies for wrongful acts",
+        "collect compensation for government"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tort provides civil remedies for wrongful acts causing harm."
+    },
+    {
+      "id": "common-law-016",
+      "question": "Which element of negligence requires proof that the defendant's conduct caused the plaintiff's loss?",
+      "options": [
+        "Duty",
+        "Breach",
+        "Causation",
+        "Intention"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Causation links the breach directly to the injury suffered."
+    },
+    {
+      "id": "common-law-017",
+      "question": "Battery is classified under—",
+      "options": [
+        "Negligence",
+        "Strict liability",
+        "Intentional tort",
+        "Administrative wrong"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Battery is specifically listed as an intentional tort."
+    },
+    {
+      "id": "common-law-018",
+      "question": "Liability for injuries caused by a defective product is used in the material to illustrate—",
+      "options": [
+        "Defamation",
+        "Negligence",
+        "Strict liability",
+        "Conversion"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Defective products are given as examples of strict liability."
+    },
+    {
+      "id": "common-law-019",
+      "question": "Government liability for torts committed by civil servants while acting in the course of duty is referred to as—",
+      "options": [
+        "Judicial review",
+        "Fiduciary duty",
+        "Vicarious liability",
+        "Sovereign immunity"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar identifies vicarious liability as a key consideration in tort."
+    },
+    {
+      "id": "common-law-020",
+      "question": "A witness personally observed a robbery and testifies in court. This is—",
+      "options": [
+        "Hearsay evidence",
+        "Documentary evidence",
+        "Direct evidence",
+        "Circumstantial evidence"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Direct evidence is based on the witness's personal knowledge."
+    },
+    {
+      "id": "common-law-021",
+      "question": "A witness did not see a murder but saw the accused running out of the room immediately after hearing a gunshot. His testimony is best classified as—",
+      "options": [
+        "Oral evidence",
+        "Direct evidence",
+        "Circumstantial evidence",
+        "Documentary evidence"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Circumstantial evidence requires an inference to connect it to the fact in issue. The seminar gives a similar example."
+    },
+    {
+      "id": "common-law-022",
+      "question": "The greatest advantage of oral evidence identified in the seminar is that—",
+      "options": [
+        "it is always conclusive",
+        "witnesses need not be cross-examined",
+        "the witness's credibility can be tested through cross-examination",
+        "it overrides documentary evidence"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Oral evidence allows cross-examination and observation of the witness's demeanor."
+    },
+    {
+      "id": "common-law-023",
+      "question": "Which sequence correctly represents the stages of examining a witness?",
+      "options": [
+        "Cross-examination → Examination-in-chief → Re-examination",
+        "Examination-in-chief → Cross-examination → Re-examination",
+        "Re-examination → Examination-in-chief → Cross-examination",
+        "Examination-in-chief → Re-examination → Cross-examination"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Witness examination proceeds from examination-in-chief to cross-examination and finally re-examination."
+    },
+    {
+      "id": "common-law-024",
+      "question": "A certified copy of a public document tendered where the original cannot conveniently be produced is regarded as—",
+      "options": [
+        "Direct evidence",
+        "Primary evidence",
+        "Secondary evidence",
+        "Real evidence"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar states that certified copies may constitute secondary evidence in exceptional circumstances."
+    },
+    {
+      "id": "common-law-025",
+      "question": "Which of the following is correctly classified as real evidence?",
+      "options": [
+        "A witness's recollection",
+        "A written confession narrated by another witness",
+        "A blood-stained knife produced in court",
+        "A lawyer's submission"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Real evidence consists of tangible objects produced for inspection in court."
+    },
+    {
+      "id": "common-law-026",
+      "question": "A witness says, \"My neighbour told me the accused stole the money.\" Unless an exception applies, this evidence is—",
+      "options": [
+        "Documentary",
+        "Circumstantial",
+        "Hearsay",
+        "Direct"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hearsay is second-hand evidence based on information received from another person."
+    },
+    {
+      "id": "common-law-027",
+      "question": "Under the seminar material, hearsay may become admissible where the maker of the statement—",
+      "options": [
+        "refuses to attend court",
+        "is dead",
+        "dislikes the accused",
+        "changes residence"
+      ],
+      "correctAnswer": 1,
+      "explanation": "One recognized exception is where the maker is dead."
+    },
+    {
+      "id": "common-law-028",
+      "question": "Which is NOT listed as an exception to the hearsay rule?",
+      "options": [
+        "Statement relating to the cause of death",
+        "Statements made in the course of business",
+        "Statements against interest",
+        "Anonymous newspaper reports"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Anonymous newspaper reports are not listed among the statutory exceptions discussed."
+    },
+    {
+      "id": "common-law-029",
+      "question": "A disciplinary panel convicts an employee solely on fabricated documents. According to the seminar, this contradicts the law of evidence because—",
+      "options": [
+        "documents are inadmissible",
+        "evidence must be carefully checked",
+        "oral evidence is compulsory",
+        "only judges may evaluate evidence"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar warns that evidence should always be carefully checked because it can be fabricated."
+    },
+    {
+      "id": "common-law-030",
+      "question": "Which principle is NOT an essential element of a valid contract according to the seminar?",
+      "options": [
+        "Offer",
+        "Acceptance",
+        "Consideration",
+        "Registration"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Registration is not listed as an essential element of a valid contract."
+    },
+    {
+      "id": "common-law-031",
+      "question": "An offer has been made but never accepted. Legally, there is—",
+      "options": [
+        "an enforceable contract",
+        "a completed contract",
+        "no binding contract",
+        "an implied contract"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Acceptance is necessary before a contract becomes binding."
+    },
+    {
+      "id": "common-law-032",
+      "question": "A person suffering from severe mental incapacity enters into an agreement. Which element of contract is most directly affected?",
+      "options": [
+        "Consideration",
+        "Capacity",
+        "Offer",
+        "Acceptance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Capacity requires parties to be of sound mind and legally competent."
+    },
+    {
+      "id": "common-law-033",
+      "question": "A reward is promised to anyone who returns a missing government file. This best illustrates—",
+      "options": [
+        "Express contract",
+        "Bilateral contract",
+        "Unilateral contract",
+        "Implied trust"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A unilateral contract involves a promise in exchange for an act."
+    },
+    {
+      "id": "common-law-034",
+      "question": "Two parties mutually promise to perform obligations in future. This is—",
+      "options": [
+        "Bilateral contract",
+        "Unilateral contract",
+        "Resulting trust",
+        "Constructive trust"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Bilateral contracts involve exchange of promises."
+    },
+    {
+      "id": "common-law-035",
+      "question": "A flood destroys the only bridge required for delivery under a contract, making performance impossible. The contract is discharged by—",
+      "options": [
+        "Breach",
+        "Performance",
+        "Frustration",
+        "Acceptance"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Frustration occurs where unforeseen circumstances make performance impossible."
+    },
+    {
+      "id": "common-law-036",
+      "question": "Which remedy compels a party to perform contractual obligations instead of merely paying compensation?",
+      "options": [
+        "Damages",
+        "Injunction",
+        "Specific performance",
+        "Restitution"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Specific performance is a court order compelling performance."
+    },
+    {
+      "id": "common-law-037",
+      "question": "Administrative law primarily regulates—",
+      "options": [
+        "family disputes",
+        "government agencies and administrative authorities",
+        "criminal prosecutions only",
+        "international organizations"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Administrative law governs the organization, powers and duties of administrative authorities."
+    },
+    {
+      "id": "common-law-038",
+      "question": "According to Ivor Jennings, administrative law determines—",
+      "options": [
+        "criminal punishment",
+        "judicial salaries",
+        "organization, powers and duties of administrative authorities",
+        "parliamentary elections"
+      ],
+      "correctAnswer": 2,
+      "explanation": "This is the definition attributed to Ivor Jennings."
+    },
+    {
+      "id": "common-law-039",
+      "question": "Which of the following is NOT listed as a function of administrative law?",
+      "options": [
+        "Rulemaking",
+        "Adjudication",
+        "Enforcement",
+        "Treaty negotiation"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Treaty negotiation is not among the functions listed."
+    },
+    {
+      "id": "common-law-040",
+      "question": "Administrative law safeguards citizens primarily by ensuring government actions are—",
+      "options": [
+        "politically popular",
+        "financially profitable",
+        "lawful and fair",
+        "confidential"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Administrative law ensures actions are lawful, fair and in the public interest."
+    },
+    {
+      "id": "common-law-041",
+      "question": "Which of these is classified as an administrative power?",
+      "options": [
+        "Ecclesiastical power",
+        "Executive power",
+        "Commercial power",
+        "Traditional power"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Executive power is one of the classifications listed."
+    },
+    {
+      "id": "common-law-042",
+      "question": "Which branch of law deals primarily with interpreting a country's Constitution?",
+      "options": [
+        "Tort",
+        "Equity",
+        "Constitutional law",
+        "Trust"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Constitutional law deals with interpretation and application of the Constitution."
+    },
+    {
+      "id": "common-law-043",
+      "question": "The doctrine of separation of powers is identified in the seminar as a key aspect of—",
+      "options": [
+        "Contract law",
+        "Constitutional law",
+        "Equity",
+        "Tort"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Separation of powers is listed as a key constitutional principle."
+    },
+    {
+      "id": "common-law-044",
+      "question": "Which feature distinguishes a written constitution according to the seminar?",
+      "options": [
+        "It evolves only through customs.",
+        "It is codified in a single document or booklet.",
+        "It has no amendment procedure.",
+        "It is always flexible."
+      ],
+      "correctAnswer": 1,
+      "explanation": "A written constitution is codified in one document."
+    },
+    {
+      "id": "common-law-045",
+      "question": "Nigeria's Constitution is described in the seminar as—",
+      "options": [
+        "unwritten and flexible",
+        "written and rigid",
+        "customary only",
+        "judicial only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nigeria operates a written constitution with a strict amendment procedure."
+    },
+    {
+      "id": "common-law-046",
+      "question": "Which Chapter of the 1999 Constitution (as amended) is referenced for Fundamental Rights?",
+      "options": [
+        "Chapter II",
+        "Chapter III",
+        "Chapter IV",
+        "Chapter VI"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar specifically refers to Chapter IV, Sections 33–44."
+    },
+    {
+      "id": "common-law-047",
+      "question": "According to the seminar, the current Constitution of Nigeria contains—",
+      "options": [
+        "250 Sections and 5 Schedules",
+        "320 Sections and 7 Schedules",
+        "300 Sections and 6 Schedules",
+        "280 Sections and 8 Schedules"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that the Constitution has 320 sections and seven schedules."
+    },
+    {
+      "id": "common-law-048",
+      "question": "A civil servant refuses to violate a citizen's constitutional rights despite pressure from a superior. This action is most consistent with—",
+      "options": [
+        "political loyalty",
+        "constitutional supremacy",
+        "parliamentary sovereignty",
+        "judicial activism"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Civil servants must respect citizens' fundamental rights under the Constitution."
+    },
+    {
+      "id": "common-law-049",
+      "question": "Which constitutional function ensures continuity and stability in governance?",
+      "options": [
+        "Judicial review",
+        "Promotion of accountability",
+        "Provision of a governance framework",
+        "Criminal prosecution"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Constitution provides a framework for governance, ensuring stability and continuity."
+    },
+    {
+      "id": "common-law-050",
+      "question": "A ministry introduces an internal policy that conflicts with the Constitution. Which instrument prevails?",
+      "options": [
+        "Ministry Circular",
+        "Administrative Guideline",
+        "Constitution",
+        "Staff Manual"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Constitution is the supreme law of Nigeria and prevails over conflicting administrative instruments."
+    },
+    {
+      "id": "common-law-051",
+      "question": "A newly appointed civil servant insists that every administrative decision must strictly comply with the Constitution, Acts of the Legislature, and statutory instruments. Which importance of law in the civil service does this best illustrate?",
+      "options": [
+        "Promoting openness",
+        "Upholding the Rule of Law",
+        "Regulating service delivery",
+        "Preventing negligence"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that civil servants must operate strictly within powers conferred by the Constitution, legislation and statutory instruments."
+    },
+    {
+      "id": "common-law-052",
+      "question": "A ministry awards employment opportunities only to persons sharing the Director's religion. Which importance of law in the civil service has been violated?",
+      "options": [
+        "Promoting openness",
+        "Protecting citizens' rights",
+        "Guiding government functions",
+        "Ensuring judicial review"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that law prohibits discrimination based on race, religion, gender or political opinion."
+    },
+    {
+      "id": "common-law-053",
+      "question": "A court departs from an earlier decision because the facts of the present case are materially different. This does NOT contradict the doctrine of stare decisis because—",
+      "options": [
+        "precedent only applies where material facts are similar",
+        "judges are never bound by precedent",
+        "constitutions override precedents",
+        "equity abolishes precedent"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar explains that precedent applies to future cases with similar facts."
+    },
+    {
+      "id": "common-law-054",
+      "question": "Which principle of common law contributes most directly to predictability in judicial decisions?",
+      "options": [
+        "Flexibility",
+        "Judge-made law",
+        "Stare decisis",
+        "Adversarial system"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Stare decisis promotes consistency and predictability in judicial decisions."
+    },
+    {
+      "id": "common-law-055",
+      "question": "A judge allows both parties to call witnesses and present arguments before delivering judgment. Which common law principle is illustrated?",
+      "options": [
+        "Custom and tradition",
+        "Adversarial system",
+        "Judicial review",
+        "Rulemaking"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Under the adversarial system, parties present evidence and arguments while the court decides the case."
+    },
+    {
+      "id": "common-law-056",
+      "question": "Which characteristic makes common law capable of adapting to changing societal conditions?",
+      "options": [
+        "Codification",
+        "Flexibility through judicial interpretation",
+        "Parliamentary sovereignty",
+        "Administrative discretion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Flexibility allows common law to evolve through judicial interpretation."
+    },
+    {
+      "id": "common-law-057",
+      "question": "A court grants an order compelling a contractor to complete a government building exactly as agreed. The equitable remedy granted is—",
+      "options": [
+        "Damages",
+        "Injunction",
+        "Specific performance",
+        "Restitution"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Specific performance compels a party to perform a specific act."
+    },
+    {
+      "id": "common-law-058",
+      "question": "A government official seeks an injunction after deliberately misleading the court about important facts. Which equitable maxim defeats the claim?",
+      "options": [
+        "Equity follows the law",
+        "Equity looks to intent",
+        "He who comes to equity must come with clean hands",
+        "Equity aids the vigilant"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Equitable relief is denied where the applicant has acted without integrity or good faith."
+    },
+    {
+      "id": "common-law-059",
+      "question": "A court gives priority to the substance of an agreement rather than the technical wording used by the parties. Which equitable maxim is being applied?",
+      "options": [
+        "Equity follows the law",
+        "Equity looks to the intent rather than the form",
+        "Equity will not suffer a wrong without a remedy",
+        "Clean hands doctrine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Equity focuses on the true intention and substance rather than mere form."
+    },
+    {
+      "id": "common-law-060",
+      "question": "A civil servant honestly discloses an error made during procurement even though no one has discovered it. Which equitable value is most clearly demonstrated?",
+      "options": [
+        "Revenge",
+        "Good faith",
+        "Estoppel",
+        "Capacity"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Good faith requires honesty, transparency and integrity."
+    },
+    {
+      "id": "common-law-061",
+      "question": "A public officer awards contracts only after objectively evaluating all bidders using identical criteria. This best illustrates—",
+      "options": [
+        "Fair dealing",
+        "Judicial review",
+        "Strict liability",
+        "Vicarious liability"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fair dealing emphasizes impartiality and equal treatment."
+    },
+    {
+      "id": "common-law-062",
+      "question": "Which principle encourages civil servants to consider the moral implications of official decisions?",
+      "options": [
+        "Conscience",
+        "Consideration",
+        "Capacity",
+        "Acceptance"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Conscience ensures legal decisions align with moral fairness and justice."
+    },
+    {
+      "id": "common-law-063",
+      "question": "The primary beneficiary of fiduciary duties owed by civil servants is—",
+      "options": [
+        "Political office holders",
+        "Their immediate supervisors",
+        "The public and government",
+        "Contractors"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Civil servants must act in the best interests of the public and government."
+    },
+    {
+      "id": "common-law-064",
+      "question": "Which of the following would most likely amount to a breach of fiduciary duty?",
+      "options": [
+        "Declining a promotion",
+        "Using confidential government information for personal investment",
+        "Taking annual leave",
+        "Attending staff training"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fiduciary duty requires responsible management of public resources and avoidance of conflicts of interest."
+    },
+    {
+      "id": "common-law-065",
+      "question": "A trust created intentionally by the parties is known as—",
+      "options": [
+        "Constructive trust",
+        "Resulting trust",
+        "Express trust",
+        "Pension trust"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Express trust is one of the recognized types listed."
+    },
+    {
+      "id": "common-law-066",
+      "question": "Which person enjoys the benefit of trust property?",
+      "options": [
+        "Trustee",
+        "Settlor",
+        "Beneficiary",
+        "Registrar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Beneficiaries are the persons or organizations who benefit from the trust."
+    },
+    {
+      "id": "common-law-067",
+      "question": "The law of tort differs fundamentally from criminal law because tort primarily seeks—",
+      "options": [
+        "imprisonment",
+        "compensation or other civil remedies",
+        "exile",
+        "legislative sanctions"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tort primarily provides compensation or other civil remedies such as injunctions."
+    },
+    {
+      "id": "common-law-068",
+      "question": "A plaintiff proves duty, breach and injury but fails to establish that the defendant's conduct caused the injury. The negligence claim will most likely fail because—",
+      "options": [
+        "consideration is absent",
+        "causation has not been established",
+        "intention was not proved",
+        "damages are unavailable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "All four elements, including causation, must be proved."
+    },
+    {
+      "id": "common-law-069",
+      "question": "Which tort listed in the seminar involves unlawful interference with another person's land?",
+      "options": [
+        "Battery",
+        "Defamation",
+        "Trespass to land",
+        "Conversion"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Trespass to land is specifically listed as an intentional tort."
+    },
+    {
+      "id": "common-law-070",
+      "question": "Which statement best distinguishes strict liability from negligence?",
+      "options": [
+        "Strict liability always requires proof of intention.",
+        "Strict liability may arise even without proving intent or breach of duty.",
+        "Strict liability only applies to contracts.",
+        "Strict liability is another name for assault."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Under strict liability, liability may arise even where intent or breach of duty is not established."
+    },
+    {
+      "id": "common-law-071",
+      "question": "A ministry is sued because one of its drivers negligently injured a pedestrian while performing official duties. Which legal principle is most likely applicable?",
+      "options": [
+        "Strict liability",
+        "Fiduciary duty",
+        "Vicarious liability",
+        "Constitutional supremacy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar states that government agencies may be liable for torts committed by civil servants under vicarious liability."
+    },
+    {
+      "id": "common-law-072",
+      "question": "A witness gives evidence only about facts personally observed during an incident. Such testimony is primarily—",
+      "options": [
+        "Hearsay evidence",
+        "Documentary evidence",
+        "Direct evidence",
+        "Circumstantial evidence"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Direct evidence is based on the witness's personal knowledge of the facts."
+    },
+    {
+      "id": "common-law-073",
+      "question": "Which form of evidence generally requires the court to draw an inference before reaching a conclusion?",
+      "options": [
+        "Oral evidence",
+        "Direct evidence",
+        "Circumstantial evidence",
+        "Real evidence"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Circumstantial evidence requires an inference linking the evidence to the fact in issue."
+    },
+    {
+      "id": "common-law-074",
+      "question": "During cross-examination, the credibility of a witness begins to collapse because earlier statements contradict present testimony. This illustrates one major advantage of—",
+      "options": [
+        "Documentary evidence",
+        "Oral evidence",
+        "Real evidence",
+        "Hearsay evidence"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Oral evidence allows credibility to be tested through cross-examination."
+    },
+    {
+      "id": "common-law-075",
+      "question": "Which examination is conducted by the party that originally called the witness after cross-examination has ended?",
+      "options": [
+        "Voir dire",
+        "Examination-in-chief",
+        "Re-examination",
+        "Judicial inquiry"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Re-examination is conducted to clarify issues raised during cross-examination."
+    },
+    {
+      "id": "common-law-076",
+      "question": "Which statement best describes primary documentary evidence?",
+      "options": [
+        "A witness's memory of a document",
+        "The original document itself",
+        "A newspaper report",
+        "A verbal summary prepared by counsel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Documentary evidence is generally proved by producing the original document (primary evidence)."
+    },
+    {
+      "id": "common-law-077",
+      "question": "A CCTV recording tendered in court to establish the identity of a suspect is classified in the seminar as—",
+      "options": [
+        "Circumstantial evidence only",
+        "Documentary evidence only",
+        "Real evidence",
+        "Hearsay evidence"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tape recordings and similar tangible items are examples of real evidence."
+    },
+    {
+      "id": "common-law-078",
+      "question": "A witness says, \"I never saw the accident, but my brother told me exactly what happened.\" Unless an exception applies, the statement is inadmissible because it is—",
+      "options": [
+        "Documentary",
+        "Opinion evidence",
+        "Hearsay",
+        "Circumstantial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hearsay consists of second-hand information received from another person."
+    },
+    {
+      "id": "common-law-079",
+      "question": "Which circumstance is specifically recognized as permitting an exception to the hearsay rule?",
+      "options": [
+        "The maker is unwilling to testify because of fear.",
+        "The maker is dead.",
+        "The witness is a civil servant.",
+        "The document is confidential."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Statements made by a deceased person may be admissible under the stated exceptions."
+    },
+    {
+      "id": "common-law-080",
+      "question": "Which statement reflects the seminar's caution regarding evidence?",
+      "options": [
+        "Documentary evidence cannot be challenged.",
+        "Every witness is truthful.",
+        "Evidence should always be carefully examined because it may be fabricated.",
+        "Real evidence is always superior."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar emphasizes that evidence should be carefully checked because fabricated evidence is possible."
+    },
+    {
+      "id": "common-law-081",
+      "question": "An agreement exists, but neither party intended it to create legal obligations. Which essential element is missing?",
+      "options": [
+        "Consideration",
+        "Capacity",
+        "Intention to create legal relations",
+        "Acceptance"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A legally binding contract requires an intention to create legal relations."
+    },
+    {
+      "id": "common-law-082",
+      "question": "Payment of ₦500,000 in exchange for consulting services illustrates which element of a valid contract?",
+      "options": [
+        "Offer",
+        "Capacity",
+        "Consideration",
+        "Acceptance"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consideration is something of value exchanged between the parties."
+    },
+    {
+      "id": "common-law-083",
+      "question": "A contract whose terms are inferred from the conduct of the parties rather than expressly stated is—",
+      "options": [
+        "Bilateral",
+        "Implied",
+        "Unilateral",
+        "Revocable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Implied contracts arise from the conduct or circumstances of the parties."
+    },
+    {
+      "id": "common-law-084",
+      "question": "Both parties voluntarily agree to terminate their contract before performance. The contract is discharged by—",
+      "options": [
+        "Frustration",
+        "Breach",
+        "Agreement",
+        "Injunction"
+      ],
+      "correctAnswer": 2,
+      "explanation": "One recognized method of discharge is by mutual agreement."
+    },
+    {
+      "id": "common-law-085",
+      "question": "A court restrains a contractor from violating a contractual obligation pending determination of a dispute. The remedy granted is—",
+      "options": [
+        "Damages",
+        "Specific performance",
+        "Injunction",
+        "Rescission"
+      ],
+      "correctAnswer": 2,
+      "explanation": "An injunction restrains a party from doing a particular act."
+    },
+    {
+      "id": "common-law-086",
+      "question": "Administrative law is primarily concerned with ensuring that government agencies—",
+      "options": [
+        "maximize profits",
+        "act within their lawful authority",
+        "determine criminal liability",
+        "negotiate international treaties"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Administrative law regulates administrative agencies and ensures lawful exercise of powers."
+    },
+    {
+      "id": "common-law-087",
+      "question": "Which administrative function involves making legally binding rules?",
+      "options": [
+        "Transparency",
+        "Enforcement",
+        "Rulemaking",
+        "Judicial review"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rulemaking is listed among the core functions of administrative law."
+    },
+    {
+      "id": "common-law-088",
+      "question": "Which classification of administrative power involves deciding disputes or legal questions within an administrative framework?",
+      "options": [
+        "Executive power",
+        "Legislative power",
+        "Judicial power",
+        "Administrative decision"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Judicial power is one of the listed classifications of administrative powers."
+    },
+    {
+      "id": "common-law-089",
+      "question": "A government agency refuses to hear a citizen before revoking a licence. Which objective of administrative law has most likely been undermined?",
+      "options": [
+        "Transparency",
+        "Fairness",
+        "Revenue generation",
+        "Commercial efficiency"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Administrative law requires that agencies act lawfully and follow fair procedures."
+    },
+    {
+      "id": "common-law-090",
+      "question": "Which constitutional principle prevents excessive concentration of governmental authority in one organ?",
+      "options": [
+        "Federalism",
+        "Separation of powers",
+        "Specific performance",
+        "Rulemaking"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Separation of powers is one of the key aspects of constitutional law identified in the seminar."
+    },
+    {
+      "id": "common-law-091",
+      "question": "Judicial review, according to the seminar, is an example of—",
+      "options": [
+        "Equity",
+        "Tort",
+        "Constitutional law in action",
+        "Contract law"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Judicial review is listed as an example of constitutional law in action."
+    },
+    {
+      "id": "common-law-092",
+      "question": "The Constitution safeguards citizens primarily by—",
+      "options": [
+        "increasing taxation",
+        "protecting fundamental rights",
+        "regulating contracts only",
+        "creating private trusts"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Protection of rights is a major constitutional function."
+    },
+    {
+      "id": "common-law-093",
+      "question": "Which feature distinguishes an unwritten constitution according to the seminar?",
+      "options": [
+        "It is contained in one document.",
+        "It is based on conventions, traditions and judicial decisions.",
+        "It cannot be amended.",
+        "It contains exactly seven schedules."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar describes an unwritten constitution as one based on conventions, traditions and judicial decisions."
+    },
+    {
+      "id": "common-law-094",
+      "question": "Nigeria's Constitution is described as rigid because—",
+      "options": [
+        "it contains many sections",
+        "it cannot be interpreted",
+        "its amendment procedure is strict",
+        "judges cannot review it"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A rigid constitution is one with a strict amendment procedure."
+    },
+    {
+      "id": "common-law-095",
+      "question": "Which constitutional function directly promotes accountability among government officials?",
+      "options": [
+        "Establishing government structure",
+        "Promoting accountability",
+        "Judicial precedent",
+        "Rulemaking"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Constitution ensures government officials are accountable for their actions."
+    },
+    {
+      "id": "common-law-096",
+      "question": "The constitutional provisions governing appointments and tenure of civil servants primarily affect—",
+      "options": [
+        "diplomatic relations",
+        "civil service administration",
+        "commercial transactions",
+        "criminal investigations"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies appointments and tenure as constitutional impacts on the civil service."
+    },
+    {
+      "id": "common-law-097",
+      "question": "A public officer deliberately violates a citizen's constitutional rights while carrying out official duties. Which constitutional impact on civil service has been ignored?",
+      "options": [
+        "Code of conduct",
+        "Fundamental rights",
+        "Procurement",
+        "Administrative decision"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Civil servants are required to respect citizens' fundamental rights."
+    },
+    {
+      "id": "common-law-098",
+      "question": "Which constitutional principle distributes governmental powers between the federal and state governments?",
+      "options": [
+        "Separation of powers",
+        "Judicial review",
+        "Federalism",
+        "Stare decisis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Federalism is one of the key constitutional principles identified in the seminar."
+    },
+    {
+      "id": "common-law-099",
+      "question": "The seminar describes the Constitution primarily as—",
+      "options": [
+        "an administrative circular",
+        "the supreme law of the land",
+        "a judicial precedent",
+        "a collection of contracts"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Constitution is described as the supreme law providing the framework for governance."
+    },
+    {
+      "id": "common-law-100",
+      "question": "A Head of Department instructs staff to ignore constitutional provisions in favour of an internal memo. Which statement best reflects the legal position in the seminar?",
+      "options": [
+        "The memo prevails because it is more recent.",
+        "Both documents have equal legal force.",
+        "The Constitution prevails because it is the supreme law.",
+        "The Head of Department decides which applies."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Constitution is the supreme law, and civil servants must adhere to its provisions."
+    },
+    {
+      "id": "common-law-101",
+      "question": "A civil servant argues that a government circular should override an Act of Parliament because it was issued more recently. Which principle from the seminar defeats this argument?",
+      "options": [
+        "Judicial review",
+        "Rule of law",
+        "Common intention",
+        "Fiduciary obligation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Civil servants must act within powers conferred by the Constitution, legislation and statutory instruments. Administrative directives cannot override the law."
+    },
+    {
+      "id": "common-law-102",
+      "question": "Which of the following scholars viewed law as a normative order characterized by a hierarchy of norms?",
+      "options": [
+        "John Austin",
+        "Roscoe Pound",
+        "Hans Kelsen",
+        "Lon Fuller"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hans Kelsen described law as a normative order with a hierarchical structure of norms."
+    },
+    {
+      "id": "common-law-103",
+      "question": "A judge decides a case by relying solely on his personal opinion despite an existing binding precedent with identical facts. Which common law principle has been disregarded?",
+      "options": [
+        "Flexibility",
+        "Adversarial system",
+        "Stare decisis",
+        "Equity follows the law"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Stare decisis requires courts to follow established precedents in similar cases."
+    },
+    {
+      "id": "common-law-104",
+      "question": "Which common law characteristic permits judges to create legal principles while deciding cases?",
+      "options": [
+        "Legislative supremacy",
+        "Judge-made law",
+        "Executive authority",
+        "Constitutional amendment"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Common law evolves through judges' decisions, creating principles for future cases."
+    },
+    {
+      "id": "common-law-105",
+      "question": "Which of the following is NOT identified in the seminar as a principle of common law?",
+      "options": [
+        "Protection of individual rights",
+        "Adversarial system",
+        "Parliamentary sovereignty",
+        "Custom and tradition"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Parliamentary sovereignty is not listed among the principles discussed."
+    },
+    {
+      "id": "common-law-106",
+      "question": "Two parties possess equal equitable interests in the same property. Which maxim determines that the person who acquired the interest first should succeed?",
+      "options": [
+        "Equity follows the law",
+        "Where equities are equal, the first in time shall prevail",
+        "Equity looks to intent rather than form",
+        "Equity aids the vigilant"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This maxim gives priority to the earlier equitable interest where equities are equal."
+    },
+    {
+      "id": "common-law-107",
+      "question": "A litigant requests equitable relief but refuses to fulfil corresponding obligations owed to the other party. Which maxim directly prevents the relief?",
+      "options": [
+        "Equity follows the law",
+        "He who seeks equity must do equity",
+        "Equity looks to intent",
+        "Equity will not suffer a wrong without a remedy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A party seeking equitable relief must also act fairly toward the other party."
+    },
+    {
+      "id": "common-law-108",
+      "question": "A court recognizes that a transaction should be treated as completed because the parties had already fulfilled every obligation expected of them. Which maxim applies?",
+      "options": [
+        "Equity follows the law",
+        "Equity looks on that as done which ought to be done",
+        "Where equal equities exist, the law prevails",
+        "Good faith"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Equity treats as done what ought to have been done according to the parties' obligations."
+    },
+    {
+      "id": "common-law-109",
+      "question": "Which equitable value primarily requires honesty and absence of deceit during negotiations?",
+      "options": [
+        "Conscience",
+        "Good faith",
+        "Capacity",
+        "Transparency"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Good faith requires honesty, fairness and absence of fraud or deceit."
+    },
+    {
+      "id": "common-law-110",
+      "question": "A public officer deliberately manipulates procurement criteria to favour a friend. Which equitable principle is MOST directly violated?",
+      "options": [
+        "Fair dealing",
+        "Capacity",
+        "Consideration",
+        "Offer"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fair dealing requires impartiality and equal treatment without favour or prejudice."
+    },
+    {
+      "id": "common-law-111",
+      "question": "Which of the following is NOT listed as an element of a trust?",
+      "options": [
+        "Trustee",
+        "Beneficiary",
+        "Trust property",
+        "Acceptance"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Acceptance is an element of contract, not of a trust."
+    },
+    {
+      "id": "common-law-112",
+      "question": "A trust asset consisting of shares, land and cash falls under which trust element?",
+      "options": [
+        "Beneficiary",
+        "Trust property",
+        "Trustee",
+        "Settlor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Trust property includes real estate, investments, cash and other assets."
+    },
+    {
+      "id": "common-law-113",
+      "question": "Which trust principle best requires the trustee to place beneficiaries' interests above personal interests?",
+      "options": [
+        "Consideration",
+        "Fiduciary duty",
+        "Capacity",
+        "Acceptance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fiduciary duty requires faithful management of trust assets for beneficiaries."
+    },
+    {
+      "id": "common-law-114",
+      "question": "Which statement BEST distinguishes negligence from intentional tort?",
+      "options": [
+        "Negligence requires proof of intention.",
+        "Intentional tort requires deliberate wrongdoing.",
+        "Strict liability requires intention.",
+        "Negligence applies only to government officers."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Intentional tort involves deliberate wrongful conduct, unlike negligence."
+    },
+    {
+      "id": "common-law-115",
+      "question": "A plaintiff establishes duty, breach and causation but suffers no legally recognizable injury. Which essential element remains unproved?",
+      "options": [
+        "Consideration",
+        "Injury",
+        "Acceptance",
+        "Capacity"
+      ],
+      "correctAnswer": 1,
+      "explanation": "All four elements, including injury, must be established in negligence."
+    },
+    {
+      "id": "common-law-116",
+      "question": "Which of the following is specifically identified as an intentional tort in the seminar?",
+      "options": [
+        "Judicial review",
+        "Defamation",
+        "Frustration",
+        "Adjudication"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Defamation is listed among examples of intentional torts."
+    },
+    {
+      "id": "common-law-117",
+      "question": "Which statement BEST describes the purpose of an injunction in tort?",
+      "options": [
+        "To imprison the defendant",
+        "To compel payment of taxes",
+        "To restrain or direct specified conduct",
+        "To terminate employment"
+      ],
+      "correctAnswer": 2,
+      "explanation": "An injunction directs or restrains a wrongdoer from performing specified acts."
+    },
+    {
+      "id": "common-law-118",
+      "question": "A witness personally observed only part of an accident but inferred the remainder from surrounding circumstances. Which evidence would be direct?",
+      "options": [
+        "Only the facts personally observed",
+        "Everything inferred afterward",
+        "The witness's opinion",
+        "Information received from others"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Direct evidence is limited to facts within the witness's personal knowledge."
+    },
+    {
+      "id": "common-law-119",
+      "question": "Which statement regarding hearsay is supported by the seminar?",
+      "options": [
+        "Hearsay is always admissible.",
+        "Hearsay becomes admissible merely because it is written.",
+        "Hearsay is generally inadmissible except under recognized statutory exceptions.",
+        "Hearsay is stronger than direct evidence."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hearsay is generally inadmissible, subject to specified statutory exceptions."
+    },
+    {
+      "id": "common-law-120",
+      "question": "A disciplinary committee relies on credible evidence, evaluates witness credibility, and reaches an impartial conclusion. Which importance of the law of evidence is BEST illustrated?",
+      "options": [
+        "Revenue generation",
+        "Political neutrality",
+        "Fairness and truth-seeking",
+        "Legislative supremacy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar explains that the law of evidence promotes fairness, truth-seeking and justice in legal proceedings."
+    },
+    {
+      "id": "common-law-121",
+      "question": "A ministry insists that every administrative action must be supported by an existing legal authority. This most directly reflects—",
+      "options": [
+        "Good faith",
+        "Rule of Law",
+        "Fair dealing",
+        "Public trust"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that civil servants must operate within powers conferred by the Constitution, legislation and statutory instruments."
+    },
+    {
+      "id": "common-law-122",
+      "question": "Which of the following is NOT classified as Public Law in the seminar?",
+      "options": [
+        "Criminal Law",
+        "Administrative Law",
+        "Constitutional Law",
+        "Contract Law"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Contract is classified under Private Law, while Criminal, Administrative and Constitutional Law are Public Law."
+    },
+    {
+      "id": "common-law-123",
+      "question": "A legal rule is enforced because it commands obedience through sanctions imposed by the sovereign. This view is associated with—",
+      "options": [
+        "Roscoe Pound",
+        "Hans Kelsen",
+        "John Austin",
+        "Lon Fuller"
+      ],
+      "correctAnswer": 2,
+      "explanation": "John Austin viewed law as the command of the sovereign backed by sanctions."
+    },
+    {
+      "id": "common-law-124",
+      "question": "Which statement BEST distinguishes Common Law from Equity as presented in the seminar?",
+      "options": [
+        "Common Law is statutory while Equity is constitutional.",
+        "Common Law is based on judicial precedents, whereas Equity emphasizes fairness where strict law may produce injustice.",
+        "Common Law deals only with crimes.",
+        "Equity applies only to contracts."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Common Law develops through precedents, while Equity seeks fairness where rigid application of the law would be unjust."
+    },
+    {
+      "id": "common-law-125",
+      "question": "A judge refuses to ignore a binding legal rule merely because the outcome appears harsh. Which equitable maxim explains this approach?",
+      "options": [
+        "Equity follows the law",
+        "Equity looks to intent rather than form",
+        "Equity will not suffer a wrong without a remedy",
+        "He who seeks equity must do equity"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Equity operates consistently with established legal principles and does not disregard the law."
+    },
+    {
+      "id": "common-law-126",
+      "question": "Which equitable maxim is MOST applicable where two persons possess identical equitable rights over property?",
+      "options": [
+        "Equity looks to intent.",
+        "Equity follows the law.",
+        "Where there is equal equity, the law shall prevail.",
+        "He who comes into equity must come with clean hands."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Where equitable rights are equal, the law determines the outcome."
+    },
+    {
+      "id": "common-law-127",
+      "question": "A civil servant deliberately withholds important procurement information from the public. Which equitable principle has primarily been violated?",
+      "options": [
+        "Good faith",
+        "Capacity",
+        "Consideration",
+        "Acceptance"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Good faith includes transparency, honesty and integrity in handling public information."
+    },
+    {
+      "id": "common-law-128",
+      "question": "The seminar identifies which of the following as a benefit of embracing good faith, fair dealing and conscience in the civil service?",
+      "options": [
+        "Faster promotions",
+        "Greater political influence",
+        "Building public trust",
+        "Automatic immunity"
+      ],
+      "correctAnswer": 2,
+      "explanation": "These principles help build trust, promote justice and enhance accountability."
+    },
+    {
+      "id": "common-law-129",
+      "question": "Which of the following is NOT listed among the principles of Trust Law?",
+      "options": [
+        "Fiduciary Duty",
+        "Beneficiaries' Rights",
+        "Trustee's Powers and Duties",
+        "Judicial Immunity"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Judicial immunity is not identified as a principle of trust law."
+    },
+    {
+      "id": "common-law-130",
+      "question": "A trustee uses trust funds to pay personal debts. Which legal duty has clearly been breached?",
+      "options": [
+        "Capacity",
+        "Fiduciary duty",
+        "Consideration",
+        "Acceptance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fiduciary duty requires trustees to manage trust assets for beneficiaries' benefit."
+    },
+    {
+      "id": "common-law-131",
+      "question": "Which of the following is NOT one of the four elements required to establish negligence according to the seminar?",
+      "options": [
+        "Duty",
+        "Breach",
+        "Injury",
+        "Malice"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Negligence requires duty, breach, causation and injury—not malice."
+    },
+    {
+      "id": "common-law-132",
+      "question": "A manufacturer is held liable for injuries caused by a defective product even though reasonable care was exercised. This illustrates—",
+      "options": [
+        "Negligence",
+        "Intentional tort",
+        "Strict liability",
+        "Breach of contract"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar cites defective products as an example of strict liability."
+    },
+    {
+      "id": "common-law-133",
+      "question": "Which of the following is NOT identified in the seminar as an application of the law of tort in the civil service?",
+      "options": [
+        "Negligence claims",
+        "Personal injury claims",
+        "Defamation claims",
+        "Electoral disputes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Electoral disputes are not mentioned among the civil service applications of tort law."
+    },
+    {
+      "id": "common-law-134",
+      "question": "Which type of evidence is often regarded as less valuable than direct evidence because additional reasoning is required?",
+      "options": [
+        "Documentary evidence",
+        "Circumstantial evidence",
+        "Oral evidence",
+        "Real evidence"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Circumstantial evidence requires inference and is described as generally less valuable than direct evidence."
+    },
+    {
+      "id": "common-law-135",
+      "question": "A lawyer attempts to prove the contents of a document without producing either the original or a recognized substitute. According to the seminar, this is contrary to the rule governing—",
+      "options": [
+        "Oral evidence",
+        "Documentary evidence",
+        "Real evidence",
+        "Hearsay evidence"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Documentary evidence is generally proved by producing the original document or an acceptable secondary form."
+    },
+    {
+      "id": "common-law-136",
+      "question": "Which statement about hearsay evidence is supported by the seminar?",
+      "options": [
+        "It is always admissible in civil proceedings.",
+        "It is admissible whenever two witnesses repeat the same story.",
+        "It is generally inadmissible unless a recognized statutory exception applies.",
+        "It is stronger than direct evidence."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hearsay is generally inadmissible except under the specified statutory exceptions."
+    },
+    {
+      "id": "common-law-137",
+      "question": "A legally binding agreement requires all of the following EXCEPT—",
+      "options": [
+        "Offer",
+        "Acceptance",
+        "Consideration",
+        "Registration"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Registration is not listed as an essential element of a valid contract in the seminar."
+    },
+    {
+      "id": "common-law-138",
+      "question": "A contract is discharged because both parties have completely performed every obligation. This method of discharge is known as—",
+      "options": [
+        "Agreement",
+        "Frustration",
+        "Performance",
+        "Breach"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Performance is the normal method by which contractual obligations come to an end."
+    },
+    {
+      "id": "common-law-139",
+      "question": "Which of the following is NOT identified as a remedy for breach of contract in the seminar?",
+      "options": [
+        "Damages",
+        "Specific performance",
+        "Injunction",
+        "Imprisonment"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The remedies listed are damages, specific performance and injunction."
+    },
+    {
+      "id": "common-law-140",
+      "question": "Administrative law is primarily concerned with regulating—",
+      "options": [
+        "diplomatic relations between nations",
+        "activities of administrative agencies of government",
+        "religious organizations",
+        "customary marriage"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Administrative law governs the organization, powers and duties of administrative authorities and agencies."
+    },
+    {
+      "id": "common-law-141",
+      "question": "A civil servant knowingly approves payment for work that was never executed and later seeks equitable relief in court. Which equitable maxim is MOST likely to bar the claim?",
+      "options": [
+        "Equity follows the law",
+        "He who seeks equity must do equity",
+        "He who comes into equity must come with clean hands",
+        "Equity looks to the intent rather than the form"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A person seeking equitable relief must have acted honestly and with integrity in the matter before the court."
+    },
+    {
+      "id": "common-law-142",
+      "question": "A judge considers the true intention of parties rather than the technical wording of an agreement. Which equitable maxim is being applied?",
+      "options": [
+        "Equity follows the law",
+        "Equity looks to the intent rather than the form",
+        "Equity will not suffer a wrong without a remedy",
+        "Where equities are equal, the law shall prevail"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Equity emphasizes the substance and intention behind a transaction instead of its technical form."
+    },
+    {
+      "id": "common-law-143",
+      "question": "Which of the following would BEST demonstrate conscience in the civil service?",
+      "options": [
+        "Ignoring the public interest to satisfy political pressure",
+        "Considering the moral implications of official decisions",
+        "Concealing mistakes from supervisors",
+        "Giving preference to relatives during recruitment"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Conscience requires consideration of moral fairness and prioritizing the public interest."
+    },
+    {
+      "id": "common-law-144",
+      "question": "A trustee faithfully manages trust assets according to the settlor's instructions and solely for the beneficiaries' benefit. This primarily illustrates—",
+      "options": [
+        "Judicial review",
+        "Fiduciary duty",
+        "Vicarious liability",
+        "Strict liability"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fiduciary duty requires the trustee to act in the best interests of the beneficiaries."
+    },
+    {
+      "id": "common-law-145",
+      "question": "Which type of trust arises by operation of law rather than express declaration?",
+      "options": [
+        "Express trust",
+        "Implied trust",
+        "Pension trust",
+        "Revocable trust"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies implied trusts, including resulting and constructive trusts."
+    },
+    {
+      "id": "common-law-146",
+      "question": "A plaintiff establishes duty, breach, causation and injury. Which tort has most likely been proved?",
+      "options": [
+        "Strict liability",
+        "Negligence",
+        "Defamation",
+        "Conversion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "These are the four elements required to establish negligence."
+    },
+    {
+      "id": "common-law-147",
+      "question": "Which of the following is an example of an intentional tort according to the seminar?",
+      "options": [
+        "Assault",
+        "Frustration",
+        "Rulemaking",
+        "Adjudication"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Assault is specifically listed among intentional torts."
+    },
+    {
+      "id": "common-law-148",
+      "question": "A plaintiff seeks compensation after suffering injury caused by another person's civil wrong. Which branch of law provides the principal remedy?",
+      "options": [
+        "Constitutional law",
+        "Law of Tort",
+        "Administrative law",
+        "Law of Trust"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tort law provides civil remedies for wrongful acts causing harm."
+    },
+    {
+      "id": "common-law-149",
+      "question": "Which type of evidence consists of tangible objects produced before the court for inspection?",
+      "options": [
+        "Oral evidence",
+        "Documentary evidence",
+        "Real evidence",
+        "Circumstantial evidence"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Real evidence includes physical objects, recordings and photographs produced for inspection."
+    },
+    {
+      "id": "common-law-150",
+      "question": "The seminar states that hearsay evidence is generally inadmissible because—",
+      "options": [
+        "it is always false",
+        "it is based on information received from another person",
+        "it is documentary",
+        "it is produced under oath"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hearsay is second-hand evidence and is generally inadmissible except under recognized exceptions."
+    },
+    {
+      "id": "common-law-151",
+      "question": "Which of the following is NOT listed as a method of discharging a contract?",
+      "options": [
+        "Performance",
+        "Frustration",
+        "Agreement",
+        "Estoppel"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar lists performance, breach, frustration and agreement as methods of discharge."
+    },
+    {
+      "id": "common-law-152",
+      "question": "A court orders monetary compensation instead of compelling actual performance of a contract. The remedy awarded is—",
+      "options": [
+        "Injunction",
+        "Specific performance",
+        "Damages",
+        "Trust"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Damages are monetary compensation for loss resulting from breach of contract."
+    },
+    {
+      "id": "common-law-153",
+      "question": "Which function of administrative law is directly concerned with making administrative agencies accountable to the public?",
+      "options": [
+        "Transparency",
+        "Rulemaking",
+        "Enforcement",
+        "Adjudication"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Transparency is identified as one of the functions of administrative law and promotes accountability."
+    },
+    {
+      "id": "common-law-154",
+      "question": "Administrative law protects individual rights mainly by ensuring government action is—",
+      "options": [
+        "politically convenient",
+        "lawful and fair",
+        "economically profitable",
+        "internationally accepted"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Administrative law safeguards individuals by requiring lawful and fair administrative action."
+    },
+    {
+      "id": "common-law-155",
+      "question": "Which of the following is classified as an administrative power in the seminar?",
+      "options": [
+        "Electoral power",
+        "Executive power",
+        "Diplomatic power",
+        "Commercial power"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Executive power is expressly listed among the classifications of administrative powers."
+    },
+    {
+      "id": "common-law-156",
+      "question": "Which constitutional principle primarily prevents abuse of governmental power by distributing authority among different organs?",
+      "options": [
+        "Federalism",
+        "Separation of powers",
+        "Rulemaking",
+        "Equity"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Separation of powers is identified as a key aspect of constitutional law."
+    },
+    {
+      "id": "common-law-157",
+      "question": "The Constitution protects citizens by guaranteeing—",
+      "options": [
+        "commercial success",
+        "fundamental rights",
+        "automatic employment",
+        "unlimited executive powers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Protection of fundamental rights is one of the principal constitutional functions."
+    },
+    {
+      "id": "common-law-158",
+      "question": "Which statement about Nigeria's Constitution is supported by the seminar?",
+      "options": [
+        "It is unwritten.",
+        "It is flexible.",
+        "It is the supreme law of the Federal Republic of Nigeria.",
+        "It contains six schedules."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar expressly states that the Constitution is the supreme law of the Federal Republic of Nigeria."
+    },
+    {
+      "id": "common-law-159",
+      "question": "A civil servant deliberately violates a citizen's constitutional rights while carrying out official duties. Which constitutional impact on civil service has been ignored?",
+      "options": [
+        "Establishment and structure",
+        "Code of conduct",
+        "Fundamental rights",
+        "Federalism"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Civil servants are expected to respect citizens' fundamental rights under the Constitution."
+    },
+    {
+      "id": "common-law-160",
+      "question": "Which statement BEST summarizes the relationship between the Constitution and the civil service according to the seminar?",
+      "options": [
+        "The Constitution merely advises civil servants.",
+        "Civil servants may disregard constitutional provisions where administrative convenience requires.",
+        "The Constitution establishes the framework within which civil servants must operate.",
+        "Internal circulars have equal authority with the Constitution."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar explains that the Constitution establishes the civil service framework and, as the supreme law, its provisions must be followed by civil servants."
+    },
+    {
+      "id": "common-law-161",
+      "question": "A civil servant refuses to obey an unlawful verbal directive from a superior because it contradicts an existing statute. Which principle best justifies the officer's conduct?",
+      "options": [
+        "Administrative discretion",
+        "Rule of Law",
+        "Judicial activism",
+        "Public opinion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Civil servants are required to act within powers conferred by the Constitution, legislation and statutory instruments."
+    },
+    {
+      "id": "common-law-162",
+      "question": "Which statement BEST reflects Roscoe Pound's philosophy of law?",
+      "options": [
+        "Law is the command of the sovereign.",
+        "Law is a hierarchy of norms.",
+        "Law is an instrument of social engineering balancing individual and social interests.",
+        "Law consists only of judicial precedents."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Roscoe Pound regarded law as a tool for social engineering designed to balance individual and social interests."
+    },
+    {
+      "id": "common-law-163",
+      "question": "Which of the following would most likely fall within Private Law?",
+      "options": [
+        "Prosecution for armed robbery",
+        "Judicial review of a ministry",
+        "Breach of a contract for the sale of land",
+        "Interpretation of the Constitution"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Contract is classified under Private Law, which regulates rights and duties between individuals."
+    },
+    {
+      "id": "common-law-164",
+      "question": "The seminar states that one major function of law is to—",
+      "options": [
+        "eliminate all disputes",
+        "guarantee equal wealth",
+        "regulate behaviour and provide consequences for wrongdoing",
+        "abolish customs"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Regulating behaviour and providing consequences for wrongdoing is one of the stated purposes of law."
+    },
+    {
+      "id": "common-law-165",
+      "question": "Which principle of Common Law allows judges to adapt legal rules to changing circumstances without waiting for legislation?",
+      "options": [
+        "Stare decisis",
+        "Flexibility",
+        "Parliamentary sovereignty",
+        "Codification"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Flexibility allows Common Law to evolve through judicial interpretation."
+    },
+    {
+      "id": "common-law-166",
+      "question": "A court departs from strict legal rules to prevent an obviously unjust outcome. The court is applying—",
+      "options": [
+        "Administrative law",
+        "Equity",
+        "Constitutional law",
+        "Criminal law"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Equity exists to achieve fairness where the strict application of law would produce injustice."
+    },
+    {
+      "id": "common-law-167",
+      "question": "Which equitable remedy restrains a person from carrying out a specified act?",
+      "options": [
+        "Damages",
+        "Trust",
+        "Injunction",
+        "Consideration"
+      ],
+      "correctAnswer": 2,
+      "explanation": "An injunction restrains a party from doing a specified act."
+    },
+    {
+      "id": "common-law-168",
+      "question": "Which equitable maxim emphasizes that justice should not fail merely because Common Law offers no remedy?",
+      "options": [
+        "Equity follows the law.",
+        "Equity will not suffer a wrong to be without a remedy.",
+        "Equity looks to intent.",
+        "He who seeks equity must do equity."
+      ],
+      "correctAnswer": 1,
+      "explanation": "This maxim ensures that equity provides relief where necessary to prevent injustice."
+    },
+    {
+      "id": "common-law-169",
+      "question": "A ministry ensures every applicant is treated identically regardless of ethnicity, religion or political affiliation. Which equitable value is best illustrated?",
+      "options": [
+        "Good faith",
+        "Fair dealing",
+        "Capacity",
+        "Consideration"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fair dealing requires impartiality and equal treatment without bias or prejudice."
+    },
+    {
+      "id": "common-law-170",
+      "question": "The seminar teaches that embracing equity in public administration promotes all the following EXCEPT—",
+      "options": [
+        "Accountability",
+        "Fairness",
+        "Ethical governance",
+        "Political favoritism"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Equity promotes fairness, accountability and ethical governance—not favoritism."
+    },
+    {
+      "id": "common-law-171",
+      "question": "The person who transfers property into a trust is known as the—",
+      "options": [
+        "Beneficiary",
+        "Trustee",
+        "Settlor",
+        "Executor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The settlor creates the trust and transfers the property."
+    },
+    {
+      "id": "common-law-172",
+      "question": "Which of the following is specifically mentioned as trust property?",
+      "options": [
+        "Political office",
+        "Investments",
+        "Criminal liability",
+        "Legislative authority"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Trust property may include investments, cash, real estate and other assets."
+    },
+    {
+      "id": "common-law-173",
+      "question": "Civil servants are expected to manage public funds responsibly mainly because of—",
+      "options": [
+        "Judicial review",
+        "Fiduciary duty",
+        "Separation of powers",
+        "Strict liability"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fiduciary duty requires responsible management of public resources while avoiding conflicts of interest."
+    },
+    {
+      "id": "common-law-174",
+      "question": "The immediate purpose of damages in tort is to—",
+      "options": [
+        "imprison the defendant",
+        "compensate the injured party",
+        "amend legislation",
+        "punish the government"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tort law primarily provides compensation for injury or harm suffered."
+    },
+    {
+      "id": "common-law-175",
+      "question": "Running a red light and causing an accident is used in the seminar as an example of—",
+      "options": [
+        "Conversion",
+        "Negligence",
+        "Defamation",
+        "Trespass"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar specifically gives this example under negligence."
+    },
+    {
+      "id": "common-law-176",
+      "question": "Which element of negligence asks whether the defendant owed the plaintiff a legal obligation?",
+      "options": [
+        "Injury",
+        "Duty",
+        "Causation",
+        "Breach"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Duty is the first element that must be established in negligence."
+    },
+    {
+      "id": "common-law-177",
+      "question": "A witness personally saw an accused commit an offence. The witness's testimony is—",
+      "options": [
+        "Circumstantial evidence",
+        "Hearsay evidence",
+        "Direct evidence",
+        "Documentary evidence"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Direct evidence is based on personal observation or knowledge of the facts."
+    },
+    {
+      "id": "common-law-178",
+      "question": "Which of the following is NOT listed in the seminar as a classification of evidence?",
+      "options": [
+        "Documentary evidence",
+        "Oral evidence",
+        "Scientific evidence",
+        "Real evidence"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Scientific evidence is not listed among the classifications discussed in the seminar."
+    },
+    {
+      "id": "common-law-179",
+      "question": "The principal reason for cross-examination is to—",
+      "options": [
+        "rewrite the witness's statement",
+        "test the accuracy and credibility of testimony",
+        "determine punishment",
+        "admit hearsay evidence"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cross-examination helps the court assess the truthfulness and reliability of a witness."
+    },
+    {
+      "id": "common-law-180",
+      "question": "A ministry bases disciplinary action on verified facts gathered through a fair investigation. This most directly demonstrates which application of the law of evidence?",
+      "options": [
+        "Political neutrality",
+        "Decision-making based on credible evidence",
+        "Government contracting",
+        "Separation of powers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that evidence assists civil servants in investigations, disciplinary proceedings and informed decision-making."
+    },
+    {
+      "id": "common-law-181",
+      "question": "Which of the following is NOT an essential element of a valid contract according to the seminar?",
+      "options": [
+        "Offer",
+        "Acceptance",
+        "Capacity",
+        "Registration"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar lists offer, acceptance, consideration, intention to create legal relations, and capacity as the elements of a valid contract. Registration is not included."
+    },
+    {
+      "id": "common-law-182",
+      "question": "An employer promises to pay ₦100,000 to anyone who finds and returns a confidential government file. Which type of contract is created?",
+      "options": [
+        "Bilateral contract",
+        "Implied contract",
+        "Unilateral contract",
+        "Express trust"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A unilateral contract involves a promise made in exchange for the performance of an act."
+    },
+    {
+      "id": "common-law-183",
+      "question": "Two companies agree to supply and pay for office furniture in the future. Which type of contract does this illustrate?",
+      "options": [
+        "Express trust",
+        "Bilateral contract",
+        "Unilateral contract",
+        "Implied trust"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A bilateral contract involves both parties exchanging promises."
+    },
+    {
+      "id": "common-law-184",
+      "question": "A contract becomes impossible to perform because legislation enacted after its formation prohibits the agreed activity. According to the seminar, the contract is discharged by—",
+      "options": [
+        "Breach",
+        "Agreement",
+        "Performance",
+        "Frustration"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Frustration occurs when an unforeseen circumstance makes performance impossible."
+    },
+    {
+      "id": "common-law-185",
+      "question": "A court compels a contractor to complete a building project exactly as agreed rather than merely paying compensation. Which contractual remedy has been granted?",
+      "options": [
+        "Damages",
+        "Injunction",
+        "Specific performance",
+        "Rescission"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Specific performance is a court order requiring a party to fulfil contractual obligations."
+    },
+    {
+      "id": "common-law-186",
+      "question": "Administrative law primarily regulates—",
+      "options": [
+        "relations between private individuals",
+        "activities of administrative agencies of government",
+        "customary marriages",
+        "international treaties"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Administrative law governs the organization, powers and duties of administrative authorities."
+    },
+    {
+      "id": "common-law-187",
+      "question": "Which function of administrative law involves resolving disputes arising within administrative processes?",
+      "options": [
+        "Transparency",
+        "Adjudication",
+        "Rulemaking",
+        "Procurement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Adjudication is one of the functions of administrative law listed in the seminar."
+    },
+    {
+      "id": "common-law-188",
+      "question": "Which administrative law objective most directly protects citizens against abuse of governmental authority?",
+      "options": [
+        "Revenue generation",
+        "Access to justice",
+        "Tax collection",
+        "Political neutrality"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies access to justice as one of the protections provided by administrative law."
+    },
+    {
+      "id": "common-law-189",
+      "question": "Which of the following is NOT listed as a classification of administrative power?",
+      "options": [
+        "Executive powers",
+        "Judicial powers",
+        "Legislative powers",
+        "Electoral powers"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Electoral powers are not included among the classifications listed in the seminar."
+    },
+    {
+      "id": "common-law-190",
+      "question": "Administrative law promotes accountability in public service primarily by—",
+      "options": [
+        "encouraging political interference",
+        "ensuring agencies act responsibly and transparently",
+        "abolishing judicial review",
+        "replacing constitutional law"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Administrative law promotes accountability, transparency and protection of the public interest."
+    },
+    {
+      "id": "common-law-191",
+      "question": "Which of the following is identified as a key aspect of constitutional law?",
+      "options": [
+        "Fiduciary duty",
+        "Separation of powers",
+        "Specific performance",
+        "Strict liability"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Separation of powers is listed among the key aspects of constitutional law."
+    },
+    {
+      "id": "common-law-192",
+      "question": "Judicial review is mentioned in the seminar as an example of—",
+      "options": [
+        "administrative adjudication",
+        "constitutional law in action",
+        "contractual enforcement",
+        "equitable relief"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Judicial review is one of the examples of constitutional law in action."
+    },
+    {
+      "id": "common-law-193",
+      "question": "The Constitution serves as the supreme law because it—",
+      "options": [
+        "regulates only the judiciary",
+        "provides the framework for governance and limits governmental power",
+        "governs only elections",
+        "applies only to civil servants"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar describes the Constitution as the supreme law providing the framework for governance."
+    },
+    {
+      "id": "common-law-194",
+      "question": "Which feature of the Constitution ensures that government officials remain answerable for their actions?",
+      "options": [
+        "Federalism",
+        "Accountability",
+        "Bilateral agreements",
+        "Judicial precedent"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Promoting accountability is one of the Constitution's stated functions."
+    },
+    {
+      "id": "common-law-195",
+      "question": "According to the seminar, Nigeria currently operates under—",
+      "options": [
+        "the 1979 Constitution",
+        "the 1999 Constitution (as amended) 2023",
+        "the 1963 Republican Constitution",
+        "an unwritten constitution"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies the current Constitution as the 1999 Constitution (as amended) 2023."
+    },
+    {
+      "id": "common-law-196",
+      "question": "Which constitutional impact directly governs appointments, promotions and tenure of civil servants?",
+      "options": [
+        "Federalism",
+        "Establishment and Structure",
+        "Appointments and tenure",
+        "Fundamental Rights"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar specifically lists appointments and tenure as a constitutional impact on the civil service."
+    },
+    {
+      "id": "common-law-197",
+      "question": "A civil servant refuses to discriminate against applicants based on religion despite pressure from influential individuals. Which constitutional value is being protected?",
+      "options": [
+        "Procurement",
+        "Fundamental rights",
+        "Bilateral contracts",
+        "Administrative decision"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Civil servants are expected to respect citizens' fundamental rights."
+    },
+    {
+      "id": "common-law-198",
+      "question": "Which constitutional principle distributes governmental authority between the Federal and State Governments?",
+      "options": [
+        "Separation of powers",
+        "Judicial review",
+        "Federalism",
+        "Administrative adjudication"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Federalism is identified as one of the key aspects of constitutional law."
+    },
+    {
+      "id": "common-law-199",
+      "question": "A government agency issues a regulation inconsistent with the Constitution. Which legal instrument prevails?",
+      "options": [
+        "The agency regulation",
+        "The Constitution",
+        "A ministerial directive",
+        "The agency's internal handbook"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Constitution is the supreme law and overrides inconsistent administrative instruments."
+    },
+    {
+      "id": "common-law-200",
+      "question": "A civil servant is instructed to ignore constitutional safeguards in order to achieve a quick administrative result. According to the seminar, the MOST appropriate response is to—",
+      "options": [
+        "obey because efficiency is more important",
+        "obey if instructed by a superior",
+        "adhere to the Constitution as the supreme law",
+        "ignore both the Constitution and administrative directives"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar concludes that the Constitution is the supreme law and civil servants must adhere to its provisions in carrying out their duties."
+    },
+    {
+      "id": "common-law-201",
+      "question": "In Mohammed v. Knott, as discussed in the seminar, the court primarily illustrated that—",
+      "options": [
+        "common law overrides every customary practice",
+        "law varies with society and cultural traits",
+        "equity is superior to legislation",
+        "constitutional law governs family relations"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The case was used to demonstrate that law differs across societies and cultures, particularly regarding marriage."
+    },
+    {
+      "id": "common-law-202",
+      "question": "According to the seminar, which statutory enactment is specifically mentioned as having received the law of equity into Nigeria?",
+      "options": [
+        "Evidence Act",
+        "Companies and Allied Matters Act",
+        "Ordinance No. 3 of 1863",
+        "Criminal Code Act"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar specifically identifies Ordinance No. 3 of 1863 (along with the Supreme Court Ordinance 1914) as receiving equity into Nigeria."
+    },
+    {
+      "id": "common-law-203",
+      "question": "Which Ordinance is stated in the seminar to have solidified the reception of equity into Nigeria?",
+      "options": [
+        "Native Courts Ordinance",
+        "Supreme Court Ordinance 1914",
+        "Interpretation Ordinance",
+        "Sheriffs and Civil Process Ordinance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that the Supreme Court Ordinance 1914 solidified the reception of equity into Nigeria."
+    },
+    {
+      "id": "common-law-204",
+      "question": "According to the seminar, judicial discretion in equity enables courts to—",
+      "options": [
+        "disregard legislation whenever convenient",
+        "apply equitable principles in a manner that achieves fairness",
+        "replace constitutional provisions",
+        "create criminal offences"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Equity allows courts discretion to achieve justice and fairness in individual cases."
+    },
+    {
+      "id": "common-law-205",
+      "question": "Which equitable application in the civil service specifically seeks to prevent oppressive, unjust and unfair conduct by public officers?",
+      "options": [
+        "Judicial review",
+        "Unconscionable conduct",
+        "Rulemaking",
+        "Executive power"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies unconscionable conduct as an equitable application preventing oppressive and unfair behaviour."
+    },
+    {
+      "id": "common-law-206",
+      "question": "Which equitable application reminds civil servants that they must always act in the best interests of the public and government?",
+      "options": [
+        "Natural justice",
+        "Fiduciary duties",
+        "Legislative power",
+        "Judicial precedent"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Equity emphasizes fiduciary duties requiring public officers to act in the public interest."
+    },
+    {
+      "id": "common-law-207",
+      "question": "According to the seminar, judicial review within the law of equity provides a framework for reviewing administrative decisions to ensure they are—",
+      "options": [
+        "politically acceptable",
+        "economically beneficial",
+        "reasonable and lawful",
+        "supported by public opinion"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar explains that judicial review ensures administrative decisions are reasonable and lawful."
+    },
+    {
+      "id": "common-law-208",
+      "question": "Which of the following is NOT listed as a type of trust in the seminar?",
+      "options": [
+        "Revocable trust",
+        "Irrevocable trust",
+        "Pension trust",
+        "Testamentary trust"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Testamentary trust is not mentioned in the seminar."
+    },
+    {
+      "id": "common-law-209",
+      "question": "According to the seminar, accountability in the application of trust within the civil service is owed to—",
+      "options": [
+        "political parties only",
+        "the public, superiors and relevant authorities",
+        "beneficiaries alone",
+        "the judiciary only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Civil servants are accountable to the public, their superiors and relevant authorities."
+    },
+    {
+      "id": "common-law-210",
+      "question": "Which trust application specifically emphasizes maintaining confidence in government institutions?",
+      "options": [
+        "Public trust",
+        "Trust in institutions",
+        "Fiduciary duty",
+        "Accountability"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar expressly lists \"Trust in Institutions\" as an application of trust in the civil service."
+    },
+    {
+      "id": "common-law-211",
+      "question": "According to the seminar, the law of tort was received into Nigeria under various local statutes including the—",
+      "options": [
+        "Land Use Act",
+        "Interpretation Act",
+        "Electoral Act",
+        "Public Officers Protection Act"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar specifically mentions the Interpretation Act among the statutes through which the law of tort was received."
+    },
+    {
+      "id": "common-law-212",
+      "question": "Which expression does the seminar use to describe the person against whom an injunction in tort may be directed?",
+      "options": [
+        "Defendant",
+        "Respondent",
+        "Tortfeasor",
+        "Trustee"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar identifies the wrongdoer as the tortfeasor."
+    },
+    {
+      "id": "common-law-213",
+      "question": "According to the seminar, which tort action is described as the most common?",
+      "options": [
+        "Strict liability",
+        "Intentional tort",
+        "Negligence",
+        "Conversion"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Negligence is expressly described as the most common tort case."
+    },
+    {
+      "id": "common-law-214",
+      "question": "Which civil service implication of tort recognizes that certain public officers may be protected from particular tort claims?",
+      "options": [
+        "Public trust",
+        "Immunity",
+        "Consideration",
+        "Transparency"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar lists immunity as one of the key considerations in tort involving civil servants."
+    },
+    {
+      "id": "common-law-215",
+      "question": "According to Phipson's definition quoted in the seminar, evidence includes testimony that may legally be received in order to—",
+      "options": [
+        "negotiate contracts",
+        "prove or disprove facts in dispute",
+        "determine political policies",
+        "establish public opinion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Phipson defined evidence as testimony legally received to prove or disprove disputed facts."
+    },
+    {
+      "id": "common-law-216",
+      "question": "According to the seminar, before giving oral evidence, a witness must ordinarily take—",
+      "options": [
+        "an affidavit",
+        "an oath or affirmation",
+        "a judicial declaration",
+        "written authorization"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that a witness giving oral evidence must take an oath or affirmation."
+    },
+    {
+      "id": "common-law-217",
+      "question": "Statements relating to the existence of a relationship constitute an exception to the hearsay rule under which section identified in the seminar?",
+      "options": [
+        "Section 40",
+        "Section 41",
+        "Section 42",
+        "Section 44"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Statements relating to the existence of a relationship are identified under Section 44."
+    },
+    {
+      "id": "common-law-218",
+      "question": "According to the seminar, declarations made by testators are admissible under—",
+      "options": [
+        "Section 40",
+        "Section 41",
+        "Section 43",
+        "Section 45"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar identifies declarations by testators as admissible under Section 45."
+    },
+    {
+      "id": "common-law-219",
+      "question": "The seminar uses the saying, \"Figures do not lie but liars do figures,\" primarily to emphasize—",
+      "options": [
+        "mathematics is unreliable",
+        "evidence should always be critically examined",
+        "oral evidence is superior",
+        "judges should ignore documentary evidence"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The saying is used to stress that evidence can be fabricated and should therefore be carefully checked."
+    },
+    {
+      "id": "common-law-220",
+      "question": "According to the seminar, one important application of the law of evidence in the civil service is that it enables officers to—",
+      "options": [
+        "amend legislation",
+        "assess credibility before making decisions",
+        "negotiate treaties",
+        "approve constitutional amendments"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar explains that evidence assists civil servants in weighing evidence, assessing credibility and making informed decisions."
+    },
+    {
+      "id": "common-law-221",
+      "question": "A Commissioner directs all departments to ignore an Act of the Legislature because a newer internal circular has been issued. The Head of Department refuses. Which principle best supports the refusal?",
+      "options": [
+        "Judicial activism",
+        "Rule of Law",
+        "Official immunity",
+        "Public policy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Administrative directives cannot override legislation. Public officers must exercise their powers within the Constitution and existing laws."
+    },
+    {
+      "id": "common-law-222",
+      "question": "Two judges are presented with identical facts but reach opposite conclusions because one ignores an earlier binding decision. Which objective of stare decisis has been undermined?",
+      "options": [
+        "Fair dealing",
+        "Predictability",
+        "Judicial review",
+        "Administrative efficiency"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Following precedent promotes consistency and predictability in judicial decisions."
+    },
+    {
+      "id": "common-law-223",
+      "question": "A judge develops a new legal principle while resolving a dispute where no statute directly governs the issue. This illustrates—",
+      "options": [
+        "Constitutional supremacy",
+        "Judge-made law",
+        "Legislative delegation",
+        "Executive discretion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Common law evolves through judicial decisions that establish principles for future cases."
+    },
+    {
+      "id": "common-law-224",
+      "question": "Which feature makes Common Law capable of responding to changing social conditions without immediate legislative amendment?",
+      "options": [
+        "Codification",
+        "Flexibility",
+        "Federalism",
+        "Separation of powers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Judicial interpretation enables Common Law to adapt over time."
+    },
+    {
+      "id": "common-law-225",
+      "question": "A court grants relief because denying it would leave a proven wrong without any remedy. Which equitable maxim is being applied?",
+      "options": [
+        "Equity follows the law",
+        "Equity will not suffer a wrong to be without a remedy",
+        "He who seeks equity must do equity",
+        "Equity looks to intent rather than form"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Equity intervenes to prevent injustice where strict legal remedies are inadequate."
+    },
+    {
+      "id": "common-law-226",
+      "question": "Two applicants possess equal equitable interests in the same property. No priority exists between them except that one acquired the interest earlier. Who succeeds?",
+      "options": [
+        "The younger applicant",
+        "The applicant who acted last",
+        "The applicant whose interest arose first",
+        "Both automatically share ownership"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Where equities are equal, the first in time prevails."
+    },
+    {
+      "id": "common-law-227",
+      "question": "A public officer honestly admits an administrative error before anyone discovers it. Which equitable principle is most clearly demonstrated?",
+      "options": [
+        "Good faith",
+        "Specific performance",
+        "Capacity",
+        "Acceptance"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Good faith requires honesty, integrity and transparency in official dealings."
+    },
+    {
+      "id": "common-law-228",
+      "question": "A procurement committee evaluates every bidder using identical criteria without favour or prejudice. This is the best example of—",
+      "options": [
+        "Judicial review",
+        "Fair dealing",
+        "Strict liability",
+        "Legislative authority"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fair dealing requires impartiality and equal treatment of all stakeholders."
+    },
+    {
+      "id": "common-law-229",
+      "question": "A trustee transfers trust money into a personal account and later claims the funds will be repaid. Which obligation has already been violated?",
+      "options": [
+        "Capacity",
+        "Fiduciary duty",
+        "Acceptance",
+        "Consideration"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fiduciary duty requires trustees to manage trust property solely for the benefit of beneficiaries."
+    },
+    {
+      "id": "common-law-230",
+      "question": "Which application of trust is primarily concerned with preserving public confidence in government agencies?",
+      "options": [
+        "Public trust",
+        "Accountability",
+        "Trust in institutions",
+        "Service delivery"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Civil servants are expected to act with integrity to maintain trust in government institutions."
+    },
+    {
+      "id": "common-law-231",
+      "question": "A motorist exercises reasonable care but still becomes liable because the applicable rule imposes liability regardless of fault. Which tort principle applies?",
+      "options": [
+        "Negligence",
+        "Defamation",
+        "Strict liability",
+        "Trespass"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Strict liability may arise even without proof of intention or breach of duty."
+    },
+    {
+      "id": "common-law-232",
+      "question": "A plaintiff establishes duty, breach and injury but cannot connect the defendant's conduct with the damage suffered. The action fails because—",
+      "options": [
+        "consideration is absent",
+        "causation is missing",
+        "acceptance is defective",
+        "capacity is lacking"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Causation links the defendant's breach to the injury complained of."
+    },
+    {
+      "id": "common-law-233",
+      "question": "Which category of evidence allows the court to inspect the item itself rather than merely hear testimony about it?",
+      "options": [
+        "Oral evidence",
+        "Documentary evidence",
+        "Real evidence",
+        "Circumstantial evidence"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Real evidence consists of tangible objects produced for the court's inspection."
+    },
+    {
+      "id": "common-law-234",
+      "question": "A witness testifies only to facts personally observed while leaving the court to draw its own conclusions. The evidence given is—",
+      "options": [
+        "Hearsay",
+        "Direct evidence",
+        "Documentary evidence",
+        "Secondary evidence"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Direct evidence comes from the witness's own knowledge of the facts."
+    },
+    {
+      "id": "common-law-235",
+      "question": "A contract fails because one party never communicated agreement to the offer made. Which essential element is absent?",
+      "options": [
+        "Capacity",
+        "Consideration",
+        "Acceptance",
+        "Intention"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Acceptance completes the agreement between the parties."
+    },
+    {
+      "id": "common-law-236",
+      "question": "An agreement comes to an end after every obligation has been fully performed by both parties. The contract has been discharged by—",
+      "options": [
+        "frustration",
+        "breach",
+        "performance",
+        "injunction"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Complete performance naturally brings contractual obligations to an end."
+    },
+    {
+      "id": "common-law-237",
+      "question": "An administrative agency exceeds the powers granted to it by law. Which branch of law provides the principal framework for reviewing such conduct?",
+      "options": [
+        "Trust law",
+        "Administrative law",
+        "Tort law",
+        "Contract law"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Administrative law regulates government agencies and ensures they act within lawful authority."
+    },
+    {
+      "id": "common-law-238",
+      "question": "Government agencies are expected to exercise their powers in a manner that is lawful, fair and serves the public interest. This reflects the primary objective of—",
+      "options": [
+        "constitutional amendment",
+        "administrative law",
+        "bilateral contracts",
+        "strict liability"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Administrative law safeguards the public by regulating administrative action and protecting individual rights."
+    },
+    {
+      "id": "common-law-239",
+      "question": "Which constitutional feature primarily prevents arbitrary government by ensuring that governmental authority is exercised within an established legal framework?",
+      "options": [
+        "Protection of Rights",
+        "Rule of Law",
+        "Federalism",
+        "Judicial precedent"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Constitution establishes the Rule of Law as one of its defining features, ensuring government operates within legal limits."
+    },
+    {
+      "id": "common-law-240",
+      "question": "A ministry introduces a policy that conflicts with citizens' constitutionally guaranteed rights. Which document ultimately determines the legality of that policy?",
+      "options": [
+        "Ministerial Circular",
+        "Staff Handbook",
+        "The Constitution",
+        "Departmental Guidelines"
+      ],
+      "correctAnswer": 2,
+      "explanation": "As the supreme law, the Constitution prevails over any inconsistent policy or administrative directive."
+    },
+    {
+      "id": "common-law-251",
+      "question": "A civil servant obtains an injunction to stop the demolition of a government quarter but deliberately conceals the fact that he forged the allocation papers. The court is MOST likely to refuse relief because—",
+      "options": [
+        "equity follows the law",
+        "where equities are equal, the law prevails",
+        "he who comes into equity must come with clean hands",
+        "equity looks to the intent rather than the form"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A claimant seeking equitable relief must act honestly and in good faith. Concealing fraud defeats the claim for equity."
+    },
+    {
+      "id": "common-law-252",
+      "question": "A ministry receives two competing equitable claims over the same government property. Both claimants have equal equitable rights. What factor will MOST likely determine who succeeds?",
+      "options": [
+        "Age of the claimant",
+        "Value of the property",
+        "Which interest arose first",
+        "Government preference"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Where equitable rights are equal, priority goes to the interest acquired first in time."
+    },
+    {
+      "id": "common-law-253",
+      "question": "A Director insists that every procurement decision must be capable of public scrutiny and supported by proper records. Which principle is being emphasized?",
+      "options": [
+        "Transparency",
+        "Consideration",
+        "Acceptance",
+        "Frustration"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Transparency requires decisions to follow clear rules and remain open to scrutiny."
+    },
+    {
+      "id": "common-law-254",
+      "question": "A trustee honestly believes an investment will produce large profits but makes the investment solely because it benefits a company owned by the trustee. Which principle has been violated despite the trustee's honest belief?",
+      "options": [
+        "Public trust",
+        "Fiduciary duty",
+        "Bilateral obligation",
+        "Judicial review"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fiduciary duty requires acting in the beneficiaries' interests, not personal interests. Honest motives do not remove a conflict of interest."
+    },
+    {
+      "id": "common-law-255",
+      "question": "A driver exceeds the speed limit and collides with another vehicle. Before asking whether compensation should be awarded, what is the FIRST legal issue to establish in negligence?",
+      "options": [
+        "Injury",
+        "Causation",
+        "Duty",
+        "Breach"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Negligence begins with establishing that the defendant owed a legal duty of care. Without duty, the remaining elements do not arise."
+    },
+    {
+      "id": "common-law-256",
+      "question": "A witness hears screams from an office, rushes inside and immediately sees an officer holding a smoking pistol over an injured colleague. The witness's evidence that the officer fired the shot is BEST classified as—",
+      "options": [
+        "Direct evidence",
+        "Circumstantial evidence",
+        "Documentary evidence",
+        "Hearsay evidence"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The witness did not actually observe the shooting. The conclusion that the officer fired the shot depends on inference, making it circumstantial evidence."
+    },
+    {
+      "id": "common-law-257",
+      "question": "An original contract document has been destroyed in a fire. A properly certified copy is tendered in court. The certified copy is—",
+      "options": [
+        "Direct evidence",
+        "Secondary evidence",
+        "Oral evidence",
+        "Real evidence"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Where permitted, a certified copy may be admitted as secondary evidence."
+    },
+    {
+      "id": "common-law-258",
+      "question": "A government lawyer says: \"The contractor accepted our offer yesterday.\" Which additional element must still exist before a legally binding contract can arise?",
+      "options": [
+        "Public advertisement",
+        "Judicial approval",
+        "Consideration",
+        "Parliamentary consent"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Acceptance alone does not create a valid contract. Consideration is also an essential element."
+    },
+    {
+      "id": "common-law-259",
+      "question": "An administrative agency creates regulations that directly contradict the Act establishing the agency. Which conclusion is MOST legally sustainable?",
+      "options": [
+        "The regulations prevail because they are newer.",
+        "Both have equal legal force.",
+        "The regulations are vulnerable because the agency must act within powers granted by law.",
+        "The regulations automatically amend the Act."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Administrative authorities derive their powers from law and must operate within those powers."
+    },
+    {
+      "id": "common-law-260",
+      "question": "A constitutional provision conflicts with an internal departmental guideline. Which document governs?",
+      "options": [
+        "Departmental guideline",
+        "Circular",
+        "Constitution",
+        "Staff notice"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Constitution is the supreme law and prevails over inconsistent administrative instruments."
+    },
+    {
+      "id": "common-law-261",
+      "question": "A witness gives evidence under oath. Does taking an oath automatically make the testimony admissible?",
+      "options": [
+        "Yes, because all sworn testimony is admissible.",
+        "Yes, because sworn evidence is always direct evidence.",
+        "No. The evidence must still satisfy the applicable rules of evidence.",
+        "No, because oral evidence is never admissible."
+      ],
+      "correctAnswer": 2,
+      "explanation": "An oath relates to the witness's obligation to tell the truth. Admissibility still depends on the applicable rules of evidence."
+    },
+    {
+      "id": "common-law-262",
+      "question": "Which pair consists entirely of equitable remedies?",
+      "options": [
+        "Damages and imprisonment",
+        "Injunction and specific performance",
+        "Fine and injunction",
+        "Damages and probation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The material identifies injunction and specific performance as equitable remedies."
+    },
+    {
+      "id": "common-law-263",
+      "question": "Which situation BEST illustrates the application of conscience?",
+      "options": [
+        "Awarding contracts to relatives.",
+        "Ignoring the moral consequences of official action.",
+        "Considering whether a decision is morally fair before implementing it.",
+        "Acting only when directed by a superior."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Conscience requires consideration of the moral implications of decisions to achieve fairness and justice."
+    },
+    {
+      "id": "common-law-264",
+      "question": "Which objective of law is MOST directly achieved when courts peacefully resolve disputes between citizens?",
+      "options": [
+        "Revenue generation",
+        "Political neutrality",
+        "Resolution of disputes and conflicts",
+        "Administrative decentralization"
+      ],
+      "correctAnswer": 2,
+      "explanation": "One of the stated purposes of law is to resolve disputes and conflicts within society."
+    },
+    {
+      "id": "common-law-265",
+      "question": "A government officer refuses to misuse public funds despite pressure from colleagues. The officer is BEST demonstrating—",
+      "options": [
+        "integrity in handling public resources",
+        "frustration of contract",
+        "judicial review",
+        "vicarious liability"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Integrity in handling public resources is a practical expression of good faith in public service."
+    },
+    {
+      "id": "common-law-266",
+      "question": "A public officer makes a decision only after giving every affected person an equal opportunity to present their case. This is the clearest example of—",
+      "options": [
+        "Natural justice",
+        "Strict liability",
+        "Offer and acceptance",
+        "Separation of powers"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Natural justice emphasizes fair hearing and procedural fairness in decision-making."
+    },
+    {
+      "id": "common-law-267",
+      "question": "Which statement BEST explains why common law relies heavily on precedent?",
+      "options": [
+        "To reduce the number of judges.",
+        "To promote consistency in judicial decisions.",
+        "To replace legislation.",
+        "To eliminate judicial discretion."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Precedent promotes consistency and predictability in the administration of justice."
+    },
+    {
+      "id": "common-law-268",
+      "question": "A government lawyer advises a ministry that a proposed action is unconstitutional. Which branch of law is the lawyer primarily applying?",
+      "options": [
+        "Tort",
+        "Constitutional law",
+        "Trust",
+        "Contract"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Constitutional law governs the interpretation and application of the Constitution and the limits of governmental power."
+    },
+    {
+      "id": "common-law-269",
+      "question": "A ministry insists that every official action must be traceable to an existing law before implementation. This reflects the principle that public authority must be exercised—",
+      "options": [
+        "for political convenience",
+        "within legally conferred powers",
+        "according to public opinion",
+        "at ministerial discretion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Public officials derive their authority from the Constitution and legislation and must act within those legal limits."
+    },
+    {
+      "id": "common-law-270",
+      "question": "A civil servant honestly enters into a contract on behalf of government but lacks the legal authority to do so. Which issue presents the greatest legal concern?",
+      "options": [
+        "Good faith",
+        "Authority to act within legally conferred powers",
+        "Consideration",
+        "Transparency"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Good faith is commendable, but it cannot substitute for legal authority. Public officers must act within the powers granted to them by law, making the absence of authority the decisive issue."
+    },
+    {
+      "id": "common-law-291",
+      "question": "A public officer faithfully follows an unlawful instruction issued by a superior officer. During disciplinary proceedings, the officer argues that obedience to superior orders should excuse the conduct. Which consideration carries the greatest legal weight?",
+      "options": [
+        "The superior's rank",
+        "The officer's good faith",
+        "Whether the instruction had lawful authority",
+        "The number of officers involved"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Public officers derive their authority from law, not merely from superior instructions. Obedience cannot validate an unlawful directive."
+    },
+    {
+      "id": "common-law-292",
+      "question": "A judge refuses to create a new equitable remedy because an existing legal remedy already provides complete justice. Which equitable principle best supports the judge's restraint?",
+      "options": [
+        "Equity follows the law",
+        "Equity aids the vigilant",
+        "Equity looks to intent rather than form",
+        "Equity acts in personam"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Equity supplements the law rather than replacing it where the law already provides an adequate remedy."
+    },
+    {
+      "id": "common-law-293",
+      "question": "A trustee keeps accurate records, avoids conflicts of interest and periodically accounts to beneficiaries for every transaction. The trustee is demonstrating—",
+      "options": [
+        "fiduciary responsibility",
+        "administrative adjudication",
+        "contractual capacity",
+        "constitutional supremacy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Proper management, accountability and loyalty are hallmarks of fiduciary responsibility."
+    },
+    {
+      "id": "common-law-294",
+      "question": "A pedestrian is injured after a driver ignores a clearly visible warning sign. Which element of negligence is most directly illustrated by the driver's conduct?",
+      "options": [
+        "Duty",
+        "Breach",
+        "Injury",
+        "Causation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ignoring a warning sign is the conduct that constitutes a breach of the required standard of care."
+    },
+    {
+      "id": "common-law-295",
+      "question": "A witness watched an argument begin, left the room briefly, then returned to find one person unconscious on the floor. The witness's evidence concerning how the injury occurred is—",
+      "options": [
+        "direct evidence",
+        "circumstantial evidence",
+        "documentary evidence",
+        "primary evidence"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Since the witness did not observe the actual injury, any conclusion about how it happened depends on inference."
+    },
+    {
+      "id": "common-law-296",
+      "question": "A government department cannot produce the original contract because it was accidentally destroyed. The court admits a certified copy. The certified copy serves as—",
+      "options": [
+        "real evidence",
+        "primary evidence",
+        "secondary evidence",
+        "oral evidence"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A certified copy may be admitted as secondary evidence where the original is unavailable in recognized circumstances."
+    },
+    {
+      "id": "common-law-297",
+      "question": "An offer is accepted immediately, but the parties agree that neither can sue if the promise is broken. Which contractual requirement is absent?",
+      "options": [
+        "Capacity",
+        "Intention to create legal relations",
+        "Consideration",
+        "Performance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Without an intention that legal obligations should arise, a binding contract is not formed."
+    },
+    {
+      "id": "common-law-298",
+      "question": "An agency honestly believes it possesses certain regulatory powers. Later, a court holds that those powers were never granted by law. The agency's honest belief—",
+      "options": [
+        "automatically validates the action",
+        "replaces statutory authority",
+        "does not create legal authority",
+        "amends the enabling law"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Administrative agencies must act within powers conferred by law. Good faith cannot create powers that do not exist."
+    },
+    {
+      "id": "common-law-299",
+      "question": "A ministry acts fairly, remains transparent, follows statutory procedures and respects constitutional rights. Which branch of law is most directly concerned with reviewing the legality of those administrative actions?",
+      "options": [
+        "Trust Law",
+        "Administrative Law",
+        "Contract Law",
+        "Tort Law"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Administrative law governs the legality, fairness and accountability of governmental administrative action."
+    },
+    {
+      "id": "common-law-300",
+      "question": "A government circular, a ministerial directive and a departmental handbook all conflict with one constitutional provision. If a court must choose only one controlling authority, it should apply—",
+      "options": [
+        "the most recent document",
+        "the ministerial directive",
+        "the Constitution",
+        "the document issued by the highest-ranking official"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Constitution remains the supreme law and prevails over all inconsistent administrative instruments."
+    },
+    {
+      "id": "common-law-331",
+      "question": "A public officer receives a lawful instruction from a superior but carries it out carelessly, causing injury to a member of the public. The officer's liability arises primarily because—",
+      "options": [
+        "the instruction was unlawful",
+        "the superior becomes automatically liable",
+        "the duty of care was breached during execution",
+        "every government action attracts strict liability"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Even where the instruction is lawful, careless execution may amount to negligence if it breaches the required duty of care and causes injury."
+    },
+    {
+      "id": "common-law-332",
+      "question": "A court refuses to assist a claimant who deliberately misled the court while seeking equitable relief. The refusal demonstrates that equity—",
+      "options": [
+        "ignores morality",
+        "rewards honesty and integrity",
+        "replaces statutory law",
+        "protects every claimant equally"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Equity requires claimants to approach the court honestly. A dishonest claimant forfeits equitable relief."
+    },
+    {
+      "id": "common-law-333",
+      "question": "A trustee invests trust money prudently, keeps complete records and regularly informs beneficiaries of every transaction. The trustee is fulfilling all of the following EXCEPT—",
+      "options": [
+        "fiduciary responsibility",
+        "accountability",
+        "secrecy from beneficiaries",
+        "proper management of trust property"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Accountability requires openness to beneficiaries, not secrecy."
+    },
+    {
+      "id": "common-law-334",
+      "question": "A claimant proves that a defendant breached a duty owed to him. Without more, the claimant—",
+      "options": [
+        "automatically succeeds",
+        "succeeds if the breach appears serious",
+        "must still establish causation and injury",
+        "has established strict liability"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A breach alone is insufficient. Negligence also requires proof of causation and injury."
+    },
+    {
+      "id": "common-law-335",
+      "question": "A witness personally saw a contract signed but only heard from another person that payment was later made. The statement concerning payment is—",
+      "options": [
+        "direct evidence",
+        "circumstantial evidence",
+        "hearsay evidence",
+        "documentary evidence"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Since the witness did not personally observe the payment, that part of the testimony is hearsay."
+    },
+    {
+      "id": "common-law-336",
+      "question": "An agreement satisfies every contractual requirement except that one party is legally incapable of entering into contracts. The agreement is vulnerable because—",
+      "options": [
+        "consideration is absent",
+        "capacity is lacking",
+        "intention is absent",
+        "performance has failed"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Capacity is an essential element of a valid contract."
+    },
+    {
+      "id": "common-law-361",
+      "question": "A public officer awards a government contract to a company owned by a close relative without disclosing the relationship. Which legal principle is most directly compromised?",
+      "options": [
+        "Fiduciary duty",
+        "Acceptance",
+        "Judicial review",
+        "Specific performance"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fiduciary duty requires public officers to avoid conflicts between personal interests and the interests of the public they serve."
+    },
+    {
+      "id": "common-law-362",
+      "question": "A court departs from an earlier decision because the facts of the new case are materially different. This action is consistent with the doctrine of precedent because—",
+      "options": [
+        "precedent applies only where material facts are similar",
+        "judges may ignore all previous decisions",
+        "constitutional law prohibits precedent",
+        "equity always overrides precedent"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Judicial precedent applies to subsequent cases involving materially similar facts."
+    },
+    {
+      "id": "common-law-363",
+      "question": "A witness states only what was personally seen and heard during an incident. The testimony is strongest because it is—",
+      "options": [
+        "documentary evidence",
+        "direct evidence",
+        "hearsay evidence",
+        "secondary evidence"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Direct evidence comes from a witness's own personal observation of the facts in issue."
+    },
+    {
+      "id": "common-law-364",
+      "question": "A ministry refuses to honour a contract after receiving the agreed services. Which remedy is primarily intended to compensate the innocent party for the financial loss suffered?",
+      "options": [
+        "Damages",
+        "Injunction",
+        "Specific performance",
+        "Judicial review"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Damages compensate the innocent party for loss resulting from a breach of contract."
+    },
+    {
+      "id": "common-law-365",
+      "question": "A regulatory agency introduces new procedures without exceeding the powers granted by its enabling law. This demonstrates compliance with—",
+      "options": [
+        "administrative law",
+        "tort law",
+        "trust law",
+        "evidence law"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Administrative law requires agencies to exercise only powers lawfully granted to them."
+    },
+    {
+      "id": "common-law-366",
+      "question": "A government employee intentionally publishes a false statement that damages another officer's reputation. The conduct is most closely associated with—",
+      "options": [
+        "negligence",
+        "defamation",
+        "frustration",
+        "consideration"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Defamation is one of the intentional torts identified in the study material."
+    },
+    {
+      "id": "common-law-367",
+      "question": "A claimant requests an equitable remedy after acting honestly and fairly throughout the transaction. Which equitable principle strengthens the claimant's position?",
+      "options": [
+        "Clean hands",
+        "Strict liability",
+        "Judicial review",
+        "Federalism"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A claimant who comes to equity honestly satisfies the clean hands principle."
+    },
+    {
+      "id": "common-law-368",
+      "question": "A disciplinary committee carefully evaluates documents, witness testimony and physical exhibits before reaching a decision. The committee is applying the principles of—",
+      "options": [
+        "contract law",
+        "constitutional amendment",
+        "the law of evidence",
+        "trust law"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The law of evidence guides the evaluation of different forms of admissible evidence before decisions are made."
+    },
+    {
+      "id": "common-law-369",
+      "question": "A public officer declines to carry out an instruction because it would violate a citizen's constitutional rights. The officer's decision primarily reflects—",
+      "options": [
+        "constitutional supremacy",
+        "frustration",
+        "bilateral obligation",
+        "consideration"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Public officers must comply with the Constitution, which protects fundamental rights and is the supreme law."
+    },
+    {
+      "id": "common-law-370",
+      "question": "A contract cannot be performed because the subject matter has been destroyed by an unforeseen event. The contract is discharged by—",
+      "options": [
+        "agreement",
+        "performance",
+        "frustration",
+        "injunction"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Frustration occurs where an unforeseen event makes performance impossible."
+    },
+    {
+      "id": "common-law-371",
+      "question": "A court orders a party to refrain from interfering with government property until a dispute is resolved. The court has granted—",
+      "options": [
+        "damages",
+        "an injunction",
+        "consideration",
+        "acceptance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An injunction restrains a party from carrying out a specified act."
+    },
+    {
+      "id": "common-law-372",
+      "question": "An officer carefully examines all available facts before making an official recommendation. This approach best promotes—",
+      "options": [
+        "informed decision-making",
+        "constitutional amendment",
+        "contractual discharge",
+        "strict liability"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Proper evaluation of evidence enables sound and informed administrative decisions."
+    },
+    {
+      "id": "common-law-373",
+      "question": "A citizen challenges the legality of an action taken by a government ministry. The principal area of law governing the dispute is—",
+      "options": [
+        "administrative law",
+        "contract law",
+        "trust law",
+        "equity only"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Administrative law regulates the powers and actions of government agencies."
+    },
+    {
+      "id": "common-law-374",
+      "question": "A judge resolves uncertainty in a case by applying an earlier judicial decision involving similar facts. The judge is relying on—",
+      "options": [
+        "statutory interpretation only",
+        "judicial precedent",
+        "ministerial policy",
+        "administrative discretion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Judicial precedent requires courts to follow earlier decisions in materially similar cases."
+    },
+    {
+      "id": "common-law-375",
+      "question": "A ministry establishes procedures that allow every affected employee to respond before disciplinary sanctions are imposed. The procedure primarily protects—",
+      "options": [
+        "natural justice",
+        "consideration",
+        "fiduciary duty",
+        "frustration"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Natural justice emphasizes fairness by ensuring affected persons have an opportunity to be heard."
+    },
+    {
+      "id": "common-law-376",
+      "question": "A trustee manages trust assets solely for the benefit of the beneficiaries and not for personal gain. This is the clearest expression of—",
+      "options": [
+        "fiduciary responsibility",
+        "constitutional supremacy",
+        "judicial review",
+        "administrative adjudication"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Trustees must always place the interests of beneficiaries above their own."
+    },
+    {
+      "id": "common-law-377",
+      "question": "A ministry introduces a policy that conflicts with the Constitution. Which document will the court apply?",
+      "options": [
+        "The policy",
+        "The Constitution",
+        "The staff handbook",
+        "The ministry's circular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Constitution is the supreme law and overrides inconsistent administrative instruments."
+    },
+    {
+      "id": "common-law-378",
+      "question": "A claimant succeeds in proving that another person's careless conduct directly caused damage. Which tort has most likely been established?",
+      "options": [
+        "Assault",
+        "Negligence",
+        "Trespass to land",
+        "Defamation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Negligence is established by proving duty, breach, causation and injury."
+    },
+    {
+      "id": "common-law-379",
+      "question": "A witness is called by the party who instituted the case and gives evidence before cross-examination begins. The witness is undergoing—",
+      "options": [
+        "examination-in-chief",
+        "re-examination",
+        "judicial inquiry",
+        "voir dire"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Examination-in-chief is the first stage of examining a witness before cross-examination. \nPerfect. We'll maintain this balanced style for the remaining questions."
+    },
+    {
+      "id": "common-law-361",
+      "question": "A public officer awards a government contract to a company owned by a close relative without disclosing the relationship. Which legal principle is most directly compromised?",
+      "options": [
+        "Fiduciary duty",
+        "Acceptance",
+        "Judicial review",
+        "Specific performance"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fiduciary duty requires public officers to avoid conflicts between personal interests and the interests of the public they serve."
+    },
+    {
+      "id": "common-law-362",
+      "question": "A court departs from an earlier decision because the facts of the new case are materially different. This action is consistent with the doctrine of precedent because—",
+      "options": [
+        "precedent applies only where material facts are similar",
+        "judges may ignore all previous decisions",
+        "constitutional law prohibits precedent",
+        "equity always overrides precedent"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Judicial precedent applies to subsequent cases involving materially similar facts."
+    },
+    {
+      "id": "common-law-363",
+      "question": "A witness states only what was personally seen and heard during an incident. The testimony is strongest because it is—",
+      "options": [
+        "documentary evidence",
+        "direct evidence",
+        "hearsay evidence",
+        "secondary evidence"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Direct evidence comes from a witness's own personal observation of the facts in issue."
+    },
+    {
+      "id": "common-law-364",
+      "question": "A ministry refuses to honour a contract after receiving the agreed services. Which remedy is primarily intended to compensate the innocent party for the financial loss suffered?",
+      "options": [
+        "Damages",
+        "Injunction",
+        "Specific performance",
+        "Judicial review"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Damages compensate the innocent party for loss resulting from a breach of contract."
+    },
+    {
+      "id": "common-law-365",
+      "question": "A regulatory agency introduces new procedures without exceeding the powers granted by its enabling law. This demonstrates compliance with—",
+      "options": [
+        "administrative law",
+        "tort law",
+        "trust law",
+        "evidence law"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Administrative law requires agencies to exercise only powers lawfully granted to them."
+    },
+    {
+      "id": "common-law-366",
+      "question": "A government employee intentionally publishes a false statement that damages another officer's reputation. The conduct is most closely associated with—",
+      "options": [
+        "negligence",
+        "defamation",
+        "frustration",
+        "consideration"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Defamation is one of the intentional torts identified in the study material."
+    },
+    {
+      "id": "common-law-367",
+      "question": "A claimant requests an equitable remedy after acting honestly and fairly throughout the transaction. Which equitable principle strengthens the claimant's position?",
+      "options": [
+        "Clean hands",
+        "Strict liability",
+        "Judicial review",
+        "Federalism"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A claimant who comes to equity honestly satisfies the clean hands principle."
+    },
+    {
+      "id": "common-law-368",
+      "question": "A disciplinary committee carefully evaluates documents, witness testimony and physical exhibits before reaching a decision. The committee is applying the principles of—",
+      "options": [
+        "contract law",
+        "constitutional amendment",
+        "the law of evidence",
+        "trust law"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The law of evidence guides the evaluation of different forms of admissible evidence before decisions are made."
+    },
+    {
+      "id": "common-law-369",
+      "question": "A public officer declines to carry out an instruction because it would violate a citizen's constitutional rights. The officer's decision primarily reflects—",
+      "options": [
+        "constitutional supremacy",
+        "frustration",
+        "bilateral obligation",
+        "consideration"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Public officers must comply with the Constitution, which protects fundamental rights and is the supreme law."
+    },
+    {
+      "id": "common-law-370",
+      "question": "A contract cannot be performed because the subject matter has been destroyed by an unforeseen event. The contract is discharged by—",
+      "options": [
+        "agreement",
+        "performance",
+        "frustration",
+        "injunction"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Frustration occurs where an unforeseen event makes performance impossible."
+    },
+    {
+      "id": "common-law-371",
+      "question": "A court orders a party to refrain from interfering with government property until a dispute is resolved. The court has granted—",
+      "options": [
+        "damages",
+        "an injunction",
+        "consideration",
+        "acceptance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An injunction restrains a party from carrying out a specified act."
+    },
+    {
+      "id": "common-law-372",
+      "question": "An officer carefully examines all available facts before making an official recommendation. This approach best promotes—",
+      "options": [
+        "informed decision-making",
+        "constitutional amendment",
+        "contractual discharge",
+        "strict liability"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Proper evaluation of evidence enables sound and informed administrative decisions."
+    },
+    {
+      "id": "common-law-373",
+      "question": "A citizen challenges the legality of an action taken by a government ministry. The principal area of law governing the dispute is—",
+      "options": [
+        "administrative law",
+        "contract law",
+        "trust law",
+        "equity only"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Administrative law regulates the powers and actions of government agencies."
+    },
+    {
+      "id": "common-law-374",
+      "question": "A judge resolves uncertainty in a case by applying an earlier judicial decision involving similar facts. The judge is relying on—",
+      "options": [
+        "statutory interpretation only",
+        "judicial precedent",
+        "ministerial policy",
+        "administrative discretion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Judicial precedent requires courts to follow earlier decisions in materially similar cases."
+    },
+    {
+      "id": "common-law-375",
+      "question": "A ministry establishes procedures that allow every affected employee to respond before disciplinary sanctions are imposed. The procedure primarily protects—",
+      "options": [
+        "natural justice",
+        "consideration",
+        "fiduciary duty",
+        "frustration"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Natural justice emphasizes fairness by ensuring affected persons have an opportunity to be heard."
+    },
+    {
+      "id": "common-law-376",
+      "question": "A trustee manages trust assets solely for the benefit of the beneficiaries and not for personal gain. This is the clearest expression of—",
+      "options": [
+        "fiduciary responsibility",
+        "constitutional supremacy",
+        "judicial review",
+        "administrative adjudication"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Trustees must always place the interests of beneficiaries above their own."
+    },
+    {
+      "id": "common-law-377",
+      "question": "A ministry introduces a policy that conflicts with the Constitution. Which document will the court apply?",
+      "options": [
+        "The policy",
+        "The Constitution",
+        "The staff handbook",
+        "The ministry's circular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Constitution is the supreme law and overrides inconsistent administrative instruments."
+    },
+    {
+      "id": "common-law-378",
+      "question": "A claimant succeeds in proving that another person's careless conduct directly caused damage. Which tort has most likely been established?",
+      "options": [
+        "Assault",
+        "Negligence",
+        "Trespass to land",
+        "Defamation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Negligence is established by proving duty, breach, causation and injury."
+    },
+    {
+      "id": "common-law-379",
+      "question": "A witness is called by the party who instituted the case and gives evidence before cross-examination begins. The witness is undergoing—",
+      "options": [
+        "examination-in-chief",
+        "re-examination",
+        "judicial inquiry",
+        "voir dire"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Examination-in-chief is the first stage of examining a witness before cross-examination."
+    },
+    {
+      "id": "common-law-380",
+      "question": "Which statement best reflects the role of law in the civil service?",
+      "options": [
+        "Law exists mainly to increase government revenue.",
+        "Law provides the framework within which public officers perform their duties.",
+        "Law applies only during court proceedings.",
+        "Law affects only senior officers."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Law guides the exercise of public powers, protects citizens and provides the legal framework for civil service operations."
+    },
+    {
+      "id": "common-law-381",
+      "question": "A ministry reviews an officer's application using criteria that were never communicated to applicants. The greatest concern is that the process lacks—",
+      "options": [
+        "transparency",
+        "consideration",
+        "capacity",
+        "causation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Transparency requires public decisions to be made through clear, open and understandable procedures."
+    },
+    {
+      "id": "common-law-382",
+      "question": "A claimant applies for an equitable remedy after fully complying with every obligation expected of him. Which equitable maxim strengthens the application?",
+      "options": [
+        "Equity aids the vigilant.",
+        "He who seeks equity must do equity.",
+        "Equity follows the law.",
+        "Where equities are equal, the law prevails."
+      ],
+      "correctAnswer": 1,
+      "explanation": "A person seeking equitable relief is expected to have acted fairly and fulfilled equitable obligations."
+    },
+    {
+      "id": "common-law-383",
+      "question": "A beneficiary discovers that trust funds have been used to renovate the trustee's private residence. The trustee has primarily violated—",
+      "options": [
+        "fiduciary duty",
+        "contractual capacity",
+        "judicial precedent",
+        "constitutional supremacy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Trust property must be managed solely for the benefit of the beneficiaries, not for personal advantage."
+    },
+    {
+      "id": "common-law-384",
+      "question": "A driver owed a duty of care, breached that duty and caused injury to another road user. Which branch of law provides the injured person with a civil remedy?",
+      "options": [
+        "Constitutional Law",
+        "Law of Tort",
+        "Administrative Law",
+        "Law of Trust"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tort law provides remedies for civil wrongs that result in injury or loss."
+    },
+    {
+      "id": "common-law-385",
+      "question": "A witness presents an original signed agreement before the court. This is an example of—",
+      "options": [
+        "documentary evidence",
+        "hearsay evidence",
+        "oral evidence",
+        "circumstantial evidence"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Documents produced to prove facts are documentary evidence."
+    },
+    {
+      "id": "common-law-386",
+      "question": "A supplier delivers goods exactly as agreed, but payment is withheld without justification. The supplier's first civil claim will most likely arise from—",
+      "options": [
+        "breach of contract",
+        "strict liability",
+        "judicial review",
+        "constitutional interpretation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Failure to perform a contractual obligation, such as payment, amounts to a breach of contract."
+    },
+    {
+      "id": "common-law-387",
+      "question": "A government agency issues operational guidelines to implement an Act without exceeding the authority granted by the Act. The agency is performing which administrative function?",
+      "options": [
+        "Rulemaking",
+        "Defamation",
+        "Consideration",
+        "Re-examination"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Rulemaking is one of the recognised functions of administrative law."
+    },
+    {
+      "id": "common-law-388",
+      "question": "A citizen alleges that a ministry violated a constitutionally protected right. The court will primarily examine—",
+      "options": [
+        "the Constitution",
+        "the ministry's handbook",
+        "the officer's opinion",
+        "internal correspondence"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Constitutional rights are determined by reference to the Constitution, the supreme law."
+    },
+    {
+      "id": "common-law-389",
+      "question": "One advantage of judicial precedent is that it helps citizens—",
+      "options": [
+        "predict how similar legal disputes may be decided",
+        "avoid every lawsuit",
+        "replace legislation",
+        "abolish customary law"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Precedent promotes certainty and consistency in the administration of justice."
+    },
+    {
+      "id": "common-law-390",
+      "question": "A public officer openly declares a personal interest in a matter and withdraws from participating in the decision. The officer is promoting—",
+      "options": [
+        "accountability and integrity",
+        "frustration",
+        "contractual discharge",
+        "strict liability"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Declaring conflicts of interest supports accountability and ethical public administration."
+    },
+    {
+      "id": "common-law-391",
+      "question": "Which type of trust is intentionally created by the parties through clear words or writing?",
+      "options": [
+        "Implied trust",
+        "Express trust",
+        "Constructive trust",
+        "Resulting trust"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An express trust is deliberately created by the settlor."
+    },
+    {
+      "id": "common-law-392",
+      "question": "A witness gives evidence during cross-examination and later clarifies an issue arising from that cross-examination. The final stage of examination is—",
+      "options": [
+        "examination-in-chief",
+        "re-examination",
+        "inspection",
+        "voir dire"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Re-examination allows clarification of matters raised during cross-examination."
+    },
+    {
+      "id": "common-law-393",
+      "question": "A ministry performs every step required by law before making an administrative decision. The ministry has most clearly complied with—",
+      "options": [
+        "due administrative process",
+        "consideration",
+        "acceptance",
+        "frustration"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Administrative law requires public authorities to follow lawful procedures when exercising their powers."
+    },
+    {
+      "id": "common-law-394",
+      "question": "A government official carefully avoids any conduct that could create an appearance of bias. The official is primarily promoting—",
+      "options": [
+        "fair dealing",
+        "damages",
+        "strict liability",
+        "contractual intention"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fair dealing requires impartiality and freedom from bias in official conduct."
+    },
+    {
+      "id": "common-law-395",
+      "question": "Which constitutional principle ensures that no arm of government exercises unlimited authority?",
+      "options": [
+        "Separation of powers",
+        "Bilateral contracts",
+        "Fiduciary duty",
+        "Real evidence"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Separation of powers distributes governmental functions to prevent abuse of authority."
+    },
+    {
+      "id": "common-law-396",
+      "question": "A court awards compensation for loss suffered after a contract was breached. The remedy granted is—",
+      "options": [
+        "injunction",
+        "damages",
+        "specific performance",
+        "rescission"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Damages compensate the innocent party for the loss resulting from breach of contract."
+    },
+    {
+      "id": "common-law-397",
+      "question": "A civil servant bases an official recommendation on verified records instead of rumours. This best demonstrates the proper application of—",
+      "options": [
+        "the law of evidence",
+        "the law of trust",
+        "the law of contract",
+        "constitutional amendment"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Administrative decisions should be based on credible evidence rather than speculation or rumours."
+    },
+    {
+      "id": "common-law-398",
+      "question": "A court determines that a government agency exceeded the authority granted by legislation. Which area of law is most directly engaged?",
+      "options": [
+        "Administrative Law",
+        "Contract Law",
+        "Trust Law",
+        "Tort Law"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Administrative law regulates the powers and limits of administrative authorities."
+    },
+    {
+      "id": "common-law-399",
+      "question": "A public officer refuses to implement an instruction because it clearly conflicts with the Constitution. The officer's decision is justified because—",
+      "options": [
+        "the Constitution is the supreme law",
+        "every circular overrides legislation",
+        "ministerial directives prevail over the Constitution",
+        "public officers may ignore all instructions"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Public officers are bound to act consistently with the Constitution, which has supreme legal authority."
+    },
+    {
+      "id": "common-law-400",
+      "question": "A newly promoted civil servant asks for a single guiding principle that should shape every official decision made in public service. Which response best reflects the overall theme of the material?",
+      "options": [
+        "Always choose the quickest administrative option.",
+        "Act within the law, exercise fairness, respect constitutional rights and discharge official duties with integrity.",
+        "Obey every instruction from a superior without question.",
+        "Avoid making decisions unless directed by a court."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The material consistently emphasizes lawful authority, fairness, accountability, constitutional compliance, ethical conduct and responsible public administration as the foundation of effective civil service."
+    }
+  ]
+}

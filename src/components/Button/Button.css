@@ -1,0 +1,39 @@
+.btn {
+  width: 100%;
+
+  max-width: 500px;
+
+  padding: clamp(0.8rem, 2vw, 1rem) clamp(1rem, 3vw, 2rem);
+
+  min-height: 52px;
+
+  border: none;
+
+  background: var(--primary);
+
+  color: #f8fafc;
+
+  font-size: clamp(0.9rem, 2vw, 1.1rem);
+
+  border-radius: clamp(10px, 2vw, 16px);
+
+  font-weight: 600;
+
+  transition: 0.25s;
+}
+
+.btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+.btn:hover {
+  background: var(--primary-dark);
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(59, 130, 246, 0.25);
+}
+
+.btn:active {
+  transform: scale(0.98);
+}

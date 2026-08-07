@@ -1,0 +1,29 @@
+.timer {
+  display: flex;
+
+  flex-direction: column;
+
+  align-items: flex-end;
+}
+
+.timer-label {
+  font-size: 0.75rem;
+
+  color: #6b7280;
+
+  font-weight: 600;
+
+  text-transform: uppercase;
+
+  letter-spacing: 1px;
+}
+
+.timer-value {
+  font-family: 'Roboto Mono', monospace;
+
+  font-size: 2rem;
+
+  font-weight: 700;
+
+  color: #dc2626;
+}
