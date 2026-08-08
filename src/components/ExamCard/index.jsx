@@ -57,8 +57,8 @@ const ExamCard = ({ exam }) => {
               </button>
 
               <button
-                className={timer === 0 ? 'active' : ''}
-                onClick={() => setTimer(0)}
+                className={timer === null ? 'active' : ''}
+                onClick={() => setTimer(null)}
               >
                 No Timer
               </button>

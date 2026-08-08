@@ -93,6 +93,13 @@
   color: var(--text);
 }
 
+.my-name {
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 800;
+  color: var(--text);
+}
+
 .github-link {
   display: inline-flex;
   align-items: center;

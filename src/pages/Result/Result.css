@@ -7,7 +7,7 @@
 
   min-height: 100vh;
 
-  padding: 2rem;
+  padding: 2rem 1rem;
   background: var(--background);
 }
 
@@ -115,4 +115,10 @@
   color: white;
 
   font-size: 1rem;
+}
+
+@media (min-width: 760px) {
+  .result-container {
+    padding: 2rem;
+  }
 }

@@ -15,6 +15,9 @@ const Timer = () => {
     // Pause countdown while a modal is open
     if (state.timerPaused) return;
 
+    // Practice Mode no timer
+    if (state.timeRemaining === null) return;
+
     // Auto-submit when time runs out
     if (state.timeRemaining <= 0) {
       submitExam();
@@ -27,6 +30,16 @@ const Timer = () => {
 
     return () => clearInterval(interval);
   }, [state.timeRemaining, state.timerPaused, state.isRunning]);
+
+  if (state.timeRemaining === null) {
+    return (
+      <div className="timer">
+        <div className="timer-label">Mode</div>
+
+        <div className="timer-value">Practice Mode</div>
+      </div>
+    );
+  }
 
   const minutes = Math.floor(state.timeRemaining / 60);
 

@@ -83,8 +83,10 @@ const About = () => {
             <FaLaptopCode /> Developer
           </h2>
 
-          <p>Designed and developed by</p>
-          <h3>Ekom</h3>
+          <p>
+            Designed and developed with ReactJS, Vite & JavaScript by{' '}
+            <span className="my-name">Ekom</span>
+          </p>
 
           {/* <a
             href="https://github.com/YOUR_USERNAME"
