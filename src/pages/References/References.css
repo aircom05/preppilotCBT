@@ -1,0 +1,426 @@
+/* =========================================
+   PrepPilot References Page
+   ========================================= */
+
+.references-page {
+  min-height: 100vh;
+  padding: 2rem 1rem 3rem;
+
+  background: var(--background);
+  color: var(--text);
+}
+
+.references-container {
+  width: min(850px, 100%);
+  margin: 0 auto;
+}
+
+/* =========================================
+   Back Link
+   ========================================= */
+
+.references-back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+
+  margin-bottom: 2.5rem;
+
+  color: var(--primary);
+  text-decoration: none;
+
+  font-weight: 600;
+
+  transition: color 0.2s ease;
+}
+
+.references-back-link:hover {
+  color: var(--primary);
+}
+
+/* =========================================
+   Header
+   ========================================= */
+
+.references-header {
+  max-width: 720px;
+
+  margin: 0 auto 2.5rem;
+
+  text-align: center;
+}
+
+.references-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 68px;
+  height: 68px;
+
+  margin: 0 auto 1rem;
+
+  border: 1px solid var(--border);
+  border-radius: 18px;
+
+  background: var(--surface);
+
+  font-size: 2rem;
+}
+
+.references-eyebrow {
+  margin: 0 0 0.4rem;
+
+  color: var(--text-secondary);
+
+  font-size: 0.8rem;
+  font-weight: 700;
+
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.references-header h1 {
+  margin: 0;
+
+  font-size: clamp(2rem, 5vw, 2.8rem);
+
+  line-height: 1.2;
+}
+
+.references-intro {
+  max-width: 620px;
+
+  margin: 0.9rem auto 0;
+
+  color: var(--text-secondary);
+
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+/* =========================================
+   Important Note
+   ========================================= */
+
+.references-notice {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.8rem;
+
+  margin-bottom: 2.5rem;
+  padding: 1rem 1.15rem;
+
+  border: 1px solid var(--primary);
+  border-radius: 14px;
+
+  background: color-mix(in srgb, var(--primary) 7%, var(--background));
+}
+
+.notice-icon {
+  flex-shrink: 0;
+
+  font-size: 1.1rem;
+}
+
+.references-notice p {
+  margin: 0;
+
+  color: var(--text-secondary);
+
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.references-notice strong {
+  color: var(--text);
+}
+
+/* =========================================
+   References Section
+   ========================================= */
+
+.references-section {
+  margin-bottom: 3rem;
+}
+
+.section-title {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+
+  margin-bottom: 1.25rem;
+}
+
+.section-title > span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 42px;
+  height: 42px;
+
+  flex-shrink: 0;
+
+  border-radius: 11px;
+
+  background: color-mix(in srgb, var(--primary) 9%, var(--background));
+
+  font-size: 1.25rem;
+}
+
+.section-title h2 {
+  margin: 0;
+
+  font-size: 1.3rem;
+}
+
+.section-title p {
+  margin: 0.25rem 0 0;
+
+  color: var(--text-secondary);
+
+  font-size: 0.85rem;
+}
+
+/* =========================================
+   Reference List
+   ========================================= */
+
+.references-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+/* =========================================
+   Reference Card
+   ========================================= */
+
+.reference-card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+
+  padding: 1.2rem;
+
+  border: 1px solid var(--border);
+  border-radius: 16px;
+
+  background: var(--surface);
+
+  transition:
+    border-color 0.2s ease,
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.reference-card:hover {
+  border-color: var(--primary);
+
+  transform: translateY(-2px);
+
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.07);
+}
+
+/* =========================================
+   Book Icon
+   ========================================= */
+
+.reference-book-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 58px;
+  height: 58px;
+
+  flex-shrink: 0;
+
+  border-radius: 15px;
+  color: var(--icon-color);
+
+  background: color-mix(in srgb, var(--icon-color) 10%, var(--background));
+
+  font-size: 1.8rem;
+}
+
+/* =========================================
+   Reference Content
+   ========================================= */
+
+.reference-content {
+  min-width: 0;
+}
+
+.reference-type {
+  margin: 0 0 0.25rem;
+
+  color: var(--text-secondary);
+
+  font-size: 0.7rem;
+  font-weight: 700;
+
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.reference-card h3 {
+  margin: 0;
+
+  font-size: 1.05rem;
+  line-height: 1.4;
+}
+
+/* =========================================
+   Question Bank
+   ========================================= */
+
+.question-bank {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+
+  margin-top: 0.65rem;
+}
+
+.question-bank-label {
+  color: var(--text-secondary);
+
+  font-size: 0.75rem;
+}
+
+.question-bank-name {
+  padding: 0.25rem 0.55rem;
+
+  border-radius: 999px;
+
+  background: color-mix(in srgb, var(--primary) 9%, var(--background));
+
+  color: var(--text);
+
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+/* =========================================
+   Footer
+   ========================================= */
+
+.references-footer {
+  padding-top: 2rem;
+
+  border-top: 1px solid var(--border);
+
+  text-align: center;
+}
+
+.references-footer p {
+  margin: 0;
+
+  font-weight: 700;
+}
+
+.references-footer-links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  gap: 0.6rem;
+
+  margin-top: 0.65rem;
+}
+
+.references-footer-links a {
+  color: var(--primary);
+
+  text-decoration: none;
+
+  font-size: 0.85rem;
+  font-weight: 600;
+
+  transition: color 0.2s ease;
+}
+
+.references-footer-links a:hover {
+  color: var(--text);
+}
+
+.references-footer-links span {
+  color: var(--primary);
+}
+
+.references-footer small {
+  display: block;
+
+  margin-top: 0.7rem;
+
+  color: var(--text-secondary);
+
+  font-size: 0.75rem;
+}
+
+.ref-link {
+  color: var(--primary);
+  text-decoration: none;
+}
+
+/* =========================================
+   Mobile
+   ========================================= */
+
+@media (max-width: 600px) {
+  .references-page {
+    padding: 1.5rem 0.9rem 2.5rem;
+  }
+
+  .references-back-link {
+    margin-bottom: 2rem;
+  }
+
+  .references-header {
+    margin-bottom: 2rem;
+  }
+
+  .references-header h1 {
+    font-size: 1.9rem;
+  }
+
+  .references-intro {
+    font-size: 0.9rem;
+  }
+
+  .references-notice {
+    padding: 0.9rem;
+  }
+
+  .reference-card {
+    align-items: flex-start;
+
+    padding: 1rem;
+  }
+
+  .reference-book-icon {
+    width: 50px;
+    height: 50px;
+
+    border-radius: 13px;
+
+    font-size: 1.5rem;
+  }
+
+  .reference-card h3 {
+    font-size: 0.95rem;
+  }
+
+  .question-bank {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 0.3rem;
+  }
+
+  .question-bank-name {
+    font-size: 0.7rem;
+  }
+}

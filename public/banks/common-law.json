@@ -33,12 +33,7 @@
     {
       "id": "common-law-003",
       "question": "Which scholar viewed law primarily as a tool for balancing individual and social interests?",
-      "options": [
-        "Hans Kelsen",
-        "Lon Fuller",
-        "Roscoe Pound",
-        "John Austin"
-      ],
+      "options": ["Hans Kelsen", "Lon Fuller", "Roscoe Pound", "John Austin"],
       "correctAnswer": 2,
       "explanation": "Roscoe Pound regarded law as a tool for social engineering balancing individual and societal interests."
     },
@@ -81,12 +76,7 @@
     {
       "id": "common-law-007",
       "question": "A ministry dismisses an employee without giving the officer an opportunity to be heard. Equity would most likely object because it offends—",
-      "options": [
-        "Fairness",
-        "Consideration",
-        "Offer",
-        "Capacity"
-      ],
+      "options": ["Fairness", "Consideration", "Offer", "Capacity"],
       "correctAnswer": 0,
       "explanation": "Equity emphasizes fairness and justice in individual cases."
     },
@@ -129,24 +119,14 @@
     {
       "id": "common-law-011",
       "question": "Who creates a trust by transferring assets to another for the benefit of beneficiaries?",
-      "options": [
-        "Trustee",
-        "Beneficiary",
-        "Settlor",
-        "Executor"
-      ],
+      "options": ["Trustee", "Beneficiary", "Settlor", "Executor"],
       "correctAnswer": 2,
       "explanation": "The settlor creates the trust and transfers the assets."
     },
     {
       "id": "common-law-012",
       "question": "Which person manages trust property?",
-      "options": [
-        "Beneficiary",
-        "Trustee",
-        "Settlor",
-        "Donee"
-      ],
+      "options": ["Beneficiary", "Trustee", "Settlor", "Donee"],
       "correctAnswer": 1,
       "explanation": "The trustee is responsible for managing trust assets."
     },
@@ -165,12 +145,7 @@
     {
       "id": "common-law-014",
       "question": "A government accountant diverts public funds for personal use. Which trust principle has primarily been violated?",
-      "options": [
-        "Capacity",
-        "Fiduciary duty",
-        "Offer",
-        "Acceptance"
-      ],
+      "options": ["Capacity", "Fiduciary duty", "Offer", "Acceptance"],
       "correctAnswer": 1,
       "explanation": "Civil servants owe fiduciary duties in managing public resources."
     },
@@ -189,12 +164,7 @@
     {
       "id": "common-law-016",
       "question": "Which element of negligence requires proof that the defendant's conduct caused the plaintiff's loss?",
-      "options": [
-        "Duty",
-        "Breach",
-        "Causation",
-        "Intention"
-      ],
+      "options": ["Duty", "Breach", "Causation", "Intention"],
       "correctAnswer": 2,
       "explanation": "Causation links the breach directly to the injury suffered."
     },
@@ -213,12 +183,7 @@
     {
       "id": "common-law-018",
       "question": "Liability for injuries caused by a defective product is used in the material to illustrate—",
-      "options": [
-        "Defamation",
-        "Negligence",
-        "Strict liability",
-        "Conversion"
-      ],
+      "options": ["Defamation", "Negligence", "Strict liability", "Conversion"],
       "correctAnswer": 2,
       "explanation": "Defective products are given as examples of strict liability."
     },
@@ -309,12 +274,7 @@
     {
       "id": "common-law-026",
       "question": "A witness says, \"My neighbour told me the accused stole the money.\" Unless an exception applies, this evidence is—",
-      "options": [
-        "Documentary",
-        "Circumstantial",
-        "Hearsay",
-        "Direct"
-      ],
+      "options": ["Documentary", "Circumstantial", "Hearsay", "Direct"],
       "correctAnswer": 2,
       "explanation": "Hearsay is second-hand evidence based on information received from another person."
     },
@@ -357,12 +317,7 @@
     {
       "id": "common-law-030",
       "question": "Which principle is NOT an essential element of a valid contract according to the seminar?",
-      "options": [
-        "Offer",
-        "Acceptance",
-        "Consideration",
-        "Registration"
-      ],
+      "options": ["Offer", "Acceptance", "Consideration", "Registration"],
       "correctAnswer": 3,
       "explanation": "Registration is not listed as an essential element of a valid contract."
     },
@@ -381,12 +336,7 @@
     {
       "id": "common-law-032",
       "question": "A person suffering from severe mental incapacity enters into an agreement. Which element of contract is most directly affected?",
-      "options": [
-        "Consideration",
-        "Capacity",
-        "Offer",
-        "Acceptance"
-      ],
+      "options": ["Consideration", "Capacity", "Offer", "Acceptance"],
       "correctAnswer": 1,
       "explanation": "Capacity requires parties to be of sound mind and legally competent."
     },
@@ -417,12 +367,7 @@
     {
       "id": "common-law-035",
       "question": "A flood destroys the only bridge required for delivery under a contract, making performance impossible. The contract is discharged by—",
-      "options": [
-        "Breach",
-        "Performance",
-        "Frustration",
-        "Acceptance"
-      ],
+      "options": ["Breach", "Performance", "Frustration", "Acceptance"],
       "correctAnswer": 2,
       "explanation": "Frustration occurs where unforeseen circumstances make performance impossible."
     },
@@ -501,24 +446,14 @@
     {
       "id": "common-law-042",
       "question": "Which branch of law deals primarily with interpreting a country's Constitution?",
-      "options": [
-        "Tort",
-        "Equity",
-        "Constitutional law",
-        "Trust"
-      ],
+      "options": ["Tort", "Equity", "Constitutional law", "Trust"],
       "correctAnswer": 2,
       "explanation": "Constitutional law deals with interpretation and application of the Constitution."
     },
     {
       "id": "common-law-043",
       "question": "The doctrine of separation of powers is identified in the seminar as a key aspect of—",
-      "options": [
-        "Contract law",
-        "Constitutional law",
-        "Equity",
-        "Tort"
-      ],
+      "options": ["Contract law", "Constitutional law", "Equity", "Tort"],
       "correctAnswer": 1,
       "explanation": "Separation of powers is listed as a key constitutional principle."
     },
@@ -549,12 +484,7 @@
     {
       "id": "common-law-046",
       "question": "Which Chapter of the 1999 Constitution (as amended) is referenced for Fundamental Rights?",
-      "options": [
-        "Chapter II",
-        "Chapter III",
-        "Chapter IV",
-        "Chapter VI"
-      ],
+      "options": ["Chapter II", "Chapter III", "Chapter IV", "Chapter VI"],
       "correctAnswer": 2,
       "explanation": "The seminar specifically refers to Chapter IV, Sections 33–44."
     },
@@ -717,12 +647,7 @@
     {
       "id": "common-law-060",
       "question": "A civil servant honestly discloses an error made during procurement even though no one has discovered it. Which equitable value is most clearly demonstrated?",
-      "options": [
-        "Revenge",
-        "Good faith",
-        "Estoppel",
-        "Capacity"
-      ],
+      "options": ["Revenge", "Good faith", "Estoppel", "Capacity"],
       "correctAnswer": 1,
       "explanation": "Good faith requires honesty, transparency and integrity."
     },
@@ -741,12 +666,7 @@
     {
       "id": "common-law-062",
       "question": "Which principle encourages civil servants to consider the moral implications of official decisions?",
-      "options": [
-        "Conscience",
-        "Consideration",
-        "Capacity",
-        "Acceptance"
-      ],
+      "options": ["Conscience", "Consideration", "Capacity", "Acceptance"],
       "correctAnswer": 0,
       "explanation": "Conscience ensures legal decisions align with moral fairness and justice."
     },
@@ -789,12 +709,7 @@
     {
       "id": "common-law-066",
       "question": "Which person enjoys the benefit of trust property?",
-      "options": [
-        "Trustee",
-        "Settlor",
-        "Beneficiary",
-        "Registrar"
-      ],
+      "options": ["Trustee", "Settlor", "Beneficiary", "Registrar"],
       "correctAnswer": 2,
       "explanation": "Beneficiaries are the persons or organizations who benefit from the trust."
     },
@@ -825,12 +740,7 @@
     {
       "id": "common-law-069",
       "question": "Which tort listed in the seminar involves unlawful interference with another person's land?",
-      "options": [
-        "Battery",
-        "Defamation",
-        "Trespass to land",
-        "Conversion"
-      ],
+      "options": ["Battery", "Defamation", "Trespass to land", "Conversion"],
       "correctAnswer": 2,
       "explanation": "Trespass to land is specifically listed as an intentional tort."
     },
@@ -981,36 +891,21 @@
     {
       "id": "common-law-082",
       "question": "Payment of ₦500,000 in exchange for consulting services illustrates which element of a valid contract?",
-      "options": [
-        "Offer",
-        "Capacity",
-        "Consideration",
-        "Acceptance"
-      ],
+      "options": ["Offer", "Capacity", "Consideration", "Acceptance"],
       "correctAnswer": 2,
       "explanation": "Consideration is something of value exchanged between the parties."
     },
     {
       "id": "common-law-083",
       "question": "A contract whose terms are inferred from the conduct of the parties rather than expressly stated is—",
-      "options": [
-        "Bilateral",
-        "Implied",
-        "Unilateral",
-        "Revocable"
-      ],
+      "options": ["Bilateral", "Implied", "Unilateral", "Revocable"],
       "correctAnswer": 1,
       "explanation": "Implied contracts arise from the conduct or circumstances of the parties."
     },
     {
       "id": "common-law-084",
       "question": "Both parties voluntarily agree to terminate their contract before performance. The contract is discharged by—",
-      "options": [
-        "Frustration",
-        "Breach",
-        "Agreement",
-        "Injunction"
-      ],
+      "options": ["Frustration", "Breach", "Agreement", "Injunction"],
       "correctAnswer": 2,
       "explanation": "One recognized method of discharge is by mutual agreement."
     },
@@ -1221,12 +1116,7 @@
     {
       "id": "common-law-102",
       "question": "Which of the following scholars viewed law as a normative order characterized by a hierarchy of norms?",
-      "options": [
-        "John Austin",
-        "Roscoe Pound",
-        "Hans Kelsen",
-        "Lon Fuller"
-      ],
+      "options": ["John Austin", "Roscoe Pound", "Hans Kelsen", "Lon Fuller"],
       "correctAnswer": 2,
       "explanation": "Hans Kelsen described law as a normative order with a hierarchical structure of norms."
     },
@@ -1305,60 +1195,35 @@
     {
       "id": "common-law-109",
       "question": "Which equitable value primarily requires honesty and absence of deceit during negotiations?",
-      "options": [
-        "Conscience",
-        "Good faith",
-        "Capacity",
-        "Transparency"
-      ],
+      "options": ["Conscience", "Good faith", "Capacity", "Transparency"],
       "correctAnswer": 1,
       "explanation": "Good faith requires honesty, fairness and absence of fraud or deceit."
     },
     {
       "id": "common-law-110",
       "question": "A public officer deliberately manipulates procurement criteria to favour a friend. Which equitable principle is MOST directly violated?",
-      "options": [
-        "Fair dealing",
-        "Capacity",
-        "Consideration",
-        "Offer"
-      ],
+      "options": ["Fair dealing", "Capacity", "Consideration", "Offer"],
       "correctAnswer": 0,
       "explanation": "Fair dealing requires impartiality and equal treatment without favour or prejudice."
     },
     {
       "id": "common-law-111",
       "question": "Which of the following is NOT listed as an element of a trust?",
-      "options": [
-        "Trustee",
-        "Beneficiary",
-        "Trust property",
-        "Acceptance"
-      ],
+      "options": ["Trustee", "Beneficiary", "Trust property", "Acceptance"],
       "correctAnswer": 3,
       "explanation": "Acceptance is an element of contract, not of a trust."
     },
     {
       "id": "common-law-112",
       "question": "A trust asset consisting of shares, land and cash falls under which trust element?",
-      "options": [
-        "Beneficiary",
-        "Trust property",
-        "Trustee",
-        "Settlor"
-      ],
+      "options": ["Beneficiary", "Trust property", "Trustee", "Settlor"],
       "correctAnswer": 1,
       "explanation": "Trust property includes real estate, investments, cash and other assets."
     },
     {
       "id": "common-law-113",
       "question": "Which trust principle best requires the trustee to place beneficiaries' interests above personal interests?",
-      "options": [
-        "Consideration",
-        "Fiduciary duty",
-        "Capacity",
-        "Acceptance"
-      ],
+      "options": ["Consideration", "Fiduciary duty", "Capacity", "Acceptance"],
       "correctAnswer": 1,
       "explanation": "Fiduciary duty requires faithful management of trust assets for beneficiaries."
     },
@@ -1377,12 +1242,7 @@
     {
       "id": "common-law-115",
       "question": "A plaintiff establishes duty, breach and causation but suffers no legally recognizable injury. Which essential element remains unproved?",
-      "options": [
-        "Consideration",
-        "Injury",
-        "Acceptance",
-        "Capacity"
-      ],
+      "options": ["Consideration", "Injury", "Acceptance", "Capacity"],
       "correctAnswer": 1,
       "explanation": "All four elements, including injury, must be established in negligence."
     },
@@ -1449,12 +1309,7 @@
     {
       "id": "common-law-121",
       "question": "A ministry insists that every administrative action must be supported by an existing legal authority. This most directly reflects—",
-      "options": [
-        "Good faith",
-        "Rule of Law",
-        "Fair dealing",
-        "Public trust"
-      ],
+      "options": ["Good faith", "Rule of Law", "Fair dealing", "Public trust"],
       "correctAnswer": 1,
       "explanation": "The seminar states that civil servants must operate within powers conferred by the Constitution, legislation and statutory instruments."
     },
@@ -1473,12 +1328,7 @@
     {
       "id": "common-law-123",
       "question": "A legal rule is enforced because it commands obedience through sanctions imposed by the sovereign. This view is associated with—",
-      "options": [
-        "Roscoe Pound",
-        "Hans Kelsen",
-        "John Austin",
-        "Lon Fuller"
-      ],
+      "options": ["Roscoe Pound", "Hans Kelsen", "John Austin", "Lon Fuller"],
       "correctAnswer": 2,
       "explanation": "John Austin viewed law as the command of the sovereign backed by sanctions."
     },
@@ -1521,12 +1371,7 @@
     {
       "id": "common-law-127",
       "question": "A civil servant deliberately withholds important procurement information from the public. Which equitable principle has primarily been violated?",
-      "options": [
-        "Good faith",
-        "Capacity",
-        "Consideration",
-        "Acceptance"
-      ],
+      "options": ["Good faith", "Capacity", "Consideration", "Acceptance"],
       "correctAnswer": 0,
       "explanation": "Good faith includes transparency, honesty and integrity in handling public information."
     },
@@ -1557,24 +1402,14 @@
     {
       "id": "common-law-130",
       "question": "A trustee uses trust funds to pay personal debts. Which legal duty has clearly been breached?",
-      "options": [
-        "Capacity",
-        "Fiduciary duty",
-        "Consideration",
-        "Acceptance"
-      ],
+      "options": ["Capacity", "Fiduciary duty", "Consideration", "Acceptance"],
       "correctAnswer": 1,
       "explanation": "Fiduciary duty requires trustees to manage trust assets for beneficiaries' benefit."
     },
     {
       "id": "common-law-131",
       "question": "Which of the following is NOT one of the four elements required to establish negligence according to the seminar?",
-      "options": [
-        "Duty",
-        "Breach",
-        "Injury",
-        "Malice"
-      ],
+      "options": ["Duty", "Breach", "Injury", "Malice"],
       "correctAnswer": 3,
       "explanation": "Negligence requires duty, breach, causation and injury—not malice."
     },
@@ -1641,24 +1476,14 @@
     {
       "id": "common-law-137",
       "question": "A legally binding agreement requires all of the following EXCEPT—",
-      "options": [
-        "Offer",
-        "Acceptance",
-        "Consideration",
-        "Registration"
-      ],
+      "options": ["Offer", "Acceptance", "Consideration", "Registration"],
       "correctAnswer": 3,
       "explanation": "Registration is not listed as an essential element of a valid contract in the seminar."
     },
     {
       "id": "common-law-138",
       "question": "A contract is discharged because both parties have completely performed every obligation. This method of discharge is known as—",
-      "options": [
-        "Agreement",
-        "Frustration",
-        "Performance",
-        "Breach"
-      ],
+      "options": ["Agreement", "Frustration", "Performance", "Breach"],
       "correctAnswer": 2,
       "explanation": "Performance is the normal method by which contractual obligations come to an end."
     },
@@ -1749,24 +1574,14 @@
     {
       "id": "common-law-146",
       "question": "A plaintiff establishes duty, breach, causation and injury. Which tort has most likely been proved?",
-      "options": [
-        "Strict liability",
-        "Negligence",
-        "Defamation",
-        "Conversion"
-      ],
+      "options": ["Strict liability", "Negligence", "Defamation", "Conversion"],
       "correctAnswer": 1,
       "explanation": "These are the four elements required to establish negligence."
     },
     {
       "id": "common-law-147",
       "question": "Which of the following is an example of an intentional tort according to the seminar?",
-      "options": [
-        "Assault",
-        "Frustration",
-        "Rulemaking",
-        "Adjudication"
-      ],
+      "options": ["Assault", "Frustration", "Rulemaking", "Adjudication"],
       "correctAnswer": 0,
       "explanation": "Assault is specifically listed among intentional torts."
     },
@@ -1809,36 +1624,21 @@
     {
       "id": "common-law-151",
       "question": "Which of the following is NOT listed as a method of discharging a contract?",
-      "options": [
-        "Performance",
-        "Frustration",
-        "Agreement",
-        "Estoppel"
-      ],
+      "options": ["Performance", "Frustration", "Agreement", "Estoppel"],
       "correctAnswer": 3,
       "explanation": "The seminar lists performance, breach, frustration and agreement as methods of discharge."
     },
     {
       "id": "common-law-152",
       "question": "A court orders monetary compensation instead of compelling actual performance of a contract. The remedy awarded is—",
-      "options": [
-        "Injunction",
-        "Specific performance",
-        "Damages",
-        "Trust"
-      ],
+      "options": ["Injunction", "Specific performance", "Damages", "Trust"],
       "correctAnswer": 2,
       "explanation": "Damages are monetary compensation for loss resulting from breach of contract."
     },
     {
       "id": "common-law-153",
       "question": "Which function of administrative law is directly concerned with making administrative agencies accountable to the public?",
-      "options": [
-        "Transparency",
-        "Rulemaking",
-        "Enforcement",
-        "Adjudication"
-      ],
+      "options": ["Transparency", "Rulemaking", "Enforcement", "Adjudication"],
       "correctAnswer": 0,
       "explanation": "Transparency is identified as one of the functions of administrative law and promotes accountability."
     },
@@ -1869,12 +1669,7 @@
     {
       "id": "common-law-156",
       "question": "Which constitutional principle primarily prevents abuse of governmental power by distributing authority among different organs?",
-      "options": [
-        "Federalism",
-        "Separation of powers",
-        "Rulemaking",
-        "Equity"
-      ],
+      "options": ["Federalism", "Separation of powers", "Rulemaking", "Equity"],
       "correctAnswer": 1,
       "explanation": "Separation of powers is identified as a key aspect of constitutional law."
     },
@@ -2001,12 +1796,7 @@
     {
       "id": "common-law-167",
       "question": "Which equitable remedy restrains a person from carrying out a specified act?",
-      "options": [
-        "Damages",
-        "Trust",
-        "Injunction",
-        "Consideration"
-      ],
+      "options": ["Damages", "Trust", "Injunction", "Consideration"],
       "correctAnswer": 2,
       "explanation": "An injunction restrains a party from doing a specified act."
     },
@@ -2025,12 +1815,7 @@
     {
       "id": "common-law-169",
       "question": "A ministry ensures every applicant is treated identically regardless of ethnicity, religion or political affiliation. Which equitable value is best illustrated?",
-      "options": [
-        "Good faith",
-        "Fair dealing",
-        "Capacity",
-        "Consideration"
-      ],
+      "options": ["Good faith", "Fair dealing", "Capacity", "Consideration"],
       "correctAnswer": 1,
       "explanation": "Fair dealing requires impartiality and equal treatment without bias or prejudice."
     },
@@ -2049,12 +1834,7 @@
     {
       "id": "common-law-171",
       "question": "The person who transfers property into a trust is known as the—",
-      "options": [
-        "Beneficiary",
-        "Trustee",
-        "Settlor",
-        "Executor"
-      ],
+      "options": ["Beneficiary", "Trustee", "Settlor", "Executor"],
       "correctAnswer": 2,
       "explanation": "The settlor creates the trust and transfers the property."
     },
@@ -2097,24 +1877,14 @@
     {
       "id": "common-law-175",
       "question": "Running a red light and causing an accident is used in the seminar as an example of—",
-      "options": [
-        "Conversion",
-        "Negligence",
-        "Defamation",
-        "Trespass"
-      ],
+      "options": ["Conversion", "Negligence", "Defamation", "Trespass"],
       "correctAnswer": 1,
       "explanation": "The seminar specifically gives this example under negligence."
     },
     {
       "id": "common-law-176",
       "question": "Which element of negligence asks whether the defendant owed the plaintiff a legal obligation?",
-      "options": [
-        "Injury",
-        "Duty",
-        "Causation",
-        "Breach"
-      ],
+      "options": ["Injury", "Duty", "Causation", "Breach"],
       "correctAnswer": 1,
       "explanation": "Duty is the first element that must be established in negligence."
     },
@@ -2169,12 +1939,7 @@
     {
       "id": "common-law-181",
       "question": "Which of the following is NOT an essential element of a valid contract according to the seminar?",
-      "options": [
-        "Offer",
-        "Acceptance",
-        "Capacity",
-        "Registration"
-      ],
+      "options": ["Offer", "Acceptance", "Capacity", "Registration"],
       "correctAnswer": 3,
       "explanation": "The seminar lists offer, acceptance, consideration, intention to create legal relations, and capacity as the elements of a valid contract. Registration is not included."
     },
@@ -2205,12 +1970,7 @@
     {
       "id": "common-law-184",
       "question": "A contract becomes impossible to perform because legislation enacted after its formation prohibits the agreed activity. According to the seminar, the contract is discharged by—",
-      "options": [
-        "Breach",
-        "Agreement",
-        "Performance",
-        "Frustration"
-      ],
+      "options": ["Breach", "Agreement", "Performance", "Frustration"],
       "correctAnswer": 3,
       "explanation": "Frustration occurs when an unforeseen circumstance makes performance impossible."
     },
@@ -2241,12 +2001,7 @@
     {
       "id": "common-law-187",
       "question": "Which function of administrative law involves resolving disputes arising within administrative processes?",
-      "options": [
-        "Transparency",
-        "Adjudication",
-        "Rulemaking",
-        "Procurement"
-      ],
+      "options": ["Transparency", "Adjudication", "Rulemaking", "Procurement"],
       "correctAnswer": 1,
       "explanation": "Adjudication is one of the functions of administrative law listed in the seminar."
     },
@@ -2541,12 +2296,7 @@
     {
       "id": "common-law-212",
       "question": "Which expression does the seminar use to describe the person against whom an injunction in tort may be directed?",
-      "options": [
-        "Defendant",
-        "Respondent",
-        "Tortfeasor",
-        "Trustee"
-      ],
+      "options": ["Defendant", "Respondent", "Tortfeasor", "Trustee"],
       "correctAnswer": 2,
       "explanation": "The seminar identifies the wrongdoer as the tortfeasor."
     },
@@ -2565,12 +2315,7 @@
     {
       "id": "common-law-214",
       "question": "Which civil service implication of tort recognizes that certain public officers may be protected from particular tort claims?",
-      "options": [
-        "Public trust",
-        "Immunity",
-        "Consideration",
-        "Transparency"
-      ],
+      "options": ["Public trust", "Immunity", "Consideration", "Transparency"],
       "correctAnswer": 1,
       "explanation": "The seminar lists immunity as one of the key considerations in tort involving civil servants."
     },
@@ -2601,24 +2346,14 @@
     {
       "id": "common-law-217",
       "question": "Statements relating to the existence of a relationship constitute an exception to the hearsay rule under which section identified in the seminar?",
-      "options": [
-        "Section 40",
-        "Section 41",
-        "Section 42",
-        "Section 44"
-      ],
+      "options": ["Section 40", "Section 41", "Section 42", "Section 44"],
       "correctAnswer": 3,
       "explanation": "Statements relating to the existence of a relationship are identified under Section 44."
     },
     {
       "id": "common-law-218",
       "question": "According to the seminar, declarations made by testators are admissible under—",
-      "options": [
-        "Section 40",
-        "Section 41",
-        "Section 43",
-        "Section 45"
-      ],
+      "options": ["Section 40", "Section 41", "Section 43", "Section 45"],
       "correctAnswer": 3,
       "explanation": "The seminar identifies declarations by testators as admissible under Section 45."
     },
@@ -2745,12 +2480,7 @@
     {
       "id": "common-law-229",
       "question": "A trustee transfers trust money into a personal account and later claims the funds will be repaid. Which obligation has already been violated?",
-      "options": [
-        "Capacity",
-        "Fiduciary duty",
-        "Acceptance",
-        "Consideration"
-      ],
+      "options": ["Capacity", "Fiduciary duty", "Acceptance", "Consideration"],
       "correctAnswer": 1,
       "explanation": "Fiduciary duty requires trustees to manage trust property solely for the benefit of beneficiaries."
     },
@@ -2769,12 +2499,7 @@
     {
       "id": "common-law-231",
       "question": "A motorist exercises reasonable care but still becomes liable because the applicable rule imposes liability regardless of fault. Which tort principle applies?",
-      "options": [
-        "Negligence",
-        "Defamation",
-        "Strict liability",
-        "Trespass"
-      ],
+      "options": ["Negligence", "Defamation", "Strict liability", "Trespass"],
       "correctAnswer": 2,
       "explanation": "Strict liability may arise even without proof of intention or breach of duty."
     },
@@ -2817,24 +2542,14 @@
     {
       "id": "common-law-235",
       "question": "A contract fails because one party never communicated agreement to the offer made. Which essential element is absent?",
-      "options": [
-        "Capacity",
-        "Consideration",
-        "Acceptance",
-        "Intention"
-      ],
+      "options": ["Capacity", "Consideration", "Acceptance", "Intention"],
       "correctAnswer": 2,
       "explanation": "Acceptance completes the agreement between the parties."
     },
     {
       "id": "common-law-236",
       "question": "An agreement comes to an end after every obligation has been fully performed by both parties. The contract has been discharged by—",
-      "options": [
-        "frustration",
-        "breach",
-        "performance",
-        "injunction"
-      ],
+      "options": ["frustration", "breach", "performance", "injunction"],
       "correctAnswer": 2,
       "explanation": "Complete performance naturally brings contractual obligations to an end."
     },
@@ -2913,12 +2628,7 @@
     {
       "id": "common-law-253",
       "question": "A Director insists that every procurement decision must be capable of public scrutiny and supported by proper records. Which principle is being emphasized?",
-      "options": [
-        "Transparency",
-        "Consideration",
-        "Acceptance",
-        "Frustration"
-      ],
+      "options": ["Transparency", "Consideration", "Acceptance", "Frustration"],
       "correctAnswer": 0,
       "explanation": "Transparency requires decisions to follow clear rules and remain open to scrutiny."
     },
@@ -2937,12 +2647,7 @@
     {
       "id": "common-law-255",
       "question": "A driver exceeds the speed limit and collides with another vehicle. Before asking whether compensation should be awarded, what is the FIRST legal issue to establish in negligence?",
-      "options": [
-        "Injury",
-        "Causation",
-        "Duty",
-        "Breach"
-      ],
+      "options": ["Injury", "Causation", "Duty", "Breach"],
       "correctAnswer": 2,
       "explanation": "Negligence begins with establishing that the defendant owed a legal duty of care. Without duty, the remaining elements do not arise."
     },
@@ -3093,12 +2798,7 @@
     {
       "id": "common-law-268",
       "question": "A government lawyer advises a ministry that a proposed action is unconstitutional. Which branch of law is the lawyer primarily applying?",
-      "options": [
-        "Tort",
-        "Constitutional law",
-        "Trust",
-        "Contract"
-      ],
+      "options": ["Tort", "Constitutional law", "Trust", "Contract"],
       "correctAnswer": 1,
       "explanation": "Constitutional law governs the interpretation and application of the Constitution and the limits of governmental power."
     },
@@ -3165,12 +2865,7 @@
     {
       "id": "common-law-294",
       "question": "A pedestrian is injured after a driver ignores a clearly visible warning sign. Which element of negligence is most directly illustrated by the driver's conduct?",
-      "options": [
-        "Duty",
-        "Breach",
-        "Injury",
-        "Causation"
-      ],
+      "options": ["Duty", "Breach", "Injury", "Causation"],
       "correctAnswer": 1,
       "explanation": "Ignoring a warning sign is the conduct that constitutes a breach of the required standard of care."
     },
@@ -3381,12 +3076,7 @@
     {
       "id": "common-law-366",
       "question": "A government employee intentionally publishes a false statement that damages another officer's reputation. The conduct is most closely associated with—",
-      "options": [
-        "negligence",
-        "defamation",
-        "frustration",
-        "consideration"
-      ],
+      "options": ["negligence", "defamation", "frustration", "consideration"],
       "correctAnswer": 1,
       "explanation": "Defamation is one of the intentional torts identified in the study material."
     },
@@ -3429,24 +3119,14 @@
     {
       "id": "common-law-370",
       "question": "A contract cannot be performed because the subject matter has been destroyed by an unforeseen event. The contract is discharged by—",
-      "options": [
-        "agreement",
-        "performance",
-        "frustration",
-        "injunction"
-      ],
+      "options": ["agreement", "performance", "frustration", "injunction"],
       "correctAnswer": 2,
       "explanation": "Frustration occurs where an unforeseen event makes performance impossible."
     },
     {
       "id": "common-law-371",
       "question": "A court orders a party to refrain from interfering with government property until a dispute is resolved. The court has granted—",
-      "options": [
-        "damages",
-        "an injunction",
-        "consideration",
-        "acceptance"
-      ],
+      "options": ["damages", "an injunction", "consideration", "acceptance"],
       "correctAnswer": 1,
       "explanation": "An injunction restrains a party from carrying out a specified act."
     },
@@ -3525,12 +3205,7 @@
     {
       "id": "common-law-378",
       "question": "A claimant succeeds in proving that another person's careless conduct directly caused damage. Which tort has most likely been established?",
-      "options": [
-        "Assault",
-        "Negligence",
-        "Trespass to land",
-        "Defamation"
-      ],
+      "options": ["Assault", "Negligence", "Trespass to land", "Defamation"],
       "correctAnswer": 1,
       "explanation": "Negligence is established by proving duty, breach, causation and injury."
     },
@@ -3609,12 +3284,7 @@
     {
       "id": "common-law-366",
       "question": "A government employee intentionally publishes a false statement that damages another officer's reputation. The conduct is most closely associated with—",
-      "options": [
-        "negligence",
-        "defamation",
-        "frustration",
-        "consideration"
-      ],
+      "options": ["negligence", "defamation", "frustration", "consideration"],
       "correctAnswer": 1,
       "explanation": "Defamation is one of the intentional torts identified in the study material."
     },
@@ -3643,38 +3313,9 @@
       "explanation": "The law of evidence guides the evaluation of different forms of admissible evidence before decisions are made."
     },
     {
-      "id": "common-law-369",
-      "question": "A public officer declines to carry out an instruction because it would violate a citizen's constitutional rights. The officer's decision primarily reflects—",
-      "options": [
-        "constitutional supremacy",
-        "frustration",
-        "bilateral obligation",
-        "consideration"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Public officers must comply with the Constitution, which protects fundamental rights and is the supreme law."
-    },
-    {
-      "id": "common-law-370",
-      "question": "A contract cannot be performed because the subject matter has been destroyed by an unforeseen event. The contract is discharged by—",
-      "options": [
-        "agreement",
-        "performance",
-        "frustration",
-        "injunction"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Frustration occurs where an unforeseen event makes performance impossible."
-    },
-    {
       "id": "common-law-371",
       "question": "A court orders a party to refrain from interfering with government property until a dispute is resolved. The court has granted—",
-      "options": [
-        "damages",
-        "an injunction",
-        "consideration",
-        "acceptance"
-      ],
+      "options": ["damages", "an injunction", "consideration", "acceptance"],
       "correctAnswer": 1,
       "explanation": "An injunction restrains a party from carrying out a specified act."
     },
@@ -3727,18 +3368,6 @@
       "explanation": "Natural justice emphasizes fairness by ensuring affected persons have an opportunity to be heard."
     },
     {
-      "id": "common-law-376",
-      "question": "A trustee manages trust assets solely for the benefit of the beneficiaries and not for personal gain. This is the clearest expression of—",
-      "options": [
-        "fiduciary responsibility",
-        "constitutional supremacy",
-        "judicial review",
-        "administrative adjudication"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Trustees must always place the interests of beneficiaries above their own."
-    },
-    {
       "id": "common-law-377",
       "question": "A ministry introduces a policy that conflicts with the Constitution. Which document will the court apply?",
       "options": [
@@ -3749,30 +3378,6 @@
       ],
       "correctAnswer": 1,
       "explanation": "The Constitution is the supreme law and overrides inconsistent administrative instruments."
-    },
-    {
-      "id": "common-law-378",
-      "question": "A claimant succeeds in proving that another person's careless conduct directly caused damage. Which tort has most likely been established?",
-      "options": [
-        "Assault",
-        "Negligence",
-        "Trespass to land",
-        "Defamation"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Negligence is established by proving duty, breach, causation and injury."
-    },
-    {
-      "id": "common-law-379",
-      "question": "A witness is called by the party who instituted the case and gives evidence before cross-examination begins. The witness is undergoing—",
-      "options": [
-        "examination-in-chief",
-        "re-examination",
-        "judicial inquiry",
-        "voir dire"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Examination-in-chief is the first stage of examining a witness before cross-examination."
     },
     {
       "id": "common-law-380",
@@ -3789,12 +3394,7 @@
     {
       "id": "common-law-381",
       "question": "A ministry reviews an officer's application using criteria that were never communicated to applicants. The greatest concern is that the process lacks—",
-      "options": [
-        "transparency",
-        "consideration",
-        "capacity",
-        "causation"
-      ],
+      "options": ["transparency", "consideration", "capacity", "causation"],
       "correctAnswer": 0,
       "explanation": "Transparency requires public decisions to be made through clear, open and understandable procedures."
     },

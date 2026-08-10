@@ -1,0 +1,255 @@
+.course-update-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 1rem;
+
+  background: rgba(0, 0, 0, 0.65);
+  backdrop-filter: blur(5px);
+
+  animation: update-overlay-in 0.2s ease;
+}
+
+.course-update-modal {
+  position: relative;
+
+  width: min(420px, 100%);
+
+  padding: 2rem 1.5rem 1.4rem;
+
+  border: 1px solid var(--border);
+  border-radius: 22px;
+
+  background: var(--surface);
+  color: var(--text);
+
+  text-align: center;
+
+  box-shadow: 0 25px 70px rgba(0, 0, 0, 0.3);
+
+  animation: update-modal-in 0.25s ease;
+}
+
+/* Close */
+
+.course-update-close {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+
+  width: 34px;
+  height: 34px;
+
+  border: none;
+  border-radius: 50%;
+
+  background: transparent;
+  color: var(--text-secondary);
+
+  font-size: 1.5rem;
+  line-height: 1;
+
+  cursor: pointer;
+}
+
+.course-update-close:hover {
+  background: var(--background);
+  color: var(--text);
+}
+
+/* Icon */
+
+.course-update-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 68px;
+  height: 68px;
+
+  margin: 0 auto 0.9rem;
+
+  border-radius: 20px;
+
+  background: color-mix(in srgb, var(--primary) 10%, var(--background));
+
+  font-size: 2rem;
+}
+
+/* Heading */
+
+.course-update-eyebrow {
+  margin: 0 0 0.35rem;
+
+  color: var(--primary);
+
+  font-size: 0.75rem;
+  font-weight: 800;
+
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.course-update-modal h2 {
+  margin: 0;
+
+  font-size: clamp(1.5rem, 5vw, 1.9rem);
+}
+
+.course-update-message {
+  max-width: 340px;
+
+  margin: 0.8rem auto 1.3rem;
+
+  color: var(--text-secondary);
+
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+/* Courses */
+
+.new-courses {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+
+  margin-bottom: 1.25rem;
+}
+
+.new-course {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+
+  padding: 0.75rem 0.9rem;
+
+  border: 1px solid var(--border);
+  border-radius: 12px;
+
+  background: var(--background);
+
+  text-align: left;
+}
+
+.new-course-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 38px;
+  height: 38px;
+
+  flex-shrink: 0;
+
+  border-radius: 10px;
+
+  background: color-mix(in srgb, var(--primary) 9%, var(--background));
+
+  font-size: 1.2rem;
+}
+
+.new-course-name {
+  font-size: 0.85rem;
+  font-weight: 650;
+}
+
+/* View Courses */
+
+.course-update-view {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+
+  width: 100%;
+
+  padding: 0.8rem 1rem;
+
+  border: none;
+  border-radius: 11px;
+
+  background: var(--primary);
+  color: white;
+
+  font-size: 0.9rem;
+  font-weight: 700;
+
+  cursor: pointer;
+
+  transition:
+    opacity 0.2s ease,
+    transform 0.2s ease;
+}
+
+.course-update-view:hover {
+  opacity: 0.9;
+  transform: translateY(-1px);
+}
+
+/* Got it */
+
+.course-update-dismiss {
+  margin-top: 0.75rem;
+
+  border: none;
+
+  background: transparent;
+  color: var(--text-secondary);
+
+  font-size: 0.8rem;
+  font-weight: 600;
+
+  cursor: pointer;
+}
+
+.course-update-dismiss:hover {
+  color: var(--text);
+}
+
+/* Animation */
+
+@keyframes update-overlay-in {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes update-modal-in {
+  from {
+    opacity: 0;
+    transform: translateY(12px) scale(0.97);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* Mobile */
+
+@media (max-width: 480px) {
+  .course-update-overlay {
+    padding: 0.75rem;
+  }
+
+  .course-update-modal {
+    padding: 1.7rem 1rem 1.25rem;
+    border-radius: 18px;
+  }
+
+  .course-update-icon {
+    width: 60px;
+    height: 60px;
+  }
+}

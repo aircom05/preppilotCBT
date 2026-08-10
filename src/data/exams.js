@@ -15,6 +15,20 @@ const exams = [
     bank: './common-law.json',
     totalQuestions: 335,
   },
+  {
+    id: 'statute-law',
+    title: 'LAW PAPER II (Statute Law)',
+    icon: FaBalanceScale,
+    bank: './statute-law.json',
+    totalQuestions: 399,
+  },
+  {
+    id: 'fin-mgt-in-govt',
+    title: 'FINANCIAL MANAGEMENT IN GOVERNMENT',
+    icon: FaBalanceScale,
+    bank: './financial-management-in-government-500.json',
+    totalQuestions: 500,
+  },
 ];
 
 export default exams;

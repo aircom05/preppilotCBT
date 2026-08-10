@@ -4,6 +4,7 @@ import AppLayout from '../../layouts/AppLayout';
 import exams from '../../data/exams';
 import getGreeting from '../../utils/getGreeting';
 import { useEffect } from 'react';
+import { Link } from 'react-router-dom';
 
 import './Home.css';
 
@@ -27,19 +28,21 @@ const Home = () => {
               <p className="hero-subtitle">Prepare • Practice • Prevail</p>
             </div>
           </HeroCard>
-          {exams.map((exam) => (
-            <ExamCard key={exam.id} exam={exam} />
-          ))}
+          <section id="exam-courses">
+            {exams.map((exam) => (
+              <ExamCard key={exam.id} exam={exam} />
+            ))}
+          </section>
         </div>
         <footer className="home-footer">
           <p className="footer-tagline">Prepare • Practice • Prevail</p>
 
           <div className="footer-links">
-            <a href="/about">About</a>
+            <Link to="/about">About</Link>
 
-            <span>•</span>
+            <span aria-hidden="true">|</span>
 
-            <span>Version 1.0.0</span>
+            <Link to="/references">References</Link>
           </div>
 
           <p className="footer-copyright">

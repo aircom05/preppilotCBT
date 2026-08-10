@@ -8,6 +8,7 @@ import Statistics from '../pages/Statistics';
 import Bookmarks from '../pages/Bookmarks';
 import Settings from '../pages/Settings';
 import About from '../pages/About';
+import References from '../pages/References';
 
 const router = createBrowserRouter([
   {
@@ -45,6 +46,10 @@ const router = createBrowserRouter([
   {
     path: '/result',
     element: <Result />,
+  },
+  {
+    path: '/references',
+    element: <References />,
   },
 ]);
 
