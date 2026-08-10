@@ -26,10 +26,7 @@ export const QuizProvider = ({ children }) => {
       // Load the selected question bank
       const questionBank = await loadQuestionBank(exam.bank);
 
-      const sessionQuestions = generateSession(
-        questionBank.questions,
-        questionCount,
-      );
+      const sessionQuestions = generateSession(questionBank, questionCount);
 
       dispatch({
         type: QUIZ_ACTIONS.START_EXAM,

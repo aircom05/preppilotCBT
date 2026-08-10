@@ -12,7 +12,7 @@ const questionBankCache = new Map();
  * @returns {Promise<Array>}
  */
 export async function loadQuestionBank(fileName) {
-  // Return the cached bank if we've already loaded it
+  // Return the question bank if we've already loaded it
   if (questionBankCache.has(fileName)) {
     return questionBankCache.get(fileName);
   }
@@ -27,8 +27,8 @@ export async function loadQuestionBank(fileName) {
   // Parse the JSON
   const data = await response.json();
 
-  // Store it in memory for future sessions
-  questionBankCache.set(fileName, data);
+  // Store only the questions in memory
+  questionBankCache.set(fileName, data.questions);
 
-  return data;
+  return data.questions;
 }
