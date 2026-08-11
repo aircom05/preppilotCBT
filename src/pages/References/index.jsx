@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import { BookOpen } from 'lucide-react';
+import { useEffect } from 'react';
 import './References.css';
 
 const references = [
@@ -38,6 +39,10 @@ const references = [
 ];
 
 const References = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   return (
     <main className="references-page">
       <div className="references-container">
