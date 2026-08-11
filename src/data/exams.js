@@ -1,4 +1,5 @@
-import { FaBook, FaBalanceScale } from 'react-icons/fa';
+import { FaBook, FaBalanceScale, FaCoins } from 'react-icons/fa';
+// import { FaShieldHalved } from 'react-icons/fa6';
 const exams = [
   {
     id: 'psr',
@@ -25,10 +26,17 @@ const exams = [
   {
     id: 'fin-mgt-in-govt',
     title: 'FINANCIAL MANAGEMENT IN GOVERNMENT',
-    icon: FaBalanceScale,
+    icon: FaCoins,
     bank: './financial-management-in-government-500.json',
     totalQuestions: 500,
   },
+  // {
+  //   id: 'sec-in-govt',
+  //   title: 'SECURITY IN GOVERNMENT',
+  //   icon: FaShieldHalved,
+  //   bank: './security-in-government.json',
+  //   totalQuestions: 300,
+  // },
 ];
 
 export default exams;
