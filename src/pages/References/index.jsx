@@ -15,7 +15,7 @@ const references = [
   // Add future question banks here
   {
     id: 2,
-    iconColor: '#2563eb',
+    iconColor: '#1E3A8A',
     title: 'LAW PAPER I (General Principles of Common Law)',
     questionBank: '2025 Pre-Examination Seminar for APOCE on Law Paper 1',
     type: 'Study Material',
@@ -23,17 +23,41 @@ const references = [
 
   {
     id: 3,
-    iconColor: '#16a34a',
+    iconColor: '#9F1239',
     title: 'LAW PAPER II (Statute Law)',
     questionBank: '2025 Pre-Examination Seminar for APOCE on Law Paper II',
     type: 'Study Material',
   },
   {
     id: 4,
-    iconColor: '#91305c',
-    title: 'Financial Management in      Government',
+    iconColor: '#16A34A',
+    title: 'Financial Management in Government',
     questionBank:
-      '2025 Pre-Examination   Seminar for APOCE on Financial Management',
+      '2025 Pre-Examination Seminar for APOCE on Financial Management',
+    type: 'Study Material',
+  },
+  {
+    id: 5,
+    iconColor: '#DC2626',
+    title: 'Security in Government',
+    questionBank:
+      '2026 Pre-Promotional Examination Seminar and 2025 Pre-Examination Seminar for APOCE on Security in Government',
+    type: 'Study Material',
+  },
+  {
+    id: 6,
+    iconColor: '#2563EB',
+    title: 'Personnel Management in Government',
+    questionBank:
+      '2026 Pre-Promotional Examination Seminar and 2025 Pre-Examination Seminar for APOCE on Personnel Management in Government',
+    type: 'Study Material',
+  },
+  {
+    id: 7,
+    iconColor: '#7C3AED',
+    title: 'General Principles and Techniques in Management',
+    questionBank:
+      '2025 Seminar for APOCE on General Principles and Techniques in Management',
     type: 'Study Material',
   },
 ];

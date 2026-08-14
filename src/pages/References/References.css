@@ -292,9 +292,10 @@
 }
 
 .question-bank-name {
-  padding: 0.25rem 0.55rem;
+  display: block;
+  padding: 1rem 1rem;
 
-  border-radius: 999px;
+  border-radius: 500px;
 
   background: color-mix(in srgb, var(--primary) 9%, var(--background));
 

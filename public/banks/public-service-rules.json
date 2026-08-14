@@ -57,12 +57,7 @@
     {
       "id": "psr-0005",
       "question": "A Junior Officer in the Akwa Ibom State Public Service is one appointed on:",
-      "options": [
-        "GL 01–05",
-        "GL 01–06",
-        "GL 06–07",
-        "GL 07 and above"
-      ],
+      "options": ["GL 01–05", "GL 01–06", "GL 06–07", "GL 07 and above"],
       "correctAnswer": 1,
       "explanation": "Junior Officers are staff appointed on Grade Level 06 and below."
     },
@@ -81,12 +76,7 @@
     {
       "id": "psr-0007",
       "question": "Which of the following is NOT included in the definition of \"Electronic Gadgets\" under the Rules?",
-      "options": [
-        "Scanner",
-        "Flash drive",
-        "Calculator",
-        "Typewriter"
-      ],
+      "options": ["Scanner", "Flash drive", "Calculator", "Typewriter"],
       "correctAnswer": 3,
       "explanation": "The Rules list items such as mobile phones, computers, flash drives, scanners and calculators, but not typewriters."
     },
@@ -249,12 +239,7 @@
     {
       "id": "psr-0021",
       "question": "An applicant for appointment into the Akwa Ibom State Public Service must generally be within what age bracket?",
-      "options": [
-        "16–45 years",
-        "18–50 years",
-        "21–55 years",
-        "18–60 years"
-      ],
+      "options": ["16–45 years", "18–50 years", "21–55 years", "18–60 years"],
       "correctAnswer": 1,
       "explanation": "Rule 020205 provides that every applicant must not be less than 18 years and not more than 50 years of age."
     },
@@ -453,24 +438,14 @@
     {
       "id": "psr-0038",
       "question": "The normal probationary period before confirmation in service is:",
-      "options": [
-        "One year",
-        "Eighteen months",
-        "Two years",
-        "Three years"
-      ],
+      "options": ["One year", "Eighteen months", "Two years", "Three years"],
       "correctAnswer": 2,
       "explanation": "Rule 020301 provides that officers on probation normally serve two years before confirmation."
     },
     {
       "id": "psr-0039",
       "question": "Under normal circumstances, the probationary period may be reduced to not less than:",
-      "options": [
-        "Three months",
-        "Six months",
-        "One year",
-        "Eighteen months"
-      ],
+      "options": ["Three months", "Six months", "One year", "Eighteen months"],
       "correctAnswer": 1,
       "explanation": "Previous satisfactory public service in cognate posts may reduce the probationary period, but not below six months."
     },
@@ -669,12 +644,7 @@
     {
       "id": "psr-0056",
       "question": "Which of the following is NOT a recognized type of direct appointment under Rule 020202?",
-      "options": [
-        "Trainee",
-        "Probation",
-        "Contract",
-        "Acting appointment"
-      ],
+      "options": ["Trainee", "Probation", "Contract", "Acting appointment"],
       "correctAnswer": 3,
       "explanation": "Rule 020202 lists trainee/pupil, probation, and contract appointments only."
     },
@@ -969,24 +939,14 @@
     {
       "id": "psr-0081",
       "question": "The permanent release of an officer from one scheduled service to another is known as:",
-      "options": [
-        "Secondment",
-        "Conversion",
-        "Transfer",
-        "Advancement"
-      ],
+      "options": ["Secondment", "Conversion", "Transfer", "Advancement"],
       "correctAnswer": 2,
       "explanation": "Rule 020501(a) defines transfer as the permanent release of an officer from one scheduled service to another or from one class to another within the same service."
     },
     {
       "id": "psr-0082",
       "question": "A temporary release of an officer to serve another government or an approved body for a specified period is called:",
-      "options": [
-        "Conversion",
-        "Promotion",
-        "Secondment",
-        "Upgrading"
-      ],
+      "options": ["Conversion", "Promotion", "Secondment", "Upgrading"],
       "correctAnswer": 2,
       "explanation": "Rule 020501(b) defines secondment as the temporary release of an officer to another government or approved body for a specified period."
     },
@@ -1005,12 +965,7 @@
     {
       "id": "psr-0084",
       "question": "Which process refers to elevating an officer to a higher grade within the same cadre after obtaining additional prescribed qualifications?",
-      "options": [
-        "Promotion",
-        "Upgrading",
-        "Transfer",
-        "Conversion"
-      ],
+      "options": ["Promotion", "Upgrading", "Transfer", "Conversion"],
       "correctAnswer": 1,
       "explanation": "Rule 020501(d) defines upgrading as elevation to a higher grade within the same cadre after obtaining additional qualifications."
     },
@@ -1077,24 +1032,14 @@
     {
       "id": "psr-0090",
       "question": "Scenario: An officer requests secondment to another government for personal reasons. What is the maximum initial period of such secondment?",
-      "options": [
-        "One year",
-        "Two years",
-        "Three years",
-        "Four years"
-      ],
+      "options": ["One year", "Two years", "Three years", "Four years"],
       "correctAnswer": 1,
       "explanation": "Rule 020502(c) provides that secondment on an officer's own request shall be for a maximum initial period of two years."
     },
     {
       "id": "psr-0091",
       "question": "The total duration of secondment at an officer's request shall not exceed:",
-      "options": [
-        "Two years",
-        "Three years",
-        "Four years",
-        "Five years"
-      ],
+      "options": ["Two years", "Three years", "Four years", "Five years"],
       "correctAnswer": 2,
       "explanation": "Even after approved extensions, the total period of such secondment must not exceed four years."
     },
@@ -1161,12 +1106,7 @@
     {
       "id": "psr-0097",
       "question": "An officer seeking transfer from one senior post to another within the State Civil Service must have served in the original Department for at least:",
-      "options": [
-        "Three months",
-        "Six months",
-        "One year",
-        "Two years"
-      ],
+      "options": ["Three months", "Six months", "One year", "Two years"],
       "correctAnswer": 1,
       "explanation": "Rule 020503(a) requires a minimum of six months' service before seeking transfer."
     },
@@ -1941,12 +1881,7 @@
     {
       "id": "psr-0162",
       "question": "The Junior Staff Committee (JSC) is responsible for handling the appointment, promotion, and discipline of officers on:",
-      "options": [
-        "GL. 01–04",
-        "GL. 01–06",
-        "GL. 07–10",
-        "GL. 07 and above"
-      ],
+      "options": ["GL. 01–04", "GL. 01–06", "GL. 07–10", "GL. 07 and above"],
       "correctAnswer": 1,
       "explanation": "The JSC handles appointment, promotion, and discipline for officers on Grade Levels 01–06."
     },
@@ -1965,12 +1900,7 @@
     {
       "id": "psr-0164",
       "question": "Members of the Junior Staff Committee, other than the Chairman, shall ordinarily not be below:",
-      "options": [
-        "GL. 06",
-        "GL. 07",
-        "GL. 08",
-        "GL. 10"
-      ],
+      "options": ["GL. 06", "GL. 07", "GL. 08", "GL. 10"],
       "correctAnswer": 2,
       "explanation": "Members of the JSC must not be below Grade Level 08."
     },
@@ -2049,36 +1979,21 @@
     {
       "id": "psr-0171",
       "question": "The minimum period an officer on GL. 01–06 must spend on a post before being eligible for promotion is:",
-      "options": [
-        "One year",
-        "Two years",
-        "Three years",
-        "Four years"
-      ],
+      "options": ["One year", "Two years", "Three years", "Four years"],
       "correctAnswer": 1,
       "explanation": "Officers on GL. 01–06 require a minimum of two years before becoming eligible for promotion."
     },
     {
       "id": "psr-0172",
       "question": "The minimum period an officer on GL. 07–14 must spend on a post before promotion eligibility is:",
-      "options": [
-        "Two years",
-        "Three years",
-        "Four years",
-        "Five years"
-      ],
+      "options": ["Two years", "Three years", "Four years", "Five years"],
       "correctAnswer": 1,
       "explanation": "Officers on GL. 07–14 require a minimum of three years on the post."
     },
     {
       "id": "psr-0173",
       "question": "An officer on GL. 15 and above ordinarily becomes eligible for promotion after serving at least:",
-      "options": [
-        "Two years",
-        "Three years",
-        "Four years",
-        "Five years"
-      ],
+      "options": ["Two years", "Three years", "Four years", "Five years"],
       "correctAnswer": 2,
       "explanation": "Rule 020601(c) prescribes a minimum of four years for officers on GL. 15 and above."
     },
@@ -3213,12 +3128,7 @@
     {
       "id": "psr-0268",
       "question": "The compulsory retirement age for public servants is:",
-      "options": [
-        "55 years.",
-        "60 years.",
-        "65 years.",
-        "70 years."
-      ],
+      "options": ["55 years.", "60 years.", "65 years.", "70 years."],
       "correctAnswer": 1,
       "explanation": "Compulsory retirement is at age 60 or after 35 years of service, whichever comes first."
     },
@@ -3249,12 +3159,7 @@
     {
       "id": "psr-0271",
       "question": "A Permanent Secretary may hold office for a maximum of:",
-      "options": [
-        "Five years.",
-        "Six years.",
-        "Eight years.",
-        "Ten years."
-      ],
+      "options": ["Five years.", "Six years.", "Eight years.", "Ten years."],
       "correctAnswer": 2,
       "explanation": "A Permanent Secretary shall hold office for a maximum period of eight years."
     },
@@ -4017,12 +3922,7 @@
     {
       "id": "psr-0340",
       "question": "Which Rule specifically provides an opportunity for an officer to respond to adverse comments before leaving the Service?",
-      "options": [
-        "Rule 020802",
-        "Rule 020803",
-        "Rule 020805",
-        "Rule 020806"
-      ],
+      "options": ["Rule 020802", "Rule 020803", "Rule 020805", "Rule 020806"],
       "correctAnswer": 3,
       "explanation": "Rule 020806 requires that an officer be given time to make representations on any adverse comments before leaving the Service. Rules Covered: 030101–030103 (General – Female Public Servants) Source: Chapter 3, Section 1 – General (Rules 030101–030103)."
     },
@@ -4221,36 +4121,21 @@
     {
       "id": "psr-0357",
       "question": "Which Rule defines the meaning of \"Married Woman\"?",
-      "options": [
-        "030101",
-        "030102",
-        "030103",
-        "030201"
-      ],
+      "options": ["030101", "030102", "030103", "030201"],
       "correctAnswer": 0,
       "explanation": "Rule 030101 provides the interpretation."
     },
     {
       "id": "psr-0358",
       "question": "Which Rule discusses expatriate women married to Nigerian husbands?",
-      "options": [
-        "030101",
-        "030102",
-        "030103",
-        "030301"
-      ],
+      "options": ["030101", "030102", "030103", "030301"],
       "correctAnswer": 1,
       "explanation": "Rule 030102 covers this subject."
     },
     {
       "id": "psr-0359",
       "question": "Which Rule explains how masculine references in the Public Service Rules should be interpreted?",
-      "options": [
-        "030101",
-        "030102",
-        "030103",
-        "030201"
-      ],
+      "options": ["030101", "030102", "030103", "030201"],
       "correctAnswer": 2,
       "explanation": "Rule 030103 explains that masculine terms apply equally to female public servants except where specific exceptions exist."
     },
@@ -4473,36 +4358,21 @@
     {
       "id": "psr-0378",
       "question": "Which Rule specifically deals with notification of marriage by a female staff member?",
-      "options": [
-        "030101",
-        "030201",
-        "030202",
-        "030203"
-      ],
+      "options": ["030101", "030201", "030202", "030203"],
       "correctAnswer": 2,
       "explanation": "Rule 030202 addresses notification of marriage and related rights."
     },
     {
       "id": "psr-0379",
       "question": "Which Rule governs the employment of qualified non-Nigerian women on contract?",
-      "options": [
-        "030103",
-        "030201",
-        "030202",
-        "030301"
-      ],
+      "options": ["030103", "030201", "030202", "030301"],
       "correctAnswer": 1,
       "explanation": "Rule 030201(b) contains this provision."
     },
     {
       "id": "psr-0380",
       "question": "Which Rule provides that a non-Nigerian woman marrying a non-Nigerian citizen is deemed to have resigned?",
-      "options": [
-        "030201",
-        "030202",
-        "030203",
-        "030301"
-      ],
+      "options": ["030201", "030202", "030203", "030301"],
       "correctAnswer": 2,
       "explanation": "Rule 030203 contains this requirement."
     },
@@ -4521,12 +4391,7 @@
     {
       "id": "psr-0382",
       "question": "A pregnant female public servant is entitled to how many weeks of maternity leave?",
-      "options": [
-        "12 weeks",
-        "14 weeks",
-        "16 weeks",
-        "18 weeks"
-      ],
+      "options": ["12 weeks", "14 weeks", "16 weeks", "18 weeks"],
       "correctAnswer": 2,
       "explanation": "Rule 030301 grants a female staff member 16 weeks' maternity leave with full pay."
     },
@@ -4725,24 +4590,14 @@
     {
       "id": "psr-0399",
       "question": "Which Rule deals with postponement of disciplinary proceedings during maternity leave?",
-      "options": [
-        "030301",
-        "030302",
-        "030303",
-        "030304"
-      ],
+      "options": ["030301", "030302", "030303", "030304"],
       "correctAnswer": 1,
       "explanation": "Rule 030302 addresses disciplinary proceedings during maternity leave."
     },
     {
       "id": "psr-0400",
       "question": "Which Rule provides for two hours off-duty daily for nursing mothers?",
-      "options": [
-        "030301",
-        "030302",
-        "030303",
-        "030304"
-      ],
+      "options": ["030301", "030302", "030303", "030304"],
       "correctAnswer": 3,
       "explanation": "Rule 030304 grants nursing mothers two hours off-duty daily for a maximum of six months after resuming duty."
     },
@@ -4821,36 +4676,21 @@
     {
       "id": "psr-0407",
       "question": "Which Rule establishes the duty of officers to know the disciplinary rules?",
-      "options": [
-        "040101",
-        "040102",
-        "040103",
-        "040201"
-      ],
+      "options": ["040101", "040102", "040103", "040201"],
       "correctAnswer": 0,
       "explanation": "Rule 040101 establishes this responsibility."
     },
     {
       "id": "psr-0408",
       "question": "Which Rule vests disciplinary control and dismissal powers in the Civil Service Commission?",
-      "options": [
-        "040101",
-        "040102",
-        "040103",
-        "040201"
-      ],
+      "options": ["040101", "040102", "040103", "040201"],
       "correctAnswer": 1,
       "explanation": "Rule 040102 provides this authority."
     },
     {
       "id": "psr-0409",
       "question": "Which Rule delegates disciplinary powers over junior officers to Ministries and Extra-Ministerial Departments/Agencies?",
-      "options": [
-        "040101",
-        "040102",
-        "040103",
-        "040202"
-      ],
+      "options": ["040101", "040102", "040103", "040202"],
       "correctAnswer": 2,
       "explanation": "Rule 040103 provides for this delegation."
     },
@@ -4917,12 +4757,7 @@
     {
       "id": "psr-0415",
       "question": "The phrase \"disciplinary rules and any other regulations in force\" appears in:",
-      "options": [
-        "Rule 040101",
-        "Rule 040102",
-        "Rule 040103",
-        "Rule 040201"
-      ],
+      "options": ["Rule 040101", "Rule 040102", "Rule 040103", "Rule 040201"],
       "correctAnswer": 0,
       "explanation": "This wording appears in Rule 040101."
     },
@@ -5265,12 +5100,7 @@
     {
       "id": "psr-0444",
       "question": "Which of the following is NOT listed as scandalous conduct?",
-      "options": [
-        "Drunkenness.",
-        "Battery.",
-        "Assault.",
-        "Poor handwriting."
-      ],
+      "options": ["Drunkenness.", "Battery.", "Assault.", "Poor handwriting."],
       "correctAnswer": 3,
       "explanation": "Rule 040301 lists immoral behaviour, unruly behaviour, drunkenness, foul language, assault and battery as scandalous conduct. Poor handwriting is not included."
     },
@@ -5397,12 +5227,7 @@
     {
       "id": "psr-0455",
       "question": "Which of the following is expressly listed as misconduct?",
-      "options": [
-        "Dishonesty.",
-        "Embezzlement.",
-        "Cybercrime.",
-        "Bribery."
-      ],
+      "options": ["Dishonesty.", "Embezzlement.", "Cybercrime.", "Bribery."],
       "correctAnswer": 0,
       "explanation": "Dishonesty is included among the examples of misconduct under Rule 040301, whereas embezzlement, cybercrime and bribery are listed later under serious misconduct."
     },
@@ -5457,12 +5282,7 @@
     {
       "id": "psr-0460",
       "question": "Which Rule defines misconduct and provides examples of acts that constitute misconduct?",
-      "options": [
-        "040201",
-        "040301",
-        "040401",
-        "040431"
-      ],
+      "options": ["040201", "040301", "040401", "040431"],
       "correctAnswer": 1,
       "explanation": "Rule 040301 defines misconduct and lists numerous examples of acts that fall within that category."
     },
@@ -5529,36 +5349,21 @@
     {
       "id": "psr-0466",
       "question": "\"Malingering\" under Rule 040301 is grouped together with:",
-      "options": [
-        "Negligence",
-        "Loitering",
-        "Dishonesty",
-        "Drunkenness"
-      ],
+      "options": ["Negligence", "Loitering", "Dishonesty", "Drunkenness"],
       "correctAnswer": 1,
       "explanation": "Rule 040301 lists \"Malingering/Loitering\" as an example of misconduct."
     },
     {
       "id": "psr-0467",
       "question": "Instead of carrying out assigned duties, an officer spends most of the workday wandering around the office chatting with colleagues. Which misconduct best describes this behaviour?",
-      "options": [
-        "Assault",
-        "Loitering",
-        "Corruption",
-        "Battery"
-      ],
+      "options": ["Assault", "Loitering", "Corruption", "Battery"],
       "correctAnswer": 1,
       "explanation": "Loitering is expressly identified as misconduct under Rule 040301."
     },
     {
       "id": "psr-0468",
       "question": "Which of the following is listed as misconduct?",
-      "options": [
-        "Insubordination",
-        "Cybercrime",
-        "Embezzlement",
-        "Bribery"
-      ],
+      "options": ["Insubordination", "Cybercrime", "Embezzlement", "Bribery"],
       "correctAnswer": 0,
       "explanation": "Insubordination is listed under misconduct, while cybercrime, embezzlement and bribery fall under serious misconduct."
     },
@@ -5661,12 +5466,7 @@
     {
       "id": "psr-0477",
       "question": "Which Rule defines misconduct?",
-      "options": [
-        "040201",
-        "040301",
-        "040401",
-        "040431"
-      ],
+      "options": ["040201", "040301", "040401", "040431"],
       "correctAnswer": 1,
       "explanation": "Rule 040301 defines misconduct and provides examples of acts that constitute it."
     },
@@ -5697,12 +5497,7 @@
     {
       "id": "psr-0480",
       "question": "Which Rule should an officer consult for the official definition of misconduct and examples such as habitual lateness, insubordination, improper dressing and discourteous behaviour?",
-      "options": [
-        "Rule 040201",
-        "Rule 040301",
-        "Rule 040401",
-        "Rule 040431"
-      ],
+      "options": ["Rule 040201", "Rule 040301", "Rule 040401", "Rule 040431"],
       "correctAnswer": 1,
       "explanation": "Rule 040301 contains both the definition of misconduct and the catalogue of examples."
     },
@@ -5721,12 +5516,7 @@
     {
       "id": "psr-0482",
       "question": "Unlike ordinary misconduct, serious misconduct may lead directly to:",
-      "options": [
-        "Promotion",
-        "Salary increment",
-        "Dismissal",
-        "Transfer"
-      ],
+      "options": ["Promotion", "Salary increment", "Dismissal", "Transfer"],
       "correctAnswer": 2,
       "explanation": "Rule 040401 provides that serious misconduct, if proved, may result in dismissal."
     },
@@ -5889,12 +5679,7 @@
     {
       "id": "psr-0496",
       "question": "Which of the following is NOT listed as serious misconduct under Rule 040401?",
-      "options": [
-        "Bribery",
-        "Corruption",
-        "Embezzlement",
-        "Habitual lateness"
-      ],
+      "options": ["Bribery", "Corruption", "Embezzlement", "Habitual lateness"],
       "correctAnswer": 3,
       "explanation": "Habitual lateness is listed under Rule 040301 as misconduct, while bribery, corruption and embezzlement are examples of serious misconduct under Rule 040401."
     },
@@ -5925,12 +5710,7 @@
     {
       "id": "psr-0499",
       "question": "Which Rule contains the official definition of serious misconduct?",
-      "options": [
-        "Rule 040301",
-        "Rule 040401",
-        "Rule 040431",
-        "Rule 040201"
-      ],
+      "options": ["Rule 040301", "Rule 040401", "Rule 040431", "Rule 040201"],
       "correctAnswer": 1,
       "explanation": "Rule 040401 defines serious misconduct and provides examples of offences falling within that category."
     },
@@ -7041,24 +6821,14 @@
     {
       "id": "psr-0592",
       "question": "Which Rule defines misconduct?",
-      "options": [
-        "Rule 040201",
-        "Rule 040301",
-        "Rule 040401",
-        "Rule 040431"
-      ],
+      "options": ["Rule 040201", "Rule 040301", "Rule 040401", "Rule 040431"],
       "correctAnswer": 1,
       "explanation": "Rule 040301 contains the definition and examples of misconduct."
     },
     {
       "id": "psr-0593",
       "question": "Which Rule defines serious misconduct?",
-      "options": [
-        "Rule 040201",
-        "Rule 040301",
-        "Rule 040401",
-        "Rule 040501"
-      ],
+      "options": ["Rule 040201", "Rule 040301", "Rule 040401", "Rule 040501"],
       "correctAnswer": 2,
       "explanation": "Rule 040401 defines serious misconduct and lists examples of such offences."
     },
@@ -7173,12 +6943,7 @@
     {
       "id": "psr-0603",
       "question": "Mary received her appointment letter on 2nd March but resumed duty on 16th March. According to the Rules, her salary should ordinarily commence from:",
-      "options": [
-        "2nd March.",
-        "10th March.",
-        "16th March.",
-        "1st April."
-      ],
+      "options": ["2nd March.", "10th March.", "16th March.", "1st April."],
       "correctAnswer": 2,
       "explanation": "Payment begins from the date of assumption of duty, not the date the appointment letter was issued."
     },
@@ -7665,12 +7430,7 @@
     {
       "id": "psr-0644",
       "question": "If an increment is initially deferred for less than six months, it may subsequently be extended to:",
-      "options": [
-        "Nine months.",
-        "One year.",
-        "Six months.",
-        "Twelve months."
-      ],
+      "options": ["Nine months.", "One year.", "Six months.", "Twelve months."],
       "correctAnswer": 2,
       "explanation": "Rule 050203 permits an additional specific deferment up to a maximum of six months."
     },
@@ -7701,12 +7461,7 @@
     {
       "id": "psr-0647",
       "question": "An officer's increment due on 1 January was deferred for three months and later approved. On what date should the officer begin receiving the increased emolument?",
-      "options": [
-        "1 January.",
-        "1 February.",
-        "1 April.",
-        "31 March."
-      ],
+      "options": ["1 January.", "1 February.", "1 April.", "31 March."],
       "correctAnswer": 2,
       "explanation": "The increment takes effect on the day following the expiration of the three-month deferment period."
     },
@@ -8505,12 +8260,7 @@
     {
       "id": "psr-0714",
       "question": "After first appointment, officers are required to undergo medical examination at intervals of:",
-      "options": [
-        "Two years",
-        "Three years",
-        "Five years",
-        "Ten years"
-      ],
+      "options": ["Two years", "Three years", "Five years", "Ten years"],
       "correctAnswer": 2,
       "explanation": "Officers are required to undergo periodic medical examination every five years."
     },
@@ -8541,12 +8291,7 @@
     {
       "id": "psr-0717",
       "question": "During a special medical examination, a specialist is consulted. Who normally pays the specialist's approved fee?",
-      "options": [
-        "The officer",
-        "Government",
-        "The hospital",
-        "NHIS only"
-      ],
+      "options": ["The officer", "Government", "The hospital", "NHIS only"],
       "correctAnswer": 1,
       "explanation": "Government pays approved specialist fees arising from such examinations."
     },
@@ -8637,24 +8382,14 @@
     {
       "id": "psr-0725",
       "question": "An officer receiving medical treatment within the duty post must report absence within:",
-      "options": [
-        "12 hours",
-        "24 hours",
-        "48 hours",
-        "Seven days"
-      ],
+      "options": ["12 hours", "24 hours", "48 hours", "Seven days"],
       "correctAnswer": 1,
       "explanation": "Within-duty-post treatment requires notification within 24 hours."
     },
     {
       "id": "psr-0726",
       "question": "Where treatment is being received outside the duty post, absence should be reported within:",
-      "options": [
-        "24 hours",
-        "36 hours",
-        "48 hours",
-        "72 hours"
-      ],
+      "options": ["24 hours", "36 hours", "48 hours", "72 hours"],
       "correctAnswer": 2,
       "explanation": "Notification must be made within 48 hours."
     },
@@ -8709,12 +8444,7 @@
     {
       "id": "psr-0731",
       "question": "The maximum aggregate sick leave for a non-hospitalized officer within twelve months is:",
-      "options": [
-        "21 days",
-        "30 days",
-        "42 calendar days",
-        "90 days"
-      ],
+      "options": ["21 days", "30 days", "42 calendar days", "90 days"],
       "correctAnswer": 2,
       "explanation": "The maximum aggregate sick leave is six weeks (42 calendar days)."
     },
@@ -8949,24 +8679,14 @@
     {
       "id": "psr-0751",
       "question": "The prescribed capital benefit for an officer travelling at Government expense is:",
-      "options": [
-        "₦3,000,000",
-        "₦4,000,000",
-        "₦5,000,000",
-        "₦6,000,000"
-      ],
+      "options": ["₦3,000,000", "₦4,000,000", "₦5,000,000", "₦6,000,000"],
       "correctAnswer": 2,
       "explanation": "Officers are entitled to a capital benefit of ₦5,000,000 under the passenger insurance scheme."
     },
     {
       "id": "psr-0752",
       "question": "The prescribed capital benefit for the spouse of an officer travelling under the scheme is:",
-      "options": [
-        "₦3,000,000",
-        "₦4,000,000",
-        "₦5,000,000",
-        "₦2,000,000"
-      ],
+      "options": ["₦3,000,000", "₦4,000,000", "₦5,000,000", "₦2,000,000"],
       "correctAnswer": 1,
       "explanation": "The approved capital benefit for an officer's spouse is ₦4,000,000."
     },
@@ -10401,12 +10121,7 @@
     {
       "id": "psr-0872",
       "question": "Allowances provided under Chapter 15 are generally subject to review every:",
-      "options": [
-        "Two years.",
-        "Three years.",
-        "Five years.",
-        "Ten years."
-      ],
+      "options": ["Two years.", "Three years.", "Five years.", "Ten years."],
       "correctAnswer": 2,
       "explanation": "All allowances under Chapter 15 are reviewed every five years through appropriate circulars."
     },
@@ -11301,12 +11016,7 @@
     {
       "id": "psr-0957",
       "question": "A Governing Board performs functions that are not authorized by its enabling law. In administrative law, this action is best described as:",
-      "options": [
-        "Intra vires.",
-        "Ultra vires.",
-        "Ex officio.",
-        "De facto."
-      ],
+      "options": ["Intra vires.", "Ultra vires.", "Ex officio.", "De facto."],
       "correctAnswer": 1,
       "explanation": "A Board acts ultra vires when it exercises powers beyond those granted by its enabling legislation, contrary to the principles governing State Government Parastatals."
     },

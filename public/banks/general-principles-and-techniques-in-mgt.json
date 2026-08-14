@@ -1,0 +1,2410 @@
+{
+  "metadata": {
+    "id": "general-principles-management",
+    "title": "GENERAL PRINCIPLES AND TECHNIQUES IN MANAGEMENT",
+    "version": "1.0.0",
+    "totalQuestions": 200
+  },
+  "questions": [
+    {
+      "id": "general-principles-management-001",
+      "question": "According to the seminar, management is best described as the process of—",
+      "options": [
+        "enforcing government rules on employees",
+        "continuously searching for the optimum use of resources in pursuit of desired goals",
+        "supervising only financial resources",
+        "controlling political activities within an organisation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The material defines management as the continuous search for the optimum use of resources in pursuit of desired goals."
+    },
+    {
+      "id": "general-principles-management-002",
+      "question": "Which definition of management is also presented in the seminar?",
+      "options": [
+        "The process of utilizing available resources to accomplish a laid-down set of organisational objectives",
+        "The process of recruiting only qualified personnel",
+        "The process of eliminating all organisational risks",
+        "The process of enforcing disciplinary regulations"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Another definition given describes management as the process of utilizing available resources to accomplish a laid-down set of objectives of an organisation."
+    },
+    {
+      "id": "general-principles-management-003",
+      "question": "In the context of the seminar, a principle is best understood as—",
+      "options": [
+        "a specialised management technique",
+        "a financial regulation",
+        "a set of rules that guides conduct, norms or procedure",
+        "an organisational objective"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar defines principles as a set of rules that guides conduct, norms or procedure."
+    },
+    {
+      "id": "general-principles-management-004",
+      "question": "Which option most accurately defines technique as used in the seminar?",
+      "options": [
+        "A formal organisational structure",
+        "A way of achieving one's purpose skillfully",
+        "A rule governing employee conduct",
+        "A government policy document"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar defines technique as a way of achieving one's purpose skillfully."
+    },
+    {
+      "id": "general-principles-management-005",
+      "question": "The seminar's combined description of General Principles and Techniques of Management emphasizes the use of rules or procedures to—",
+      "options": [
+        "achieve one's purpose skillfully in controlling, directing or planning",
+        "eliminate the need for organisational objectives",
+        "replace all government regulations",
+        "restrict management to commercial enterprises"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The course is described as a management process using rules or procedures to achieve one's purpose skillfully, particularly in controlling, directing or planning activities."
+    },
+    {
+      "id": "general-principles-management-006",
+      "question": "According to the seminar, managers in both public and private sectors are faced with the task of—",
+      "options": [
+        "avoiding environmental changes",
+        "harnessing resources while considering their continued availability, goals and environmental differences",
+        "eliminating all external influences",
+        "concentrating exclusively on personnel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The source emphasizes the manager's task of harnessing resources, considering continued resource availability, organisational goals and differences in the environment."
+    },
+    {
+      "id": "general-principles-management-007",
+      "question": "Why should managers identify management methods or techniques appropriate to a particular situation?",
+      "options": [
+        "Because one technique is always inadequate",
+        "Because management techniques should contribute to attainment of organisational or societal goals in a particular situation and time",
+        "Because government requires every manager to use a different technique",
+        "Because techniques are determined only by employees"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that managers should identify the methods or techniques that will best contribute to attaining organisational or societal goals in a particular situation and time."
+    },
+    {
+      "id": "general-principles-management-008",
+      "question": "Which of the following belongs to the internal management environment?",
+      "options": [
+        "Economic depression",
+        "Political atmosphere",
+        "Type, size and location of the organisation",
+        "Suppliers of labour"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The internal environment includes the type, size and location of the organisation, its objectives, managers/personnel, and technology, facilities and equipment."
+    },
+    {
+      "id": "general-principles-management-009",
+      "question": "Which factor is classified under the external management environment?",
+      "options": [
+        "Managers' background and attitude",
+        "Organisational objectives",
+        "Technology and equipment",
+        "End users or beneficiaries of the organisation's products or services"
+      ],
+      "correctAnswer": 3,
+      "explanation": "End users or beneficiaries, such as clients, customers or members of the public, are identified as part of the external environment."
+    },
+    {
+      "id": "general-principles-management-010",
+      "question": "An organisation's equipment, facilities and technological resources would be classified under its—",
+      "options": [
+        "external political environment",
+        "internal management environment",
+        "economic environment",
+        "beneficiary environment"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Technology, facilities, equipment and tools are explicitly listed among the components of the internal management environment."
+    },
+    {
+      "id": "general-principles-management-011",
+      "question": "Which of the following is an example of a supplier/provider in the external management environment?",
+      "options": [
+        "A statutory allocation providing funds",
+        "The organisation's objective",
+        "The manager's attitude",
+        "The organisation's equipment"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Suppliers or providers of funds, labour, technology or infrastructure form part of the external environment. The seminar gives statutory allocation as an example."
+    },
+    {
+      "id": "general-principles-management-012",
+      "question": "An increase in the price of imported items would primarily represent which external environmental factor?",
+      "options": [
+        "Political atmosphere",
+        "Organisational structure",
+        "Economic variable",
+        "Personnel attitude"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar specifically identifies economic variables, including increases in the price of imported items and the state of the economy, as external environmental factors."
+    },
+    {
+      "id": "general-principles-management-013",
+      "question": "Which combination contains only internal environmental factors identified in the seminar?",
+      "options": [
+        "Clients, suppliers and political atmosphere",
+        "Economic variables, statutory allocation and clients",
+        "Organisation type/size/location, organisational objectives and personnel",
+        "Government policies, customers and suppliers"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The internal environment comprises the organisation's type, size and location; objectives; managers and other personnel; and technology/facilities/equipment."
+    },
+    {
+      "id": "general-principles-management-014",
+      "question": "A sudden change in government fiscal policy affects an organisation's investment decisions. This illustrates the influence of the—",
+      "options": [
+        "internal environment",
+        "external management environment",
+        "personnel environment",
+        "technological environment only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Government policies, including fiscal or tax policies, are identified as external environmental factors capable of affecting investment or business positively or negatively."
+    },
+    {
+      "id": "general-principles-management-015",
+      "question": "The seminar describes the Civil Service as an institution expected to—",
+      "options": [
+        "remain unaffected by changes in government policies",
+        "act with speed and sensitivity to changes in policies and events",
+        "operate independently of government",
+        "focus exclusively on commercial activities"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Civil Service is described as an organic institution expected to act with speed and sensitivity to changes in policies and events."
+    },
+    {
+      "id": "general-principles-management-016",
+      "question": "The Civil Service is described in the seminar as—",
+      "options": [
+        "an instrument of the Government of the day",
+        "a temporary political organisation",
+        "a private-sector institution",
+        "an electoral body"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar describes the Civil/Public Service as a body enjoying continuity and as an instrument of the Government of the day."
+    },
+    {
+      "id": "general-principles-management-017",
+      "question": "Which statement best reflects the seminar's description of the Civil Service?",
+      "options": [
+        "It is composed primarily of political appointees.",
+        "It is made up of servants of the State employed in a civil capacity on a non-political career basis.",
+        "It exists only during the tenure of a particular administration.",
+        "It is primarily a private commercial organisation."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar describes the Civil Service as being made up of servants of the State employed in a civil capacity and on a non-political career basis."
+    },
+    {
+      "id": "general-principles-management-018",
+      "question": "The Civil Service is described as being intimately devoted to—",
+      "options": [
+        "electoral campaigns and party administration",
+        "policy formulation and service delivery of government",
+        "private-sector investment",
+        "commercial advertising"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The material describes the Civil Service as part of the Public Service intimately devoted to policy formulation and service delivery of government."
+    },
+    {
+      "id": "general-principles-management-019",
+      "question": "Which development is identified in the seminar as contributing to the restructuring of the Nigerian Civil Service?",
+      "options": [
+        "The Murtala Mohammed restructuring exercise",
+        "The introduction of social media",
+        "The creation of private universities",
+        "The introduction of local government elections"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar identifies the Murtala Mohammed restructuring and refers to the associated “Great Purge” in discussing the restructuring of the Civil Service."
+    },
+    {
+      "id": "general-principles-management-020",
+      "question": "Which constitutional provisions are specifically identified in the seminar as providing for the establishment of State Service and protection of pension rights?",
+      "options": [
+        "Sections 12 and 15",
+        "Sections 45 and 46",
+        "Sections 206 and 210",
+        "Sections 301 and 302"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar identifies Sections 206 and 210 of the 1999 Constitution (as amended) in this context."
+    },
+    {
+      "id": "general-principles-management-021",
+      "question": "Which body is identified as a body concerned with implementing government policies among the management tools listed?",
+      "options": [
+        "National Council on Establishments",
+        "Civil Service Commission alone",
+        "State House of Assembly",
+        "Service Delivery Charter Committee"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The National Council on Establishments is listed among the tools/concepts used as management techniques in the Public/Civil Service and is described as a body to implement government policies."
+    },
+    {
+      "id": "general-principles-management-022",
+      "question": "The Public Service Rules primarily—",
+      "options": [
+        "provide rules and regulations guiding the operation or changes in the Service",
+        "determine only pension payments",
+        "establish political parties",
+        "replace the Constitution"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar states that the Public Service Rules embody rules and regulations that guide the operation or changes in the Service."
+    },
+    {
+      "id": "general-principles-management-023",
+      "question": "According to the seminar, circulars and circular letters may be issued to—",
+      "options": [
+        "amend, cancel or institute new rules",
+        "replace all Schemes of Service",
+        "determine election results",
+        "abolish the Civil Service"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Circulars/circular letters are described as guidelines on rules and regulations issued regularly to amend, cancel or institute new rules, and they must be obeyed by all."
+    },
+    {
+      "id": "general-principles-management-024",
+      "question": "Which statement about circulars is MOST consistent with the seminar?",
+      "options": [
+        "They are optional suggestions to civil servants.",
+        "They may amend, cancel or introduce rules and are to be obeyed by all.",
+        "They apply only to political office holders.",
+        "They deal exclusively with financial matters."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar specifically states that circulars/circular letters may amend, cancel or institute new rules and must be obeyed by all."
+    },
+    {
+      "id": "general-principles-management-025",
+      "question": "A Scheme of Service is particularly useful because it shows—",
+      "options": [
+        "only the salary of each public servant",
+        "different cadres, entry requirements, progression and qualifications",
+        "only disciplinary offences",
+        "government expenditure for each Ministry"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that Schemes of Service show different cadres, entry, progression and qualification."
+    },
+    {
+      "id": "general-principles-management-026",
+      "question": "Which management tool provides guidelines for the receipts and expenditure of government funds?",
+      "options": [
+        "Service Delivery Charter",
+        "Financial Instructions",
+        "Scheme of Service",
+        "Circular on nomenclature"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Financial Instructions provide guidelines for receipts and expenditure of government funds."
+    },
+    {
+      "id": "general-principles-management-027",
+      "question": "The Pension Reforms Act 2014 is presented in the seminar as representing a departure from—",
+      "options": [
+        "contributory payment to pay-as-you-go",
+        "pay-as-you-go to a contributory system of payment of retirement benefits",
+        "pension administration to salary administration",
+        "retirement benefits to training allowances"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that the Pension Reforms Act 2014 marked a departure from the former pay-as-you-go system to a contributory system of payment of retirement benefits."
+    },
+    {
+      "id": "general-principles-management-028",
+      "question": "The Service Delivery Charter is associated in the seminar with—",
+      "options": [
+        "improved performance, accountability, transparency and service delivery",
+        "political campaigning and election management",
+        "pension deductions only",
+        "disciplinary punishment only"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar directly links the Service Delivery Charter with improved performance, accountability, transparency and service delivery."
+    },
+    {
+      "id": "general-principles-management-029",
+      "question": "Which of the following is mentioned as an institution involved in seminars, workshops and training?",
+      "options": [
+        "Centre for Management Development",
+        "Electoral Commission",
+        "State Security Service",
+        "Federal Executive Council"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar specifically mentions the Centre for Management Development (CMD) and Administrative Staff College of Nigeria (ASCON) as examples."
+    },
+    {
+      "id": "general-principles-management-030",
+      "question": "The Ayida Panel Report is identified in the seminar primarily in connection with—",
+      "options": [
+        "civil service reforms and restructuring",
+        "pension payment administration",
+        "fiscal policy",
+        "political party registration"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar identifies the Ayida Panel Report on Civil Service Reforms as a major means of restructuring the present Civil Service."
+    },
+    {
+      "id": "general-principles-management-031",
+      "question": "Leadership is described in the seminar as an important role because it—",
+      "options": [
+        "determines the spirit of attainment of predetermined goals",
+        "eliminates the need for management",
+        "applies only to political office holders",
+        "focuses exclusively on financial control"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar states that leadership is important in any organisation and determines the spirit of attainment of predetermined goals."
+    },
+    {
+      "id": "general-principles-management-032",
+      "question": "Which statement about managers and leaders is made in the seminar?",
+      "options": [
+        "All leaders are managers.",
+        "No manager can be a leader.",
+        "All managers are leaders, but not all leaders are managers.",
+        "Managers and leaders are completely unrelated."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The material expressly states: “all managers are leaders but not all leaders are managers.”"
+    },
+    {
+      "id": "general-principles-management-033",
+      "question": "Which quality of leadership is associated with seeing or thinking beyond the limits of one's followers?",
+      "options": [
+        "Firmness",
+        "Vision",
+        "Punctuality",
+        "Technical specialization"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A good leader must be a person of vision, meaning the ability to see or think beyond the limits of followers or subordinates."
+    },
+    {
+      "id": "general-principles-management-034",
+      "question": "According to the seminar, a good leader should adopt which approach when handling issues?",
+      "options": [
+        "Autocratic approach in every circumstance",
+        "Democratic approach",
+        "Completely passive approach",
+        "Secretive approach"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that a good leader should be sufficiently educated and try to adopt a democratic approach in handling issues."
+    },
+    {
+      "id": "general-principles-management-035",
+      "question": "Which leadership quality is most directly associated with trustworthiness in the seminar?",
+      "options": [
+        "Doubtful integrity",
+        "Political influence",
+        "Integrity",
+        "Wealth"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The material specifically states that a good leader must not be a person of doubtful integrity."
+    },
+    {
+      "id": "general-principles-management-036",
+      "question": "A manager accepts that circumstances are changing and actively encourages the organisation to adapt. Which leadership quality does this BEST demonstrate?",
+      "options": [
+        "Resistance to change",
+        "Being a change agent",
+        "Administrative isolation",
+        "Dependence on subordinates"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that a good leader should not merely accept change but should be a change agent."
+    },
+    {
+      "id": "general-principles-management-037",
+      "question": "Which combination BEST reflects the leadership qualities specifically identified in the seminar?",
+      "options": [
+        "Fair, approachable but firm",
+        "Secretive, rigid and distant",
+        "Indecisive, passive and dependent",
+        "Punitive, inaccessible and inflexible"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar states that a good leader must be fair, approachable but firm."
+    },
+    {
+      "id": "general-principles-management-038",
+      "question": "During an emergency, a leader remains calm and acts decisively instead of becoming confused.",
+      "options": [
+        "Ability to handle emergencies without panicking",
+        "Political neutrality",
+        "Technical specialization",
+        "Financial discipline"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar specifically states that a good leader should be able to handle emergencies without panicking."
+    },
+    {
+      "id": "general-principles-management-039",
+      "question": "Which of the following is identified as a problem of leadership in government?",
+      "options": [
+        "Complete freedom from rules and regulations",
+        "Limited manoeuvring ability of managers arising from stipulated rules and regulations",
+        "Absence of interest groups",
+        "Excessive continuity in government policy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies the limited manoeuvring ability of managers in government arising from stipulated rules and regulations as a leadership problem."
+    },
+    {
+      "id": "general-principles-management-040",
+      "question": "The multiplicity of interest groups and ethnic nationalities in many Nigerian states is presented in the seminar as—",
+      "options": [
+        "a leadership problem",
+        "an internal technological resource",
+        "a financial instruction",
+        "a management tool"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar expressly identifies the multiplicity of interest groups and ethnic nationalities as one of the problems of leadership in organisations."
+    },
+    {
+      "id": "general-principles-management-041",
+      "question": "Which situation reflects the problem of short continuity in government policy identified in the seminar?",
+      "options": [
+        "Policies remain unchanged across successive administrations.",
+        "Rapid turnover in political leadership results in frequent changes in policy direction and thinking.",
+        "Managers have complete freedom to determine government policy.",
+        "Civil servants determine all political policies."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies short span of continuity in government policy and rapid turnover in political leadership and thinking as a leadership problem."
+    },
+    {
+      "id": "general-principles-management-042",
+      "question": "MBWA, as identified in the seminar, stands for—",
+      "options": [
+        "Management by Written Administration",
+        "Management by Walking Around",
+        "Management by Workforce Assessment",
+        "Management by Workplace Authority"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies MBWA as Management by Walking Around, a management technique used in the Public Service and government business."
+    },
+    {
+      "id": "general-principles-management-043",
+      "question": "The policy of commencing written promotion examinations in the Civil Service took effect, according to the seminar, from—",
+      "options": [
+        "January 2014",
+        "January 2015",
+        "January 2016",
+        "January 2017"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar states that the policy of commencement of written promotion examination took effect from January 2016, as conveyed by the Civil Service Commission circular letter of 9 August 2015."
+    },
+    {
+      "id": "general-principles-management-044",
+      "question": "The application of the Administrative and Other Professionals Compulsory Examination to professional and other officers in the Senior Management Cadre was conveyed by—",
+      "options": [
+        "CSC Circular No. 2/2017",
+        "SSG Circular No. 2/2003",
+        "Establishment Circular No. 3/1988",
+        "HOC Circular No. 6/2010"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar identifies CSC Circular No. 2/2017 as conveying the application of the compulsory examination to the relevant professional and other officers in the Senior Management Cadre."
+    },
+    {
+      "id": "general-principles-management-045",
+      "question": "Under X Theory, employees are generally assumed to—",
+      "options": [
+        "naturally enjoy work and exercise self-control",
+        "be independent and creative under the right conditions",
+        "dislike work and require close supervision",
+        "require recognition and rewards before accepting responsibility"
+      ],
+      "correctAnswer": 2,
+      "explanation": "X Theory assumes, among other things, that people do not like to work and cannot work effectively without close supervision."
+    },
+    {
+      "id": "general-principles-management-046",
+      "question": "Which assumption belongs to Y Theory rather than X Theory?",
+      "options": [
+        "People can only work when threatened or punished.",
+        "People cannot contribute to solving organisational problems.",
+        "People require close supervision because they have no discretion.",
+        "Given the right conditions, most people can enjoy work."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Y Theory takes the more positive view that, given the right conditions, most people can enjoy work and can exercise self-control, independence and creativity."
+    },
+    {
+      "id": "general-principles-management-047",
+      "question": "A manager believes that employees can exercise self-control and become independent and creative when appropriate conditions exist.",
+      "options": [
+        "X Theory",
+        "Y Theory",
+        "Purge Theory",
+        "Bureaucratic Theory"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Those assumptions are specifically associated with Y Theory in the seminar."
+    },
+    {
+      "id": "general-principles-management-048",
+      "question": "Which of the following is associated with X Theory in the seminar?",
+      "options": [
+        "Recognition and rewards motivate group members.",
+        "People are naturally independent and creative.",
+        "People can exercise self-control.",
+        "People can only work when threatened or punished."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar lists the belief that people can only work when threatened or punished among the assumptions of X Theory."
+    },
+    {
+      "id": "general-principles-management-049",
+      "question": "According to Y Theory, motivation is particularly necessary in a group setting where people are—",
+      "options": [
+        "threatened and punished",
+        "recognized and rewarded",
+        "prevented from exercising discretion",
+        "subjected to constant supervision"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states under Y Theory that motivation is necessary in a group setting where people are recognized and rewarded."
+    },
+    {
+      "id": "general-principles-management-050",
+      "question": "A manager believes that employees cannot contribute meaningfully to solving organisational problems because they are not creative and must therefore be closely controlled.",
+      "options": [
+        "Y Theory — motivation through recognition and reward",
+        "X Theory — reliance on supervision and punitive measures",
+        "Y Theory — self-control and independence",
+        "MBWA — democratic leadership and change agency"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The manager's assumptions match X Theory: employees are viewed as lacking creativity, requiring close supervision and potentially responding to threats or punishment."
+    },
+    {
+      "id": "general-principles-management-051",
+      "question": "The seminar describes bureaucracy, through Max Weber's view, as—",
+      "options": [
+        "the least flexible form of political administration",
+        "the most efficient administrative organisation for conducting government affairs",
+        "a temporary arrangement for implementing political programmes",
+        "an organisation primarily designed for private enterprise"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that Max Weber regarded bureaucracy as the most efficient administrative organisation for conducting government affairs."
+    },
+    {
+      "id": "general-principles-management-052",
+      "question": "According to Weber's position as presented in the seminar, technically correct decisions are facilitated by—",
+      "options": [
+        "political loyalty and informal relationships",
+        "disciplined performance governed by abstract rules and coordinated by authority hierarchy",
+        "individual discretion without organisational rules",
+        "frequent changes in organisational leadership"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar attributes technically correct decisions to disciplined performance governed by abstract rules and coordinated through an authority hierarchy, supporting rational and consistent pursuit of organisational goals."
+    },
+    {
+      "id": "general-principles-management-053",
+      "question": "Which of the following BEST explains why the Civil Service is described as an institution enjoying continuity?",
+      "options": [
+        "Its existence is tied to the tenure of each political administration.",
+        "It continues as an institution even as governments and political leadership change.",
+        "Its officers are elected rather than appointed.",
+        "It is independent of government policy."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar describes the Civil Service as a body that enjoys continuity of existence while serving as an instrument of the government of the day."
+    },
+    {
+      "id": "general-principles-management-054",
+      "question": "A civil servant argues that because the Civil Service is non-political, it has no role in implementing the policies of the government of the day.",
+      "options": [
+        "Correct; political neutrality means policy implementation is prohibited.",
+        "Incorrect; the Civil Service is non-political in career basis but is an instrument of the Government of the day and is devoted to policy formulation and service delivery.",
+        "Correct; only political appointees implement policy.",
+        "Incorrect only because civil servants are elected."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar simultaneously describes the Civil Service as non-political and career-based and as an instrument of the Government of the day, intimately involved in policy formulation and service delivery."
+    },
+    {
+      "id": "general-principles-management-055",
+      "question": "Which constitutional sections are specifically associated in the seminar with the establishment of State Service and protection of pension rights?",
+      "options": [
+        "Sections 206 and 210",
+        "Sections 010101 and 010107",
+        "Sections 040301 and 040401",
+        "Sections 1 and 2"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar identifies Sections 206 and 210 of the 1999 Constitution (as amended) for the establishment of State Service and protection of pension rights."
+    },
+    {
+      "id": "general-principles-management-056",
+      "question": "Which of the following is correctly matched with its function?",
+      "options": [
+        "Financial Instructions — guidelines for government receipts and expenditure",
+        "Scheme of Service — guidelines for pension contributions only",
+        "Service Delivery Charter — classification of misconduct",
+        "Public Service Rules — determination of electoral boundaries"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar specifically states that Financial Instructions provide guidelines for receipts and expenditure of government funds."
+    },
+    {
+      "id": "general-principles-management-057",
+      "question": "A new officer wants to know the various cadres in the Service, their entry requirements, progression and qualifications.",
+      "options": [
+        "Financial Instructions",
+        "Scheme of Service",
+        "Service Delivery Charter",
+        "Pension Reforms Act"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that Schemes of Service show different cadres, entry, progression and qualifications."
+    },
+    {
+      "id": "general-principles-management-058",
+      "question": "Which development represents the change from the former pay-as-you-go approach to a contributory system for retirement benefits?",
+      "options": [
+        "Service Delivery Charter",
+        "Pension Reforms Act 2014",
+        "Ayida Panel Report",
+        "National Council on Establishments"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies the Pension Reforms Act 2014 (as amended) as representing this departure."
+    },
+    {
+      "id": "general-principles-management-059",
+      "question": "A reform initiative is primarily concerned with improving performance, accountability, transparency and service delivery.",
+      "options": [
+        "Service Delivery Charter",
+        "Financial Instructions",
+        "Scheme of Service",
+        "Circular on nomenclature"
+      ],
+      "correctAnswer": 0,
+      "explanation": "These are the specific purposes attributed to the Service Delivery Charter in the seminar."
+    },
+    {
+      "id": "general-principles-management-060",
+      "question": "The Service Delivery Charter's reform focus also seeks to ensure that the Public Service has—",
+      "options": [
+        "fewer citizens using government services",
+        "the capacity, structures, skills and appropriate incentives to provide better services",
+        "complete freedom from accountability",
+        "only financial resources without regard to skills"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar links the Charter to securing the capacity, structures, skills and right incentives needed to produce better service for the populace."
+    },
+    {
+      "id": "general-principles-management-061",
+      "question": "Which institution is specifically identified as a body for implementing government policies?",
+      "options": [
+        "National Council on Establishments",
+        "Service Delivery Charter",
+        "Pension Reform Committee",
+        "Scheme of Service Board"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar identifies the National Council on Establishments as a body to implement government policies."
+    },
+    {
+      "id": "general-principles-management-062",
+      "question": "Which of the following is the BEST description of the role of circulars/circular letters in the Public Service?",
+      "options": [
+        "They merely provide optional advice.",
+        "They provide guidelines on rules and regulations and may amend, cancel or institute new rules.",
+        "They determine an officer's personal political preference.",
+        "They replace all constitutional provisions."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar describes circulars/circular letters as guidelines on rules and regulations issued regularly to amend, cancel or institute new rules, which must be obeyed by all."
+    },
+    {
+      "id": "general-principles-management-063",
+      "question": "An officer receives a properly issued circular changing an existing rule. The officer argues that compliance is optional because circulars are not the Public Service Rules themselves.",
+      "options": [
+        "The officer is correct.",
+        "The officer is incorrect because the seminar states that circulars/circular letters must be obeyed by all.",
+        "The officer is correct unless the circular concerns promotion.",
+        "Compliance depends on the officer's grade level."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar explicitly says circulars/circular letters used to amend, cancel or institute rules must be obeyed by all."
+    },
+    {
+      "id": "general-principles-management-064",
+      "question": "A circular changes the nomenclature and functional titles of certain cadres following approval in the Scheme of Service.",
+      "options": [
+        "SSG Circular of 14 July 1998",
+        "CSC Circular No. 2/2017",
+        "Establishment Circular 3/1988",
+        "Circular No. 1/2000"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar specifically refers to the SSG Circular of 14 July 1998 concerning realignment of nomenclature and functional titles of some cadres approved in the Scheme of Service."
+    },
+    {
+      "id": "general-principles-management-065",
+      "question": "SSG Circulars Nos. 1–6 of 2017 and SSG Circular 2/2003 are discussed in relation to—",
+      "options": [
+        "Ministerial responsibilities",
+        "pension contributions",
+        "written promotion examinations",
+        "staff discipline alone"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar identifies these circulars in connection with Ministerial Responsibilities and the structuring of duties between Ministries and the Governor's Office."
+    },
+    {
+      "id": "general-principles-management-066",
+      "question": "Under the arrangement described in the seminar, Ministries are generally regarded as having—",
+      "options": [
+        "heterogeneous functions",
+        "mono-functions",
+        "dual political functions",
+        "judicial functions"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar describes the responsibilities of other Ministries as Mono-function (single), in contrast with the Governor's Office, described as heterogeneous or dual-functions."
+    },
+    {
+      "id": "general-principles-management-067",
+      "question": "Which of the following is identified as a responsibility of the Governor's Office under the heterogeneous/dual-function arrangement?",
+      "options": [
+        "Every routine function of every Ministry",
+        "Prerogative of mercy",
+        "Preparation of every Scheme of Service",
+        "Administration of every local government office"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar lists Prerogative of mercy among the responsibilities associated with the Governor's Office."
+    },
+    {
+      "id": "general-principles-management-068",
+      "question": "Which pair consists entirely of responsibilities listed under the Governor's Office?",
+      "options": [
+        "Prerogative of mercy and State Security Matters/Public Safety",
+        "Staff appraisal and salary processing",
+        "Scheme of Service and financial auditing",
+        "Recruitment and pension deductions"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Both Prerogative of mercy and State Security Matters and Public Safety are expressly listed among the Governor's Office responsibilities."
+    },
+    {
+      "id": "general-principles-management-069",
+      "question": "Which of the following is NOT among the Governor's Office responsibilities specifically listed in the seminar?",
+      "options": [
+        "Relations with the Presidency and National/State Assemblies",
+        "Appointment of key public functionaries",
+        "Relations with Armed Forces and Police",
+        "Preparation of all departmental annual budgets"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The listed responsibilities include constitutional matters, relations with the Presidency/Assemblies, prerogative of mercy, security/public safety, appointment of key public functionaries and relations with the Armed Forces and Police. Preparation of all departmental annual budgets is not listed."
+    },
+    {
+      "id": "general-principles-management-070",
+      "question": "The seminar describes a manager's ability to manoeuvre in government as limited partly because of—",
+      "options": [
+        "absence of any government rules",
+        "stipulated rules and regulations governing government business",
+        "excessive private-sector competition",
+        "lack of political leadership"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The limited manoeuvring ability of managers resulting from stipulated rules and regulations is expressly identified as a leadership problem."
+    },
+    {
+      "id": "general-principles-management-071",
+      "question": "Which leadership problem arises from the need to align constitutional government objectives with the interests of the ruling political party and individual operators of government affairs?",
+      "options": [
+        "Multiplicity of suppliers",
+        "Political-interest alignment problem",
+        "Lack of technological resources",
+        "Inadequate pension administration"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies the tension between constitutional government objectives, the interests of the ruling political party and those of individual operators of government affairs as a leadership problem."
+    },
+    {
+      "id": "general-principles-management-072",
+      "question": "According to the seminar, which combination contributes to a vicious circle of corruption?",
+      "options": [
+        "High-level poverty and absence of patriotic mentality",
+        "Strong professionalism and accountability",
+        "Increased training and service delivery",
+        "Political stability and economic growth"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar directly links high-level poverty and absence of patriotic mentality with a vicious circle of corruption."
+    },
+    {
+      "id": "general-principles-management-073",
+      "question": "A government repeatedly changes policy direction because political leadership changes rapidly.",
+      "options": [
+        "Multiplicity of ethnic groups",
+        "Limited managerial manoeuvring",
+        "Short span of continuity in government policy",
+        "Absence of a Scheme of Service"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar expressly identifies short span of continuity in government policy and rapid turnover in political leadership and thinking as a leadership problem."
+    },
+    {
+      "id": "general-principles-management-074",
+      "question": "Which of the following is NOT presented as a problem of leadership in the organisation?",
+      "options": [
+        "Multiplicity of interest groups and ethnic nationalities",
+        "High level of poverty and absence of patriotic mentality",
+        "Short continuity in government policy",
+        "Availability of unlimited managerial discretion"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar identifies limited managerial manoeuvring, not unlimited discretion, as a leadership problem."
+    },
+    {
+      "id": "general-principles-management-075",
+      "question": "The seminar says a leader should be fair, approachable but firm. Which situation BEST reflects all three qualities?",
+      "options": [
+        "A manager avoids every disciplinary decision to remain approachable.",
+        "A manager applies the same standard, listens to staff concerns and still enforces legitimate decisions.",
+        "A manager imposes decisions without hearing anyone.",
+        "A manager allows only close associates to approach him."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar explicitly identifies being fair, approachable but firm as a quality of good leadership. The scenario combines all three elements."
+    },
+    {
+      "id": "general-principles-management-076",
+      "question": "A leader accepts an organisational change but takes no action to help staff adapt to it.",
+      "options": [
+        "Being a change agent",
+        "Being approachable",
+        "Being educated",
+        "Being a manager"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar says a good leader should not only be willing to accept change but should be a change agent."
+    },
+    {
+      "id": "general-principles-management-077",
+      "question": "Which quality is most directly associated with a leader's ability to think beyond the limits of followers?",
+      "options": [
+        "Firmness",
+        "Vision",
+        "Punctuality",
+        "Discipline"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar defines vision in leadership as the ability to see or think beyond the limits of followers or subordinates."
+    },
+    {
+      "id": "general-principles-management-078",
+      "question": "The seminar describes leadership as highly behavioural and requiring all of the following EXCEPT—",
+      "options": [
+        "intelligence",
+        "good communication",
+        "proper understanding of human relationships",
+        "complete isolation from subordinates"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar associates leadership with intelligence, communication, moral building, motivation, human relationships, charisma and maturity. Isolation is not identified."
+    },
+    {
+      "id": "general-principles-management-079",
+      "question": "Which statement accurately reflects the relationship between management and leadership according to the seminar?",
+      "options": [
+        "Every leader must be a manager.",
+        "Every manager is a leader, but leadership can exist without managerial status.",
+        "Managers and leaders are mutually exclusive.",
+        "Only political leaders qualify as leaders."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar's explicit formulation is that all managers are leaders but not all leaders are managers."
+    },
+    {
+      "id": "general-principles-management-080",
+      "question": "A manager is highly intelligent but repeatedly loses control during emergencies.",
+      "options": [
+        "Vision",
+        "Ability to handle emergencies without panicking",
+        "Democratic approach",
+        "Education"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar specifically states that a good leader should be able to handle emergencies without panicking."
+    },
+    {
+      "id": "general-principles-management-081",
+      "question": "The seminar identifies MBWA as a management technique used in—",
+      "options": [
+        "public service and government business",
+        "private banking alone",
+        "electoral administration only",
+        "judicial proceedings only"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Management by Walking Around (MBWA) is specifically identified as a management technique in both the Public Service and Government Business."
+    },
+    {
+      "id": "general-principles-management-082",
+      "question": "Which description BEST captures MBWA as named in the seminar?",
+      "options": [
+        "Management by Written Authority",
+        "Management by Walking Around",
+        "Management by Workforce Allocation",
+        "Management by Welfare Administration"
+      ],
+      "correctAnswer": 1,
+      "explanation": "MBWA is explicitly expanded as Management by Walking Around."
+    },
+    {
+      "id": "general-principles-management-083",
+      "question": "The written promotion examination policy in the Civil Service took effect from—",
+      "options": [
+        "January 2014",
+        "January 2015",
+        "January 2016",
+        "January 2017"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar states that the written promotion examination policy took effect from January 2016, as conveyed by the Civil Service Commission circular letter of 9 August 2015."
+    },
+    {
+      "id": "general-principles-management-084",
+      "question": "Which document is specifically associated with the written promotion examination policy taking effect in January 2016?",
+      "options": [
+        "Civil Service Commission circular letter of 9 August 2015",
+        "SSG Circular 2/2003",
+        "Pension Reforms Act 2014",
+        "Ayida Panel Report"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar explicitly connects the January 2016 commencement with the Civil Service Commission circular letter of 9 August 2015."
+    },
+    {
+      "id": "general-principles-management-085",
+      "question": "CSC Circular No. 2/2017 concerns the application of—",
+      "options": [
+        "Financial Instructions to all junior officers",
+        "Administrative and other professionals' compulsory examination to relevant senior-management officers",
+        "Pension reform to political appointees",
+        "MBWA to all Ministries"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies CSC Circular No. 2/2017 in connection with applying the Administrative and Other Professionals Compulsory Examination to professional and other officers in the Senior Management Cadre."
+    },
+    {
+      "id": "general-principles-management-086",
+      "question": "The seminar asks participants to consider whether recent policies such as the written promotion examination and compulsory examination are—",
+      "options": [
+        "good policies and why",
+        "constitutional amendments",
+        "forms of pension reform",
+        "examples of external economic variables"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The material explicitly tells participants to note the reasons for the above policies and consider whether they are good policies."
+    },
+    {
+      "id": "general-principles-management-087",
+      "question": "Which statement about X Theory is most consistent with the seminar?",
+      "options": [
+        "Employees are assumed to naturally enjoy work.",
+        "Employees are assumed to be capable of independence and creativity.",
+        "Employees are assumed to dislike work and require close supervision.",
+        "Employees are assumed to need only recognition and rewards."
+      ],
+      "correctAnswer": 2,
+      "explanation": "X Theory is presented as the punitive-measure principle and assumes that people do not like work and require close supervision."
+    },
+    {
+      "id": "general-principles-management-088",
+      "question": "A supervisor believes that workers cannot effectively perform without close supervision and cannot contribute creatively to solving organisational problems.",
+      "options": [
+        "Y Theory",
+        "X Theory",
+        "MBWA",
+        "Service Delivery Charter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Those assumptions are explicitly listed under X Theory."
+    },
+    {
+      "id": "general-principles-management-089",
+      "question": "Which assumption would be inconsistent with X Theory as presented in the seminar?",
+      "options": [
+        "People do not like to work.",
+        "People cannot work effectively without close supervision.",
+        "People cannot contribute to solving organisational problems.",
+        "People are naturally independent and creative."
+      ],
+      "correctAnswer": 3,
+      "explanation": "X Theory presents the opposite assumptions. Independence and creativity under suitable conditions belong to Y Theory."
+    },
+    {
+      "id": "general-principles-management-090",
+      "question": "Under Y Theory, most people can enjoy work when—",
+      "options": [
+        "they are constantly threatened",
+        "the right conditions exist",
+        "punishment is increased",
+        "all discretion is removed"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The first stated assumption of Y Theory is that given the right conditions most people can enjoy work."
+    },
+    {
+      "id": "general-principles-management-091",
+      "question": "Which pair belongs specifically to Y Theory?",
+      "options": [
+        "Threats and punishment",
+        "Close supervision and lack of discretion",
+        "Self-control and independence/creativity",
+        "Inability to contribute and dislike of work"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Y Theory states that people can exercise self-control and be independent and creative under appropriate conditions."
+    },
+    {
+      "id": "general-principles-management-092",
+      "question": "The seminar associate’s motivation under Y Theory with a group setting where people are—",
+      "options": [
+        "threatened and punished",
+        "recognized and rewarded",
+        "prevented from exercising discretion",
+        "subjected to continuous supervision"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The material specifically states that motivation is necessary in a group setting where people are recognized and rewarded."
+    },
+    {
+      "id": "general-principles-management-093",
+      "question": "A manager adopts a policy based on the belief that staff perform better when recognised and rewarded.",
+      "options": [
+        "X Theory",
+        "Y Theory",
+        "Purge approach",
+        "Red-tapism"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Recognition and rewards are expressly associated with motivation under Y Theory."
+    },
+    {
+      "id": "general-principles-management-094",
+      "question": "Which reform is most directly associated by its name with reducing the size of an organisation or sector to an appropriate level?",
+      "options": [
+        "Right-sizing",
+        "Rebranding",
+        "Whistle Blowing",
+        "Servicom"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Right-sizing is listed among the different types of public/civil service reforms. The seminar later states one of the reform goals as to right-size the sector and eliminate ghost workers."
+    },
+    {
+      "id": "general-principles-management-095",
+      "question": "Which reform objective is directly associated with the problem of ghost workers?",
+      "options": [
+        "Right-size the sector",
+        "Liberalize the sector",
+        "Enhance economic coordination",
+        "Restore pension rights"
+      ],
+      "correctAnswer": 0,
+      "explanation": "One of the stated goals of public-sector reforms is to right-size the sector and eliminate ghost workers."
+    },
+    {
+      "id": "general-principles-management-096",
+      "question": "A reform programme seeks to improve the professional standards of civil servants.",
+      "options": [
+        "Enhance economic coordination",
+        "Restore the professionalism of the Civil Service",
+        "Privatize the sector",
+        "Reduce the price of imported items"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Restoring the professionalism of the Civil Service is expressly identified as a public-sector reform goal."
+    },
+    {
+      "id": "general-principles-management-097",
+      "question": "Which combination consists entirely of stated goals of the Public Sector Reforms?",
+      "options": [
+        "Right-size the sector, restore professionalism, rationalize/restructure institutions",
+        "Increase bureaucracy, reduce accountability, expand ghost workers",
+        "Abolish institutions, increase waste, reduce transparency",
+        "Eliminate training, privatize every government function, suspend oversight"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar lists right-sizing/eliminating ghost workers, restoring professionalism, and rationalizing/restructuring/strengthening institutions among the reform goals."
+    },
+    {
+      "id": "general-principles-management-098",
+      "question": "Which reform goal deals most directly with reducing unnecessary government spending?",
+      "options": [
+        "Restore professionalism",
+        "Reduce waste and improve efficiency of government expenditures",
+        "Enhance ethnic representation",
+        "Increase policy turnover"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar expressly identifies reducing waste and improving efficiency of government expenditures as a reform goal."
+    },
+    {
+      "id": "general-principles-management-099",
+      "question": "A reform programme seeks to improve transparency in public accounts while tackling corruption.",
+      "options": [
+        "Tackle corruption and improve transparency in public accounts",
+        "Increase managerial discretion",
+        "Reduce the number of government policies",
+        "Promote political turnover"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar specifically states the goal of tackling corruption and improving transparency in public accounts of government agencies and venture oil companies."
+    },
+    {
+      "id": "general-principles-management-100",
+      "question": "A reform package simultaneously seeks to reduce government waste, strengthen institutions, tackle corruption and improve the responsiveness of the public sector.",
+      "options": [
+        "The reforms are primarily designed to increase bureaucracy and managerial restrictions.",
+        "The reforms seek to address shortcomings in the public sector by making it more efficient and responsive while improving accountability and tackling corruption.",
+        "The reforms are concerned exclusively with pension administration.",
+        "The reforms are designed mainly to increase political control over the Civil Service."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that the reforms aim to address shortcomings in the public sector by creating a more efficient and responsive public sector, improving security and administration of justice, tackling corruption, and promoting transparency and accountability."
+    },
+    {
+      "id": "general-principles-management-101",
+      "question": "Which of the following is the odd one out in the seminar's list of different types of reforms and effects in the Public/Civil Service?",
+      "options": [
+        "Rebranding",
+        "Right-sizing",
+        "Needs, Seeds, Leeds",
+        "Annual Appropriation Law"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar lists Rebranding, Right-sizing and Needs, Seeds, Leeds among the different reforms/effects. Annual Appropriation Law is not included in that particular list."
+    },
+    {
+      "id": "general-principles-management-102",
+      "question": "Which combination contains only items explicitly listed under “Different Types of Reforms and Effects”?",
+      "options": [
+        "Purge, Re-organization, Right-sizing",
+        "Financial Instructions, Scheme of Service, Purge",
+        "Organogram, APER, Rebranding",
+        "Circulars, IPSAS, Annual Appropriation Laws"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Purge, Re-organization and Right-sizing all appear in the seminar's reform list. The other options mix reform items with management tools or other concepts."
+    },
+    {
+      "id": "general-principles-management-103",
+      "question": "Which of the following pairs is correctly matched with the reform list in the seminar?",
+      "options": [
+        "IPSAS — reform item",
+        "Financial Instructions — reform item",
+        "Whistle Blowing — reform item",
+        "Scheme of Service — reform item"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Whistle Blowing appears explicitly in the list of different reforms and effects. IPSAS, Financial Instructions and Schemes of Service also appear elsewhere in the broader list of management tools/concepts, but not as the specific item identified in this pairing."
+    },
+    {
+      "id": "general-principles-management-104",
+      "question": "A candidate is asked to identify an item from the seminar's reform list that begins with the concept of making government institutions appropriately sized.",
+      "options": [
+        "Rebranding",
+        "Right-sizing",
+        "Re-organization",
+        "Red-tapism"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Right-sizing is expressly listed among the reform types/effects."
+    },
+    {
+      "id": "general-principles-management-105",
+      "question": "Which of the following is listed in the seminar after “Due Process” and before “Bureaucracy”?",
+      "options": [
+        "Whistle Blowing",
+        "Servicom",
+        "Rebranding",
+        "IPSAS"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The sequence given is Due Process → Whistle Blowing → Bureaucracy."
+    },
+    {
+      "id": "general-principles-management-106",
+      "question": "Which sequence reproduces the seminar's ordering of these listed reform/effect concepts?",
+      "options": [
+        "Purge → Re-organization → Needs, Seeds, Leeds → Right-sizing",
+        "Purge → Right-sizing → Re-organization → Needs, Seeds, Leeds",
+        "Re-organization → Purge → Right-sizing → Rebranding",
+        "Needs, Seeds, Leeds → Purge → Rebranding → Right-sizing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar presents the sequence Purge, Re-organization, Needs, Seeds, Leeds, Right-sizing."
+    },
+    {
+      "id": "general-principles-management-107",
+      "question": "Which pair appears in the seminar's list of reform/effect concepts but is not a pair of personnel-management records?",
+      "options": [
+        "Servicom and IPSAS",
+        "Rebranding and Right-sizing",
+        "Due Process and Whistle Blowing",
+        "Pro-rata leave and Leave of absence"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Servicom and IPSAS are both explicitly listed among the different reform/effect concepts."
+    },
+    {
+      "id": "general-principles-management-108",
+      "question": "The seminar lists “Termination, Dismissal, retirement, withdrawal and resignation of Appointment” together. Which conclusion is safest?",
+      "options": [
+        "The seminar presents all five as forms of reform.",
+        "The seminar identifies all five within its broader list of concepts/effects to be noted.",
+        "Only termination and dismissal are listed.",
+        "Only retirement and resignation are listed."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar includes termination, dismissal, retirement, withdrawal and resignation of appointment as one of the listed areas to note."
+    },
+    {
+      "id": "general-principles-management-109",
+      "question": "Which of the following is explicitly associated with Establishment Circulars 3/1988 and 2/2009 in the seminar?",
+      "options": [
+        "Pooling system",
+        "Right-sizing",
+        "Whistle Blowing",
+        "Rebranding"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar expressly gives Pooling system (Est. Cir. 3/1988, Est. CIR. 2/2009)."
+    },
+    {
+      "id": "general-principles-management-110",
+      "question": "Which item is correctly paired with CSC Circular 1/2000?",
+      "options": [
+        "Written promotion examination",
+        "Guidelines for Appointment, Promotions and Discipline",
+        "Treasury Single Account",
+        "Public-sector liberalization"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies CSC Circular 1/2000 as providing guidelines for Appointment, Promotions and Discipline."
+    },
+    {
+      "id": "general-principles-management-111",
+      "question": "The Ayida's Report of 1996 is identified in the seminar as—",
+      "options": [
+        "a major reform in the Civil Service",
+        "a financial regulation",
+        "a pension payment instrument",
+        "a Scheme of Service"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar expressly describes Ayida's Report on Civil Service Reforms (1996) as a major reform in the Civil Service."
+    },
+    {
+      "id": "general-principles-management-112",
+      "question": "Which combination correctly matches the 1999 Constitution (as amended) with the subject identified in the seminar?",
+      "options": [
+        "Sections 206 and 210 — establishment of State Service and protection of pension rights",
+        "Sections 206 and 210 — written promotion examinations",
+        "Sections 010101 and 010107 — establishment of State Service",
+        "Sections 040301 and 040401 — pension protection"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar specifically associates Sections 206 and 210 with the establishment of State Service and protection of pension rights."
+    },
+    {
+      "id": "general-principles-management-113",
+      "question": "Which statement about the 2022 Public Service Rules is directly supported by the seminar?",
+      "options": [
+        "They are concerned only with financial administration.",
+        "They embody rules and regulations guiding the operation or changes in the Service.",
+        "They apply only to senior officers.",
+        "They can be amended informally by any manager."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that the 2022 Edition of the PSR embodies rules and regulations that guide the operation or changes in the Service."
+    },
+    {
+      "id": "general-principles-management-114",
+      "question": "According to the seminar, Section 010101 of the Public Service Rules is particularly important because it requires—",
+      "options": [
+        "all Public/Civil Servants to be acquainted with the provisions of the Rules",
+        "all officers to retire after ten years",
+        "all circulars to be cancelled annually",
+        "all promotion examinations to be computer-based"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar specifically directs attention to Section 010101, which contains the mandatory order for Public/Civil Servants to be acquainted with the provisions of the Rules."
+    },
+    {
+      "id": "general-principles-management-115",
+      "question": "Which statement correctly reflects the seminar's treatment of Section 010107?",
+      "options": [
+        "It establishes the State Service.",
+        "It provides for amendments to the Public Service Rules only through circular.",
+        "It establishes the Pension Reform system.",
+        "It regulates written promotion examinations."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar specifically identifies Section 010107 as dealing with amendments to the Rules only through circular."
+    },
+    {
+      "id": "general-principles-management-116",
+      "question": "A manager claims that because a Public Service Rule is inconvenient, he can simply alter the wording in an internal memorandum.",
+      "options": [
+        "Correct, because every manager can amend PSRs.",
+        "Incorrect; the seminar specifically identifies Section 010107 as requiring amendments to the Rules through circular.",
+        "Correct, provided the officer is a Director.",
+        "Incorrect only if the rule concerns finance."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar expressly identifies Section 010107 as providing for amendments to the Rules only through circular."
+    },
+    {
+      "id": "general-principles-management-117",
+      "question": "Which of the following is NOT listed immediately among the management/reform concepts surrounding the PSRs in the seminar?",
+      "options": [
+        "Financial regulations",
+        "Oversight function of the legislative",
+        "Constitutional sections 206 and 210",
+        "Electoral ward delimitation"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar lists Financial Regulations, the legislative oversight function, the constitutional provisions and PSRs among the relevant concepts. Electoral ward delimitation is not listed."
+    },
+    {
+      "id": "general-principles-management-118",
+      "question": "The seminar's discussion of public-sector reforms states that they arose against a background that included—",
+      "options": [
+        "persistent low performance of the Nigerian economy and widespread poverty",
+        "excessive economic growth and low unemployment",
+        "complete elimination of public-sector inefficiency",
+        "absence of government institutions"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar explicitly states that the reforms were developed against the background of persistent low performance of the Nigerian economy and widespread poverty."
+    },
+    {
+      "id": "general-principles-management-119",
+      "question": "The wide-ranging public-sector reforms identified in the seminar were part of the overall development framework encapsulated by—",
+      "options": [
+        "the National Economic Empowerment and Development Strategy (NEEDS)",
+        "the Pension Reforms Act",
+        "the Service Delivery Charter",
+        "the National Council on Establishments"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar specifically identifies NEEDS — National Economic Empowerment and Development Strategy as the framework within which the reforms were encapsulated."
+    },
+    {
+      "id": "general-principles-management-120",
+      "question": "Which statement BEST describes the broad purpose of the public-sector reforms?",
+      "options": [
+        "To preserve existing shortcomings in government operations",
+        "To change how government works by creating a more efficient and responsive public sector",
+        "To remove all public institutions",
+        "To concentrate government activity exclusively on taxation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that the reforms seek to change the way government does its work by creating a more efficient and responsive public sector."
+    },
+    {
+      "id": "general-principles-management-121",
+      "question": "Which of the following is NOT expressly identified as a broad area the reforms seek to address?",
+      "options": [
+        "Improving security and administration of justice",
+        "Tackling corruption",
+        "Promoting transparency and accountability",
+        "Expanding political-party membership in the Civil Service"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar identifies security, administration of justice, corruption, transparency and accountability. Political-party membership is not identified as a reform objective."
+    },
+    {
+      "id": "general-principles-management-122",
+      "question": "Which reform objective specifically combines an institutional objective with a personnel problem?",
+      "options": [
+        "Enhance economic coordination",
+        "Right-size the sector and eliminate ghost workers",
+        "Privatize and liberalize the sector",
+        "Improve transparency in public accounts"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Right-sizing the sector and eliminating ghost workers is expressly stated as one combined reform goal."
+    },
+    {
+      "id": "general-principles-management-123",
+      "question": "A reform programme seeks to reorganize institutions so that they become stronger and more appropriately structured.",
+      "options": [
+        "Rationalize, restructure and strengthen institutions",
+        "Enhance economic coordination",
+        "Restore pension rights",
+        "Introduce MBWA"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The exact reform goal given is to rationalize, restructure and strengthen institutions."
+    },
+    {
+      "id": "general-principles-management-124",
+      "question": "Which reform goal would most directly involve opening the public sector to private participation and reducing restrictions?",
+      "options": [
+        "Restore professionalism",
+        "Privatize and liberalize the sector",
+        "Right-size the sector",
+        "Enhance economic coordination"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar explicitly identifies privatizing and liberalizing the sector as a public-sector reform goal."
+    },
+    {
+      "id": "general-principles-management-125",
+      "question": "Which objective is most directly concerned with the quality and ethical standing of civil servants?",
+      "options": [
+        "Restore the professionalism of the Civil Service",
+        "Right-size the sector",
+        "Enhance economic coordination",
+        "Reduce government expenditure"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Restoring the professionalism of the Civil Service is one of the seminar's stated reform goals."
+    },
+    {
+      "id": "general-principles-management-126",
+      "question": "A reform initiative seeks to reduce unnecessary government spending while obtaining greater value from expenditure.",
+      "options": [
+        "Reduce waste and improve efficiency of government expenditures",
+        "Privatize and liberalize the sector",
+        "Restore professionalism",
+        "Enhance economic coordination"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar expressly identifies reducing waste and improving efficiency of government expenditures as a reform goal."
+    },
+    {
+      "id": "general-principles-management-127",
+      "question": "Which reform objective is the most directly macroeconomic/coordinating in wording?",
+      "options": [
+        "Eliminate ghost workers",
+        "Enhance economic coordination",
+        "Restore professionalism",
+        "Improve public accounts transparency"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Among the listed objectives, enhance economic coordination is the one explicitly framed around economic coordination."
+    },
+    {
+      "id": "general-principles-management-128",
+      "question": "Which pair of reform objectives deals respectively with institutional restructuring and economic management?",
+      "options": [
+        "Rationalize, restructure and strengthen institutions / Enhance economic coordination",
+        "Restore professionalism / Eliminate ghost workers",
+        "Privatize / Improve transparency",
+        "Reduce waste / Restore professionalism"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The first objective is explicitly institutional, while enhancing economic coordination is separately identified as an economic reform objective."
+    },
+    {
+      "id": "general-principles-management-129",
+      "question": "Which of the following combinations contains only stated public-sector reform goals?",
+      "options": [
+        "Right-sizing, restoration of professionalism, privatization/liberalization",
+        "MBWA, Scheme of Service, written promotion examination",
+        "APER, Financial Instructions, Circulars",
+        "X Theory, Y Theory, democratic leadership"
+      ],
+      "correctAnswer": 0,
+      "explanation": "All three—right-sizing, restoration of professionalism, and privatization/liberalization—are expressly listed as public-sector reform goals."
+    },
+    {
+      "id": "general-principles-management-130",
+      "question": "A candidate claims that “right-sizing” and “restoring professionalism” are essentially the same reform objective because both improve the Civil Service.",
+      "options": [
+        "Correct; the seminar treats them as synonyms.",
+        "Incorrect; the seminar lists them as separate goals—one concerns the size of the sector and ghost workers, while the other concerns professionalism.",
+        "Correct; professionalism determines workforce size.",
+        "Incorrect because neither is a reform objective."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar separately lists right-sizing/eliminating ghost workers and restoring professionalism as distinct reform goals."
+    },
+    {
+      "id": "general-principles-management-131",
+      "question": "Which of the following is the best-supported distinction between “rationalize, restructure and strengthen institutions” and “reduce waste and improve efficiency of government expenditures”?",
+      "options": [
+        "The first concerns institutions; the second concerns government expenditure.",
+        "Both refer exclusively to personnel recruitment.",
+        "The first concerns pensions; the second concerns political appointments.",
+        "They are two names for the same objective."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar lists the two separately: one focuses on institutions, while the other specifically concerns waste and efficiency of government expenditures."
+    },
+    {
+      "id": "general-principles-management-132",
+      "question": "Which combination contains a reform goal relating to accountability/transparency in public accounts?",
+      "options": [
+        "Tackle corruption and improve transparency in public accounts",
+        "Enhance economic coordination only",
+        "Right-size and eliminate ghost workers",
+        "Restore professionalism only"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar expressly identifies tackling corruption and improving transparency in public accounts of government agencies and venture oil companies as a reform goal."
+    },
+    {
+      "id": "general-principles-management-133",
+      "question": "A reform proposal contains four objectives:",
+      "options": [
+        "Only 1 and 2 are supported by the seminar.",
+        "Only 3 and 4 are supported.",
+        "All four are expressly stated reform goals.",
+        "None is stated as a reform goal."
+      ],
+      "correctAnswer": 2,
+      "explanation": "All four appear in the seminar's stated Goals of the Public Sector Reforms."
+    },
+    {
+      "id": "general-principles-management-134",
+      "question": "Which of the following would be the least directly connected to the reform objectives listed in the seminar?",
+      "options": [
+        "Reducing waste in government expenditure",
+        "Strengthening institutions",
+        "Improving transparency in public accounts",
+        "Increasing the number of ghost workers"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The reform goal is to eliminate ghost workers, not increase them. The other three are explicitly stated objectives."
+    },
+    {
+      "id": "general-principles-management-135",
+      "question": "The seminar's conclusion says managers of the Public/Civil Service have used various management techniques through—",
+      "options": [
+        "various reforms from the pre-colonial era till date",
+        "only the present democratic era",
+        "only the Murtala Mohammed period",
+        "only the Obasanjo administration"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The conclusion states that managers have used various management techniques through various reforms during the pre-colonial era till date."
+    },
+    {
+      "id": "general-principles-management-136",
+      "question": "Which statement is most consistent with the seminar's conclusion regarding management techniques?",
+      "options": [
+        "Management techniques in government have remained unchanged.",
+        "Various reforms have been used as management techniques over time.",
+        "Reforms have no relationship with management.",
+        "Only private organisations use management techniques."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The conclusion explicitly links various reforms with the management techniques used by Public/Civil Service managers over time."
+    },
+    {
+      "id": "general-principles-management-137",
+      "question": "The conclusion specifically tells candidates to pay attention to the issue of—",
+      "options": [
+        "computer-based tests in recruitment exercises",
+        "elimination of all multiple-choice questions",
+        "discontinuation of written promotion examinations",
+        "replacement of APOCE with interviews only"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar conclusion specifically mentions the issue of Computer Based Test in recruitment exercise among recent management actions."
+    },
+    {
+      "id": "general-principles-management-138",
+      "question": "Which of the following is mentioned in the conclusion as a feature of APOCE?",
+      "options": [
+        "Multiple-choice questions",
+        "Essay-only examinations",
+        "Oral-only assessment",
+        "No computer application"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The conclusion explicitly mentions the issue of multiple-choice questions in APOCE and the application of computer-based APOCE."
+    },
+    {
+      "id": "general-principles-management-139",
+      "question": "The conclusion refers to CSC Circular 2017 specifically in connection with—",
+      "options": [
+        "passing an examination before promotion to Grade Level 14",
+        "pension contributions",
+        "right-sizing the Civil Service",
+        "establishing State Service"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar conclusion refers to CSC Circular 2017 on passing this examination before promotion to Grade Level 14."
+    },
+    {
+      "id": "general-principles-management-140",
+      "question": "Which statement correctly combines two examination-related developments mentioned in the conclusion?",
+      "options": [
+        "Written examination before promotion and computer-based APOCE",
+        "Abolition of promotion examinations and oral APOCE",
+        "Written recruitment only and abolition of CBT",
+        "Pension examination and financial examination"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The conclusion identifies the issue of written examination before promotion and the application of computer-based APOCE among the management actions discussed."
+    },
+    {
+      "id": "general-principles-management-141",
+      "question": "A candidate says the seminar treats examination changes merely as academic matters unrelated to management.",
+      "options": [
+        "Correct; examinations are outside management.",
+        "Incorrect; the conclusion presents written promotion examinations, CBT recruitment and computer-based APOCE as examples of management actions/techniques.",
+        "Correct; only reforms before independence count as management techniques.",
+        "Incorrect because examinations are exclusively financial controls."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The conclusion explicitly places written promotion examinations, CBT recruitment, multiple-choice APOCE and computer-based APOCE among the management actions discussed."
+    },
+    {
+      "id": "general-principles-management-142",
+      "question": "Which of the following is NOT among the specific examination/recruitment developments mentioned in the seminar's conclusion?",
+      "options": [
+        "Written examination before promotion",
+        "CBT in recruitment exercise",
+        "Multiple-choice questions in APOCE",
+        "Replacement of CBT with handwritten examination in APOCE"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar mentions the opposite: the application of computer-based APOCE, alongside CBT recruitment and multiple-choice questions."
+    },
+    {
+      "id": "general-principles-management-143",
+      "question": "The seminar's treatment of the internal and external environment ultimately requires managers to—",
+      "options": [
+        "overcome or manage the challenges posed by both environments",
+        "eliminate the external environment",
+        "ignore internal organisational conditions",
+        "operate without considering environmental differences"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In its conclusion, the seminar specifically refers to the internal/external environment, noting that managers will have to overcome the two environments."
+    },
+    {
+      "id": "general-principles-management-144",
+      "question": "Which scenario BEST demonstrates why the distinction between internal and external environment matters?",
+      "options": [
+        "A manager considers both staff capabilities inside the organisation and government policies affecting its operations.",
+        "A manager considers only the office furniture.",
+        "A manager ignores clients and suppliers.",
+        "A manager considers only the organisation's name."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar distinguishes internal factors such as personnel, objectives and technology from external factors such as clients, suppliers, economic variables and government policies."
+    },
+    {
+      "id": "general-principles-management-145",
+      "question": "A manager wants to select a management technique for a particular operational problem. According to the seminar, the selection should primarily consider—",
+      "options": [
+        "what best contributes to organisational or societal goals in that particular situation and time",
+        "what another organisation used regardless of circumstances",
+        "the manager's personal preference alone",
+        "only the cost of the technique"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar says managers should identify methods or techniques that best contribute to organisational or societal goals in a particular situation and time."
+    },
+    {
+      "id": "general-principles-management-146",
+      "question": "Which statement is most faithful to the seminar's treatment of management resources?",
+      "options": [
+        "Managers should focus only on current resource availability.",
+        "Managers face the task of harnessing resources while considering continued availability, goals and differences in environment.",
+        "Resources are irrelevant if organisational goals are clear.",
+        "Only human resources matter in management."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar explicitly identifies harnessing resources, continued availability of resources, goals and environmental differences as concerns facing managers."
+    },
+    {
+      "id": "general-principles-management-147",
+      "question": "A manager copies a technique from another organisation without considering the difference in circumstances, time or goals.",
+      "options": [
+        "Management techniques should be appropriate to the particular situation and time.",
+        "Management is exclusively about financial control.",
+        "Internal environments are irrelevant.",
+        "Techniques are identical in every organisation."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar emphasizes identifying management methods that contribute to goals in a particular situation and time, rather than treating techniques as universally interchangeable."
+    },
+    {
+      "id": "general-principles-management-148",
+      "question": "Which combination contains only external management-environment factors expressly identified in the seminar?",
+      "options": [
+        "Clients, suppliers/providers and economic variables",
+        "Organisational objectives, personnel and equipment",
+        "Personnel background, location and technology",
+        "Objectives, facilities and managers"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The external environment includes end users/beneficiaries, suppliers/providers and economic variables, as well as political atmosphere, insecurity and government policies."
+    },
+    {
+      "id": "general-principles-management-149",
+      "question": "A government policy on taxation changes the attractiveness of investment in a sector.",
+      "options": [
+        "an internal personnel issue",
+        "an external political/government-policy influence",
+        "an organisational objective",
+        "a technology/facilities issue"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar specifically states that fiscal or tax policies can affect investment or business positively or negatively and places such matters within the external environment."
+    },
+    {
+      "id": "general-principles-management-150",
+      "question": "A manager is confronted simultaneously with:",
+      "options": [
+        "Apply one fixed technique regardless of circumstances.",
+        "Abandon organisational goals until the environment becomes stable.",
+        "Harness available resources and select management methods appropriate to the particular situation and time.",
+        "Focus exclusively on the internal environment and ignore external factors."
+      ],
+      "correctAnswer": 2,
+      "explanation": "This combines the seminar's central management ideas: managers must harness resources, consider their continued availability, goals and environmental differences, and identify techniques that best contribute to organisational or societal goals in a particular situation and time."
+    },
+    {
+      "id": "general-principles-management-151",
+      "question": "Which statement BEST captures the seminar's conception of management?",
+      "options": [
+        "The process of maximizing financial profit regardless of resources",
+        "The continuous search for optimum use of resources in pursuit of desired goals",
+        "The process of controlling employees through punishment",
+        "The process of enforcing government regulations only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar defines management as the process of continuous search for the optimum use of resources in pursuit of desired goals."
+    },
+    {
+      "id": "general-principles-management-152",
+      "question": "An officer says, “A management technique is simply a rule governing conduct.”",
+      "options": [
+        "A principle is a way of achieving one's purpose skillfully, while technique is a rule.",
+        "A principle is a set of rules guiding conduct, while a technique is a way of achieving one's purpose skillfully.",
+        "Principles and techniques mean exactly the same thing.",
+        "Technique refers exclusively to financial procedures."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar defines principles as rules guiding conduct/norms/procedures, while a technique is a way of achieving one's purpose skillfully."
+    },
+    {
+      "id": "general-principles-management-153",
+      "question": "Which combination is correctly matched?",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correctAnswer": 3,
+      "explanation": "All three definitions appear in the seminar."
+    },
+    {
+      "id": "general-principles-management-154",
+      "question": "A manager has abundant resources but uses them wastefully and fails to achieve organisational goals.",
+      "options": [
+        "Optimum use of resources in pursuit of desired goals",
+        "Democratic leadership",
+        "Oath of secrecy",
+        "Political neutrality"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar places optimum use of resources and desired goals at the heart of management."
+    },
+    {
+      "id": "general-principles-management-155",
+      "question": "Two organisations face different operating environments. The seminar suggests that their managers should—",
+      "options": [
+        "necessarily apply identical management techniques",
+        "identify techniques best suited to their particular situations and times",
+        "disregard their environmental differences",
+        "rely exclusively on historical practices"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Managers are expected to identify methods/techniques that best contribute to organisational or societal goals in a particular situation and time."
+    },
+    {
+      "id": "general-principles-management-156",
+      "question": "Which of the following belongs to the internal management environment?",
+      "options": [
+        "Economic depression",
+        "Government fiscal policy",
+        "Managers and other personnel",
+        "Suppliers of infrastructure"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The internal environment includes the organisation's type, size and location; objectives; managers/personnel; and technology, facilities and equipment."
+    },
+    {
+      "id": "general-principles-management-157",
+      "question": "Which combination contains only internal environmental factors?",
+      "options": [
+        "Organisation type/size/location, organisational objectives, personnel",
+        "Clients, suppliers, economic variables",
+        "Fiscal policy, insecurity, customers",
+        "Statutory allocation, suppliers, government policy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Those three are explicitly listed under the internal environment."
+    },
+    {
+      "id": "general-principles-management-158",
+      "question": "Which factor is classified as an external management environment even though it can directly affect the organisation's operations?",
+      "options": [
+        "Organisational objective",
+        "Technology",
+        "Government fiscal policy",
+        "Managers' attitudes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fiscal or tax policies are expressly listed under the external environment."
+    },
+    {
+      "id": "general-principles-management-159",
+      "question": "An MDA's computers, office equipment and technological systems are being assessed.",
+      "options": [
+        "Internal",
+        "External",
+        "Political",
+        "Economic"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Technology, facilities, equipment and tools are identified as components of the internal management environment."
+    },
+    {
+      "id": "general-principles-management-160",
+      "question": "A ministry experiences difficulty because the price of imported equipment suddenly rises.",
+      "options": [
+        "an internal personnel problem",
+        "an economic variable within the external environment",
+        "an organisational objective",
+        "a technological facility"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar specifically gives an increase in the price of imported items as an example of an economic variable in the external environment."
+    },
+    {
+      "id": "general-principles-management-161",
+      "question": "Which of the following is NOT identified as an external environmental factor?",
+      "options": [
+        "End users/beneficiaries",
+        "Suppliers/providers",
+        "Economic variables",
+        "Managers' attitudes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Managers and other personnel, including their background and attitude, are part of the internal environment."
+    },
+    {
+      "id": "general-principles-management-162",
+      "question": "A government agency's beneficiaries suddenly change their expectations of service.",
+      "options": [
+        "Organisational technology",
+        "End users/beneficiaries",
+        "Organisational location",
+        "Personnel attitude"
+      ],
+      "correctAnswer": 1,
+      "explanation": "End users or beneficiaries—including clients, customers and members of the public—are identified as external environmental constituents."
+    },
+    {
+      "id": "general-principles-management-163",
+      "question": "Statutory allocation received by a government organisation is used in the seminar as an example associated with—",
+      "options": [
+        "end users",
+        "suppliers/providers of funds",
+        "organisational objectives",
+        "personnel motivation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar lists suppliers/providers of funds, labour, technology or infrastructure, giving statutory allocation as an example."
+    },
+    {
+      "id": "general-principles-management-164",
+      "question": "Which scenario contains one internal and one external environmental factor, in that order?",
+      "options": [
+        "Government tax policy → managers' attitudes",
+        "Managers' attitudes → government tax policy",
+        "Clients → organisational objectives",
+        "Economic depression → technology"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Managers/personnel and their attitudes are internal; fiscal/tax policy is external."
+    },
+    {
+      "id": "general-principles-management-165",
+      "question": "The seminar's historical discussion says the restructuring of the Civil Service was driven by the need for Nigeria's Civil Service to—",
+      "options": [
+        "remain unchanged",
+        "meet global, technical and transformational demands",
+        "eliminate all management principles",
+        "become entirely private"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar says Nigeria needed its Civil Service to be radically changed to meet globally, technically and transformation demands."
+    },
+    {
+      "id": "general-principles-management-166",
+      "question": "Which historical figure is associated in the seminar with the Great Purge?",
+      "options": [
+        "Olusegun Obasanjo",
+        "Murtala Mohammed",
+        "Allison Ayida",
+        "Umaru Musa Yar'Adua"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that Murtala Mohammed applied a restructuring measure referred to as the Great Purge."
+    },
+    {
+      "id": "general-principles-management-167",
+      "question": "Which statement is most consistent with the seminar's treatment of the Great Purge?",
+      "options": [
+        "It was presented as a Civil Service restructuring measure.",
+        "It was a financial-management technique.",
+        "It was a personnel motivation scheme.",
+        "It was a form of APER."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Great Purge is introduced in the seminar specifically within the discussion of the restructuring of the Civil Service."
+    },
+    {
+      "id": "general-principles-management-168",
+      "question": "Which of the following is NOT one of the four listed components of the internal management environment?",
+      "options": [
+        "Type, size and location of organisation",
+        "Objective of organisation",
+        "Managers and other personnel",
+        "Political atmosphere"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Political atmosphere is listed under the external environment."
+    },
+    {
+      "id": "general-principles-management-169",
+      "question": "Which combination correctly classifies the following?",
+      "options": [
+        "Internal, external, internal, external",
+        "External, internal, external, internal",
+        "Internal, internal, external, external",
+        "External, external, internal, internal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Objectives and technology are internal; economic variables and suppliers/providers are external."
+    },
+    {
+      "id": "general-principles-management-170",
+      "question": "A manager argues: “Since government policy is outside my organisation, it has nothing to do with management.”",
+      "options": [
+        "Correct; only internal factors matter.",
+        "Incorrect; government policies form part of the external environment and may affect investment or business positively or negatively.",
+        "Correct, unless the policy concerns taxation.",
+        "Incorrect only because government policy is an internal factor."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar explicitly places government policies in the external environment and notes that fiscal/tax policies can affect investment or business positively or negatively."
+    },
+    {
+      "id": "general-principles-management-171",
+      "question": "Which statement about the Civil/Public Service is supported by the seminar?",
+      "options": [
+        "It exists only for the duration of a political administration.",
+        "It enjoys continuity of existence and serves as an instrument of the government of the day.",
+        "It is entirely political.",
+        "It is independent of government policy."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar describes Civil/Public Service as a body that enjoys continuity of existence and as an instrument of the Government of the day."
+    },
+    {
+      "id": "general-principles-management-172",
+      "question": "The seminar describes the Civil Service as being composed of persons employed in a—",
+      "options": [
+        "political capacity",
+        "military capacity",
+        "civil capacity and on a non-political career basis",
+        "temporary political basis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "It describes civil servants as servants of the state employed in a civil capacity and non-political career basis."
+    },
+    {
+      "id": "general-principles-management-173",
+      "question": "Which of the following best captures the seminar's description of the Civil Service as a “prepared place for prepared people”?",
+      "options": [
+        "Officers are expected to operate without rules.",
+        "Officers are prepared through ethics, rules, dress code and related expectations.",
+        "Officers are selected only through political appointments.",
+        "Officers are not required to follow established procedures."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar uses the phrase in connection with ethics, rules, dress code, creed, etc."
+    },
+    {
+      "id": "general-principles-management-174",
+      "question": "Which constitutional provisions are listed as a management tool/concept concerning the establishment of State Service and protection of pension rights?",
+      "options": [
+        "Sections 010101 and 010107",
+        "Sections 206 and 210",
+        "Sections 060301 and 060302",
+        "Sections 020601 and 020502"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar explicitly identifies Sections 206 and 210 for this purpose."
+    },
+    {
+      "id": "general-principles-management-175",
+      "question": "Which body is identified as implementing government policies?",
+      "options": [
+        "National Council on Establishments",
+        "Civil Service Commission",
+        "Public Accounts Committee",
+        "State Auditor-General"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar lists the National Council on Establishments as a body to implement government policies."
+    },
+    {
+      "id": "general-principles-management-176",
+      "question": "Circulars/circular letters are described as instruments used to—",
+      "options": [
+        "amend, cancel or institute new rules for implementation in the Service",
+        "replace the Constitution",
+        "determine only salaries",
+        "eliminate the Scheme of Service"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar states that circulars/circular letters provide guidelines and are issued regularly to amend, cancel or institute new rules for implementation."
+    },
+    {
+      "id": "general-principles-management-177",
+      "question": "Which statement about circulars is MOST accurate according to the seminar?",
+      "options": [
+        "They are optional suggestions.",
+        "They are regularly issued guidelines affecting changes in rules and regulations and must be obeyed by all.",
+        "They apply only to political office holders.",
+        "They are inferior to personal instructions from any senior officer."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar expressly says circulars/circular letters are issued regularly for changes in rules and must be obeyed by all."
+    },
+    {
+      "id": "general-principles-management-178",
+      "question": "Which circular is associated with re-alignment of nomenclature and functional titles of some cadres approved in the Scheme of Service?",
+      "options": [
+        "SSG Circular of 14 July 1998",
+        "CSC Circular 2/2017",
+        "Establishment Circular 3/1988",
+        "SSG Circular 2/2003"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar specifically identifies the SSG Circular of 14 July 1998 for this purpose."
+    },
+    {
+      "id": "general-principles-management-179",
+      "question": "According to the seminar, Ministries generally have what kind of responsibility?",
+      "options": [
+        "Heterogeneous/dual-function",
+        "Mono-function/single",
+        "Political function only",
+        "Judicial function only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar says other Ministries' responsibilities are regarded as Mono-function (single), while the Governor's Office is heterogeneous/dual-functions."
+    },
+    {
+      "id": "general-principles-management-180",
+      "question": "Which combination contains only functions listed under the heterogeneous/dual-functions of the Governor's Office?",
+      "options": [
+        "Constitutional matters, prerogative of mercy, appointment of key public functionaries",
+        "Scheme of Service, Financial Instructions, APER",
+        "Promotion, recruitment, retirement",
+        "Budgeting, auditing, procurement"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar lists constitutional matters, relations with the Presidency/Assemblies, prerogative of mercy, state security/public safety, appointment of key public functionaries, and relations with Armed Forces and Police, among others."
+    },
+    {
+      "id": "general-principles-management-181",
+      "question": "Which of the following is NOT expressly listed as a Governor's Office heterogeneous function?",
+      "options": [
+        "State security matters and public safety",
+        "Appointment of key public functionaries",
+        "Relations with the Armed Forces and Police",
+        "Preparation of annual APER forms"
+      ],
+      "correctAnswer": 3,
+      "explanation": "APER is listed elsewhere as a personnel-management tool; it is not listed among the Governor's Office heterogeneous functions."
+    },
+    {
+      "id": "general-principles-management-182",
+      "question": "The Scheme of Service is described as showing—",
+      "options": [
+        "different cadres, entry, progression and qualification",
+        "only salary deductions",
+        "only disciplinary offences",
+        "only political appointments"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Those four elements are explicitly listed in the seminar."
+    },
+    {
+      "id": "general-principles-management-183",
+      "question": "Financial Instructions are identified as providing guidelines for—",
+      "options": [
+        "recruitment and promotion",
+        "receipts and expenditure of government funds",
+        "political appointments",
+        "staff training abroad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar directly states that Financial Instructions provide guidelines for receipts and expenditure of government funds."
+    },
+    {
+      "id": "general-principles-management-184",
+      "question": "The Pension Reforms Act 2014 is presented in the seminar as marking a departure from—",
+      "options": [
+        "contributory pension to pay-as-you-go",
+        "pay-as-you-go to contributory pension",
+        "annual appraisal to monthly appraisal",
+        "permanent appointment to temporary appointment"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar says the Act represented a clear departure from the former pay-as-you-go system to the contributory system of retirement-benefit payment."
+    },
+    {
+      "id": "general-principles-management-185",
+      "question": "Which statement correctly distinguishes the Service Delivery Charter from the Scheme of Service?",
+      "options": [
+        "The Charter concerns improved performance, accountability, transparency and service delivery; the Scheme of Service shows cadres, entry, progression and qualification.",
+        "Both concern only financial expenditure.",
+        "The Charter governs pension contributions while the Scheme governs tax policy.",
+        "Both are names for the same document."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar gives these distinct functions for the two instruments."
+    },
+    {
+      "id": "general-principles-management-186",
+      "question": "Which training institutions are specifically mentioned as examples of seminars/workshops and training opportunities?",
+      "options": [
+        "CMD and ASCON",
+        "FCA and ACCA",
+        "NPA and NIMASA",
+        "CAC and NHS"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar mentions the Centre for Management Development (CMD) and Administrative Staff College of Nigeria (ASCON)."
+    },
+    {
+      "id": "general-principles-management-187",
+      "question": "Which statement about leadership is directly supported by the seminar?",
+      "options": [
+        "All leaders are managers.",
+        "All managers are leaders, but not all leaders are managers.",
+        "Leadership is purely technical.",
+        "Leadership has no relationship with communication."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar explicitly makes this distinction."
+    },
+    {
+      "id": "general-principles-management-188",
+      "question": "According to the seminar, leadership is highly behavioural and calls for all of the following EXCEPT—",
+      "options": [
+        "intelligence",
+        "good communication",
+        "understanding of human relationships",
+        "indifference to motivation"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar specifically mentions intelligence, communication, moral building, motivation, human relationships, charisma and maturity."
+    },
+    {
+      "id": "general-principles-management-189",
+      "question": "A leader who possesses intelligence but cannot communicate effectively is lacking one of the qualities the seminar associates with—",
+      "options": [
+        "leadership",
+        "financial regulation",
+        "pension reform",
+        "personnel deployment"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Good communication is expressly identified as part of effective leadership."
+    },
+    {
+      "id": "general-principles-management-190",
+      "question": "Which pair represents two qualities of good leadership specifically listed in the seminar?",
+      "options": [
+        "Fairness and ability to handle emergencies without panicking",
+        "Political loyalty and financial independence",
+        "Aggressiveness and secrecy",
+        "Seniority and wealth"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar identifies a good leader as fair, approachable but firm, and able to handle emergencies without panicking."
+    },
+    {
+      "id": "general-principles-management-191",
+      "question": "Which leadership quality most directly concerns the ability to anticipate beyond the immediate capabilities of subordinates?",
+      "options": [
+        "Firmness",
+        "Vision",
+        "Approachability",
+        "Emergency response"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar defines vision as the ability to see or think beyond the limits of followers or subordinates."
+    },
+    {
+      "id": "general-principles-management-192",
+      "question": "According to the seminar, a good leader should—",
+      "options": [
+        "resist all change",
+        "accept change but avoid influencing it",
+        "not only accept change but act as a change agent",
+        "delegate every decision"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar explicitly says a leader should not only be willing to accept change but should be a change agent."
+    },
+    {
+      "id": "general-principles-management-193",
+      "question": "Which statement best captures the seminar's recommended leadership style?",
+      "options": [
+        "Fair, approachable but firm",
+        "Strict, inaccessible and authoritarian",
+        "Indifferent, passive and flexible",
+        "Political, partisan and aggressive"
+      ],
+      "correctAnswer": 0,
+      "explanation": "“Fair, approachable but firm” is directly stated among the qualities of good leadership."
+    },
+    {
+      "id": "general-principles-management-194",
+      "question": "Which of the following is identified as a problem of leadership in an organisation?",
+      "options": [
+        "Multiplicity of interest groups and ethnic nationalities",
+        "Excessive availability of resources",
+        "Complete continuity of government policy",
+        "Absence of political turnover"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar identifies the multiplicity of interest groups and ethnic nationalities as a leadership problem."
+    },
+    {
+      "id": "general-principles-management-195",
+      "question": "Which combination contains only problems of leadership identified in the seminar?",
+      "options": [
+        "Poverty/patriotic mentality problem, multiplicity of interest groups, rapid turnover in political leadership",
+        "Vision, integrity, fairness",
+        "Motivation, charisma, maturity",
+        "Training, promotion, appraisal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "These are explicitly identified under Problems of Leadership in Organisation."
+    },
+    {
+      "id": "general-principles-management-196",
+      "question": "Why does the seminar identify rapid turnover in political leadership as a leadership problem?",
+      "options": [
+        "Because it contributes to a short span of continuity in government policy and thinking.",
+        "Because it eliminates all government employees.",
+        "Because it prevents every form of delegation.",
+        "Because it makes promotion impossible."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar specifically identifies short span of continuity in government policy and rapid turnover in political leadership and thinking as a problem."
+    },
+    {
+      "id": "general-principles-management-197",
+      "question": "Which management technique is explicitly expanded in the seminar as Management by Walking Around?",
+      "options": [
+        "MBWA",
+        "MBW",
+        "MGTW",
+        "MWA"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar explicitly gives MBWA = Management by Walking Around."
+    },
+    {
+      "id": "general-principles-management-198",
+      "question": "Which statement about the X and Y theories is supported by the seminar?",
+      "options": [
+        "X Theory assumes people can enjoy work under right conditions.",
+        "Y Theory assumes people can exercise self-control and can be independent and creative under suitable conditions.",
+        "Y Theory is based exclusively on punishment.",
+        "X Theory emphasizes recognition and reward."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar's Y Theory principles include that, under the right conditions, people can enjoy work, exercise self-control, and be independent and creative; motivation also matters where people are recognized and rewarded."
+    },
+    {
+      "id": "general-principles-management-199",
+      "question": "A supervisor believes employees generally dislike work, cannot be trusted to work independently, and respond mainly when threatened or punished.",
+      "options": [
+        "Y Theory",
+        "X Theory",
+        "MBWA",
+        "Servicom"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar's X Theory principles include assumptions that people do not like to work, require close supervision, cannot contribute creatively and may work only when threatened or punished."
+    },
+    {
+      "id": "general-principles-management-200",
+      "question": "A Director says:",
+      "options": [
+        "Correct; delegation transfers the manager's job permanently to subordinates.",
+        "Incorrect; delegation transfers accountability for results down the line, creates trust, trains staff indirectly, and allows the manager to concentrate on the real job.",
+        "Correct; delegation is appropriate only for junior officers.",
+        "Incorrect only because delegation removes accountability from the manager."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar describes delegation as a process through which accountability for results is transferred down the line. It says delegation creates trust, serves as an indirect means of training staff, speeds achievement of results, and is not giving away your job but getting people to do their jobs so you can focus on your real job."
+    }
+  ]
+}

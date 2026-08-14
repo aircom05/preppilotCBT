@@ -10,6 +10,7 @@ import './Home.css';
 
 const Home = () => {
   useEffect(() => {
+    document.title = '🏠 Home • PrepPilot';
     window.scrollTo(0, 0);
   }, []);
   const greeting = getGreeting();

@@ -15,6 +15,8 @@ const Result = () => {
 
   const navigate = useNavigate();
 
+  const courseTitle = state.selectedExam?.title || 'PrepPilot CBT';
+
   if (!state.result) {
     return <h2>No result available.</h2>;
   }
@@ -27,7 +29,7 @@ const Result = () => {
       <div className="result-container">
         <div className="result-card">
           <h1 className="result-header">🏆 Exam Completed</h1>
-
+          <p className="result-course-title">{courseTitle}</p>
           <h2>
             {correct} / {total}
           </h2>

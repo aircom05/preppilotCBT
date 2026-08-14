@@ -2,40 +2,56 @@ import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './CourseUpdateModal.css';
 
-const ANNOUNCEMENT_ID = 'course-update-2026-08-10';
+const CURRENT_ANNOUNCEMENT_VERSION = 2;
+
+const ANNOUNCEMENT_STORAGE_KEY = 'preppilot-announcement-version';
 
 const newCourses = [
   {
     id: 1,
-    icon: '📘',
-    name: 'Law II (Statute Law)',
+    icon: '🛡️',
+    name: 'Security in Government',
   },
   {
     id: 2,
-    icon: '📗',
-    name: 'Financial Management in Government',
+    icon: '👥',
+    name: 'Personnel Management in Government',
+  },
+  {
+    id: 3,
+    icon: '📋',
+    name: 'General Principles and Techniques in Management',
   },
 ];
-
 const CourseUpdateModal = () => {
   const [isOpen, setIsOpen] = useState(false);
   const navigate = useNavigate();
 
   useEffect(() => {
-    const announcementSeen = localStorage.getItem(ANNOUNCEMENT_ID);
+    const seenVersion = Number(
+      localStorage.getItem(ANNOUNCEMENT_STORAGE_KEY) || 0,
+    );
 
-    if (!announcementSeen) {
+    if (seenVersion < CURRENT_ANNOUNCEMENT_VERSION) {
       setIsOpen(true);
     }
   }, []);
 
   const closeModal = () => {
-    localStorage.setItem(ANNOUNCEMENT_ID, 'seen');
+    localStorage.setItem(
+      ANNOUNCEMENT_STORAGE_KEY,
+      String(CURRENT_ANNOUNCEMENT_VERSION),
+    );
+
     setIsOpen(false);
   };
 
   const viewCourses = () => {
-    localStorage.setItem(ANNOUNCEMENT_ID, 'seen');
+    localStorage.setItem(
+      ANNOUNCEMENT_STORAGE_KEY,
+      String(CURRENT_ANNOUNCEMENT_VERSION),
+    );
+
     setIsOpen(false);
 
     navigate('/');
@@ -74,10 +90,10 @@ const CourseUpdateModal = () => {
 
         <p className="course-update-eyebrow">PrepPilot Update</p>
 
-        <h2 id="course-update-title">Two New Courses!</h2>
+        <h2 id="course-update-title">3 New Courses Added!</h2>
 
         <p className="course-update-message">
-          Two new question banks have been added to PrepPilot. More courses,
+          We've expanded PrepPilot with three new question banks. More courses,
           more practice.
         </p>
 

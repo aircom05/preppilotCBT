@@ -14,10 +14,6 @@ import scrollToTop from '../../utils/scrollToTop';
 import './Exam.css';
 
 const Exam = () => {
-  useEffect(() => {
-    document.title = '📝 Exam • PrepPilot';
-    window.scrollTo(0, 0);
-  }, []);
   const navigate = useNavigate();
   const {
     state,
@@ -29,6 +25,16 @@ const Exam = () => {
     resumeTimer,
     submitExam,
   } = useQuiz();
+  const courseTitle = state.selectedExam?.title || 'PrepPilot CBT';
+
+  const courseIcon = state.selectedExam?.tabIcon || '📝';
+
+  useEffect(() => {
+    document.title = `${courseIcon} ${courseTitle} • PrepPilot`;
+
+    window.scrollTo(0, 0);
+  }, [courseTitle, courseIcon]);
+
   const [showSubmitModal, setShowSubmitModal] = useState(false);
   const [isSubmitting, setIsSubmitting] = useState(false);
 
@@ -107,6 +113,9 @@ const Exam = () => {
     <PageContainer size="sm">
       <div id="question-top" className="exam-container">
         <div className="exam-header">
+          <div className="exam-course-header">
+            <h1 className="exam-course-title">{courseTitle}</h1>
+          </div>
           <div className="exam-counter">
             <h2>
               Question {currentQuestionNumber} of {totalQuestions}

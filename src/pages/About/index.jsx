@@ -80,11 +80,11 @@ const About = () => {
 
         <section className="about-section developer-card">
           <h2>
-            <FaLaptopCode /> Developer
+            <FaLaptopCode /> Web Developer
           </h2>
 
           <p>
-            Designed and developed with ReactJS, Vite & JavaScript by{' '}
+            Designed and developed with React, Vite & JavaScript by{' '}
             <span className="my-name">Ekom</span>
           </p>
 
