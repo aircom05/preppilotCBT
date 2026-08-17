@@ -104,7 +104,7 @@ const ExamCard = ({ exam }) => {
           <Button onClick={handleStartExam}>
             <FaPlay className="fa-play" />
 
-            {timer === 0
+            {timer === null
               ? 'Start Practice Session'
               : `Start ${questionCount}-Question Timed Exam`}
           </Button>
