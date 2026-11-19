@@ -1,0 +1,1210 @@
+{
+  "metadata": {
+    "id": "public-service-rules-government-circulars",
+    "title": "APPLICATION OF THE PUBLIC SERVICE RULES AND GOVERNMENT CIRCULARS",
+    "version": "1.0.0",
+    "totalQuestions": 100
+  },
+  "questions": [
+    {
+      "id": "public-service-rules-government-circulars-001",
+      "question": "Which statement best describes the Public Service as presented in the seminar?",
+      "options": [
+        "A body established to regulate private-sector employment",
+        "A body or organ responsible for implementing government policies and programmes",
+        "A body responsible exclusively for the recruitment of civil servants",
+        "A body responsible primarily for interpreting constitutional provisions"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar describes the Public Service as a body or organ for implementing government policies and programmes and ensuring continuity of existence."
+    },
+    {
+      "id": "public-service-rules-government-circulars-002",
+      "question": "What is the primary purpose of the Public Service Rules?",
+      "options": [
+        "To determine the annual budget of every MDA",
+        "To spell out the conditions of service of civil servants",
+        "To regulate employment in the private sector",
+        "To prescribe the political objectives of government"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Public Service Rules set out the conditions of service governing civil servants."
+    },
+    {
+      "id": "public-service-rules-government-circulars-003",
+      "question": "How does the seminar distinguish government circulars from the Public Service Rules?",
+      "options": [
+        "Circulars replace the Public Service Rules whenever they are issued",
+        "Circulars apply only to officers on contract appointments",
+        "Circulars provide additional information or amendments on particular issues",
+        "Circulars are used exclusively to communicate disciplinary penalties"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar explains that circulars provide information as additions to, or amendments of, existing government rules on particular issues."
+    },
+    {
+      "id": "public-service-rules-government-circulars-004",
+      "question": "According to the seminar, the Public Service Rules apply to civil servants except where they:",
+      "options": [
+        "Differ from the practice adopted by another MDA",
+        "Conflict with a departmental instruction",
+        "Conflict with an approved contract of employment or the Constitution",
+        "Are inconsistent with an officer's personal preference"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar identifies conflict with an approved contract of employment or inconsistency with the Constitution as exceptions to the general application of the Rules."
+    },
+    {
+      "id": "public-service-rules-government-circulars-005",
+      "question": "Which statement accurately describes the 2022 edition of the Akwa Ibom State Public Service Rules?",
+      "options": [
+        "It amended the 2010 edition and incorporated relevant earlier circulars",
+        "It dealt exclusively with appointments and promotions",
+        "It replaced the 2005 Establishment Circular on training",
+        "It introduced the first rules governing the State Public Service"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar states that the 2022 edition amended the 2010 edition and incorporated relevant circulars issued before the amendment."
+    },
+    {
+      "id": "public-service-rules-government-circulars-006",
+      "question": "Which of the following is expressly excluded from recruitment as defined in the seminar?",
+      "options": [
+        "Advertising an existing vacancy",
+        "Filling a vacancy with a person who has never worked in the service",
+        "Interviewing qualified applicants",
+        "Transferring an officer from another public service in the Federation into Akwa Ibom State"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar defines recruitment as appointment of persons not already in the Akwa Ibom State Public Service and excludes transfer of officers from other public services in the Federation."
+    },
+    {
+      "id": "public-service-rules-government-circulars-007",
+      "question": "Where appointment powers for salary Grades 01–06 have been delegated, which arrangement must still be observed at the appointment meetings?",
+      "options": [
+        "The Accountant-General and Auditor-General must jointly conduct the interviews",
+        "The Head of the MDA must personally appoint every successful candidate",
+        "Representatives of both the Civil Service Commission and the Head of Civil Service must be present",
+        "The State Executive Council must approve each individual appointment"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar says the Civil Service Commission and the Head of Civil Service must each have representatives at the appointment meetings; their absence renders the exercise a nullity."
+    },
+    {
+      "id": "public-service-rules-government-circulars-008",
+      "question": "Which combination correctly represents the types of appointment identified in the seminar?",
+      "options": [
+        "Trainee or pupil, probationary pensionable, and specified-period contract appointments",
+        "Promotion, conversion and transfer appointments",
+        "Casual, political and judicial appointments",
+        "Temporary, permanent and acting appointments"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar identifies appointment as a trainee or pupil, appointment on probation in a pensionable post, and non-pensionable contract appointment for a specified period."
+    },
+    {
+      "id": "public-service-rules-government-circulars-009",
+      "question": "What statement does the seminar make about temporary appointment?",
+      "options": [
+        "It is reserved for junior officers",
+        "It is the preferred method of entering the Public Service",
+        "It is compulsory before pensionable appointment",
+        "It is no longer a method of entry into the service"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar expressly states that temporary appointment is no longer a method of entry into the service."
+    },
+    {
+      "id": "public-service-rules-government-circulars-010",
+      "question": "Under the seminar's eligibility requirements, an applicant must be within which age range?",
+      "options": [
+        "21 to 55 years",
+        "16 to 45 years",
+        "18 to 50 years",
+        "18 to 45 years"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar specifies that an applicant must not be less than 18 years or more than 50 years old."
+    },
+    {
+      "id": "public-service-rules-government-circulars-011",
+      "question": "Who must certify an applicant as medically fit and sound for government service?",
+      "options": [
+        "A government medical officer",
+        "The Permanent Secretary of the employing MDA",
+        "The Civil Service Commission's recruitment secretary",
+        "The applicant's last employer"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar specifically requires an applicant to be certified medically fit and sound by a government medical officer."
+    },
+    {
+      "id": "public-service-rules-government-circulars-012",
+      "question": "An applicant who was previously dismissed from government service seeks appointment under a delegated appointment arrangement. What additional requirement does the seminar specify?",
+      "options": [
+        "A recommendation from the applicant's Local Government",
+        "Special approval from the Civil Service Commission",
+        "Automatic clearance after the interview",
+        "Approval from the applicant's former MDA alone"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar requires special approval from the Civil Service Commission for an applicant previously convicted of a criminal offence or dismissed from government service, irrespective of delegated appointment powers."
+    },
+    {
+      "id": "public-service-rules-government-circulars-013",
+      "question": "What probationary period does the seminar prescribe for all pensionable appointments?",
+      "options": [
+        "Eighteen months",
+        "Six months",
+        "One year",
+        "Two years"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that all pensionable appointments are on probation for two years."
+    },
+    {
+      "id": "public-service-rules-government-circulars-014",
+      "question": "Under the seminar, when should a pensionable appointment be confirmed?",
+      "options": [
+        "After two years of probation, where there is no adverse report against the officer",
+        "Only after the officer has participated in a promotion exercise",
+        "After the officer completes the first annual performance evaluation",
+        "Immediately after the appointment letter is issued"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Confirmation follows the two-year probationary period where there is no adverse report against the officer and the conditions for confirmation have been met."
+    },
+    {
+      "id": "public-service-rules-government-circulars-015",
+      "question": "What consequence does the seminar identify where an appointment is not confirmed within the stipulated probationary period?",
+      "options": [
+        "The probationary period automatically ends without further action",
+        "The officer automatically receives a promotion",
+        "The appointment may be terminated at any time, and the officer cannot be screened for promotion",
+        "The officer becomes a permanent employee by default"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar states that an appointment not confirmed within the stipulated period may be terminated at any time and the officer cannot be screened for promotion."
+    },
+    {
+      "id": "public-service-rules-government-circulars-016",
+      "question": "Which of the following best reflects the seminar's basic principle concerning promotion?",
+      "options": [
+        "Promotion is automatic immediately after an officer completes the required years",
+        "Promotion is based exclusively on length of service",
+        "Promotion is a method of motivating and rewarding civil servants for meritorious service",
+        "Promotion is available to every officer regardless of disciplinary status"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar describes promotion as one of the methods by which civil servants are motivated and rewarded for meritorious service."
+    },
+    {
+      "id": "public-service-rules-government-circulars-017",
+      "question": "Before an officer participates in the promotion exercise, which body is identified as responsible for screening the officer?",
+      "options": [
+        "The State Auditor-General",
+        "The Office of the Accountant-General",
+        "The officer's MDA",
+        "The State Executive Council"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar states that officers due for promotion are screened by their MDAs before taking part in the promotion exercise."
+    },
+    {
+      "id": "public-service-rules-government-circulars-018",
+      "question": "How does the seminar describe the assessment process used in the promotion exercise?",
+      "options": [
+        "It is determined solely by the officer's immediate supervisor",
+        "It depends entirely on an oral interview",
+        "It relies exclusively on the officer's years of service",
+        "Examination or oral interview results are compiled with the APER score to assess performance"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The promotion exercise includes an examination or oral interview, and the result is compiled with the APER score to ascertain each candidate's performance."
+    },
+    {
+      "id": "public-service-rules-government-circulars-019",
+      "question": "Which set contains the training opportunities identified in the seminar?",
+      "options": [
+        "Annual leave, casual leave and examination leave",
+        "In-service training, study leave with pay and study leave without pay",
+        "Promotion, conversion and transfer",
+        "Apprenticeship, retirement and external recruitment"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies in-service training, study leave with pay and study leave without pay as routes for training and acquiring skills or higher qualifications."
+    },
+    {
+      "id": "public-service-rules-government-circulars-020",
+      "question": "What financial arrangement applies to beneficiaries of in-service training and study leave with pay, according to the seminar?",
+      "options": [
+        "They receive salaries during training but are not entitled to leave grants",
+        "They receive neither salary nor leave grants",
+        "They receive both salaries and leave grants in addition to training allowances",
+        "They receive leave grants but not salaries"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar states that beneficiaries receive salaries while training but are not entitled to leave grants."
+    },
+    {
+      "id": "public-service-rules-government-circulars-021",
+      "question": "Which officers are eligible to receive approval for study leave under the seminar?",
+      "options": [
+        "Only officers holding senior management positions",
+        "All applicants who have passed an interview",
+        "Officers who have completed six months of service",
+        "Confirmed officers"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that only confirmed officers are eligible to be granted study leave approvals."
+    },
+    {
+      "id": "public-service-rules-government-circulars-022",
+      "question": "What obligation does the seminar impose on beneficiaries of study leave with pay or in-service training?",
+      "options": [
+        "They must resign immediately after completing the programme",
+        "They must bond themselves to the government for the period of training",
+        "They must transfer to another MDA before resuming",
+        "They must surrender their annual promotion eligibility permanently"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Beneficiaries of study leave with pay or in-service training must be bonded to the government for the period of training."
+    },
+    {
+      "id": "public-service-rules-government-circulars-023",
+      "question": "What training restriction applies to officers with less than ten years in service, according to the seminar?",
+      "options": [
+        "They are entitled only to study leave with pay",
+        "They may undertake in-service training without approval",
+        "They are generally not granted training approvals except study leave without pay, which is usually conditional",
+        "They cannot undertake any form of training"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar says officers with fewer than ten years in service are not granted approvals for training except study leave without pay, which is usually granted on conditions."
+    },
+    {
+      "id": "public-service-rules-government-circulars-024",
+      "question": "Which of the following is specifically identified as a type of leave in the seminar?",
+      "options": [
+        "Pro-rata leave",
+        "Administrative transfer leave",
+        "Sabbatical leave",
+        "Compassionate retirement leave"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pro-rata leave appears in the seminar's list of leave types."
+    },
+    {
+      "id": "public-service-rules-government-circulars-025",
+      "question": "What does the seminar expect every officer to know concerning the types of leave available in the service?",
+      "options": [
+        "Only the monetary value attached to each type",
+        "The names of leave types, but not their purposes",
+        "The purpose and duration of each type of leave",
+        "Only the approving authority for annual leave"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar explicitly states that every officer is expected to know the purpose and duration of each type of leave."
+    },
+    {
+      "id": "public-service-rules-government-circulars-026",
+      "question": "The movement of an officer from one cadre to another following the acquisition of a qualification prescribed for the receiving cadre is known as:",
+      "options": [
+        "Confirmation of appointment",
+        "Conversion",
+        "Transfer of service",
+        "Promotion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar defines conversion as moving an officer from one cadre to a different cadre after acquiring the qualification prescribed in the approved scheme of service."
+    },
+    {
+      "id": "public-service-rules-government-circulars-027",
+      "question": "Which action should an officer take immediately after completing an approved course of study, according to the seminar?",
+      "options": [
+        "Formally inform the office of completion and resume duties",
+        "Wait for the next promotion exercise before notifying the office",
+        "Request automatic conversion without submitting any certificate",
+        "Proceed directly to the Civil Service Commission for an interview"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The first listed post-study step is to formally inform the office of completion of studies and resume duties."
+    },
+    {
+      "id": "public-service-rules-government-circulars-028",
+      "question": "Which statement correctly describes the effective date of conversion for the two categories of training identified in the seminar?",
+      "options": [
+        "For Civil Service Training Centre or College of Health Technology training, it is one month after completion or certification; for others, it is the date of appearance before the Commission",
+        "Every conversion takes effect from the date the officer receives the certificate",
+        "All conversions take effect one month after the Civil Service Commission interview",
+        "Every conversion takes effect on the date the officer resumes duties"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar distinguishes the effective date: one month after completion or certification for the named training institutions, and the date of appearance before the Commission for others."
+    },
+    {
+      "id": "public-service-rules-government-circulars-029",
+      "question": "An officer expects to become due for promotion in the officer's present rank during the year of appearing before the Commission for conversion. What does the seminar advise?",
+      "options": [
+        "Withdraw the conversion application",
+        "Request the MDA to promote the officer before the interview",
+        "Wait until the conversion is completed before notifying the Commission",
+        "Inform the Commission of the promotion position to avoid a later petition for correction of rank"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The officer should inform the Commission if due for promotion in the present rank that year, to avoid the need for a subsequent petition for correction of rank on conversion."
+    },
+    {
+      "id": "public-service-rules-government-circulars-030",
+      "question": "Which conversion route may involve movement from one junior post to another junior post upon acquiring a higher qualification that is not necessarily a degree?",
+      "options": [
+        "Conversion from a professional cadre to a junior post",
+        "Conversion through inter-state transfer",
+        "Conversion from a junior post to another junior post",
+        "Conversion from a junior post directly to a professional cadre"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar identifies conversion from one junior post to another on acquisition of a higher qualification, which need not necessarily be a degree."
+    },
+    {
+      "id": "public-service-rules-government-circulars-031",
+      "question": "An officer in a sub-cadre acquires a higher qualification in an area different from the officer's present schedule. Under the seminar's conversion provisions, what is the relevant consideration?",
+      "options": [
+        "The officer must be transferred to another state",
+        "The officer may be converted to an officer's cadre suitable for the higher qualification",
+        "The officer must automatically remain in the original cadre",
+        "The officer must first retire and seek fresh appointment"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that where the higher qualification is in a different area from the present schedule, the officer may be converted to an officer's cadre suitable for that qualification."
+    },
+    {
+      "id": "public-service-rules-government-circulars-032",
+      "question": "Under the seminar's provisions on termination for general inefficiency, how many previous written warnings must an officer have received at least?",
+      "options": [
+        "One",
+        "Three",
+        "Four",
+        "Two"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar lists at least two previous written warnings among the conditions that must have applied before termination on grounds of general inefficiency."
+    },
+    {
+      "id": "public-service-rules-government-circulars-033",
+      "question": "Which additional circumstance does the seminar identify as part of the conditions preceding termination for general inefficiency?",
+      "options": [
+        "The officer must have refused a transfer",
+        "The officer must have suffered loss or deferment of the last increment",
+        "The officer must have failed a promotion examination",
+        "The officer must have been absent for thirty consecutive days"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Loss or deferment of the officer's last increment is one of the conditions listed in the seminar."
+    },
+    {
+      "id": "public-service-rules-government-circulars-034",
+      "question": "What opportunity must be provided to an officer being considered for termination on grounds of general inefficiency?",
+      "options": [
+        "Immediate retirement without further process",
+        "An automatic promotion review",
+        "Ample opportunity for improvement within one year",
+        "A compulsory transfer to another MDA"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar requires that the officer be given ample opportunity for improvement within one year."
+    },
+    {
+      "id": "public-service-rules-government-circulars-035",
+      "question": "Where a delegated authority decides to withhold or defer the increment of a junior officer, what must the officer receive?",
+      "options": [
+        "A letter from the Accountant-General alone",
+        "Written notification stating the reason and period of deferment",
+        "An oral warning from the immediate supervisor",
+        "A general circular issued to all staff"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The delegated authority must inform the junior officer in writing, stating the reason and the period of deferment."
+    },
+    {
+      "id": "public-service-rules-government-circulars-036",
+      "question": "Where the officer concerned holds a senior post and a recommendation is being made concerning withholding or deferment of increment, what should the MDA do?",
+      "options": [
+        "Convert the officer to another cadre",
+        "Determine the matter without reference to the Commission",
+        "Refer the matter directly to the State Auditor-General",
+        "Forward the circumstances and recommendation to the Civil Service Commission"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar directs the MDA to forward the circumstances and recommendations to the Civil Service Commission where the officer holds a senior post."
+    },
+    {
+      "id": "public-service-rules-government-circulars-037",
+      "question": "After the Civil Service Commission considers a recommendation concerning withholding or deferment of increment, how is its decision conveyed to the officer?",
+      "options": [
+        "Through the MDA, with the reason and, where applicable, the period of deferment",
+        "By publication in the State Gazette alone",
+        "Directly through the officer's bank",
+        "Through the officer's union representative only"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Commission's decision is conveyed to the officer through the MDA, stating the reason and, in a deferment case, the period."
+    },
+    {
+      "id": "public-service-rules-government-circulars-038",
+      "question": "Which two offices must be informed of the decision concerning the withholding or deferment of an officer's increment, as stated in the seminar?",
+      "options": [
+        "The Head of the officer's Local Government and the Permanent Secretary",
+        "The State Executive Council and the Ministry of Justice",
+        "The Office of the Surveyor-General and the Accountant-General",
+        "The Accountant-General and the State Auditor-General"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar specifically requires that the Accountant-General of the State and the State Auditor-General be informed of the decision."
+    },
+    {
+      "id": "public-service-rules-government-circulars-039",
+      "question": "Which statement best distinguishes serious misconduct from ordinary misconduct under the seminar's description?",
+      "options": [
+        "Serious misconduct involves very serious wrongdoing which, when investigated and proved, may lead to dismissal",
+        "Serious misconduct is determined solely by the officer's salary grade",
+        "Serious misconduct is restricted to lateness and absence from work",
+        "Serious misconduct always attracts a written warning only"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar describes serious misconduct as very serious wrongdoing or improper behaviour which, when investigated and proved, may lead to dismissal."
+    },
+    {
+      "id": "public-service-rules-government-circulars-040",
+      "question": "Which of the following is listed in the seminar as an example of misconduct?",
+      "options": [
+        "Engaging in partisan political activities",
+        "Embezzlement of public funds",
+        "Habitual lateness to work",
+        "Falsification of official records"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Habitual lateness to work is listed among the seminar's examples of misconduct."
+    },
+    {
+      "id": "public-service-rules-government-circulars-041",
+      "question": "Which circular is identified as having relevant provisions incorporated into Chapter 4 of the 2022 Public Service Rules on appointments, promotions and discipline?",
+      "options": [
+        "Establishment Circular No. 5/2005",
+        "Establishment Circular No. 1/2004",
+        "Civil Service Commission Circular No. 1/2000",
+        "Circular No. 3 of 2023"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar identifies Civil Service Commission Circular No. 1/2000 as the circular whose relevant provisions were incorporated into Chapter 4."
+    },
+    {
+      "id": "public-service-rules-government-circulars-042",
+      "question": "To which category of officers does the seminar say the Civil Service Commission has delegated full disciplinary powers to MDAs?",
+      "options": [
+        "Officers on salary Grades 12–17",
+        "Officers on salary Grades 01–06",
+        "All officers irrespective of grade level",
+        "Only officers on pensionable appointments"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that the Commission has delegated full disciplinary powers to MDAs in respect of officers on salary Grades 01–06."
+    },
+    {
+      "id": "public-service-rules-government-circulars-043",
+      "question": "Which of the following is specifically listed as an example of serious misconduct?",
+      "options": [
+        "Sleeping on duty",
+        "Habitual lateness",
+        "Falsification of records",
+        "Deliberate delay in treating an official document"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Falsification of records is expressly listed under serious misconduct, while sleeping on duty, habitual lateness and deliberate delay in treating official documents appear in the misconduct list."
+    },
+    {
+      "id": "public-service-rules-government-circulars-044",
+      "question": "The seminar defines transfer of service as:",
+      "options": [
+        "The temporary posting of an officer to another office",
+        "The acquisition of a new qualification within the same cadre",
+        "The movement of an officer to a higher salary grade",
+        "The permanent release of an officer from one schedule of service to another"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Transfer of service is described as the permanent release of an officer from one schedule of service to another."
+    },
+    {
+      "id": "public-service-rules-government-circulars-045",
+      "question": "Before an officer proceeds with a transfer of service, what must the officer be certain of?",
+      "options": [
+        "That the officer's current MDA has completed the next promotion exercise",
+        "That the officer has received a special promotion",
+        "That the officer has exhausted all leave entitlements",
+        "That the receiving service has a vacancy to accommodate the officer"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar says an officer wishing to transfer service must be certain that the receiving service has a vacancy."
+    },
+    {
+      "id": "public-service-rules-government-circulars-046",
+      "question": "Which set correctly identifies the three principal categories of transfer of service listed in the seminar?",
+      "options": [
+        "Promotion, conversion and confirmation",
+        "Inter-state, inter-departmental and inter-cadre",
+        "Temporary, permanent and contract",
+        "Internal, external and judicial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar lists inter-state, inter-departmental and inter-cadre transfer of service."
+    },
+    {
+      "id": "public-service-rules-government-circulars-047",
+      "question": "An officer's qualification is unsuitable for the cadre in which the officer was originally appointed, limiting promotion beyond a particular salary grade. Which category of transfer is most relevant?",
+      "options": [
+        "Inter-state transfer",
+        "Acting appointment",
+        "Inter-departmental transfer",
+        "Inter-cadre transfer"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar explains that inter-cadre transfer may arise where an officer's qualification is unsuitable for the original cadre and restricts promotion beyond a particular salary grade."
+    },
+    {
+      "id": "public-service-rules-government-circulars-048",
+      "question": "Which of the following is identified as one of the scheduled services within Akwa Ibom State?",
+      "options": [
+        "Federal Inland Revenue Service",
+        "Nigerian Police Force",
+        "State Universal Basic Education",
+        "Nigerian Immigration Service"
+      ],
+      "correctAnswer": 2,
+      "explanation": "State Universal Basic Education is one of the scheduled services listed in the seminar."
+    },
+    {
+      "id": "public-service-rules-government-circulars-049",
+      "question": "Which of the following appears in the seminar's list of leave types?",
+      "options": [
+        "Political assignment leave",
+        "Compulsory transfer leave",
+        "Adoption leave",
+        "Promotion examination leave"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Adoption leave is expressly included in the seminar's list of leave types."
+    },
+    {
+      "id": "public-service-rules-government-circulars-050",
+      "question": "How many types of leave does the seminar state are now available in the service?",
+      "options": [
+        "Fifteen",
+        "Twenty",
+        "Twelve",
+        "Ten"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar states that there are now 15 types of leave, although it names only some of them."
+    },
+    {
+      "id": "public-service-rules-government-circulars-051",
+      "question": "Under Rule 040431, what is the first formal action to be taken where an officer is alleged to have violated a Public Service Rule?",
+      "options": [
+        "The superior officer issues a query requiring a written representation within a specified time",
+        "Immediate suspension",
+        "A Board of Enquiry is automatically constituted",
+        "The officer is referred directly to the Civil Service Commission"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The procedure begins with a query from the superior officer, requiring the officer to submit a written representation within a specified time."
+    },
+    {
+      "id": "public-service-rules-government-circulars-052",
+      "question": "An officer responds to a disciplinary query and successfully establishes that the allegation is unfounded. What should the superior officer do?",
+      "options": [
+        "Inform the officer in writing that no further action is necessary",
+        "Issue a formal letter of advice",
+        "Recommend deferment of the officer's increment",
+        "Refer the matter automatically to the Senior Staff Committee"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Where the officer proves that they are not guilty of the allegation, the superior officer must inform them in writing that no further action is necessary."
+    },
+    {
+      "id": "public-service-rules-government-circulars-053",
+      "question": "An officer cannot establish innocence in response to a query, but the circumstances are considered insufficient to justify punishment. What action does the seminar prescribe?",
+      "options": [
+        "Dismiss the officer immediately",
+        "Issue an appropriate formal letter of advice and require written acknowledgement of receipt",
+        "Withhold the officer's salary indefinitely",
+        "Refer the matter to the State Auditor-General"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Where punishment is not considered appropriate, the seminar provides for a formal letter of advice, receipt of which the officer must acknowledge in writing."
+    },
+    {
+      "id": "public-service-rules-government-circulars-054",
+      "question": "Where an officer has not exculpated themselves and is considered deserving of punishment, what should happen next?",
+      "options": [
+        "The officer should be transferred to another MDA",
+        "The matter should be closed without further action",
+        "The officer should be promoted but placed on probation",
+        "The case should be referred to the appropriate staff committee for determination"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar provides for referral to the appropriate staff committee where the officer has not exculpated themselves and deserves some punishment."
+    },
+    {
+      "id": "public-service-rules-government-circulars-055",
+      "question": "Within what period should the Senior Staff Committee make its recommendations where a case is referred to it?",
+      "options": [
+        "Within six weeks from the date of the complaint",
+        "Within three months from the date of referral",
+        "Within two weeks of the officer receiving the query",
+        "Within one year of the alleged misconduct"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar specifies that the Senior Staff Committee's recommendations should be made within six weeks from the date of the complaint."
+    },
+    {
+      "id": "public-service-rules-government-circulars-056",
+      "question": "Where the alleged misconduct amounts to professional misconduct as defined in a professional body's code of conduct, which committee is specifically required to make recommendations?",
+      "options": [
+        "State Executive Council",
+        "Senior Staff Management Committee",
+        "Junior Staff Committee",
+        "Establishment Department"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies the Senior Staff Management Committee as the committee that must make recommendations in cases of professional misconduct."
+    },
+    {
+      "id": "public-service-rules-government-circulars-057",
+      "question": "In the professional-misconduct procedure, to which office should a copy of the committee's recommendation be sent?",
+      "options": [
+        "Office of the affected officer's Local Government Chairman",
+        "Office of the State Auditor-General",
+        "Office of the Head of Civil Service",
+        "Office of the Accountant-General"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar requires a copy of the recommendation to be sent to the Office of the Head of Civil Service."
+    },
+    {
+      "id": "public-service-rules-government-circulars-058",
+      "question": "Which statement correctly reflects the reporting obligation placed on public officers by the seminar?",
+      "options": [
+        "An officer may report misconduct only after an investigation has ended",
+        "Reporting misconduct is optional where the officer concerned is senior",
+        "Only Permanent Secretaries are required to report misconduct",
+        "Every officer must report any misconduct that comes to their notice to a superior officer above the officer involved"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that every officer must report any case of misconduct that comes to their notice to a superior officer above the officer involved."
+    },
+    {
+      "id": "public-service-rules-government-circulars-059",
+      "question": "Where misconduct is brought to the attention of an officer's superior, what should that superior do?",
+      "options": [
+        "Conduct an informal discussion and destroy the report",
+        "Report it without delay to the Permanent Secretary or Head of the Extra-Ministerial Department",
+        "Wait for a formal petition before taking any action",
+        "Refer the matter to the officer's immediate colleague"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar directs the superior officer to report the matter without delay to the Permanent Secretary or Head of the Extra-Ministerial Department."
+    },
+    {
+      "id": "public-service-rules-government-circulars-060",
+      "question": "Which of the following is identified as a possible step in the disciplinary process after a misconduct report has been made?",
+      "options": [
+        "Interdiction, suspension or setting up a Board of Enquiry",
+        "Automatic retirement without investigation",
+        "Immediate promotion to a higher grade",
+        "Automatic conversion to another cadre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar identifies interdiction, suspension and the setting up of a Board of Enquiry as possible steps in the disciplinary procedure."
+    },
+    {
+      "id": "public-service-rules-government-circulars-061",
+      "question": "What procedural principle must be observed throughout disciplinary proceedings?",
+      "options": [
+        "Automatic punishment before investigation",
+        "The preference of the officer's immediate colleague",
+        "Confidentiality in place of an opportunity to respond",
+        "Fair hearing and due process"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar expressly requires compliance with the rules of fair hearing and due process throughout disciplinary proceedings."
+    },
+    {
+      "id": "public-service-rules-government-circulars-062",
+      "question": "Which of the following outcomes does the seminar identify as possible at the end of disciplinary investigations?",
+      "options": [
+        "Compulsory study leave with pay",
+        "Automatic confirmation of appointment",
+        "Termination, dismissal or retirement in the public interest",
+        "Automatic promotion or conversion"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar states that at the end of investigations an officer may have their appointment terminated, be dismissed or be retired in the public interest."
+    },
+    {
+      "id": "public-service-rules-government-circulars-063",
+      "question": "An officer wishes to appeal a decision concerning promotion. To whom should the appeal be sent under the seminar's routing arrangement?",
+      "options": [
+        "The Chairman, Akwa Ibom State Civil Service Commission",
+        "The Accountant-General",
+        "The State Auditor-General",
+        "The Head of the officer's department"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Appeals and petitions relating to appointments, promotions, transfers and discipline must be sent to the Chairman of the Akwa Ibom State Civil Service Commission."
+    },
+    {
+      "id": "public-service-rules-government-circulars-064",
+      "question": "An appeal concerns an officer's pension and gratuity entitlement rather than promotion or discipline. Which authority should receive it?",
+      "options": [
+        "Senior Staff Committee",
+        "Chairman of the Civil Service Commission",
+        "Head of Civil Service",
+        "Head of the officer's MDA"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar directs appeals concerning other conditions of service, including pension and gratuities, to the Head of Civil Service."
+    },
+    {
+      "id": "public-service-rules-government-circulars-065",
+      "question": "Which submission requirement applies to a petition or appeal under the seminar?",
+      "options": [
+        "It must be submitted in triplicate",
+        "It must be submitted orally before a committee",
+        "It must be submitted only through a professional association",
+        "It must be submitted in duplicate"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar requires a petition or appeal to be submitted in duplicate; an advance copy may also be sent directly to the appropriate authority."
+    },
+    {
+      "id": "public-service-rules-government-circulars-066",
+      "question": "Which condition concerns the administrative routing of a petition or appeal?",
+      "options": [
+        "It must be routed through any available public office",
+        "It must be addressed to the officer's immediate colleague",
+        "It must be properly routed",
+        "It must be submitted directly to the State Executive Council"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Proper routing is one of the stated requirements for a petition or appeal to be entertained."
+    },
+    {
+      "id": "public-service-rules-government-circulars-067",
+      "question": "Which personal details must a petition or appeal bear?",
+      "options": [
+        "The petitioner's bank account and salary grade only",
+        "The petitioner's date of first appointment and next of kin",
+        "The petitioner's MDA alone",
+        "The petitioner's full name, signature and address"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar requires a petition or appeal to bear the full name, signature and address of the petitioner or appellant."
+    },
+    {
+      "id": "public-service-rules-government-circulars-068",
+      "question": "Which form of language is unacceptable in a petition or appeal under the seminar?",
+      "options": [
+        "Formal administrative language",
+        "Respectful language describing the facts",
+        "Clear language identifying the relief sought",
+        "Abusive, improper or foul language"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that a petition or appeal must not be in abusive, improper or foul language."
+    },
+    {
+      "id": "public-service-rules-government-circulars-069",
+      "question": "What is the maximum period stated in the seminar for submitting a petition or appeal after the decision has been taken?",
+      "options": [
+        "Six months",
+        "Nine months",
+        "Twelve months",
+        "Three months"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar states that a petition or appeal must not be submitted more than six months after the decision has been taken."
+    },
+    {
+      "id": "public-service-rules-government-circulars-070",
+      "question": "Which of the following is included among the five ways of leaving the service identified in the seminar?",
+      "options": [
+        "Study leave",
+        "Conversion",
+        "Transfer of service",
+        "Dismissal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Dismissal is one of the five ways of leaving the service listed in the seminar."
+    },
+    {
+      "id": "public-service-rules-government-circulars-071",
+      "question": "According to the seminar, retirement of civil servants is based on which condition?",
+      "options": [
+        "Attainment of 65 years of age irrespective of service duration",
+        "Completion of 30 years of service only",
+        "Attainment of 55 years of age or 30 years of service, whichever comes first",
+        "Attainment of 60 years of age or 35 years of service, whichever is earlier"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that civil servants must retire at 60 years of age or 35 years of service, whichever comes earlier."
+    },
+    {
+      "id": "public-service-rules-government-circulars-072",
+      "question": "Which document does the seminar require an applicant to possess as evidence of good conduct?",
+      "options": [
+        "A testimonial of good conduct from the last employer or school/college attended",
+        "A certificate of attendance at a government seminar",
+        "A letter of recommendation from any serving civil servant",
+        "A certificate of promotion from the previous MDA"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar identifies a testimonial of good conduct from the applicant's last employer or school or college attended as an eligibility requirement."
+    },
+    {
+      "id": "public-service-rules-government-circulars-073",
+      "question": "Which document is included among the eligibility requirements relating to national service?",
+      "options": [
+        "A certificate of participation in a political party",
+        "A certificate of discharge, exemption or exclusion from NYSC",
+        "A letter of introduction from a former supervisor",
+        "A certificate of completion of probation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar requires an NYSC Discharge, Exemption or Exclusion Certificate."
+    },
+    {
+      "id": "public-service-rules-government-circulars-074",
+      "question": "Which combination of identification and origin documentation is specified as an appointment eligibility requirement?",
+      "options": [
+        "Voter's card and certificate of employment",
+        "International passport and state tax clearance",
+        "Driver's licence and certificate of residence",
+        "National Identification Number and certificate of origin from the applicant's Local Government"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar requires a National Identification Number and a certificate of origin from the applicant's Local Government."
+    },
+    {
+      "id": "public-service-rules-government-circulars-075",
+      "question": "Which Establishment Circular is cited in the seminar's references as dealing with training in the Akwa Ibom State Civil Service?",
+      "options": [
+        "Circular No. 3/2023",
+        "Circular No. 5/2005",
+        "Circular No. 1/2004",
+        "Circular No. 1/2000"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Establishment Circular No. 1/2004 is listed in the references under the title 'Training in the Akwa Ibom State Civil Service'."
+    },
+    {
+      "id": "public-service-rules-government-circulars-076",
+      "question": "An individual is engaged on a non-pensionable contract for a specified period, whether to occupy a non-pensionable post or against a pensionable post. How does the seminar classify this appointment?",
+      "options": [
+        "Temporary appointment",
+        "Probationary pensionable appointment",
+        "Contract appointment for a specified period",
+        "Trainee or pupil appointment"
+      ],
+      "correctAnswer": 2,
+      "explanation": "This is the third appointment category identified in the seminar: a non-pensionable contract for a specified period, whether against a non-pensionable or pensionable post."
+    },
+    {
+      "id": "public-service-rules-government-circulars-077",
+      "question": "A successful candidate accepts an offer of appointment into the Akwa Ibom State Civil Service. According to the seminar, which department issues the appointment letter?",
+      "options": [
+        "The Department of Establishment",
+        "The Office of the Accountant-General",
+        "The Ministry of Justice",
+        "The candidate's Local Government"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar states that successful candidates who accept the offer are issued appointment letters by the Department of Establishment."
+    },
+    {
+      "id": "public-service-rules-government-circulars-078",
+      "question": "An officer has completed the required performance evaluation and is not under discipline but has not yet spent the prescribed number of years on the current salary grade. Which promotion consideration has not yet been satisfied?",
+      "options": [
+        "Compilation of the APER score",
+        "The prescribed number of years to be spent on the salary grade",
+        "MDA screening",
+        "Examination or oral interview"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that each salary grade has a prescribed number of years an officer must spend before becoming due for promotion."
+    },
+    {
+      "id": "public-service-rules-government-circulars-079",
+      "question": "An officer is being converted into a professional cadre in which professional certification is required before promotion beyond a certain rank. What consequence does the seminar identify as possible?",
+      "options": [
+        "Immediate confirmation without further assessment",
+        "Reduction in rank",
+        "Automatic retirement from the service",
+        "Automatic promotion to the highest professional rank"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar says an officer may be reduced in rank when moving to a professional cadre that requires professional certification before promotion beyond a certain rank."
+    },
+    {
+      "id": "public-service-rules-government-circulars-080",
+      "question": "Which sequence best reflects the recruitment activities described in the seminar before an offer of appointment is made?",
+      "options": [
+        "Medical certification, promotion interview and salary review",
+        "Transfer, conversion and appointment confirmation",
+        "Confirmation, promotion screening and retirement",
+        "Advertisement, issuance of forms, selection and interview of qualified applicants"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar describes recruitment as advertisement, issuance of forms, selection and interview of qualified applicants, culminating in the offer of appointment to successful candidates."
+    },
+    {
+      "id": "public-service-rules-government-circulars-081",
+      "question": "Which nationality condition must an applicant satisfy before appointment into the Akwa Ibom State Public Service?",
+      "options": [
+        "The applicant must be a citizen of the Local Government where the MDA is located",
+        "The applicant must have previously worked in another Nigerian state",
+        "The applicant must have lived in Akwa Ibom State for at least ten years",
+        "The applicant must be a Nigerian citizen as defined in the Constitution"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar requires an applicant to be a Nigerian citizen as defined in the Constitution of the Federal Republic of Nigeria."
+    },
+    {
+      "id": "public-service-rules-government-circulars-082",
+      "question": "Which of the following circumstances is expressly identified as a condition that an applicant must not be under?",
+      "options": [
+        "An obligation to attend an interview",
+        "An employment obligation or financial embarrassment",
+        "An obligation to provide academic certificates",
+        "An obligation to submit an NYSC certificate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that an eligible applicant must not be under any employment obligation or financial embarrassment."
+    },
+    {
+      "id": "public-service-rules-government-circulars-083",
+      "question": "An applicant possesses a qualification that was accepted for appointment in an earlier recruitment exercise but is no longer among the minimum qualifications currently specified for the relevant position. Which requirement is most relevant?",
+      "options": [
+        "Possession of the minimum qualifications specified from time to time",
+        "The applicant's previous salary grade",
+        "The applicant's previous participation in a promotion exercise",
+        "The applicant's testimonial from the last employer"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar requires possession of the minimum qualifications specified from time to time, rather than relying only on an earlier qualification standard."
+    },
+    {
+      "id": "public-service-rules-government-circulars-084",
+      "question": "An officer's approved study leave is approaching its end, but the institution has not issued the certificate. What action does the seminar require the officer to take?",
+      "options": [
+        "Abandon the course and request retirement",
+        "Apply automatically for conversion",
+        "Apply for an extension of the study leave",
+        "Resume without informing the office"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar says the officer should ensure the certificate is issued within the period of study leave and, if not, apply for an extension."
+    },
+    {
+      "id": "public-service-rules-government-circulars-085",
+      "question": "After completing an approved course, an officer discovers that they are entitled to notional promotion. What should the officer do?",
+      "options": [
+        "Wait for automatic promotion without making an application",
+        "Apply for the notional promotion",
+        "Request the institution to issue a promotion certificate",
+        "Apply for transfer of service"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar expressly states that an officer entitled to notional promotion should apply for it."
+    },
+    {
+      "id": "public-service-rules-government-circulars-086",
+      "question": "Following completion of studies and an application for conversion, which body is expected to convene a meeting to make recommendations and forward them to the Civil Service Commission?",
+      "options": [
+        "The Junior Staff Committee or Senior Staff Committee, as applicable",
+        "The State Executive Council",
+        "The State Auditor-General",
+        "The Office of the Accountant-General"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar identifies the JSC or SSC, whichever is applicable, as the committee that convenes to make recommendations and forward them to the Civil Service Commission."
+    },
+    {
+      "id": "public-service-rules-government-circulars-087",
+      "question": "Which movement does the seminar expressly recognise as a possible transfer of service?",
+      "options": [
+        "Conversion from a junior post to an officer's cadre",
+        "Movement from probationary appointment to confirmed appointment",
+        "Transfer from one salary grade to another",
+        "Transfer from the Federal Civil Service to a State Civil Service and vice versa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that transfer of service may also be from the Federal Civil Service to the State Civil Service and vice versa."
+    },
+    {
+      "id": "public-service-rules-government-circulars-088",
+      "question": "Which of the following is another scheduled service within Akwa Ibom State identified in the seminar?",
+      "options": [
+        "National Population Commission",
+        "State Technical School Service",
+        "Federal Ministry of Works",
+        "Nigerian Customs Service"
+      ],
+      "correctAnswer": 1,
+      "explanation": "State Technical School Service is expressly included among the scheduled services listed in the seminar."
+    },
+    {
+      "id": "public-service-rules-government-circulars-089",
+      "question": "Before undertaking a course of study in a cadre different from the officer's present cadre, what important consideration does the seminar warn the officer to make?",
+      "options": [
+        "The outstanding years of service and the possibility of starting from the entry point in the new cadre",
+        "Whether the officer can obtain an immediate promotion",
+        "Whether the officer can avoid the conversion interview",
+        "Whether the officer can retain the same cadre irrespective of the acquired qualification"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar cautions officers to consider their outstanding years of service and explains that studying for a different cadre may mean starting from the entry point in the new cadre."
+    },
+    {
+      "id": "public-service-rules-government-circulars-090",
+      "question": "Which description of discipline is adopted by the seminar?",
+      "options": [
+        "The automatic dismissal of officers who make administrative errors",
+        "The process of transferring officers who disagree with management",
+        "The practice of using punishment to correct disobedience",
+        "The practice of promoting officers who violate service rules"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar adopts the definition of discipline as the practice of using punishment to correct disobedience."
+    },
+    {
+      "id": "public-service-rules-government-circulars-091",
+      "question": "Which responsibility does the seminar place on every civil servant concerning the Public Service Rules?",
+      "options": [
+        "To issue circulars whenever existing rules appear unclear",
+        "To determine which rules apply to officers in other MDAs",
+        "To acquaint themselves with the rules and other regulations in force",
+        "To interpret the rules on behalf of the Civil Service Commission"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar states that every officer is expected to acquaint themselves with the Public Service Rules and other regulations in force."
+    },
+    {
+      "id": "public-service-rules-government-circulars-092",
+      "question": "A superior officer notices repeated shortcomings in a subordinate's work. What does the seminar require the superior to do as soon as the fault is observed?",
+      "options": [
+        "Withhold the officer's salary without explanation",
+        "Notify the officer in writing, with a view to improving performance",
+        "Recommend immediate dismissal",
+        "Refer the officer automatically to the Civil Service Commission"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar places a duty on the superior officer to notify the officer in writing as soon as a fault or shortcoming is observed, with a view to improving performance."
+    },
+    {
+      "id": "public-service-rules-government-circulars-093",
+      "question": "An officer deliberately refuses to proceed on an approved transfer or accept a posting. How is this behaviour classified in the seminar?",
+      "options": [
+        "A type of serious misconduct",
+        "An example of misconduct",
+        "A form of conversion",
+        "A permissible exercise of employment discretion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Refusal to proceed on transfer or to accept posting is listed among the examples of misconduct."
+    },
+    {
+      "id": "public-service-rules-government-circulars-094",
+      "question": "Which of the following acts is expressly listed under serious misconduct rather than the seminar's examples of ordinary misconduct?",
+      "options": [
+        "Sleeping on duty",
+        "Sexual harassment",
+        "Habitual lateness",
+        "Failure to keep records"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sexual harassment is listed among the examples of serious misconduct, whereas the other listed behaviours appear in the seminar's misconduct examples."
+    },
+    {
+      "id": "public-service-rules-government-circulars-095",
+      "question": "Before an officer's appointment can be terminated on grounds of general inefficiency, which procedural protection must the officer receive under the seminar?",
+      "options": [
+        "Information about the grounds for the proposed termination and an opportunity to make representations",
+        "A promotion interview before the decision",
+        "Automatic transfer to another MDA",
+        "A compulsory period of study leave"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar says the officer must be informed of the grounds for the proposed termination and given an opportunity to submit representations explaining why the appointment should not be terminated."
+    },
+    {
+      "id": "public-service-rules-government-circulars-096",
+      "question": "Which of the following is among the disciplinary actions the Civil Service Commission may determine after considering recommendations?",
+      "options": [
+        "Reduction in rank",
+        "Automatic promotion to the next grade",
+        "Automatic appointment to a new cadre",
+        "Grant of study leave with pay"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar lists reduction in rank among possible disciplinary actions, alongside withholding or deferment of increment, termination and dismissal."
+    },
+    {
+      "id": "public-service-rules-government-circulars-097",
+      "question": "Which of the following convictions is included among the seminar's examples of serious misconduct?",
+      "options": [
+        "Conviction on a criminal charge other than a minor traffic or sanitary offence",
+        "Conviction for an administrative error",
+        "Conviction for a minor traffic offence",
+        "Conviction for a minor sanitary offence"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar includes conviction on a criminal charge other than a minor traffic or sanitary offence among its examples of serious misconduct."
+    },
+    {
+      "id": "public-service-rules-government-circulars-098",
+      "question": "Which of the following is one of the five ways of leaving the service identified in the seminar?",
+      "options": [
+        "Confirmation",
+        "Death",
+        "Transfer of service",
+        "Retirement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Death is expressly included in the seminar's list of five ways of leaving the service."
+    },
+    {
+      "id": "public-service-rules-government-circulars-099",
+      "question": "Which Establishment Circular is cited in the references as dealing with the bonding of in-service trainees?",
+      "options": [
+        "Circular No. 3/2023",
+        "Circular No. 5/2005",
+        "Circular No. 1/2004",
+        "Circular No. 1/2000"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Establishment Circular No. 5/2005 is listed in the references under the title 'Bonding of In-Service Trainees'."
+    },
+    {
+      "id": "public-service-rules-government-circulars-100",
+      "question": "After the applicable staff committee has made its recommendation on an officer's conversion, which body conducts the subsequent interview and conversion process described in the seminar?",
+      "options": [
+        "The Department of Establishment alone",
+        "The officer's MDA alone",
+        "The State Executive Council",
+        "The Civil Service Commission"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that the Civil Service Commission invites the officer for an interview and converts the officer to the appropriate cadre according to the acquired qualification."
+    }
+  ]
+}

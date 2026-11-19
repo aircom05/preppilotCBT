@@ -1,0 +1,1450 @@
+{
+  "metadata": {
+    "id": "financial-management-in-government",
+    "title": "FINANCIAL MANAGEMENT IN GOVERNMENT",
+    "version": "1.0.0",
+    "totalQuestions": 120
+  },
+  "questions": [
+    {
+      "id": "financial-management-in-government-001",
+      "question": "Which statement most accurately describes financial management in government as presented in the seminar?",
+      "options": [
+        "The planning, organising, directing and controlling of financial resources to achieve governmental objectives",
+        "The collection of taxes and payment of salaries by government agencies",
+        "The preparation of annual budgets without responsibility for expenditure control",
+        "The supervision of public procurement and auditing to the exclusion of other financial activities"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar defines financial management in government as involving the planning, organising, directing and controlling of financial resources to achieve governmental objectives."
+    },
+    {
+      "id": "financial-management-in-government-002",
+      "question": "Which combination best reflects the processes covered by public financial management in the seminar?",
+      "options": [
+        "Recruitment, staff promotion, establishment control and personnel discipline",
+        "Legislative drafting, judicial review, political administration and public relations",
+        "Budgeting, accounting, financial reporting, cash/debt management, internal controls and performance measurement",
+        "Revenue collection, physical security, document classification and personnel screening"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The introduction identifies budgeting, accounting, financial reporting, cash/debt management, internal controls, performance measurement, policy development and stakeholder engagement as elements of public financial management."
+    },
+    {
+      "id": "financial-management-in-government-003",
+      "question": "Which objective of financial management in government is directly concerned with identifying available government revenue sources and recommending effective collection methods?",
+      "options": [
+        "Safeguarding government assets",
+        "Identifying sources of government revenues and recommending effective methods of collection",
+        "Evaluating organisational performance in Ministries and Agencies",
+        "Preventing reckless spending or over-expenditure"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Identifying sources of government revenue and recommending effective methods of collection is expressly listed as an objective of financial management."
+    },
+    {
+      "id": "financial-management-in-government-004",
+      "question": "A government department manages public funds in a manner that minimises waste while ensuring that resources are used economically, effectively and efficiently in accordance with existing rules. Which objective does this most directly illustrate?",
+      "options": [
+        "Predicting changes in government economic conditions",
+        "Enhancing the collection and reporting of public revenue",
+        "Optimising the financial benefits of investments",
+        "Managing government funds economically, effectively and efficiently in accordance with extant rules"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar identifies economical, effective and efficient management of government funds in accordance with extant rules as one of the objectives."
+    },
+    {
+      "id": "financial-management-in-government-005",
+      "question": "Which objective is most directly concerned with ensuring that public officials can be held answerable for financial decisions and the use of government resources?",
+      "options": [
+        "Promoting accountability and transparency in the government process",
+        "Determining and predicting economic conditions",
+        "Optimising the benefits of government investment",
+        "Recommending methods of revenue collection"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Promoting accountability and transparency is specifically listed among the objectives of financial management in government."
+    },
+    {
+      "id": "financial-management-in-government-006",
+      "question": "Which of the following is identified as a key component of government financial management rather than merely an objective?",
+      "options": [
+        "Improving citizens' quality of life",
+        "Preventing reckless government expenditure",
+        "Accounting and reporting",
+        "Evaluating organisational performance"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Accounting and reporting is listed among the key components. The other options are objectives of financial management."
+    },
+    {
+      "id": "financial-management-in-government-007",
+      "question": "Which component specifically involves the management process of purchasing goods for government?",
+      "options": [
+        "Debt management",
+        "Revenue mobilisation",
+        "Financial accounting and reporting",
+        "Procurement"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Procurement is identified as the management process of purchasing goods for government."
+    },
+    {
+      "id": "financial-management-in-government-008",
+      "question": "A government entity oversees borrowing arrangements and considers repayment options. Which key component of financial management is being performed?",
+      "options": [
+        "Expenditure management",
+        "Debt management",
+        "Revenue mobilisation",
+        "Financial auditing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debt management involves overseeing government borrowings and repayment options."
+    },
+    {
+      "id": "financial-management-in-government-009",
+      "question": "Which of the following correctly distinguishes expenditure management from revenue mobilisation?",
+      "options": [
+        "Expenditure management concerns government borrowing, while revenue mobilisation concerns financial reporting",
+        "Expenditure management concerns auditing, while revenue mobilisation concerns procurement",
+        "Expenditure management concerns the efficient use of government funds, while revenue mobilisation concerns collection, borrowing and other sources",
+        "Expenditure management concerns investment benefits, while revenue mobilisation concerns internal control alone"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar describes revenue mobilisation as collection, borrowing and other sources, while expenditure management concerns the efficient and effective use of government funds."
+    },
+    {
+      "id": "financial-management-in-government-010",
+      "question": "Which government official submits the budget proposal through an Appropriation Bill to the State House of Assembly and gives assent when the Bill is passed into law, according to the seminar?",
+      "options": [
+        "The Executive Governor",
+        "The Commissioner for Finance",
+        "The Head of Budget Office",
+        "The Accountant-General"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar assigns the submission of the budget proposal through an Appropriation Bill and assent after passage into law to the Executive Governor."
+    },
+    {
+      "id": "financial-management-in-government-011",
+      "question": "Which officer is identified as a member of the State Executive Council responsible for state financing and financial controls through the issuance of regulating instruments known as warrants?",
+      "options": [
+        "The Accountant-General",
+        "The State Auditor-General",
+        "The Head of Budget Office",
+        "The Commissioner for Finance"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Commissioner for Finance is identified as the State Executive Council member responsible for state financing and financial controls through the issuance of warrants."
+    },
+    {
+      "id": "financial-management-in-government-012",
+      "question": "Which statement correctly describes the role of the Accountant-General in the seminar?",
+      "options": [
+        "The officer independently audits all public accounts under the Constitution",
+        "The officer is the Chief Accounting Officer of the receipts and payment of government funds",
+        "The officer exercises legislative oversight over government expenditure",
+        "The officer is responsible for budgetary planning on behalf of the State Government"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Accountant-General is described as the Chief Accounting Officer of the receipts and payment of government funds."
+    },
+    {
+      "id": "financial-management-in-government-013",
+      "question": "A Ministry incurs financial obligations involving both money and materials. Which officer is identified as its Accounting Officer and answerable for those matters?",
+      "options": [
+        "The Permanent Secretary or Head of the Extra-Ministerial Department",
+        "The State Auditor-General",
+        "The Public Account Committee Chairman",
+        "The Revenue Collector"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar identifies Permanent Secretaries and Heads of Extra-Ministerial Departments as Accounting Officers of their Ministries and Departments, answerable for financial matters including manpower and materials."
+    },
+    {
+      "id": "financial-management-in-government-014",
+      "question": "Which responsibility is specifically assigned to the Head of Budget Office?",
+      "options": [
+        "Auditing all public accounts and certifying compliance",
+        "Keeping the cash book for the regular collection of revenue",
+        "Budgetary planning and control on behalf of the State Government",
+        "Issuing payment vouchers and signing cheques on behalf of the Accountant-General"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Head of Budget Office is responsible for budgetary planning and control on behalf of the State Government."
+    },
+    {
+      "id": "financial-management-in-government-015",
+      "question": "Which statement most accurately describes the constitutional role of the State Auditor-General in the seminar?",
+      "options": [
+        "The officer controls the issuance of all expenditure warrants",
+        "The officer independently audits public accounts to ascertain proper accounting and compliance with rules and regulations",
+        "The officer approves the annual budget before it is presented to the House of Assembly",
+        "The officer keeps the cash books of revenue collectors and imprest holders"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The State Auditor-General is described as an independent officer responsible under the Constitution for auditing public accounts, checking that monies are fully accounted for and ensuring adequate controls to safeguard government resources."
+    },
+    {
+      "id": "financial-management-in-government-016",
+      "question": "Through which institutional arrangement does the House of Assembly exercise oversight in public financial management, according to the seminar?",
+      "options": [
+        "By issuing warrants to Ministries and Departments",
+        "By preparing the financial statements of the State",
+        "By maintaining the departmental Vote Book",
+        "Through its committee"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that the House of Assembly exercises oversight functions in public financial management through its committee."
+    },
+    {
+      "id": "financial-management-in-government-017",
+      "question": "Which body is described as a statutory committee of the State House of Assembly established to examine public accounts and records laid before it by the State Auditor-General?",
+      "options": [
+        "Public Account Committee",
+        "State Executive Council",
+        "Budget Committee",
+        "Procurement Planning Committee"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Public Account Committee is identified as the statutory committee established to examine public accounts and records laid before it by the State Auditor-General."
+    },
+    {
+      "id": "financial-management-in-government-018",
+      "question": "Which of the following best describes a Sub-Accounting Officer?",
+      "options": [
+        "An officer who authorises expenditure on a delegated sub-head through an AIE",
+        "An officer entrusted with the regular collection of a particular form of public revenue",
+        "An officer entrusted with receipt, custody and disbursement of public money who must keep a recognised cash book",
+        "An officer who audits the accounts of public corporations on behalf of the House of Assembly"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A Sub-Accounting Officer is entrusted with receipt, custody and disbursement of public money and is required to keep a recognised cash book."
+    },
+    {
+      "id": "financial-management-in-government-019",
+      "question": "An officer is entrusted with regular collection of a particular form of public revenue and is provided with an official receipt or licence book. Which position does this describe?",
+      "options": [
+        "Imprest Holder",
+        "Revenue Collector",
+        "Officer Controlling Expenditure",
+        "Sub-Accounting Officer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Revenue Collector is described as an officer below the Sub-Accounting Officer who collects a particular form of public revenue using an official receipt or licence book and is required to keep a cash book."
+    },
+    {
+      "id": "financial-management-in-government-020",
+      "question": "Which officer is entrusted with control of a sub-head after authority has been delegated by the appropriate accounting officer?",
+      "options": [
+        "Revenue Collector",
+        "Imprest Holder",
+        "State Auditor-General",
+        "Officer Controlling Expenditure"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Officer Controlling Expenditure is responsible for a sub-head placed under the officer's control by the appropriate accounting officer. The authority is exercised through an Authority to Incur Expenditure."
+    },
+    {
+      "id": "financial-management-in-government-021",
+      "question": "A public officer other than a Sub-Accounting Officer is entrusted with public money for disbursement where the money cannot be expeditiously obtained from a Sub-Accounting Officer. Which position is involved?",
+      "options": [
+        "Revenue Collector",
+        "Officer Controlling Expenditure",
+        "Imprest Holder",
+        "Head of Budget Office"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar defines an Imprest Holder as an officer other than a Sub-Accounting Officer entrusted with public money for disbursement where the money cannot be obtained expeditiously from a Sub-Accounting Officer. The officer must keep a cash book."
+    },
+    {
+      "id": "financial-management-in-government-022",
+      "question": "Which constitutional provision is identified in the seminar as specifying how money should be paid into the Consolidated Revenue Fund and authorising expenditure from it?",
+      "options": [
+        "Sections 120 to 127 of the Constitution of the Federal Republic of Nigeria, 1999 as amended",
+        "Sections 162 to 166 of the Constitution of the Federal Republic of Nigeria, 1999 as amended",
+        "The Finance (Control and Management) Act of 1958",
+        "The Audit Law of 2021"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar identifies Sections 120 to 127 of the 1999 Constitution, as amended, as specifying how money should be paid into the Consolidated Revenue Fund and authorising expenditure."
+    },
+    {
+      "id": "financial-management-in-government-023",
+      "question": "Which legislation is described as governing the management and operation of all the funds of the government and assigning the Federal Minister of Finance responsibility for government financial business, with corresponding adaptation by the State?",
+      "options": [
+        "The Audit Law of 2021",
+        "The Finance (Control and Management) Act of 1958, as amended",
+        "The Public Procurement Act of 2007",
+        "The Economic and Financial Crimes Commission (Establishment) Act 2004"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar describes the Finance (Control and Management) Act of 1958, as amended, as governing the management and operation of government funds and assigning financial responsibilities to the Minister of Finance, with corresponding adaptation by the State."
+    },
+    {
+      "id": "financial-management-in-government-024",
+      "question": "Which regulatory instrument is specifically described as setting out detailed day-to-day rules for collecting, keeping custody of and disbursing government funds in Akwa Ibom State?",
+      "options": [
+        "The Constitution of the Federal Republic of Nigeria, 1999 as amended",
+        "The Finance (Control and Management) Act of 1958",
+        "The Audit Law of 2021",
+        "The Akwa Ibom State Financial Regulation 2009"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar describes the Akwa Ibom State Financial Regulation 2009 as setting out detailed rules for the day-to-day collection, custody and disbursement of government funds, including acceptable and non-acceptable practices."
+    },
+    {
+      "id": "financial-management-in-government-025",
+      "question": "A Ministry estimates the revenue it expects to collect within the year through its normal course of activities. Under the seminar's classification, this revenue is best described as:",
+      "options": [
+        "Capital receipts",
+        "Recurrent revenue",
+        "Development fund revenue",
+        "Supplementary revenue"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Recurrent revenue is revenue a Ministry or Department expects to collect within the year in the normal course of its activities."
+    },
+    {
+      "id": "financial-management-in-government-026",
+      "question": "Which combination correctly identifies the two components of recurrent revenue in the seminar?",
+      "options": [
+        "Capital grants and internal loans",
+        "Taxes and miscellaneous capital receipts",
+        "Statutory allocation and development fund warrants",
+        "Internally Generated Revenue and statutory allocation from the Federation Account"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar divides recurrent revenue into Internally Generated Revenue (IGR) and statutory allocation from the Federation Account."
+    },
+    {
+      "id": "financial-management-in-government-027",
+      "question": "Which of the following is expressly identified as a possible source of Internally Generated Revenue?",
+      "options": [
+        "Rent on government property",
+        "Development Fund Warrant",
+        "Transfer from the Consolidated Revenue Fund for capital projects",
+        "Internal and external loans"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar lists taxes, fines and fees, licences, earnings and sales, rent on government property, and dividends and interest on investments as examples of IGR."
+    },
+    {
+      "id": "financial-management-in-government-028",
+      "question": "Under whose oversight function is the State Internal Revenue Service identified as responsible for generating Internally Generated Revenue?",
+      "options": [
+        "The State Auditor-General",
+        "The Public Account Committee",
+        "The Ministry of Finance",
+        "The State House of Assembly"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar places the State Internal Revenue Service under the oversight function of the Ministry of Finance for the generation of IGR."
+    },
+    {
+      "id": "financial-management-in-government-029",
+      "question": "Which statement accurately describes the Federation Account as presented in the seminar?",
+      "options": [
+        "It is an account exclusively established for capital development expenditure",
+        "It is a distributable pool established by Section 162 of the Constitution of Nigeria, 1999, as amended",
+        "It is an account maintained exclusively for internally generated revenue",
+        "It is a special account used by MDAs to retain unspent recurrent allocations"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar describes the Federation Account as a distributable pool established by Section 162 of the Constitution of the Federal Republic of Nigeria, 1999, as amended."
+    },
+    {
+      "id": "financial-management-in-government-030",
+      "question": "Which of the following is identified as an exception to the revenue collected by the Federation that is paid into the Federation Account?",
+      "options": [
+        "Value Added Tax",
+        "Excess crude revenue",
+        "Statutory allocation",
+        "Proceeds from PAYE of Armed Forces personnel and other specified federal independent revenue"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar excludes proceeds from PAYE of Armed Forces personnel, police personnel, foreign service officers and residents of the FCT, as well as other Federal Independent Revenue."
+    },
+    {
+      "id": "financial-management-in-government-031",
+      "question": "Which of the following combinations consists of sources of capital receipts rather than the seminar's identified components of recurrent revenue?",
+      "options": [
+        "Grants, internal and external loans, and miscellaneous capital receipts",
+        "Taxes, fines, fees and licences",
+        "Statutory allocation and rent on government property",
+        "Earnings, sales and interest on investments"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Capital receipts include transfers from the Consolidated Revenue Fund for capital projects, grants, internal and external loans, and miscellaneous capital receipts."
+    },
+    {
+      "id": "financial-management-in-government-032",
+      "question": "A government expenditure programme is intended to fund long-term investments in infrastructure from the Capital Development Fund. How does the seminar classify this expenditure?",
+      "options": [
+        "Recurrent expenditure classified by MDA",
+        "Recurrent expenditure classified by economic component",
+        "Capital expenditure classified according to the relevant sector",
+        "Statutory recurrent expenditure classified by revenue source"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Capital expenditure involves disbursements from the Capital Development Fund for government investments in infrastructure and long-term development plans. The seminar identifies sectors such as Administrative, Economic, Social, Law and Justice, and Regional."
+    },
+    {
+      "id": "financial-management-in-government-033",
+      "question": "Which combination most accurately describes recurrent expenditure under the seminar?",
+      "options": [
+        "Long-term infrastructure investments financed exclusively from development grants",
+        "Annual administrative costs, including personal emoluments, administrative overheads and Consolidated Revenue Fund charges",
+        "Capital projects classified into Administrative, Economic and Social sectors",
+        "Loans and grants transferred to government from external sources"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Recurrent expenditure is largely incurred to meet the annual cost of administration and includes personal emoluments, administrative overheads and Consolidated Revenue Fund charges, including loan-servicing costs."
+    },
+    {
+      "id": "financial-management-in-government-034",
+      "question": "A government department incurs expenditure that was not provided for in the year's Appropriation Law and subsequently exceeds its approved expenditure provision. Which statement best reflects the seminar's position?",
+      "options": [
+        "The expenditure is permitted if the Permanent Secretary approves it",
+        "The expenditure is acceptable if it relates to administrative overheads",
+        "The expenditure becomes lawful once it is entered in the Cash Book",
+        "Unbudgeted expenditure is not allowed with public funds, and over-expenditure constitutes a punishable offence"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that all types of expenditure must be provided for in the Appropriation Law of the year. Unbudgeted expenditure is not allowed, and over-expenditure constitutes a punishable offence."
+    },
+    {
+      "id": "financial-management-in-government-035",
+      "question": "A Revenue Collector issues an official receipt for funds received but fails to enter the receipt in the cash book. The corresponding value is also yet to be confirmed through a bank statement. Under the seminar, how should the revenue be treated?",
+      "options": [
+        "It has not yet satisfied all the conditions for being accounted for",
+        "It is fully accounted for once the official receipt is issued",
+        "It is accounted for once the Revenue Collector reports the amount verbally",
+        "It becomes accounted for when the funds are entered in the departmental Vote Book"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Revenue is not accounted for until the Revenue Collector's receipt has been issued, the receipts are entered in the Revenue Collector's Cash Book, and the value is confirmed through a bank statement. All three conditions matter."
+    },
+    {
+      "id": "financial-management-in-government-036",
+      "question": "A Revenue Collector receives government revenue in cash and wishes to use part of it to settle an immediate departmental expense before lodging the balance. Which response is consistent with the seminar?",
+      "options": [
+        "The Revenue Collector may retain the cash for up to seven days if the expense is official",
+        "The Revenue Collector may disburse the money after obtaining verbal approval from the Permanent Secretary",
+        "Cash payment is strongly discouraged, revenue should not remain unlodged beyond 48 hours, and disbursement requires express authorisation from the State Accountant-General",
+        "The Revenue Collector may use the money if the transaction is entered in the Cash Book"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar strongly discourages cash payment of revenue, states there is no acceptable reason for failing to lodge revenue within 48 hours, and prohibits disbursement from collected revenue without express authorisation from the State Accountant-General."
+    },
+    {
+      "id": "financial-management-in-government-037",
+      "question": "Following enactment of the Appropriation Law, which arrangement authorises funds to be made available to MDAs for spending in accordance with the approved budget?",
+      "options": [
+        "The State Auditor-General issues instructions directly to every MDA",
+        "The Commissioner for Finance issues a warrant authorising the Accountant-General to make funds available",
+        "The Head of Budget Office releases funds directly to Revenue Collectors",
+        "The Public Account Committee issues payment vouchers to the Treasury"
+      ],
+      "correctAnswer": 1,
+      "explanation": "After enactment of the Appropriation Law, the Commissioner for Finance authorises the Accountant-General through a warrant to make funds available to MDAs in accordance with the budget."
+    },
+    {
+      "id": "financial-management-in-government-038",
+      "question": "Which of the following is correctly identified as a type of Recurrent Expenditure Warrant?",
+      "options": [
+        "Development Fund Special Warrant",
+        "Provisional Development Fund Warrant",
+        "Development Fund Reserved Warrant",
+        "Supplementary General Warrant"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Supplementary General Warrant is among the recurrent expenditure warrants listed in the seminar under FR 402–408."
+    },
+    {
+      "id": "financial-management-in-government-039",
+      "question": "Which of the following belongs to the category of Capital Expenditure Warrants?",
+      "options": [
+        "Development Fund Special Warrant",
+        "Annual General Warrant",
+        "Reserved Expenditure Warrant",
+        "Supplementary Contingencies Warrant"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Development Fund Special Warrant is listed among the capital expenditure warrants under FR 416–424."
+    },
+    {
+      "id": "financial-management-in-government-040",
+      "question": "A Ministry proposes using a Virement Warrant to move funds between expenditure provisions. Which condition must be observed under the seminar?",
+      "options": [
+        "Approval may be granted by the Revenue Collector where the expenditure is urgent",
+        "The warrant can be used without approval if the Ministry has sufficient total allocation",
+        "Approval must be obtained from the House of Assembly, and sufficient money must exist in the vote within the same economic component",
+        "Approval is required only from the Internal Audit Unit"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar states that Virement Warrant is no longer in use. If it must be used, House of Assembly approval is required, and sufficient money must be available in the vote within the same economic component."
+    },
+    {
+      "id": "financial-management-in-government-041",
+      "question": "Which statement correctly reflects the initial requirements for government disbursement under the seminar's payment procedure?",
+      "options": [
+        "All payments must first be recorded in the Cash Book before a payment voucher is prepared",
+        "All disbursements must be made through payment vouchers, which should also be entered in the Vote Book and Cash Book",
+        "All payments may be made through bank transfers without payment vouchers",
+        "Payment vouchers are only necessary for capital expenditure"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar requires all disbursements to be made through Payment Vouchers (PVs). The vouchers should also be entered in the Vote Book and Cash Book."
+    },
+    {
+      "id": "financial-management-in-government-042",
+      "question": "A payment voucher has been prepared and entered in the relevant books. What is the next review arrangement specified in the seminar?",
+      "options": [
+        "It must be forwarded directly to the payee for collection",
+        "It must be sent to the State Auditor-General for final approval",
+        "It must be sent to the Public Account Committee for authorisation",
+        "It must be sent to the Ministry or Department's Internal Audit Unit for vetting and review, after which an authorised officer signs to confirm its correctness"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar directs that the payment voucher be sent to the Internal Audit Unit for vetting and review. After the review, a duly authorised officer signs to vouch that the information is correct and consistent with the Financial Regulations."
+    },
+    {
+      "id": "financial-management-in-government-043",
+      "question": "After the Internal Audit Unit has reviewed a payment voucher and the required authorised officer has signed it, which route should it follow?",
+      "options": [
+        "Submission through a Payment Vouchers Schedule to the Treasury for payment",
+        "Submission directly to the State House of Assembly for approval",
+        "Return to the Revenue Collector for cash disbursement",
+        "Forwarding to the Public Account Committee for certification"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar requires the voucher to be submitted through a Payment Vouchers Schedule to the Treasury. The Treasury then checks and verifies the voucher before passing it for payment."
+    },
+    {
+      "id": "financial-management-in-government-044",
+      "question": "A cheque has been issued following certification of a payment. Which action must the payee take before collecting it under the procedure described in the seminar?",
+      "options": [
+        "Obtain a new warrant from the Commissioner for Finance",
+        "Secure approval from the Public Account Committee",
+        "Provide proper identification and sign the paid voucher and cheque register",
+        "Prepare a new payment voucher and submit it to Internal Audit"
+      ],
+      "correctAnswer": 2,
+      "explanation": "After certification, a cheque is issued to the payee. Following proper identification, the payee signs the paid voucher and cheque register before collecting the cheque."
+    },
+    {
+      "id": "financial-management-in-government-045",
+      "question": "Under Financial Regulation FR 804, which arrangement is required for cheques drawn against an official bank account?",
+      "options": [
+        "They may be signed by one Sub-Accounting Officer and a Revenue Collector",
+        "They must be signed by two officers: the Accounting Officer and another officer not below Senior Executive Officer, GL 09",
+        "They must be signed by the Commissioner for Finance and the State Auditor-General",
+        "They may be signed by any two officers authorised by the Head of Budget Office"
+      ],
+      "correctAnswer": 1,
+      "explanation": "FR 804 requires two signatories: the Accounting Officer and another officer not below the rank of Senior Executive Officer, GL 09."
+    },
+    {
+      "id": "financial-management-in-government-046",
+      "question": "Which statement correctly reflects the seminar's provisions on banking facilities and electronic payment?",
+      "options": [
+        "FR 901 permits cash to replace banking facilities, while e-payment applies only to payments below ₦10 million",
+        "FR 901 concerns cheque signatories, while payments above ₦20,000 must be made electronically",
+        "FR 901 requires agencies to retain substantial office cash, while e-payment applies only to capital expenditure",
+        "FR 901 requires government agencies to make full use of banking facilities, while the seminar states that under the e-payment system, any amount from ₦10 million must be paid electronically into the authorised account of the payee"
+      ],
+      "correctAnswer": 3,
+      "explanation": "FR 901 states that government agencies should make full use of banking facilities. Separately, the seminar states that under the e-payment system, any amount from ₦10 million must be paid electronically into the authorised account of the payee."
+    },
+    {
+      "id": "financial-management-in-government-047",
+      "question": "A government agency is making several small payments and one payment of ₦15,000. What does FR 809, as presented in the seminar, require?",
+      "options": [
+        "Only sufficient cash for small payments should be kept in the office; payments above ₦10,000 should be made through cheques and transfers",
+        "All payments should be made in cash if they are below ₦20,000",
+        "Payments above ₦10,000 may be made in cash if approved by the Revenue Collector",
+        "All small payments must be made through cheques, while payments above ₦10,000 may be made in cash"
+      ],
+      "correctAnswer": 0,
+      "explanation": "FR 809 provides that only sufficient cash to meet small payments should be kept in the office, while payments above ₦10,000 should be made through cheques and transfers."
+    },
+    {
+      "id": "financial-management-in-government-048",
+      "question": "Which option correctly pairs the two Financial Regulation provisions concerning bank reconciliation and imprest?",
+      "options": [
+        "FR 811 requires imprest through a bank account above ₦20,000; FR 1109 requires monthly reconciliation only",
+        "FR 811 concerns cheque signatories; FR 1109 concerns the use of banking facilities",
+        "FR 811 requires weekly/monthly reconciliation between the Cash Book and Bank Statements; FR 1109 states that imprest should be made through a bank account above ₦20,000",
+        "FR 811 prohibits cash payments above ₦10,000; FR 1109 requires two officers to sign every cheque"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar identifies FR 811 with weekly/monthly reconciliation between the Cash Book and Bank Statements, while FR 1109 stipulates that imprest should be made through a bank account above ₦20,000."
+    },
+    {
+      "id": "financial-management-in-government-049",
+      "question": "A payment voucher is being prepared for processing in a government department. Which requirement concerning the number of copies is expressly stated in the seminar?",
+      "options": [
+        "At least two copies per set",
+        "At least three copies per set",
+        "At least five copies per set",
+        "At least six copies per set"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar specifies that payment vouchers should be kept and used in at least five copies per set."
+    },
+    {
+      "id": "financial-management-in-government-050",
+      "question": "An accounting office wants to maintain a record that assigns serial numbers to payment vouchers. Which document is specifically intended for this purpose?",
+      "options": [
+        "Payment Voucher Register",
+        "Payment Voucher Schedule",
+        "Cheques/Cash Payment Register",
+        "Departmental Vote Book"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Payment Voucher Register is maintained for the serial numbering of payment vouchers. The Payment Voucher Schedule serves a different purpose: forwarding payment vouchers."
+    },
+    {
+      "id": "financial-management-in-government-051",
+      "question": "Which document is specifically identified as the instrument used to forward payment vouchers?",
+      "options": [
+        "File copy of the voucher",
+        "Cash Book",
+        "Payment Voucher Register",
+        "Payment Voucher Schedule"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar identifies the Payment Voucher Schedule as the document used to forward payment vouchers."
+    },
+    {
+      "id": "financial-management-in-government-052",
+      "question": "During a financial records inspection, an auditor asks to see the documentary basis for the approved budget against which payments are being processed. Which item in the seminar's required payment records is most directly relevant?",
+      "options": [
+        "Revenue Collector's official receipt book",
+        "A copy of the approved budget or an extract thereof",
+        "The personal cash book of the Imprest Holder",
+        "The procurement bid evaluation report"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A copy of the approved budget or an extract thereof is expressly included among the documents required to be kept and used in payments."
+    },
+    {
+      "id": "financial-management-in-government-053",
+      "question": "Which description best captures the primary function of the Departmental Vote Book?",
+      "options": [
+        "It records revenue collected from all government sources",
+        "It lists all payment vouchers awaiting Treasury approval",
+        "It shows the budgeted amount, expenditure, cumulative expenditure and unexpended balance on sub-heads",
+        "It records only the final balances of departmental bank accounts"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Departmental Vote Book shows the budgeted amount, expenditure, cumulative expenditure and unexpended balance on sub-heads from time to time. It is an important expenditure-control record."
+    },
+    {
+      "id": "financial-management-in-government-054",
+      "question": "Why does the seminar regard the Departmental Vote Book as an integral part of the public-sector accounting control system?",
+      "options": [
+        "It determines which Ministries may generate internally generated revenue",
+        "It replaces the need for the approved budget",
+        "It authorises the Treasury to issue cheques without supporting documents",
+        "It helps the Accounting Officer guard against over-expenditure"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar explains that the Vote Book helps the Accounting Officer guard against over-expenditure by providing an ongoing record of expenditure against budgetary provisions."
+    },
+    {
+      "id": "financial-management-in-government-055",
+      "question": "For every item of expenditure posted in the Departmental Vote Book, whose signature is required against the entry according to the seminar?",
+      "options": [
+        "The Accounting Officer, identified as the Permanent Secretary",
+        "The Revenue Collector",
+        "The State Auditor-General",
+        "The Chairman of the Public Account Committee"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar states that for every item of expenditure posted, the Accounting Officer (Permanent Secretary) must sign against it."
+    },
+    {
+      "id": "financial-management-in-government-056",
+      "question": "Under Chapter 5 of the Revised Financial Regulation, what is the responsibility of the Accounting Officer concerning the Departmental Vote Book?",
+      "options": [
+        "To approve every revenue collection before it is banked",
+        "To monitor departmental expenditure against the amount provided in the estimates and keep the Vote Book up to date",
+        "To conduct the external audit of all departmental accounts",
+        "To prepare the State's consolidated financial statements"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chapter 5 places responsibility on the Accounting Officer to watch expenditure against the amounts provided in the estimates and ensure that the Vote Book is posted up to date."
+    },
+    {
+      "id": "financial-management-in-government-057",
+      "question": "Which of the following is NOT among the details the seminar says should be indicated in the Departmental Vote Book?",
+      "options": [
+        "The head or sub-head of expenditure",
+        "The amount approved in the estimates",
+        "The departmental payment voucher number",
+        "The personal bank account number of the officer receiving payment"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Vote Book should contain expenditure-related information such as the head or sub-head, description, approved amount, revisions, expenditure, payment voucher number, cumulative payments, liabilities and available balance. The payee's personal bank account number is not among the listed details."
+    },
+    {
+      "id": "financial-management-in-government-058",
+      "question": "A departmental Vote Book shows the amount approved in the estimates and the expenditure incurred, but it fails to reflect any known liabilities under the relevant sub-head. Which required entry is missing?",
+      "options": [
+        "Any known liabilities under the sub-head",
+        "The date of the next budget briefing",
+        "The name of the officer who prepared the annual budget",
+        "The amount of revenue generated by other Ministries"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar specifically requires the Vote Book to indicate any known liabilities under the sub-head, in addition to the budgetary and expenditure details."
+    },
+    {
+      "id": "financial-management-in-government-059",
+      "question": "A payment voucher has been prepared and checked, but the expenditure has not been posted into the Departmental Vote Book. What does the seminar say about processing such a voucher?",
+      "options": [
+        "It may be processed if the Treasury has sufficient cash",
+        "It is irregular to process a payment voucher that has not been posted into the Vote Book",
+        "It may be processed if the Revenue Collector signs it",
+        "It should be processed first and entered into the Vote Book at the end of the month"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar expressly states that it is irregular to process a payment voucher which has not been posted into the Vote Book."
+    },
+    {
+      "id": "financial-management-in-government-060",
+      "question": "Which action provides evidence that a payment voucher has been entered into the Departmental Vote Book?",
+      "options": [
+        "Affixing the usual 'Entered into Vote Book' stamp, together with initials and date",
+        "Attaching a copy of the payee's identification card",
+        "Obtaining a fresh warrant from the Commissioner for Finance",
+        "Recording the voucher only in the Cheques/Cash Payment Register"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar states that a stamp bearing 'Entered into Vote Book' is usually used, together with the initials and date, to indicate that the action has been taken."
+    },
+    {
+      "id": "financial-management-in-government-061",
+      "question": "An Accounting Officer wishes to delegate the day-to-day control of departmental expenditure to a subordinate officer. Which arrangement is consistent with the seminar?",
+      "options": [
+        "Oral permission from the Head of Budget Office",
+        "Automatic delegation to the Revenue Collector",
+        "Written instruction delegating the responsibility, after which the subordinate keeps the Vote Book",
+        "Approval from the Public Account Committee without any written instruction"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar allows the Accounting Officer to delegate day-to-day expenditure control to a subordinate through written instruction. The delegated officer then keeps the Vote Book."
+    },
+    {
+      "id": "financial-management-in-government-062",
+      "question": "Under what circumstances does the seminar say an Accounting Officer may use an Authority to Incur Expenditure?",
+      "options": [
+        "When transferring revenue between the Federation Account and the Consolidated Revenue Fund",
+        "When authorising another officer to incur expenditure and sign vouchers on the Accounting Officer's behalf",
+        "When authorising the State Auditor-General to examine the departmental accounts",
+        "When permitting a Revenue Collector to retain government revenue beyond the normal lodging period"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An AIE is used where the Accounting Officer needs to authorise other officers to incur expenditure and sign vouchers on the Accounting Officer's behalf."
+    },
+    {
+      "id": "financial-management-in-government-063",
+      "question": "Which institution is identified as the usual issuing authority for an Authority to Incur Expenditure?",
+      "options": [
+        "The State Auditor-General's Office",
+        "The Ministry of Justice",
+        "The Office of the Accountant-General alone",
+        "The State Budget Office"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that an Authority to Incur Expenditure is usually issued by the State Budget Office."
+    },
+    {
+      "id": "financial-management-in-government-064",
+      "question": "Which description best captures a government budget as defined in the seminar?",
+      "options": [
+        "A record of revenue already collected and expenditure already incurred",
+        "A plan dealing exclusively with capital projects",
+        "A quantitative plan of action and authorised forecast of anticipated government revenue and expenditure for a defined period",
+        "A legislative document listing only the financial entitlements of public servants"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar describes a budget as a quantitative plan of action that aids coordination and implementation of government plans, and as an authorised forecast of anticipated revenue and expenditure for a defined period."
+    },
+    {
+      "id": "financial-management-in-government-065",
+      "question": "Which combination represents the three components of the State Government budget listed in the seminar?",
+      "options": [
+        "Recurrent revenue, capital receipts and statutory allocation",
+        "Personnel Cost, Overhead Cost and Capital Budget",
+        "Recurrent expenditure, debt servicing and procurement expenditure",
+        "Personnel Cost, statutory allocation and development grants"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies Personnel Cost, Overhead Cost and Capital Budget as the components of the State budget."
+    },
+    {
+      "id": "financial-management-in-government-066",
+      "question": "A government department uses the budget to establish the maximum expenditure it may incur within a defined period. Which budget purpose does this illustrate?",
+      "options": [
+        "Providing a basis for determining staff promotions",
+        "Identifying officers responsible for internal audit",
+        "Regulating revenue collection methods",
+        "Stipulating expenditure limits within the period"
+      ],
+      "correctAnswer": 3,
+      "explanation": "One of the purposes of a budget identified in the seminar is to stipulate expenditure limits within the period covered."
+    },
+    {
+      "id": "financial-management-in-government-067",
+      "question": "Which budgetary function is most directly illustrated when government uses the budget to determine how limited public funds are distributed among competing programmes?",
+      "options": [
+        "Showing how scarce resources are distributed",
+        "Establishing the hierarchy of financial officers",
+        "Determining how payment vouchers are numbered",
+        "Identifying the statutory classification of public revenue"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar identifies the distribution of scarce resources as one of the purposes of the government budget."
+    },
+    {
+      "id": "financial-management-in-government-068",
+      "question": "A Ministry is preparing proposals for the next financial year. Which institution is identified as having oversight of the process of gathering quantitative forecasts from individual Ministries, Departments and Agencies?",
+      "options": [
+        "Public Account Committee",
+        "State Auditor-General's Office",
+        "State Budget Office",
+        "Office of the Commissioner for Finance alone"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar states that the State Budget Office has oversight of gathering forecasts from individual Ministries, Departments and Agencies."
+    },
+    {
+      "id": "financial-management-in-government-069",
+      "question": "Which action initiates the government budget development process described in the seminar?",
+      "options": [
+        "Presentation of the final Draft Budget to the House of Assembly",
+        "Issuance of call circulars by the Head of Budget Office inviting MDA proposals for the coming year",
+        "Conduct of public budget hearings by the House of Assembly",
+        "Preparation of the final executive brief by the Governor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The first stage identified is the issuance of call circulars by the Head of Budget Office, inviting MDAs to submit proposals for the coming year."
+    },
+    {
+      "id": "financial-management-in-government-070",
+      "question": "After call circulars have been issued, who is responsible for constituting budget committees within the Ministries, Departments and Agencies?",
+      "options": [
+        "The State Auditor-General",
+        "The Commissioner for Finance",
+        "The Public Account Committee",
+        "The Permanent Secretary or Head of the Extra-Ministerial Department"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that the Permanent Secretary or Head of an Extra-Ministerial Department constitutes budget committees for the respective MDAs."
+    },
+    {
+      "id": "financial-management-in-government-071",
+      "question": "Following the constitution of MDA budget committees, what happens to the quantitative forecasts prepared by the Ministries, Departments and Agencies?",
+      "options": [
+        "They are returned to the budgeting authorities, after which the respective MDAs meet to discuss or substantiate their estimates",
+        "They are immediately passed into law by the House of Assembly",
+        "They are sent directly to the Auditor-General for certification",
+        "They are published for public review before being submitted to the State Budget Office"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar describes the return of forecasts to the budgeting authorities, followed by meetings between the respective MDAs and the authorities to discuss or substantiate their estimates."
+    },
+    {
+      "id": "financial-management-in-government-072",
+      "question": "Which sequence correctly describes the later stages of the government budget process after the MDA estimates have been discussed and substantiated?",
+      "options": [
+        "Public briefing, call circulars, budget committee formation, then preparation of the draft estimates",
+        "Appropriation Bill, MDA forecasts, State Executive Council review, then budget call circulars",
+        "Budget Department collates estimates and sends a Draft Estimate with an Executive Brief to the Governor; the State Estimates are discussed at the State Executive Council; the final Draft Budget goes to the House of Assembly for hearings and approval; the law is returned to the Governor for assent; the Commissioner for Finance then briefs the public",
+        "State Auditor-General approves the MDA estimates, the Public Account Committee passes the Appropriation Bill, and the Permanent Secretary gives assent"
+      ],
+      "correctAnswer": 2,
+      "explanation": "This follows the order described on pages 28–29: collation and submission to the Governor, consideration by the State Executive Council, submission to the House of Assembly, legislative hearings and passage of the Appropriation Bill, return to the Governor for assent, and the public budget briefing by the Commissioner for Finance."
+    },
+    {
+      "id": "financial-management-in-government-073",
+      "question": "Which statement best captures the meaning of Internal Audit in the seminar?",
+      "options": [
+        "A continuous review of accounting, operational and internal control systems as a service to management",
+        "An annual examination of government revenue conducted exclusively by the House of Assembly",
+        "A periodic inspection of payment vouchers to determine the salary entitlements of public officers",
+        "An independent legislative investigation into the financial activities of Ministries and Departments"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar defines Internal Audit as a continuous review of accounting, operational and internal control systems provided as a service to the management of an entity."
+    },
+    {
+      "id": "financial-management-in-government-074",
+      "question": "What is the central management-oriented purpose of Internal Audit as described in the seminar?",
+      "options": [
+        "To replace the Accounting Officer in approving every departmental expenditure",
+        "To evaluate accounting and corporate governance processes and assist management in achieving organisational objectives",
+        "To prepare the State Government's annual Appropriation Bill",
+        "To assume responsibility for the collection and custody of public revenue"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Internal Audit involves evaluating accounting and corporate governance processes as a service to management, helping an organisation improve its operations and achieve intended results."
+    },
+    {
+      "id": "financial-management-in-government-075",
+      "question": "An internal auditor discovers errors in an entity's financial and operational processes during a review. Which responsibility directly corresponds to the seminar's stated objectives of Internal Audit?",
+      "options": [
+        "Transferring responsibility for the errors to the State Auditor-General",
+        "Suspending the officers responsible before any further review",
+        "Identifying problems and errors and ensuring timely corrections",
+        "Replacing the accounting records with a new set of financial statements"
+      ],
+      "correctAnswer": 2,
+      "explanation": "One objective of Internal Audit is to identify problems and errors and ensure timely corrections."
+    },
+    {
+      "id": "financial-management-in-government-076",
+      "question": "Which statement most accurately distinguishes an internal audit review from an internal control system, as described in the seminar?",
+      "options": [
+        "Internal audit is established exclusively by the legislature, while internal control is established by the State Auditor-General",
+        "Internal audit deals only with cash transactions, while internal control deals exclusively with procurement",
+        "Internal audit concerns revenue collection, while internal control concerns preparation of the Appropriation Bill",
+        "Internal audit continuously reviews systems and processes, while internal control is the system established by management to safeguard resources and promote orderly operations"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Internal Audit is a continuous review of accounting, operational and internal control systems. Internal Control is the system of control, financial or otherwise, established by management to safeguard assets, ensure reliable records, promote efficiency and encourage adherence to policies."
+    },
+    {
+      "id": "financial-management-in-government-077",
+      "question": "Which of the following best reflects the objectives of internal control under the seminar?",
+      "options": [
+        "To determine the salaries of accounting officers and regulate their promotion",
+        "To safeguard assets, ensure accurate and reliable records, promote operational efficiency and encourage adherence to policies",
+        "To replace internal auditors with external auditors in every government establishment",
+        "To authorise expenditure beyond approved budgetary provisions where necessary"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies safeguarding assets, securing the accuracy and reliability of records, promoting operational efficiency and encouraging adherence to policies as the objectives of internal control."
+    },
+    {
+      "id": "financial-management-in-government-078",
+      "question": "Which of the following is specifically identified as one of the mechanisms through which internal control can be exercised?",
+      "options": [
+        "Annual budget briefing by the Commissioner for Finance",
+        "Issuance of call circulars by the Head of Budget Office",
+        "Vote Books",
+        "Appointment and confirmation of public officers"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar identifies Vote Books, External Auditors, Annual Board of Surveys, Public Accounts Committee, Accountant-General's Inspectorate Department and Board of Enquiry among the mechanisms through which internal control can be exercised."
+    },
+    {
+      "id": "financial-management-in-government-079",
+      "question": "An internal auditor reviews the operations of an MDA and identifies risks that could affect its performance. Which responsibility best reflects the auditor's role in this situation?",
+      "options": [
+        "Approving the budgetary estimates of the MDA",
+        "Authorising the disbursement of funds to the MDA",
+        "Appointing officers responsible for the identified operational areas",
+        "Assessing operational risks, monitoring how they are managed and reporting risks that come to the auditor's attention"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that internal auditors assess risks associated with relevant areas of operations, monitor how those risks are being managed and report risks that come to their attention during review exercises."
+    },
+    {
+      "id": "financial-management-in-government-080",
+      "question": "An internal auditor examines whether a Ministry is implementing the applicable government policies and regulations. Which stated role is being performed?",
+      "options": [
+        "Reviewing the implementation of government policies and regulations pertaining to the MDA",
+        "Authorising government expenditure on behalf of the Commissioner for Finance",
+        "Preparing the financial statements of the Ministry",
+        "Determining the statutory allocation payable to the Ministry"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Reviewing the implementation of government policies and regulations pertaining to the MDA is one of the specific roles assigned to internal auditors."
+    },
+    {
+      "id": "financial-management-in-government-081",
+      "question": "An officer evaluates the performance of a government programme and identifies areas where resources could be used more economically and efficiently. Which responsibility does this represent?",
+      "options": [
+        "Reviewing procurement committee membership",
+        "Preparing a supplementary expenditure warrant",
+        "Appraising performance effectiveness and identifying opportunities to improve economy, efficiency and effectiveness",
+        "Certifying the financial statements for presentation to the House of Assembly"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar requires internal auditors to appraise the effectiveness of performance and identify opportunities to improve economy, efficiency and effectiveness."
+    },
+    {
+      "id": "financial-management-in-government-082",
+      "question": "A payment voucher has been prepared and is awaiting payment. Which audit activity is specifically assigned to the internal auditor before the payment is made?",
+      "options": [
+        "Post-payment audit",
+        "Annual financial statement audit",
+        "Procurement compliance review",
+        "Prepayment audit"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar specifically assigns internal auditors the responsibility of carrying out prepayment audits on payment vouchers that have been checked and passed before payment."
+    },
+    {
+      "id": "financial-management-in-government-083",
+      "question": "Within what period does the seminar require the internal auditor to complete the prepayment audit after receiving the relevant payment voucher?",
+      "options": [
+        "Four days",
+        "Seven days",
+        "Fourteen days",
+        "Thirty days"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar states that the prepayment audit should be completed within four days of receipt of the relevant payment voucher."
+    },
+    {
+      "id": "financial-management-in-government-084",
+      "question": "Which public-sector reform is identified in the seminar as the Integrated Payroll and Personnel Information System?",
+      "options": [
+        "GIFMIS",
+        "IPPIS",
+        "IPSAS",
+        "EFCC"
+      ],
+      "correctAnswer": 1,
+      "explanation": "IPPIS stands for Integrated Payroll and Personnel Information System and is listed among the reforms achieved for better service delivery."
+    },
+    {
+      "id": "financial-management-in-government-085",
+      "question": "Which acronym represents the Government Integrated Financial Management Information System?",
+      "options": [
+        "IPPIS",
+        "IPSAS",
+        "ICPC",
+        "GIFMIS"
+      ],
+      "correctAnswer": 3,
+      "explanation": "GIFMIS stands for Government Integrated Financial Management Information System, one of the public-sector reforms identified in the seminar."
+    },
+    {
+      "id": "financial-management-in-government-086",
+      "question": "Which of the following best describes the contribution of the e-payment system listed among the public-sector reforms?",
+      "options": [
+        "It reduces the risk associated with transactions involving large volumes of cash under the cashless policy",
+        "It replaces all government financial regulations with electronic approval procedures",
+        "It transfers the responsibility for auditing public accounts to commercial banks",
+        "It removes the requirement for payment vouchers in government transactions"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar describes the e-payment system as reducing the risk of transactions involving large cash volumes under the cashless policy."
+    },
+    {
+      "id": "financial-management-in-government-087",
+      "question": "Which pair of reforms is expressly listed together in the seminar?",
+      "options": [
+        "IPPIS and the Oaths Act",
+        "International Public Sector Accounting Standards and the National Chart of Accounts",
+        "GIFMIS and the Finance (Control and Management) Act",
+        "EFCC and the Public Accounts Committee"
+      ],
+      "correctAnswer": 1,
+      "explanation": "International Public Sector Accounting Standards (IPSAS) and the National Chart of Accounts are listed together among the reforms in the public sector."
+    },
+    {
+      "id": "financial-management-in-government-088",
+      "question": "Which combination correctly reflects the responsibilities attributed to the Fiscal Responsibility Board in the seminar?",
+      "options": [
+        "Approving payment vouchers, preparing financial statements and conducting procurement evaluations",
+        "Collecting internally generated revenue and issuing expenditure warrants",
+        "Promoting the State's economic activities, instituting good standard practices, regulating MDA functions and developing a reporting system for all MDAs",
+        "Auditing every government bank account and approving the State's annual budget"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar attributes these responsibilities to the Fiscal Responsibility Board: promoting the State's economic activities, instituting good standard practices, regulating MDA functions and developing a reporting system for all MDAs."
+    },
+    {
+      "id": "financial-management-in-government-089",
+      "question": "According to the seminar, when did the Akwa Ibom State Government begin preparing its IPSAS Cash-Based Financial Statement?",
+      "options": [
+        "2015",
+        "2017",
+        "2019",
+        "2021"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar states that preparation of the State's IPSAS Cash-Based Financial Statement began in 2015."
+    },
+    {
+      "id": "financial-management-in-government-090",
+      "question": "Which accounting basis does the seminar identify for the State's 2021 Financial Statement?",
+      "options": [
+        "Cash-Based accounting",
+        "IPSAS Accrual-Based accounting",
+        "Modified Cash-Based accounting",
+        "Budgetary accounting only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar expressly identifies the 2021 Financial Statement of the State as IPSAS Accrual-Based."
+    },
+    {
+      "id": "financial-management-in-government-091",
+      "question": "Which of the following is identified as a benefit of IPSAS implementation?",
+      "options": [
+        "Elimination of the need for financial reporting by government",
+        "Automatic prevention of every form of financial misconduct",
+        "Recognition and valuation of government assets and liabilities",
+        "Removal of the requirement for public-sector accountability"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Recognition and valuation of government assets and liabilities is one of the benefits of IPSAS identified in the seminar. Other benefits include strengthened reporting, transparency, accountability and comparability."
+    },
+    {
+      "id": "financial-management-in-government-092",
+      "question": "Which statement best describes procurement in government as presented in the seminar?",
+      "options": [
+        "The process through which government entities collect taxes and statutory allocations",
+        "The process of auditing public expenditure before funds are released",
+        "The administrative procedure for recruiting contractors into public service",
+        "The process by which government entities acquire goods, services and works using public funds under specific laws, regulations and guidelines"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar defines government procurement as the process through which government entities acquire goods, services and works using public funds under specific laws, regulations and guidelines."
+    },
+    {
+      "id": "financial-management-in-government-093",
+      "question": "A procuring entity wants to ensure that procurement activities do not encourage fraud, waste, corruption or local protectionism. Which approach best reflects the procurement principles described in the seminar?",
+      "options": [
+        "Restricting information to selected bidders and avoiding competition",
+        "Making information readily available, ensuring transparency and accountability, promoting competition and achieving value for money",
+        "Awarding contracts primarily on the basis of familiarity with suppliers",
+        "Reducing procurement oversight to accelerate the award of contracts"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar emphasises transparency, accountability, readily available information, efficiency, competition and value for money, while preventing fraud, waste, corruption and local protectionism."
+    },
+    {
+      "id": "financial-management-in-government-094",
+      "question": "Which sequence correctly represents the procurement procedure outlined in the seminar?",
+      "options": [
+        "Contract management, needs assessment, contract award, bid solicitation and procurement planning",
+        "Bid evaluation, procurement planning, needs assessment, contract management and contract award",
+        "Needs assessment, procurement planning, solicitation of bids, evaluation of bids, contract award and contract management",
+        "Procurement planning, contract management, bid solicitation, needs assessment and contract evaluation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The procurement stages are presented in this order: needs assessment, planning, solicitation of bids, evaluation of bids, contract awards and contract management."
+    },
+    {
+      "id": "financial-management-in-government-095",
+      "question": "During procurement, technical and financial evaluation of bids has been completed. Which subsequent stage includes the Certified Board's approval of a No Objection (NoB), as described in the seminar?",
+      "options": [
+        "Needs assessment",
+        "Procurement planning",
+        "Contract management",
+        "Contract award"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar places the Certified Board's approval of a No Objection (NoB) under contract awards, which follows the evaluation of bids."
+    },
+    {
+      "id": "financial-management-in-government-096",
+      "question": "A Ministry is constituting its Procurement Planning Committee. Which statement correctly describes the role of the Procurement Unit?",
+      "options": [
+        "It serves as the Secretary of the Procurement Planning Committee",
+        "It appoints the Accounting Officer as Chairman",
+        "It independently approves the contract award and No Objection",
+        "It replaces the Financial Unit and Legal Unit in committee membership"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar states that the Procurement Unit of the MDA serves as the Secretary of the Procurement Planning Committee. The Accounting Officer—Permanent Secretary, Director-General or Chief Executive Officer—appoints the committee."
+    },
+    {
+      "id": "financial-management-in-government-097",
+      "question": "Who is identified as producing the State's financial statements and presenting them to the State Auditor-General within three months after the end of the fiscal year?",
+      "options": [
+        "The Commissioner for Finance",
+        "The State Auditor-General",
+        "The State Accountant-General",
+        "The Public Account Committee"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar states that the State Accountant-General produces the financial statements and presents them to the State Auditor-General within three months after the end of the fiscal year."
+    },
+    {
+      "id": "financial-management-in-government-098",
+      "question": "Which combination correctly identifies the four financial statements listed in the seminar?",
+      "options": [
+        "Cash Book, Vote Book, Payment Voucher Register and Bank Reconciliation Statement",
+        "Statement of Financial Position, Statement of Financial Performance, Statement of Changes in Net Assets/Equity and Statement of Cash Flows",
+        "Statement of Revenue, Statement of Expenditure, Appropriation Bill and Development Fund Statement",
+        "Statement of Assets, Statement of Liabilities, Statement of Procurement and Statement of Audit Findings"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies four statements: Statement of Financial Position, Statement of Financial Performance, Statement of Changes in Net Assets/Equity and Statement of Cash Flows."
+    },
+    {
+      "id": "financial-management-in-government-099",
+      "question": "Which items does the seminar say are published alongside the State's financial statements?",
+      "options": [
+        "Explanatory notes and a Statement of Accounting Policies",
+        "Payment vouchers and cash books",
+        "Audit queries and procurement bids",
+        "Warrants and departmental Vote Books"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar states that explanatory notes and a Statement of Accounting Policies are published alongside the financial statements."
+    },
+    {
+      "id": "financial-management-in-government-100",
+      "question": "On receipt of the State Financial Statements, what is the stated aim of the State Auditor-General's audit?",
+      "options": [
+        "To approve every expenditure item before the House of Assembly considers the budget",
+        "To certify that all revenue collectors have lodged every receipt within 48 hours",
+        "To determine whether every procurement contract was awarded to the lowest bidder",
+        "To provide reasonable assurance on whether the statements fairly present the State's financial position, results of operation and cash flows in conformity with extant rules"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that the audit aims to provide reasonable assurance on whether the financial statements fairly present the State's financial position, results of operation and cash flows in conformity with extant rules."
+    },
+    {
+      "id": "financial-management-in-government-101",
+      "question": "Within what period must the State Auditor-General submit the audit report to the State House of Assembly after receiving the Accountant-General's financial statements?",
+      "options": [
+        "Within 90 days",
+        "Within 30 days",
+        "Within 60 days",
+        "Within 120 days"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar requires the State Auditor-General to submit the report to the State House of Assembly within 90 days of receiving the financial statements from the Accountant-General."
+    },
+    {
+      "id": "financial-management-in-government-102",
+      "question": "Which combination describes the contents of the Auditor-General's report as presented in the seminar?",
+      "options": [
+        "Only the final audited balance sheet and the approved annual budget",
+        "A report on the financial statements, a summary of unresolved audit issues arising from audit inspection, and reports of special investigations",
+        "Only a list of officers queried and the proposed disciplinary sanctions",
+        "A procurement plan, a schedule of recurrent warrants and a cash book summary"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that the Auditor-General's report is made up of a report on the financial statement, a summary of unresolved audit issues arising from audit inspection, together with reports of special investigations."
+    },
+    {
+      "id": "financial-management-in-government-103",
+      "question": "Which description correctly identifies the Public Account Committee of the State House of Assembly?",
+      "options": [
+        "An administrative department within the Ministry of Finance",
+        "An independent audit institution established to replace the State Auditor-General",
+        "A statutory body established to examine the audited accounts of government and other statutory bodies",
+        "A procurement committee responsible for approving contracts"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar describes the Public Account Committee as a statutory body established to examine the audited accounts of government and other statutory bodies."
+    },
+    {
+      "id": "financial-management-in-government-104",
+      "question": "Which action is specifically assigned to the Public Account Committee in relation to government officers queried in the Auditor-General's report?",
+      "options": [
+        "Issue payment vouchers to the officers concerned",
+        "Approve their departments' budget estimates",
+        "Transfer them to the State Auditor-General's Office",
+        "Invite them to appear before the committee for questioning"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that the Public Account Committee invites government officers queried in the Auditor-General's report to appear before it for questioning."
+    },
+    {
+      "id": "financial-management-in-government-105",
+      "question": "An officer has been queried in an audit report. Which additional requirement may the Public Account Committee impose on an affected officer under the seminar?",
+      "options": [
+        "Produce documents to absolve the officer from the queries",
+        "Prepare a supplementary warrant for the expenditure",
+        "Approve the officer's next annual promotion",
+        "Transfer custody of the departmental Vote Book to the committee"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar states that the Public Account Committee requires affected officers to produce documents to absolve them from queries."
+    },
+    {
+      "id": "financial-management-in-government-106",
+      "question": "Which of the following is expressly included among the Public Account Committee's examination responsibilities?",
+      "options": [
+        "Issuing recurrent expenditure warrants to MDAs",
+        "Examining the audited reports and accounts of any public body",
+        "Preparing and signing the State's financial statements",
+        "Approving the appointment of Sub-Accounting Officers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar lists examination of the audited reports and accounts of any public body among the committee's functions."
+    },
+    {
+      "id": "financial-management-in-government-107",
+      "question": "A government has an interest in a particular project. Which related examination is expressly listed as a function of the Public Account Committee?",
+      "options": [
+        "Approving the project's original procurement plan",
+        "Issuing a Development Fund Warrant for the project",
+        "Examining the accounts of projects in which the government has an interest",
+        "Appointing the project's Accounting Officer"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar assigns the Public Account Committee the function of examining the accounts of projects in which the government has an interest."
+    },
+    {
+      "id": "financial-management-in-government-108",
+      "question": "A public body is suspected of incurring irregular expenditure and spending beyond its approved provision. Which Public Account Committee function is most directly relevant?",
+      "options": [
+        "Preparing the affected body's next annual budget",
+        "Issuing a Virement Warrant to regularise the expenditure",
+        "Appointing an internal auditor to the body",
+        "Examining government expenditure where irregularities or over-expenditure have occurred"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar expressly lists examination of government expenditure where irregularities or over-expenditure have occurred as a function of the Public Account Committee."
+    },
+    {
+      "id": "financial-management-in-government-109",
+      "question": "After examining public accounts and identifying findings, through which channel does the Public Account Committee produce its report under the seminar?",
+      "options": [
+        "Through the House of Assembly to the Executive",
+        "Directly to the Accountant-General for approval",
+        "Through the Commissioner for Finance to the Treasury",
+        "Directly to the affected MDA without reporting to the House"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar states that the Public Account Committee produces its report of findings through the House of Assembly to the Executive."
+    },
+    {
+      "id": "financial-management-in-government-110",
+      "question": "Which oversight responsibility is also attributed to the Public Account Committee?",
+      "options": [
+        "Issuing warrants to all Ministries and Departments",
+        "Carrying out oversight functions to Ministries, Departments and Agencies under its jurisdiction",
+        "Preparing all MDA financial statements",
+        "Conducting the day-to-day internal audit of every MDA"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar lists oversight functions to Ministries, Departments and Agencies under the committee's jurisdiction among its major functions."
+    },
+    {
+      "id": "financial-management-in-government-111",
+      "question": "Who is responsible for appointing the Procurement Planning Committee of a Ministry, Department or Agency, according to the seminar?",
+      "options": [
+        "The State Auditor-General",
+        "The Commissioner for Finance",
+        "The Accounting Officer, namely the Permanent Secretary, Director-General or Chief Executive Officer",
+        "The Public Account Committee"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar states that the Accounting Officer—the Permanent Secretary, Director-General or Chief Executive Officer—shall appoint the Procurement Planning Committee."
+    },
+    {
+      "id": "financial-management-in-government-112",
+      "question": "Who is identified as the Chairperson of the Procurement Planning Committee?",
+      "options": [
+        "The representative of the Procurement Unit",
+        "The representative of the Financial Unit",
+        "The representative of the Legal Unit",
+        "The Permanent Secretary, Director-General or Chief Executive Officer, or a representative"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar identifies the Permanent Secretary, Director-General or Chief Executive Officer, or a representative, as Chairperson of the Procurement Planning Committee."
+    },
+    {
+      "id": "financial-management-in-government-113",
+      "question": "A procuring MDA establishes its Procurement Planning Committee. Which unit should have a representative because it is directly within the MDA and in need of the procurement?",
+      "options": [
+        "The unit directly within the MDA that is in need of the procurement",
+        "The State Auditor-General's Office",
+        "The Office of the Public Account Committee",
+        "The Revenue Collector's Unit"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar includes a representative of the unit directly within the MDA that is in need of the procurement."
+    },
+    {
+      "id": "financial-management-in-government-114",
+      "question": "Which financial function must be represented on the Procurement Planning Committee?",
+      "options": [
+        "The office of the State Auditor-General",
+        "The Financial Unit of the procuring entity",
+        "The Office of the Accountant-General only",
+        "The State House of Assembly's Finance Committee"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that the Financial Unit of the procuring entity shall have a representative on the Procurement Planning Committee."
+    },
+    {
+      "id": "financial-management-in-government-115",
+      "question": "Which department is expressly required to have a representative on the Procurement Planning Committee for its planning and research role?",
+      "options": [
+        "The Internal Audit Unit",
+        "The Department of Establishments",
+        "The Planning, Research and Statistics Department",
+        "The State Auditor-General's Office"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar specifies that the Planning, Research and Statistics (PRS) Department shall have a representative on the Procurement Planning Committee."
+    },
+    {
+      "id": "financial-management-in-government-116",
+      "question": "Which of the following is expressly listed as a member of the Procurement Planning Committee?",
+      "options": [
+        "The State Auditor-General",
+        "The Chairman of the Public Account Committee",
+        "The State Accountant-General in every case",
+        "The Legal Unit of the procuring entity"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that the Legal Unit of the procuring entity shall be a member of the Procurement Planning Committee."
+    },
+    {
+      "id": "financial-management-in-government-117",
+      "question": "Which additional personnel category is expressly required to be represented on the Procurement Planning Committee?",
+      "options": [
+        "Technical Personnel of the procuring entity",
+        "All Revenue Collectors in the MDA",
+        "Representatives of every contractor that submits a bid",
+        "All members of the State Executive Council"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar includes Technical Personnel of the procuring entity as members of the Procurement Planning Committee."
+    },
+    {
+      "id": "financial-management-in-government-118",
+      "question": "Which of the following is NOT identified as a member or represented unit on the Procurement Planning Committee in the seminar?",
+      "options": [
+        "The Financial Unit",
+        "The State Auditor-General's Office",
+        "The Legal Unit",
+        "The Planning, Research and Statistics Department"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar lists the Financial Unit, Legal Unit and Planning, Research and Statistics Department among the committee's represented units. It does not identify the State Auditor-General's Office as a committee member."
+    },
+    {
+      "id": "financial-management-in-government-119",
+      "question": "Which of the following is specifically identified as the work covered by contract management in the procurement procedure?",
+      "options": [
+        "Needs assessment and preparation of the procurement plan only",
+        "Solicitation of bids and technical/financial evaluation only",
+        "Execution, performance monitoring, payment and dispute resolution",
+        "Issuance of call circulars and presentation of the State budget"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar identifies contract management as covering execution, performance monitoring, payment and dispute resolution."
+    },
+    {
+      "id": "financial-management-in-government-120",
+      "question": "Which report does the seminar specifically identify among the Public Account Committee's functions to examine in relation to local government?",
+      "options": [
+        "The annual procurement plan of each Local Government",
+        "The State budget briefing delivered by the Commissioner for Finance",
+        "The payment voucher schedule prepared by the Accountant-General",
+        "The reports of the State Auditor-General for Local Government"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar specifically lists examination of the reports of the State Auditor-General for Local Government among the Public Account Committee's functions."
+    }
+  ]
+}

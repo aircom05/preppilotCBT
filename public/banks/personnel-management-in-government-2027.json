@@ -1,0 +1,1210 @@
+{
+  "metadata": {
+    "id": "personnel-management-in-government",
+    "title": "PERSONNEL MANAGEMENT IN GOVERNMENT",
+    "version": "1.0.0",
+    "totalQuestions": 100
+  },
+  "questions": [
+    {
+      "id": "personnel-management-in-government-001",
+      "question": "Which statement most accurately describes personnel management as presented in the seminar?",
+      "options": [
+        "The supervision of employees after they have completed their official duties.",
+        "The systematic administration of employees and the employment relationship throughout their service.",
+        "The management of recruitment activities without responsibility for an officer's subsequent career.",
+        "The preparation of payroll and staff attendance records as the primary function of administration."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Personnel management covers the practical processes through which an organisation brings an employee into service, maintains the employment record, manages career and conduct, provides benefits and welfare, and processes eventual exit."
+    },
+    {
+      "id": "personnel-management-in-government-002",
+      "question": "Which of the following sequences most accurately represents the personnel life cycle in the seminar?",
+      "options": [
+        "Entry → Integration → Administration → Development → Movement → Accountability → Exit.",
+        "Recruitment → Promotion → Training → Discipline → Retirement → Appointment.",
+        "Entry → Administration → Recruitment → Movement → Exit → Development → Accountability.",
+        "Integration → Entry → Development → Accountability → Administration → Exit → Movement."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar's personnel life-cycle table identifies seven stages in this order: Entry, Integration, Administration, Development, Movement, Accountability and Exit."
+    },
+    {
+      "id": "personnel-management-in-government-003",
+      "question": "An officer's appointment has been completed, and the officer is deployed to a particular position. The officer is then introduced to duties, reporting relationships and workplace expectations. Which stage of the personnel life cycle is being described?",
+      "options": [
+        "Administration.",
+        "Development.",
+        "Integration.",
+        "Accountability."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Integration includes placement, induction and clarification of duties and reporting expectations."
+    },
+    {
+      "id": "personnel-management-in-government-004",
+      "question": "Which of the following activities belongs most directly to the Administration stage of the personnel life cycle?",
+      "options": [
+        "Training and career development.",
+        "Confirmation and promotion.",
+        "Retirement and resignation.",
+        "Policy implementation, personnel records, attendance and day-to-day administration."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar associates Administration with policy implementation, records, attendance and day-to-day personnel administration."
+    },
+    {
+      "id": "personnel-management-in-government-005",
+      "question": "An organisation identifies a performance gap and arranges training to improve an officer's capability. Which stage of the personnel life cycle does this activity principally represent?",
+      "options": [
+        "Development.",
+        "Movement.",
+        "Entry.",
+        "Exit."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Development includes training, performance improvement and career development."
+    },
+    {
+      "id": "personnel-management-in-government-006",
+      "question": "Which combination is associated with the Movement stage of the personnel life cycle?",
+      "options": [
+        "Recruitment, selection and appointment.",
+        "Confirmation, promotion, transfer/posting, conversion and approved career movement.",
+        "Attendance, leave and routine personnel actions.",
+        "Performance correction, misconduct processes and grievances."
+      ],
+      "correctAnswer": 1,
+      "explanation": "These are the personnel transactions listed under Movement in the seminar's life-cycle table."
+    },
+    {
+      "id": "personnel-management-in-government-007",
+      "question": "Which of the following activities falls under the Accountability stage of the personnel life cycle?",
+      "options": [
+        "Placement, induction and reporting expectations.",
+        "Retirement, resignation and dismissal.",
+        "Performance correction, misconduct processes and grievances.",
+        "Training, performance improvement and career development."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Accountability covers performance correction, misconduct processes and grievances."
+    },
+    {
+      "id": "personnel-management-in-government-008",
+      "question": "Which of the following is identified as an Exit activity in the personnel life cycle?",
+      "options": [
+        "Confirmation and conversion.",
+        "Training and performance improvement.",
+        "Attendance and day-to-day administration.",
+        "Retirement, resignation and dismissal or other lawful separation."
+      ],
+      "correctAnswer": 3,
+      "explanation": "These are the exit processes listed in the seminar."
+    },
+    {
+      "id": "personnel-management-in-government-009",
+      "question": "According to the central principle of personnel management, every personnel action should be traceable to which combination?",
+      "options": [
+        "An authority, rule or approved procedure, reliable facts, proper documentation and a responsible decision-maker.",
+        "A supervisor's preference, verbal instruction and the employee's acceptance.",
+        "An officer's seniority, length of service and personal recommendation.",
+        "A department's customary practice, informal approval and available resources."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar establishes traceability to authority, rules or approved procedures, reliable facts, proper documentation and a responsible decision-maker. It gives examples such as PSR, circulars, call letters and the Head of Establishment's approval."
+    },
+    {
+      "id": "personnel-management-in-government-010",
+      "question": "Before commencing recruitment, what should management establish first?",
+      "options": [
+        "The identity of the officer who will conduct the interviews.",
+        "The number of candidates likely to apply.",
+        "The work to be done, the authorised establishment position, required qualifications and necessary approval.",
+        "The date on which successful candidates will assume duty."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar states that workforce planning begins with an identified need and requires management to establish the work, authorised position, qualifications and necessary approval before recruitment."
+    },
+    {
+      "id": "personnel-management-in-government-011",
+      "question": "Which institution is identified in the seminar as being constitutionally empowered to recruit, promote and discipline within the stated public-service framework?",
+      "options": [
+        "The Department of Establishments alone.",
+        "The Akwa Ibom State Civil Service Commission.",
+        "Every MDA acting independently without delegated authority.",
+        "The State Budget Office."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies the Akwa Ibom State Civil Service Commission as constitutionally empowered to recruit, promote and discipline, while MDAs exercise delegated authority within the stated arrangements."
+    },
+    {
+      "id": "personnel-management-in-government-012",
+      "question": "According to the seminar, what role does the State budget call circular play in workforce planning?",
+      "options": [
+        "It authorises every individual appointment without further documentation.",
+        "It replaces the need to identify vacancies.",
+        "It determines the outcome of candidate interviews.",
+        "It links manpower needs and establishment information to the identification of vacancies for recruitment and promotion."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar explains that the Akwa Ibom budget call circular links manpower needs and establishment information to identifying vacancies for recruitment and promotion."
+    },
+    {
+      "id": "personnel-management-in-government-013",
+      "question": "Which statement correctly distinguishes recruitment from selection?",
+      "options": [
+        "Recruitment attracts eligible candidates, while selection assesses candidates against established requirements.",
+        "Recruitment confirms appointments, while selection determines an officer's retirement date.",
+        "Recruitment assesses performance, while selection identifies future training needs.",
+        "Recruitment concerns existing officers, while selection is restricted to newly employed personnel."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Recruitment attracts eligible candidates; selection evaluates them against established requirements."
+    },
+    {
+      "id": "personnel-management-in-government-014",
+      "question": "A department has identified a staffing shortage but has not confirmed the relevant establishment position or the required qualifications. What should it do before proceeding with recruitment?",
+      "options": [
+        "Invite candidates and determine qualifications after the interviews.",
+        "Ask the candidates to recommend the number of available positions.",
+        "Confirm the staffing requirement, authority, establishment implications and relevant qualifications.",
+        "Begin issuing appointment letters to avoid delaying service delivery."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar's recruitment and selection guidance requires identification of the staffing need, confirmation of authority and establishment implications, and definition of relevant qualifications and competencies."
+    },
+    {
+      "id": "personnel-management-in-government-015",
+      "question": "Which of the following best represents the documentation expected during a properly conducted recruitment and selection exercise?",
+      "options": [
+        "Attendance registers and informal recommendations only.",
+        "Recommendations, approvals and appointment decisions.",
+        "Candidates' personal opinions and interviewers' private notes only.",
+        "The final payroll and leave records of successful candidates."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar expressly requires documentation of recommendations, approvals and appointment decisions."
+    },
+    {
+      "id": "personnel-management-in-government-016",
+      "question": "What is the principal administrative significance of appointment?",
+      "options": [
+        "It confirms that the employee has completed the induction process.",
+        "It automatically establishes the employee's eligibility for promotion.",
+        "It transfers the employee's personnel records to the new department.",
+        "It establishes the formal relationship between the employee and Government."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar defines appointment as establishing the formal relationship between the employee and Government."
+    },
+    {
+      "id": "personnel-management-in-government-017",
+      "question": "Which department is identified as responsible for ensuring that appointment documentation, assumption of duty and the officer's official record are properly completed?",
+      "options": [
+        "Department of Establishments.",
+        "Department of Works.",
+        "State Budget Office.",
+        "Registry of the employing MDA alone."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar assigns this responsibility to the Department of Establishments."
+    },
+    {
+      "id": "personnel-management-in-government-018",
+      "question": "Under the appointment arrangements described in the seminar, who formalises appointments for officers from Salary Grade Level 08 and above, or MDA appointments for junior posts?",
+      "options": [
+        "The Department of Establishments in every case, without reference to the appointing authority.",
+        "The immediate supervisor of the successful candidate.",
+        "The Civil Service Commission for officers from GL 08 and above, or the relevant MDA for junior appointments, with the Department of Establishments formalising the appointment after due documentation.",
+        "The State Budget Office following the release of manpower estimates."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar's “How?” section describes these arrangements and states that the Department of Establishments formalises the appointment after due documentation."
+    },
+    {
+      "id": "personnel-management-in-government-019",
+      "question": "An officer has received an appointment and has reported to the assigned workplace. Which action best reflects proper placement and induction?",
+      "options": [
+        "Allow the officer to determine reporting relationships independently.",
+        "Ensure the officer understands duties, reporting relationships, standards of conduct and workplace procedures.",
+        "Assign the officer to duties without explaining workplace expectations.",
+        "Restrict the officer to observing other employees until the next promotion exercise."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that after appointment, an officer should be appropriately deployed and understand duties, reporting relationships, standards of conduct and workplace procedures."
+    },
+    {
+      "id": "personnel-management-in-government-020",
+      "question": "Which statement best explains why personnel records are important to government administration?",
+      "options": [
+        "They are mainly used to calculate monthly salaries.",
+        "They are intended primarily to document an officer's attendance.",
+        "They replace the need for formal approval of personnel transactions.",
+        "They provide evidence of an officer's service history and support decisions concerning career movement, leave, training, performance, retirement and other personnel transactions."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar identifies personnel records as evidence of service history and as support for a wide range of personnel decisions."
+    },
+    {
+      "id": "personnel-management-in-government-021",
+      "question": "A personnel record contains correct information about an officer's appointment but omits a significant subsequent career event. Which quality of personnel records has been compromised?",
+      "options": [
+        "Completeness.",
+        "Confidentiality.",
+        "Retrievability.",
+        "Security."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Complete records should capture significant career events. An omission compromises completeness."
+    },
+    {
+      "id": "personnel-management-in-government-022",
+      "question": "An officer's personnel file contains information obtained from an unverified source. Which quality of personnel records is most directly affected?",
+      "options": [
+        "Current.",
+        "Secure.",
+        "Accurate.",
+        "Retrievable."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar describes accurate personnel records as being based on verified information."
+    },
+    {
+      "id": "personnel-management-in-government-023",
+      "question": "A personnel file is accessible only to authorised officers, but its information has not been updated after a recent personnel action. Which quality is missing?",
+      "options": [
+        "Confidentiality.",
+        "Currency.",
+        "Security.",
+        "Completeness."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Current records must be updated after relevant personnel actions. Restricting access addresses confidentiality but does not ensure currency."
+    },
+    {
+      "id": "personnel-management-in-government-024",
+      "question": "Which statement best distinguishes security from confidentiality in personnel records management?",
+      "options": [
+        "Security concerns the accuracy of information, while confidentiality concerns its completeness.",
+        "Security concerns whether records can be retrieved, while confidentiality concerns whether they are current.",
+        "Security and confidentiality both mean that records must be destroyed after use.",
+        "Security protects records against loss or unauthorised alteration, while confidentiality restricts access to authorised persons."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar defines security in terms of protection against loss or unauthorised alteration, and confidentiality in terms of access by authorised persons only."
+    },
+    {
+      "id": "personnel-management-in-government-025",
+      "question": "A personnel record is accurate, complete, secure, confidential and current. However, an authorised decision-maker cannot obtain it when legitimately required to determine an officer's career matter. Which quality is lacking?",
+      "options": [
+        "Retrievability.",
+        "Accuracy.",
+        "Confidentiality.",
+        "Completeness."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Retrievable records should be available when legitimately required for a decision. The seminar warns that missing or inaccurate records can affect an officer's career, benefits and accountability, as well as Government's ability to defend an administrative decision."
+    },
+    {
+      "id": "personnel-management-in-government-026",
+      "question": "A department receives several leave applications from officers whose absence would affect the delivery of essential services. Which approach best reflects the personnel management principle in the seminar?",
+      "options": [
+        "Reject all applications until the department has completed its annual activities.",
+        "Approve every application because leave is an entitlement that cannot be balanced against operational needs.",
+        "Balance the officer's legitimate leave entitlement with the operational need to maintain effective service delivery.",
+        "Allow individual supervisors to determine leave entitlements without reference to prescribed procedures."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar recognises leave as a legitimate personnel entitlement but requires management to balance it with operational needs and effective service delivery."
+    },
+    {
+      "id": "personnel-management-in-government-027",
+      "question": "Which statement most accurately distinguishes attendance management from leave administration?",
+      "options": [
+        "Attendance supports service continuity and accountability, while leave concerns a legitimate personnel entitlement administered through prescribed procedures.",
+        "Attendance concerns an officer's career development, while leave concerns disciplinary action.",
+        "Attendance determines promotion eligibility, while leave determines an officer's establishment position.",
+        "Attendance and leave are interchangeable administrative terms referring to the same personnel transaction."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar separately explains attendance as supporting service continuity and accountability, and leave as a legitimate personnel entitlement administered through prescribed procedures."
+    },
+    {
+      "id": "personnel-management-in-government-028",
+      "question": "An officer applies for leave, but the supervisor refuses to process the application because the officer has not followed the prescribed administrative procedure. Which principle is most directly relevant?",
+      "options": [
+        "Leave is an automatic entitlement that overrides all administrative requirements.",
+        "Attendance requirements take precedence over every other personnel transaction.",
+        "Personnel records should be updated only after the officer resumes duty.",
+        "Legitimate leave entitlement must be administered through prescribed procedures."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar expressly states that leave is a legitimate entitlement administered through prescribed procedures."
+    },
+    {
+      "id": "personnel-management-in-government-029",
+      "question": "Which statement correctly reflects the commencement of the 2022 Akwa Ibom Public Service Rules as stated in the seminar?",
+      "options": [
+        "They came into force on 1 January 2022, replacing the 2010 edition.",
+        "They came into force on 1 December 2022, replacing the 2010 edition.",
+        "They came into force on 1 December 2023, replacing the 2015 edition.",
+        "They came into force on 1 July 2022, replacing the 2010 edition."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that the 2022 Akwa Ibom Public Service Rules replaced the 2010 edition and came into force on 1 December 2022."
+    },
+    {
+      "id": "personnel-management-in-government-030",
+      "question": "A male civil servant asks his personnel officer about the paternity leave provision mentioned in the seminar. Which response accurately reflects the document?",
+      "options": [
+        "The seminar reports the introduction of 14-day paternity leave for male civil servants.",
+        "The seminar establishes 21-day paternity leave for all public servants.",
+        "The seminar reports 14-day paternity leave exclusively for female civil servants.",
+        "The seminar states that paternity leave was introduced only for officers approaching retirement."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar's discussion of contemporary reporting on the 2022 Rules specifically mentions the introduction of 14-day paternity leave for male civil servants."
+    },
+    {
+      "id": "personnel-management-in-government-031",
+      "question": "An organisation conducts an annual appraisal but does not monitor employees' work during the year, provide feedback or address emerging performance gaps. Which criticism is most consistent with the seminar?",
+      "options": [
+        "Performance management should be restricted to the annual appraisal exercise.",
+        "Performance management should focus exclusively on identifying employees for promotion.",
+        "Performance management is incomplete because it is a continuing process, not merely an annual appraisal form.",
+        "Performance management should begin only when misconduct has been established."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar expressly warns that performance management should not be reduced to an annual appraisal form. It is a continuous process involving expectations, monitoring, feedback and improvement."
+    },
+    {
+      "id": "personnel-management-in-government-032",
+      "question": "A supervisor gives an officer a performance target but does not explain the expected results. Which step in performance management has been inadequately addressed?",
+      "options": [
+        "Documentation of misconduct.",
+        "Recognition of achievement.",
+        "Identification of the officer's career movement.",
+        "Clarification of duties and expected results."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Clarifying duties and expected results is the first activity listed in the seminar's performance management guidance."
+    },
+    {
+      "id": "personnel-management-in-government-033",
+      "question": "An officer's performance is reviewed only at the end of the year. During the intervening months, the supervisor makes no effort to assess progress or identify emerging problems. Which recommended practice would address this weakness?",
+      "options": [
+        "Monitor performance throughout the period.",
+        "Wait until the next promotion exercise to assess the officer.",
+        "Restrict performance assessment to the officer's attendance record.",
+        "Replace routine supervision with a single annual disciplinary review."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar requires continuous monitoring of performance throughout the relevant period."
+    },
+    {
+      "id": "personnel-management-in-government-034",
+      "question": "A supervisor identifies a performance gap and immediately recommends disciplinary action without first examining its cause. Which alternative is more consistent with the seminar?",
+      "options": [
+        "Treat every performance gap as evidence of misconduct.",
+        "Determine whether the gap results from skill, resources, clarity, motivation or conduct.",
+        "Refer every performance gap to the Civil Service Commission.",
+        "Recommend promotion to encourage the officer to improve."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar directs supervisors to identify whether a performance gap is caused by skill, resources, clarity, motivation or conduct before determining an appropriate response."
+    },
+    {
+      "id": "personnel-management-in-government-035",
+      "question": "An officer has demonstrated improvement after receiving constructive feedback. Which personnel management practice should follow if further improvement is needed?",
+      "options": [
+        "Immediately initiate a misconduct process.",
+        "Remove the officer from the assigned position without documenting the decision.",
+        "Provide appropriate support or development.",
+        "Suspend all performance monitoring until the next appraisal period."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar identifies appropriate support or development as part of performance management, alongside feedback, monitoring and documentation."
+    },
+    {
+      "id": "personnel-management-in-government-036",
+      "question": "Which of the following combinations best represents the performance management process described in the seminar?",
+      "options": [
+        "Recruitment → appointment → promotion → retirement.",
+        "Attendance monitoring → leave approval → transfer → separation.",
+        "Query → disciplinary hearing → dismissal → appeal.",
+        "Clarifying expectations → monitoring work → providing feedback → identifying performance gaps → support or development → documenting issues and improvement actions."
+      ],
+      "correctAnswer": 3,
+      "explanation": "These are the connected activities listed under performance management in the seminar."
+    },
+    {
+      "id": "personnel-management-in-government-037",
+      "question": "An officer meets the minimum eligibility requirements for promotion, but the personnel file contains insufficient evidence of career development and performance. What does the seminar suggest should be considered before a promotion decision?",
+      "options": [
+        "The officer's personal recommendation alone.",
+        "Applicable eligibility requirements, service records, performance/career evidence, establishment considerations and competent authority.",
+        "The number of years since the officer last attended training, without considering other factors.",
+        "The immediate supervisor's verbal assurance that the officer deserves promotion."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies these factors as relevant considerations in promotion decisions. Meeting eligibility requirements alone does not exhaust the stated considerations."
+    },
+    {
+      "id": "personnel-management-in-government-038",
+      "question": "Which statement best captures the relationship between promotion and career development in the seminar?",
+      "options": [
+        "Promotion is a personnel transaction and also a career-development matter.",
+        "Promotion is exclusively a reward for length of service.",
+        "Career development begins only after an officer has been promoted.",
+        "Promotion and career development are separate activities with no administrative connection."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar expressly describes promotion as both a personnel transaction and a career-development matter."
+    },
+    {
+      "id": "personnel-management-in-government-039",
+      "question": "The State Civil Service Commission includes career development, promotion and conversion/upgrading among its responsibilities. Which additional connection does the seminar identify between promotion and the State budget process?",
+      "options": [
+        "Promotion decisions automatically determine the annual leave entitlement of officers.",
+        "Promotion is financed exclusively through internally generated revenue.",
+        "The budget process links promotion provision to personnel estimates and manpower needs.",
+        "The budget process replaces the Commission's responsibility for career development."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar states that the State budget process links promotion provision to personnel estimates and manpower needs."
+    },
+    {
+      "id": "personnel-management-in-government-040",
+      "question": "A department plans to organise training for an officer simply because a training opportunity is available, without identifying any competency or performance deficiency. Which principle from the seminar should guide the department?",
+      "options": [
+        "Training should be provided whenever an officer requests it, regardless of work requirements.",
+        "Training should be linked primarily to an officer's length of service.",
+        "Training should be organised only after promotion has been approved.",
+        "Training should be connected to a real competency or performance need."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that training should be connected to a real competency or performance need."
+    },
+    {
+      "id": "personnel-management-in-government-041",
+      "question": "A supervisor identifies that an officer lacks a particular competency required for the assigned job. Which sequence best reflects the training and development process in the seminar?",
+      "options": [
+        "Identify the gap → determine the appropriate intervention → provide learning → support application on the job → evaluate improvement.",
+        "Provide learning → promote the officer → identify the gap → assess attendance.",
+        "Determine the intervention → transfer the officer → approve promotion → review the personnel file.",
+        "Identify the gap → initiate discipline → change the officer's duties → close the training record."
+      ],
+      "correctAnswer": 0,
+      "explanation": "This is the sequence expressly presented in the training and development section."
+    },
+    {
+      "id": "personnel-management-in-government-042",
+      "question": "An officer completes a training programme but makes no attempt to apply the new knowledge to official duties. Which part of the training process has not been adequately achieved?",
+      "options": [
+        "Identification of the original competency gap.",
+        "Support for application of learning on the job.",
+        "Determination of the appropriate intervention.",
+        "Provision of the learning opportunity."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar includes support for application on the job after providing learning. Training should be assessed by whether it improves capability or performance."
+    },
+    {
+      "id": "personnel-management-in-government-043",
+      "question": "A department evaluates a training programme solely by confirming that participants attended and completed it. Which additional assessment is required by the seminar?",
+      "options": [
+        "Whether the participants received promotion immediately after training.",
+        "Whether the department has increased its establishment ceiling.",
+        "Whether the intervention improved capability or performance.",
+        "Whether the training provider has prepared a new annual appraisal form."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar requires evaluation of whether the training intervention improved capability or performance, not merely whether learning took place."
+    },
+    {
+      "id": "personnel-management-in-government-044",
+      "question": "Which statement best represents the seminar's understanding of employee welfare?",
+      "options": [
+        "Welfare concerns only the payment of salaries and allowances.",
+        "Welfare is a substitute for discipline and performance standards.",
+        "Welfare is restricted to medical assistance after an officer leaves service.",
+        "Welfare concerns conditions that enable employees to work effectively and sustainably."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar defines welfare in terms of conditions that enable employees to work effectively and sustainably."
+    },
+    {
+      "id": "personnel-management-in-government-045",
+      "question": "A department improves working conditions, communication and recognition of employees but begins overlooking performance standards and accountability. Which assessment best agrees with the seminar?",
+      "options": [
+        "The department has misunderstood welfare because good welfare should reinforce, not replace, standards and accountability.",
+        "The department has correctly applied welfare because employee satisfaction takes precedence over all performance requirements.",
+        "The department should abandon recognition and communication because they are unrelated to welfare.",
+        "The department should replace welfare measures with disciplinary procedures."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar identifies staff concerns, working conditions, communication, recognition and applicable welfare provisions as welfare matters, while emphasising that good welfare reinforces rather than replaces standards and accountability."
+    },
+    {
+      "id": "personnel-management-in-government-046",
+      "question": "Which combination consists entirely of welfare-related considerations identified in the seminar?",
+      "options": [
+        "Recruitment criteria, establishment vacancies, appointment letters and promotion approvals.",
+        "Staff concerns, working conditions, communication, recognition and applicable welfare provisions.",
+        "Disciplinary charges, dismissal decisions, transfer approvals and retirement clearance.",
+        "File security, personnel record pagination, staff attendance and confidential access."
+      ],
+      "correctAnswer": 1,
+      "explanation": "These are the specific welfare considerations listed in the seminar."
+    },
+    {
+      "id": "personnel-management-in-government-047",
+      "question": "An officer attends training designed to address a competency gap. The department subsequently monitors whether the officer can perform the relevant duties more effectively. Which two personnel management areas are being linked?",
+      "options": [
+        "Recruitment and separation.",
+        "Leave administration and discipline.",
+        "Training and development, and performance management.",
+        "Transfer and personnel records disposal."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Training addresses a competency or performance need, while performance management monitors work, identifies gaps and evaluates improvement. The seminar links these activities through the application and evaluation of learning."
+    },
+    {
+      "id": "personnel-management-in-government-048",
+      "question": "A department has identified a performance problem caused by inadequate resources rather than lack of competence or misconduct. Which response is most consistent with the seminar?",
+      "options": [
+        "Automatically classify the problem as misconduct and initiate disciplinary proceedings.",
+        "Recommend promotion as the first corrective measure.",
+        "Treat the problem as a leave entitlement issue.",
+        "Identify the cause correctly and provide appropriate support or development."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar requires supervisors to distinguish between gaps caused by skill, resources, clarity, motivation or conduct, and then provide appropriate support or development."
+    },
+    {
+      "id": "personnel-management-in-government-049",
+      "question": "Which statement best explains why promotion cannot be treated simply as an automatic reward for an officer's length of service?",
+      "options": [
+        "Promotion requires consideration of applicable eligibility, service records, performance/career evidence, establishment considerations and competent authority.",
+        "Promotion depends exclusively on the number of training programmes attended.",
+        "Promotion is determined solely by the officer's immediate supervisor.",
+        "Promotion is an automatic outcome of completing the personnel life cycle's Development stage."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar identifies multiple considerations governing promotion and does not present it as an automatic reward for length of service."
+    },
+    {
+      "id": "personnel-management-in-government-050",
+      "question": "A government office has a training programme, conducts annual appraisals and provides employee welfare benefits. However, it does not connect training to identified competency gaps, monitor performance continuously or assess whether training improves work. Which overall weakness does this reveal?",
+      "options": [
+        "The office has placed too much emphasis on personnel records instead of recruitment.",
+        "The office is treating personnel development activities as isolated events rather than connecting them to performance needs and improvement.",
+        "The office has confused retirement administration with promotion.",
+        "The office has failed to distinguish between appointment and assumption of duty."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar links training to real competency or performance needs, requires application on the job and evaluation of improvement, and treats performance management as continuous rather than merely annual."
+    },
+    {
+      "id": "personnel-management-in-government-051",
+      "question": "A government department has few formal complaints, but employees rarely consult management, communication is poor and workplace disagreements are left unresolved. Which assessment best reflects the seminar's understanding of employment relations?",
+      "options": [
+        "Employment relations are satisfactory as long as no formal grievance has been submitted.",
+        "Employment relations concern only the disciplinary relationship between management and employees.",
+        "Healthy employment relations require credible procedures, respectful communication, consistency and appropriate channels for raising and resolving legitimate concerns.",
+        "Employment relations are primarily determined by the number of personnel transactions completed each year."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar says healthy employment relations require more than avoiding conflict. They also require credible procedures, respectful communication, consistency and appropriate channels for resolving concerns."
+    },
+    {
+      "id": "personnel-management-in-government-052",
+      "question": "An officer submits a petition alleging unfair treatment by a supervisor. The receiving officer immediately treats the petition as a personal attack on management without examining the facts. What is the fundamental error?",
+      "options": [
+        "The petition should have been classified as a routine personnel record.",
+        "A grievance should be treated as an administrative matter requiring facts, procedure and appropriate authority, not as a personal attack.",
+        "The petition should automatically be referred to the officer's supervisor for disciplinary action.",
+        "The petition should be rejected unless the complainant identifies a specific disciplinary offence."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar expressly requires grievances and petitions to be handled as administrative matters involving facts, procedure and appropriate authority."
+    },
+    {
+      "id": "personnel-management-in-government-053",
+      "question": "A petition is received by an officer who is authorised to acknowledge complaints but does not have competence to determine the relief being requested. What should the officer do?",
+      "options": [
+        "Reject the petition because the receiving officer cannot determine its outcome.",
+        "Make a final decision based on the complainant's account.",
+        "Retain the petition until the complainant submits it to the highest authority.",
+        "Receive and acknowledge it appropriately, then refer or escalate it where it falls outside the receiving officer's authority."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar requires complaints to be received and acknowledged appropriately, with referral or escalation where the matter falls outside the receiving officer's authority."
+    },
+    {
+      "id": "personnel-management-in-government-054",
+      "question": "An officer receives a complaint alleging that a personnel decision was based on inaccurate information. Before recommending any action, which step is most consistent with the seminar?",
+      "options": [
+        "Clarify the facts and the relief being sought.",
+        "Decide whether the complainant deserves promotion.",
+        "Obtain the supervisor's personal opinion and treat it as conclusive.",
+        "Refer the matter directly for disciplinary proceedings without examining the records."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Clarifying the facts and the relief sought is one of the specified steps for handling grievances and petitions."
+    },
+    {
+      "id": "personnel-management-in-government-055",
+      "question": "A complaint contains a mixture of documented events, assumptions and rumours about an officer's conduct. Which approach should the receiving officer adopt?",
+      "options": [
+        "Treat all statements as established facts until disproved.",
+        "Disregard the entire complaint because it contains assumptions.",
+        "Separate evidence from assumptions or rumours before considering the matter.",
+        "Forward the complaint without examination to the officer being accused."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar specifically requires evidence to be separated from assumptions or rumours when handling grievances and petitions."
+    },
+    {
+      "id": "personnel-management-in-government-056",
+      "question": "An officer submits a grievance alleging that a supervisor breached an applicable administrative procedure. The receiving officer examines the petitioner's narrative but does not consult the relevant rule or personnel records. Which part of the prescribed handling process has been neglected?",
+      "options": [
+        "The obligation to communicate the outcome through the proper channel.",
+        "The requirement to check the applicable rule, procedure and relevant records.",
+        "The responsibility to maintain confidentiality after the decision.",
+        "The need to refer every complaint to the Civil Service Commission."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar requires the receiving officer to check the applicable rule or procedure and relevant records rather than rely on an unverified account."
+    },
+    {
+      "id": "personnel-management-in-government-057",
+      "question": "A complaint concerns an administrative decision that the receiving officer is competent to examine. Which course of action would most closely follow the seminar's approach?",
+      "options": [
+        "Refer the matter to another department regardless of the receiving officer's authority.",
+        "Treat the complaint as misconduct and initiate disciplinary proceedings immediately.",
+        "Communicate a decision before verifying the facts to avoid administrative delay.",
+        "Examine the relevant facts, applicable procedure and records, distinguish evidence from assumptions, and handle the matter within the officer's authority."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar requires factual clarification, examination of applicable rules and records, separation of evidence from assumptions, and action within the receiving officer's authority."
+    },
+    {
+      "id": "personnel-management-in-government-058",
+      "question": "A petition concerns an issue that is outside the receiving officer's competence. The officer has already examined the available facts and records. What should happen next?",
+      "options": [
+        "Refer or escalate the matter to the appropriate authority.",
+        "Close the petition because the receiving officer cannot determine it.",
+        "Issue a final decision based on the information already available.",
+        "Return the petition without acknowledging its receipt."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar requires matters outside the receiving officer's authority to be referred or escalated appropriately."
+    },
+    {
+      "id": "personnel-management-in-government-059",
+      "question": "A grievance has been investigated and an outcome reached. Which action is still required under the seminar's prescribed approach?",
+      "options": [
+        "Disclose the outcome to all employees to promote transparency.",
+        "Keep the outcome verbal so that no additional personnel record is created.",
+        "Communicate the outcome through the appropriate channel while maintaining confidentiality and a proper record.",
+        "Transfer the complainant immediately to another department."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar requires communication of the outcome through the appropriate channel, maintenance of confidentiality and a proper record."
+    },
+    {
+      "id": "personnel-management-in-government-060",
+      "question": "A manager initiates disciplinary action against an officer because of a personal disagreement, although no relevant misconduct has been established. Which principle is being violated?",
+      "options": [
+        "Personnel movement should be based on establishment needs.",
+        "Discipline should protect standards, integrity and service effectiveness rather than serve as personal retaliation.",
+        "Personnel records should be accessible only to authorised persons.",
+        "Performance management should be continuous rather than annual."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar warns that discipline must not be used as personal retaliation. Its purpose is to protect standards, integrity and service effectiveness."
+    },
+    {
+      "id": "personnel-management-in-government-061",
+      "question": "An officer is alleged to have committed misconduct. Before the disciplinary process is initiated, which element does the seminar require to be identified?",
+      "options": [
+        "The officer's preferred transfer destination.",
+        "The officer's next promotion eligibility date.",
+        "The supervisor's personal assessment of the officer's character.",
+        "The relevant rule and the prescribed process to be followed by the competent authority."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that where misconduct is alleged, the relevant rule should be identified and the prescribed process followed by the competent authority."
+    },
+    {
+      "id": "personnel-management-in-government-062",
+      "question": "Which combination of institutions is specifically mentioned in the seminar in connection with the competent authority for disciplinary processes?",
+      "options": [
+        "JSC or SSMC.",
+        "Department of Establishments or State Budget Office.",
+        "Registry Supervisor or Head of Accounts.",
+        "Ministry of Finance or Office of the Governor."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar identifies JSC or SSMC as examples of the competent authority relevant to the prescribed disciplinary process."
+    },
+    {
+      "id": "personnel-management-in-government-063",
+      "question": "A department has evidence suggesting that an officer committed misconduct. A supervisor decides to impose disciplinary consequences without referring to the relevant rule or following the prescribed process. Which conclusion is most consistent with the seminar?",
+      "options": [
+        "The action is acceptable because the department possesses evidence.",
+        "The action is acceptable if the officer's immediate supervisor approves it.",
+        "Evidence alone does not replace the requirement to identify the relevant rule and follow the prescribed process through the competent authority.",
+        "The action is automatically valid if it is documented in the officer's personnel file."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar requires both identification of the relevant rule and compliance with the prescribed process by the competent authority. Documentation or possession of evidence does not eliminate those requirements."
+    },
+    {
+      "id": "personnel-management-in-government-064",
+      "question": "A disciplinary decision affects an officer's career and status. Which of the following most accurately reflects the due-process requirement in the seminar?",
+      "options": [
+        "The decision may be made informally if management considers the matter urgent.",
+        "The decision should follow the applicable procedure, be made by the competent authority, rely on relevant facts and provide the officer an appropriate opportunity to respond where required.",
+        "The officer should be allowed to respond only after the decision has been implemented.",
+        "The decision should be based primarily on the opinion of the officer's colleagues."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar requires personnel decisions affecting status, career or disciplinary position to follow applicable procedures, be handled by the competent authority, rely on relevant facts and provide an appropriate opportunity for the officer to respond where required."
+    },
+    {
+      "id": "personnel-management-in-government-065",
+      "question": "An officer is facing a personnel decision, and management has gathered relevant facts. However, the officer has not been given an appropriate opportunity to respond where one is required. Which aspect of the seminar's due-process framework is deficient?",
+      "options": [
+        "The requirement for authorised appointments.",
+        "The requirement to maintain current personnel records.",
+        "The requirement to document promotion considerations.",
+        "The requirement to provide an appropriate opportunity for the officer to respond."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar specifically includes an appropriate opportunity for the officer to respond where required as part of due process."
+    },
+    {
+      "id": "personnel-management-in-government-066",
+      "question": "A personnel officer shares an employee's disciplinary information with colleagues who have no legitimate involvement in the matter. Which principle has been breached?",
+      "options": [
+        "Personnel information should not be discussed casually or disclosed beyond legitimate need-to-know.",
+        "Personnel information should always be made available to employees within the same department.",
+        "Disciplinary information should be disclosed whenever it may improve workplace communication.",
+        "Confidentiality applies only to recruitment records and not to disciplinary matters."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar requires personnel information to be protected from casual discussion and disclosure beyond legitimate need-to-know."
+    },
+    {
+      "id": "personnel-management-in-government-067",
+      "question": "A supervisor believes that confidentiality means refusing to provide relevant personnel information even to an authorised decision-maker handling the matter. Which interpretation is most consistent with the seminar?",
+      "options": [
+        "Confidentiality requires complete secrecy regardless of the purpose of access.",
+        "Personnel information may be shared informally whenever a supervisor considers it useful.",
+        "Personnel information should be protected and disclosed only within legitimate need-to-know arrangements.",
+        "Confidentiality is optional when an officer's personnel file is accurate and complete."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar limits disclosure beyond legitimate need-to-know. It does not describe confidentiality as a prohibition on legitimate authorised access."
+    },
+    {
+      "id": "personnel-management-in-government-068",
+      "question": "A department is considering a transfer because its current staffing arrangement does not adequately meet service requirements. Which description best reflects the purpose of transfer and posting in the seminar?",
+      "options": [
+        "To reward officers for outstanding performance irrespective of staffing requirements.",
+        "To deploy available human resources to meet service needs.",
+        "To remove officers from the personnel records system after promotion.",
+        "To replace the recruitment process whenever a vacancy arises."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar describes transfer and posting as mechanisms for deploying available human resources to meet service needs."
+    },
+    {
+      "id": "personnel-management-in-government-069",
+      "question": "A transfer has been approved by an officer who lacks the appropriate authority. The movement is also not recorded in the official personnel records. Which two requirements identified in the seminar have been overlooked?",
+      "options": [
+        "Employee welfare and performance monitoring.",
+        "Recruitment criteria and appointment documentation.",
+        "Promotion eligibility and career development.",
+        "Appropriate authority and proper recording for official records."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that transfer and posting should be handled by the appropriate authority and properly recorded for official records."
+    },
+    {
+      "id": "personnel-management-in-government-070",
+      "question": "An officer stops reporting for duty after reaching the point of retirement. The department assumes that personnel administration is complete and takes no further action. Which statement best contradicts this assumption?",
+      "options": [
+        "Personnel management continues to require appropriate separation procedures, documentation, clearance and updating of relevant personnel records.",
+        "Personnel management ends immediately when an officer stops reporting for duty.",
+        "Retirement requires only the removal of the officer's name from the attendance register.",
+        "Personnel management after retirement is limited to the officer's immediate supervisor."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar explicitly states that personnel management does not end when an officer stops reporting for duty. Lawful separation requires appropriate authority, documentation, clearance and updated personnel records."
+    },
+    {
+      "id": "personnel-management-in-government-071",
+      "question": "A department is processing the resignation of an officer. Which combination of administrative requirements is consistent with the seminar?",
+      "options": [
+        "Informal notification, verbal clearance and deletion of all personnel records.",
+        "Approval by any colleague, without further documentation.",
+        "Proper authority, documentation, clearance and updating of the relevant personnel records.",
+        "Immediate closure of the personnel file without recording the separation."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar identifies these requirements for retirement, resignation, dismissal and other forms of lawful separation."
+    },
+    {
+      "id": "personnel-management-in-government-072",
+      "question": "Which of the following correctly identifies the separation processes listed in the seminar?",
+      "options": [
+        "Promotion, conversion, training and transfer.",
+        "Retirement, resignation, dismissal and another form of lawful separation.",
+        "Recruitment, appointment, placement and induction.",
+        "Grievance, petition, performance correction and misconduct investigation."
+      ],
+      "correctAnswer": 1,
+      "explanation": "These are the forms of separation specifically identified in the seminar."
+    },
+    {
+      "id": "personnel-management-in-government-073",
+      "question": "An organisation's personnel department considers its work to be limited to preparing appointment letters, processing leave and maintaining routine staff files. Which statement best challenges this narrow view?",
+      "options": [
+        "Personnel management should be restricted to administrative paperwork and staff correspondence.",
+        "Personnel management is primarily a payroll function.",
+        "Personnel management concerns only recruitment and appointment.",
+        "Personnel management is an institutional control system supporting accountability, authorised appointments, fair promotion, disciplinary integrity and orderly separation."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar expressly describes personnel administration as an institutional control system, not merely routine paperwork."
+    },
+    {
+      "id": "personnel-management-in-government-074",
+      "question": "A government institution is reviewing the consequences of weak personnel administration. Which pairing correctly reflects the institutional-control relationships described in the seminar?",
+      "options": [
+        "Accurate records support accountability, authorised appointments protect the establishment, proper promotion processes support fairness, and disciplinary procedures protect integrity.",
+        "Accurate records guarantee promotion, authorised appointments eliminate the need for establishment control, and disciplinary procedures replace accountability.",
+        "Accurate records primarily support employee welfare, while authorised appointments mainly determine leave entitlement.",
+        "Promotion processes protect institutional memory, while retirement procedures determine the recruitment requirements of the establishment."
+      ],
+      "correctAnswer": 0,
+      "explanation": "These four relationships are expressly listed in the institutional-control section on page 13."
+    },
+    {
+      "id": "personnel-management-in-government-075",
+      "question": "A government institution has accurate personnel records, authorised appointment processes and fair promotion procedures. However, it does not manage the separation of departing officers properly, leading to the loss of important institutional information and inefficient use of public resources. Which institutional-control function has been neglected?",
+      "options": [
+        "The use of training to improve individual competency.",
+        "The management of attendance and leave entitlements.",
+        "Orderly separation, which protects institutional memory and public resources.",
+        "The recruitment of eligible candidates against established requirements."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar identifies orderly separation as a means of protecting institutional memory and public resources."
+    },
+    {
+      "id": "personnel-management-in-government-076",
+      "question": "A department identifies a vacancy and immediately begins inviting applications. During the exercise, it discovers that the position has not been confirmed against the authorised establishment and that the necessary approval has not been obtained. Which assessment best reflects the seminar's recruitment framework?",
+      "options": [
+        "Recruitment may continue because identifying a vacancy is sufficient authority to fill it.",
+        "The department should complete the interviews before checking establishment implications.",
+        "The recruitment process should be preceded by confirmation of the staffing need, authorised establishment position, qualifications and necessary approval.",
+        "The department should appoint the most qualified applicant and regularise the establishment afterwards."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar requires workforce planning to establish the work, authorised establishment position, qualifications and necessary approval before recruitment proceeds."
+    },
+    {
+      "id": "personnel-management-in-government-077",
+      "question": "A candidate has successfully completed the selection exercise and received an appointment. The employing department has not, however, completed the documentation required for the officer's assumption of duty and official personnel record. Which conclusion is most appropriate?",
+      "options": [
+        "The officer's appointment automatically completes all integration and personnel administration requirements.",
+        "The formal appointment is only one part of the process; assumption of duty and official personnel documentation must also be properly completed.",
+        "The department should postpone the officer's placement until the next promotion exercise.",
+        "The officer's personnel record should be created only after the first annual appraisal."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar distinguishes formal appointment from the subsequent completion of assumption-of-duty documentation and the official personnel record."
+    },
+    {
+      "id": "personnel-management-in-government-078",
+      "question": "A newly appointed officer reports to the assigned MDA. The department immediately assigns duties but does not explain reporting relationships, workplace standards or applicable procedures. Which personnel life-cycle responsibility has been inadequately performed?",
+      "options": [
+        "Entry, because the officer has not completed the recruitment exercise.",
+        "Movement, because the officer has not been transferred.",
+        "Development, because training must precede every appointment.",
+        "Integration, because placement and induction should clarify duties, reporting relationships and workplace expectations."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Integration includes placement, induction and clarification of duties and reporting expectations."
+    },
+    {
+      "id": "personnel-management-in-government-079",
+      "question": "A personnel officer discovers that an employee's promotion history is missing from the official file. The officer's supervisor insists that the information can be reconstructed from memory when needed. Which principle from the seminar most directly challenges this position?",
+      "options": [
+        "Personnel records are evidence of service history and must be complete and retrievable when legitimately required.",
+        "Personnel records are primarily intended to preserve an officer's attendance history.",
+        "Promotion decisions can be made independently of official service records.",
+        "Personnel records need to be updated only when an officer retires."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar stresses that personnel records must be accurate, complete, secure, confidential, current and retrievable. They support career and other personnel decisions."
+    },
+    {
+      "id": "personnel-management-in-government-080",
+      "question": "A personnel file contains accurate appointment information, complete career records and up-to-date promotion details. However, unauthorised employees can access and alter its contents. Which pair of personnel-record qualities is most directly compromised?",
+      "options": [
+        "Accuracy and retrievability.",
+        "Currency and completeness.",
+        "Security and confidentiality.",
+        "Completeness and accuracy."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Security protects records against loss or unauthorised alteration, while confidentiality restricts access to authorised persons."
+    },
+    {
+      "id": "personnel-management-in-government-081",
+      "question": "A supervisor observes that an officer is consistently failing to meet assigned targets. The supervisor immediately recommends disciplinary action without checking whether the problem results from inadequate resources, unclear expectations or insufficient skills. What should the supervisor have done?",
+      "options": [
+        "Recommend transfer because performance problems are primarily establishment issues.",
+        "Identify the cause of the performance gap before determining the appropriate support, development or conduct-related response.",
+        "Wait for the next promotion exercise to determine whether the officer improves.",
+        "Treat the failure as misconduct because performance targets have not been met."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar requires supervisors to distinguish performance gaps caused by skill, resources, clarity, motivation or conduct before deciding on an appropriate response."
+    },
+    {
+      "id": "personnel-management-in-government-082",
+      "question": "An officer receives constructive feedback and attends a competency-development programme. The department records the training but does not evaluate whether the officer's work improves afterwards. Which part of the personnel management process is incomplete?",
+      "options": [
+        "Recruitment and selection.",
+        "Confirmation and promotion.",
+        "Appointment and placement.",
+        "Evaluation of whether the development intervention improved capability or performance."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar requires training interventions to be evaluated for their effect on capability or performance. Attendance alone does not establish improvement."
+    },
+    {
+      "id": "personnel-management-in-government-083",
+      "question": "A department has an established performance management system, but supervisors complete appraisal forms only when promotion exercises are announced. Which correction would best align the system with the seminar?",
+      "options": [
+        "Make performance management continuous through clarified expectations, monitoring, feedback, identification of gaps and documented improvement actions.",
+        "Eliminate appraisal forms and rely entirely on verbal feedback.",
+        "Restrict performance assessment to officers who have applied for promotion.",
+        "Replace performance monitoring with annual training attendance records."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Performance management is described as a continuous process, not merely an annual appraisal form or an exercise conducted when promotion is due."
+    },
+    {
+      "id": "personnel-management-in-government-084",
+      "question": "An officer meets the minimum eligibility requirements for promotion. The department also has a vacancy, but the officer's performance and career-development evidence is incomplete. Which conclusion is best supported by the seminar?",
+      "options": [
+        "The vacancy automatically entitles the officer to promotion.",
+        "Eligibility and an available position are the only considerations relevant to promotion.",
+        "The promotion decision should consider eligibility, service records, performance and career evidence, establishment considerations and competent authority.",
+        "The officer should be promoted first and the missing evidence added afterwards."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar identifies several relevant considerations in promotion decisions. Eligibility alone does not settle the matter."
+    },
+    {
+      "id": "personnel-management-in-government-085",
+      "question": "An officer completes training relevant to an identified competency gap, but management subsequently assigns the officer duties unrelated to the training and never evaluates its usefulness. Which principle has been neglected?",
+      "options": [
+        "Training should be treated as a reward for length of service.",
+        "Training should be linked to a real competency or performance need, applied on the job and evaluated for improvement.",
+        "Training should be separated from performance management to avoid influencing appraisal decisions.",
+        "Training should be organised only after an officer has received a promotion."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar connects training to an identified need, application of learning on the job and evaluation of improved capability or performance."
+    },
+    {
+      "id": "personnel-management-in-government-086",
+      "question": "A department improves staff communication, working conditions and recognition but ignores legitimate concerns raised by employees. Management argues that its welfare programme is already sufficient. Which response best reflects the seminar?",
+      "options": [
+        "Welfare measures eliminate the need for employee relations procedures.",
+        "Recognition is sufficient to resolve all workplace disagreements.",
+        "Staff concerns should be handled exclusively through disciplinary procedures.",
+        "Welfare supports effective and sustainable work, but healthy employment relations also require credible procedures and appropriate channels for legitimate concerns."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar treats welfare and employment relations as related but distinct areas. Good welfare reinforces standards and accountability, while healthy employment relations require credible procedures and respectful communication."
+    },
+    {
+      "id": "personnel-management-in-government-087",
+      "question": "A public servant submits a petition alleging that a personnel decision was based on incorrect records. The receiving officer verifies the relevant documents and discovers that the petitioner's account contains both factual errors and legitimate concerns. What is the most appropriate next step?",
+      "options": [
+        "Dismiss the entire petition because part of the account is inaccurate.",
+        "Accept the entire petition because some concerns are legitimate.",
+        "Separate evidence from assumptions, establish the facts and consider the applicable rule and appropriate authority.",
+        "Forward the petition to the officer being complained against and allow that officer to decide the matter."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar requires factual clarification, separation of evidence from assumptions or rumours, and examination of the applicable rules and relevant records."
+    },
+    {
+      "id": "personnel-management-in-government-088",
+      "question": "A petition is received by a personnel officer who has authority to receive and acknowledge complaints but lacks competence to grant the relief requested. The officer has verified the relevant facts. What should happen?",
+      "options": [
+        "The matter should be referred or escalated to the appropriate authority.",
+        "The petition should be rejected because the receiving officer cannot grant the relief.",
+        "The officer should grant the relief provisionally pending approval.",
+        "The matter should be closed once the facts have been verified."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar requires complaints to be received and acknowledged appropriately, and matters outside the receiving officer's authority to be referred or escalated."
+    },
+    {
+      "id": "personnel-management-in-government-089",
+      "question": "A supervisor receives a grievance from an employee and immediately begins disciplinary proceedings against the complainant. No attempt is made to clarify the complaint or examine the relevant records. Which error has occurred?",
+      "options": [
+        "The supervisor has failed to recognise the distinction between transfer and posting.",
+        "The supervisor has confused the personnel life-cycle stages of Entry and Integration.",
+        "The supervisor has failed to complete the officer's personnel record.",
+        "The supervisor has treated a grievance as misconduct without following the administrative process for receiving and examining complaints."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar treats grievances and petitions as administrative matters requiring facts, procedure and appropriate authority. They should not automatically be treated as misconduct."
+    },
+    {
+      "id": "personnel-management-in-government-090",
+      "question": "A disciplinary matter involves an alleged breach of an applicable public service rule. The supervisor has gathered relevant evidence and wants to impose a penalty immediately. Which combination of requirements must still be respected?",
+      "options": [
+        "The officer's length of service, training history and preferred posting.",
+        "The relevant rule, prescribed procedure, competent authority, relevant facts and an appropriate opportunity to respond where required.",
+        "The supervisor's personal assessment, the complainant's preference and the department's available budget.",
+        "The officer's promotion eligibility, annual leave balance and attendance record."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar requires the applicable rule and prescribed process to be followed by the competent authority, with relevant facts and an appropriate opportunity to respond where required."
+    },
+    {
+      "id": "personnel-management-in-government-091",
+      "question": "An officer's disciplinary information is required by an authorised officer handling the matter. A personnel clerk refuses to release it, claiming that confidentiality means no one should access the information. Which response best reflects the seminar?",
+      "options": [
+        "Confidentiality prohibits all access, including access by competent authorities.",
+        "Confidentiality applies only to recruitment and appointment records.",
+        "Information should be protected from casual discussion and disclosure beyond legitimate need-to-know, but authorised access for a legitimate purpose is appropriate.",
+        "Confidentiality is unnecessary once a disciplinary matter has been documented."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar protects personnel information from unauthorised disclosure while recognising legitimate need-to-know access."
+    },
+    {
+      "id": "personnel-management-in-government-092",
+      "question": "A supervisor initiates disciplinary action against an officer following a personal disagreement. The supervisor claims that the action is justified because the officer has previously received negative performance feedback. Which principle most directly applies?",
+      "options": [
+        "Discipline must protect standards, integrity and service effectiveness, not serve as personal retaliation.",
+        "Performance feedback automatically establishes misconduct.",
+        "Disciplinary action may be initiated without reference to the applicable rule if previous appraisals were negative.",
+        "Supervisors may use disciplinary procedures to resolve personal disagreements when the officer's performance is unsatisfactory."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar expressly rejects the use of discipline as personal retaliation and identifies its purpose as protecting standards, integrity and service effectiveness."
+    },
+    {
+      "id": "personnel-management-in-government-093",
+      "question": "A government department approves the transfer of an officer to another MDA to address a staffing shortage. The receiving department updates its local duty roster but the relevant personnel records are not updated. What is the principal administrative deficiency?",
+      "options": [
+        "The transfer should have been treated as a new recruitment exercise.",
+        "The officer should have undergone another selection exercise.",
+        "The department should have converted the transfer into a promotion.",
+        "The transfer has not been properly reflected in official personnel records."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar requires transfer and posting to be handled by the appropriate authority and properly recorded for official records."
+    },
+    {
+      "id": "personnel-management-in-government-094",
+      "question": "A government department is considering a posting because another unit urgently requires additional personnel. Which justification is most consistent with the seminar?",
+      "options": [
+        "Posting is primarily intended to reward an officer for good performance.",
+        "Posting should deploy available human resources to meet service needs.",
+        "Posting automatically entitles an officer to an increase in grade level.",
+        "Posting is a substitute for the appointment procedure."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar describes transfer and posting as mechanisms for deploying available human resources to meet service needs."
+    },
+    {
+      "id": "personnel-management-in-government-095",
+      "question": "An officer resigns from service, but the department simply removes the officer from the attendance register without completing the required separation documentation or clearance. Which statement best identifies the problem?",
+      "options": [
+        "Resignation does not require any administrative action once the officer has stopped reporting.",
+        "Clearance is required only when an officer is dismissed.",
+        "Lawful separation requires appropriate authority, documentation, clearance and updated personnel records.",
+        "Separation documentation is unnecessary if the officer has submitted a written resignation."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar requires proper authority, documentation, clearance and updated personnel records for retirement, resignation, dismissal and other lawful separation."
+    },
+    {
+      "id": "personnel-management-in-government-096",
+      "question": "A department completes the retirement of a senior officer but fails to preserve relevant service records and handover information. Which institutional consequence is most directly identified in the seminar?",
+      "options": [
+        "Loss of institutional memory and possible inefficient use of public resources.",
+        "Automatic cancellation of the officer's previous promotion.",
+        "Invalidation of all appointments made by the officer.",
+        "Conversion of the officer's personnel file into a confidential file."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar identifies orderly separation as a means of protecting institutional memory and public resources."
+    },
+    {
+      "id": "personnel-management-in-government-097",
+      "question": "An MDA has recruited eligible candidates, completed appointments and maintained personnel records. However, promotion decisions are routinely made without reference to service records, performance evidence or establishment considerations. Which institutional-control objective is most compromised?",
+      "options": [
+        "The use of personnel records to support employee welfare.",
+        "The relationship between recruitment and induction.",
+        "The protection of confidentiality during training.",
+        "Fair promotion through documented evidence and appropriate authority."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar identifies fair promotion as one of the institutional-control functions supported by proper personnel administration."
+    },
+    {
+      "id": "personnel-management-in-government-098",
+      "question": "A personnel officer is reviewing a proposed appointment, promotion, disciplinary action and retirement process. Which common requirement should guide all four transactions?",
+      "options": [
+        "The officer's immediate supervisor must make the final decision in every case.",
+        "Each transaction should be traceable to authority, applicable rules or approved procedures, reliable facts, proper documentation and a responsible decision-maker.",
+        "Every transaction should be processed using the same form and approval channel.",
+        "All transactions should be completed before updating the official personnel record."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar's central principle applies across personnel actions: authority, procedure, reliable facts, documentation and a responsible decision-maker must be identifiable."
+    },
+    {
+      "id": "personnel-management-in-government-099",
+      "question": "A government department claims to have an effective personnel management system because it recruits employees, processes leave and maintains payroll information. However, it does not manage development, employee relations, disciplinary accountability, career movement or lawful separation systematically. Which assessment is most accurate?",
+      "options": [
+        "The department has completed personnel management because recruitment and payroll are its essential functions.",
+        "The department has only a records-management problem.",
+        "The department has adopted an incomplete view of personnel management, which covers the employee's service journey from entry through development, movement, accountability and exit.",
+        "The department should concentrate exclusively on disciplinary matters before expanding its personnel functions."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The personnel life-cycle framework shows that personnel management extends beyond recruitment and routine administration to integration, development, movement, accountability and exit."
+    },
+    {
+      "id": "personnel-management-in-government-100",
+      "question": "A public institution has established a comprehensive personnel system. However, officers frequently make decisions without identifying the applicable authority, maintaining proper records or considering the relevant facts. Which conclusion best captures the central message of the seminar?",
+      "options": [
+        "Personnel management is effective only when administrative procedures are consistently connected to authority, rules, reliable facts, proper documentation and accountable decision-making.",
+        "Personnel management succeeds primarily when officers are recruited quickly and placed in available positions.",
+        "Personnel management should prioritise employee welfare above the requirements of accountability and discipline.",
+        "Personnel management is effective when supervisors are permitted to exercise discretion without formal documentation."
+      ],
+      "correctAnswer": 0,
+      "explanation": "This reflects the seminar's central principle that personnel actions must be traceable to authority, rules or approved procedures, reliable facts, proper documentation and a responsible decision-maker."
+    }
+  ]
+}

@@ -30,9 +30,42 @@ const Home = () => {
             </div>
           </HeroCard>
           <section id="exam-courses">
-            {exams.map((exam) => (
-              <ExamCard key={exam.id} exam={exam} />
-            ))}
+            {/* 2027 Promotion Preparation */}
+            <div className="course-category">
+              <div className="course-category-heading">
+                <span className="category-badge">NEW</span>
+                <h2>2027 Pre-Promotion Preparation</h2>
+                <p>
+                  Prepare for your 2027 pre-promotion with these five dedicated
+                  question banks extracted from the Pre-Promotion Examination
+                  Seminar paper for Civil Servants GL. 06 - 16 2027.
+                </p>
+              </div>
+
+              <div className="course-grid">
+                {exams
+                  .filter((exam) => exam.category === 'promotion-2027')
+                  .map((exam) => (
+                    <ExamCard key={exam.id} exam={exam} />
+                  ))}
+              </div>
+            </div>
+
+            {/* Other Practice Courses */}
+            <div className="course-category">
+              <div className="course-category-heading">
+                <h2>Other Practice Courses</h2>
+                <p>Explore additional courses and expand your knowledge.</p>
+              </div>
+
+              <div className="course-grid">
+                {exams
+                  .filter((exam) => exam.category === 'general')
+                  .map((exam) => (
+                    <ExamCard key={exam.id} exam={exam} />
+                  ))}
+              </div>
+            </div>
           </section>
         </div>
         <footer className="home-footer">

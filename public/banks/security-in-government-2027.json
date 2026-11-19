@@ -1,0 +1,970 @@
+{
+  "metadata": {
+    "id": "security-in-government",
+    "title": "SECURITY IN GOVERNMENT",
+    "version": "1.0.0",
+    "totalQuestions": 80
+  },
+  "questions": [
+    {
+      "id": "security-in-government-001",
+      "question": "Which statement most accurately captures the meaning of security as introduced in the seminar?",
+      "options": [
+        "The protection of lives and property against threats and unauthorised access or damage",
+        "The restriction of access to government buildings to senior officers only",
+        "The prevention of all forms of disagreement within government establishments",
+        "The protection of government documents without regard to personnel or physical installations"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar describes security as the protection of lives and property, including government installations and property against unauthorised entry and damage."
+    },
+    {
+      "id": "security-in-government-002",
+      "question": "In its wider context, the seminar identifies security as involving protection of which combination?",
+      "options": [
+        "Government buildings and financial records exclusively",
+        "Physical structures, classified documents and information, personnel, and human lives",
+        "Government officials against political criticism and public scrutiny",
+        "Only classified documents and installations belonging to the Ministry"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The wider definition includes physical structures, classified documents and information, personnel, and human lives against various forms of harm and exploitation."
+    },
+    {
+      "id": "security-in-government-003",
+      "question": "According to the seminar, a threat is best understood as:",
+      "options": [
+        "Any disagreement between an employee and a supervisor",
+        "Any situation that causes inconvenience within a government office",
+        "An act or intention with the potential to inhibit peace, law and order or injure vital national interests",
+        "An action that has already resulted in damage to government property"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A threat may be an act or an intention with the potential to affect peace, law and order or damage vital national interests. Actual damage does not have to have occurred."
+    },
+    {
+      "id": "security-in-government-004",
+      "question": "An organisation identifies an imminent security danger and prepares to take proactive steps to contain it before it causes harm. Which concept does this illustrate?",
+      "options": [
+        "Protective security",
+        "Common minimum security standards",
+        "Document security",
+        "Security consciousness"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Security consciousness is the state of preparedness to recognise an imminent danger and take appropriate proactive steps to contain, forestall or terminate it."
+    },
+    {
+      "id": "security-in-government-005",
+      "question": "Who is expected to appoint a Departmental Security Officer where the Permanent Secretary or Head of an Extra-Ministerial Department cannot personally supervise security administration?",
+      "options": [
+        "The Permanent Secretary or Head of the Extra-Ministerial Department",
+        "The Accountant-General of the State",
+        "The Head of the Special Services Department",
+        "The Chairman of the Civil Service Commission"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar places responsibility for appointing a DSO on the Permanent Secretary or Head of the Extra-Ministerial Department."
+    },
+    {
+      "id": "security-in-government-006",
+      "question": "What rank should a Departmental Security Officer normally hold, according to the seminar?",
+      "options": [
+        "Principal Executive Officer, GL 10",
+        "Principal Administrative Officer, GL 12, or equivalent",
+        "Assistant Director, GL 14",
+        "Chief Administrative Officer, GL 13"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that the DSO should normally be a Principal Administrative Officer on GL 12 or equivalent."
+    },
+    {
+      "id": "security-in-government-007",
+      "question": "Which arrangement does the seminar allow for large Ministries or Departments in relation to the DSO?",
+      "options": [
+        "The DSO must be replaced by a security committee",
+        "The Permanent Secretary must personally take over all security duties",
+        "The DSO may have one or more assistants",
+        "All security responsibilities must be transferred to the Special Services Department"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar provides that a DSO in a large Ministry or Department may have one or more assistants."
+    },
+    {
+      "id": "security-in-government-008",
+      "question": "Which responsibility of a DSO directly relates to providing security-related guidance to the head of an establishment?",
+      "options": [
+        "Custody of security registers",
+        "Arranging Oaths of Secrecy for staff",
+        "Conducting sanitation inspections",
+        "Advising the Chief Executive on security matters in the establishment"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Advising the Chief Executive on security matters in the establishment is one of the DSO's listed duties."
+    },
+    {
+      "id": "security-in-government-009",
+      "question": "A DSO is required to liaise with which body in the Governor's Office and enforce circulars issued by that body?",
+      "options": [
+        "The Special Services Department",
+        "The Office of the Accountant-General",
+        "The Department of Establishments",
+        "The State Auditor-General's Department"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar specifically identifies liaison with the Special Services Department of the Governor's Office and enforcement of its circulars as a DSO responsibility."
+    },
+    {
+      "id": "security-in-government-010",
+      "question": "From which source should the departmental security rules enforced by a DSO be derived?",
+      "options": [
+        "The internal preferences of the Permanent Secretary",
+        "The Federal Republic of Nigeria Security Instructions",
+        "The annual performance evaluation guidelines",
+        "The departmental financial regulations"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that departmental security rules are derived from the Federal Republic of Nigeria Security Instructions."
+    },
+    {
+      "id": "security-in-government-011",
+      "question": "Which of the following is expressly listed as a responsibility of the DSO?",
+      "options": [
+        "Approving staff promotions",
+        "Issuing appointment letters",
+        "Keeping custody of security registers",
+        "Preparing departmental financial estimates"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Keeping custody of security registers is among the responsibilities listed for the DSO."
+    },
+    {
+      "id": "security-in-government-012",
+      "question": "Which DSO responsibility specifically concerns the formal secrecy undertaking expected of staff?",
+      "options": [
+        "Conducting security inspections",
+        "Investigating breaches of security",
+        "Enforcing fire preventive measures",
+        "Arranging the administration of Oaths of Secrecy on all staff"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar includes arranging the administration of Oaths of Secrecy on all staff among the DSO's duties."
+    },
+    {
+      "id": "security-in-government-013",
+      "question": "The principle of need-to-know restricts access to secret information primarily on the basis of:",
+      "options": [
+        "Whether the information is required for the person's official duties",
+        "Whether the person holds a senior position",
+        "Whether the person has worked in the Ministry for several years",
+        "Whether the person has previously handled similar documents"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The principle limits access to those who need the information to perform their duties, rather than everyone who claims a right to know."
+    },
+    {
+      "id": "security-in-government-014",
+      "question": "What does the seminar mean by Common Minimum Security Standards?",
+      "options": [
+        "A classification system for all government correspondence",
+        "Basic uniform security arrangements in personnel, physical and document security adopted across government departments",
+        "A list of disciplinary punishments for officers who disclose official information",
+        "A security arrangement applicable only to sensitive Ministries"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Common Minimum Security Standards relate to basic uniform arrangements agreed upon by departments in personnel, physical and document security."
+    },
+    {
+      "id": "security-in-government-015",
+      "question": "Which combination correctly represents the four classifications of official documents identified in the seminar?",
+      "options": [
+        "Confidential, Public, Restricted and Internal",
+        "Secret, Classified, Sensitive and Confidential",
+        "Top Secret, Secret, Confidential and Restricted",
+        "Top Secret, Official, Internal and Restricted"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The four classifications identified are Top Secret, Secret, Confidential and Restricted."
+    },
+    {
+      "id": "security-in-government-016",
+      "question": "Unauthorised disclosure of information classified as Top Secret is described as capable of causing:",
+      "options": [
+        "Administrative inconvenience to the Ministry",
+        "Undesirable consequences for the establishment",
+        "Prejudice to the interests of the nation",
+        "Exceptionally grave damage to the nation"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Top Secret information is defined as information whose unauthorised disclosure would cause exceptionally grave damage to the nation."
+    },
+    {
+      "id": "security-in-government-017",
+      "question": "Which classification applies where unauthorised disclosure would cause serious injury to the interest of the nation?",
+      "options": [
+        "Secret",
+        "Restricted",
+        "Confidential",
+        "Top Secret"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar defines Secret information as information whose unauthorised disclosure would cause serious injury to the interest of the nation."
+    },
+    {
+      "id": "security-in-government-018",
+      "question": "Information whose unauthorised disclosure would be prejudicial to the interest of the nation belongs to which classification?",
+      "options": [
+        "Restricted",
+        "Confidential",
+        "Secret",
+        "Top Secret"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Confidential information is defined by the seminar as information whose unauthorised disclosure would be prejudicial to the interest of the nation."
+    },
+    {
+      "id": "security-in-government-019",
+      "question": "Which classification is associated with unauthorised disclosure that would be undesirable in the interest of the nation?",
+      "options": [
+        "Top Secret",
+        "Secret",
+        "Restricted",
+        "Confidential"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar defines Restricted information as information whose unauthorised disclosure would be undesirable in the interest of the nation."
+    },
+    {
+      "id": "security-in-government-020",
+      "question": "Which description best captures protective security as defined in the seminar?",
+      "options": [
+        "The screening of employees before they are appointed to public office",
+        "The restriction of classified documents to senior management",
+        "The prevention of financial misconduct within government departments",
+        "The protection of physical structures, documents and personnel against specified security dangers"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Protective security covers protection of physical structures against unauthorised entry or damage, documents and information against unauthorised possession or loss, and personnel against harm, kidnapping, blackmail and exploitation."
+    },
+    {
+      "id": "security-in-government-021",
+      "question": "A Ministry attempts to transfer all responsibility for its security arrangements to an external security agency, arguing that security is not an internal departmental responsibility. Which principle in the seminar contradicts this position?",
+      "options": [
+        "Security education must be provided by the Federal Government",
+        "Security arrangements should be the responsibility of the individual Ministry or Department",
+        "Only the Special Services Department may establish security arrangements",
+        "Security responsibilities belong exclusively to the Permanent Secretary"
+      ],
+      "correctAnswer": 1,
+      "explanation": "One of the principles of protective security states that security arrangements should be the responsibility of the individual Ministry or Department."
+    },
+    {
+      "id": "security-in-government-022",
+      "question": "Before deciding the security measures required for a particular document, what should be done first under the principles of protective security?",
+      "options": [
+        "Restrict every officer from accessing it",
+        "Place the document in a sealed envelope",
+        "Define the secret by identifying what needs protection",
+        "Transfer the document to the Departmental Security Officer"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The first principle is to identify what needs protection and define the secret before determining the appropriate security measures."
+    },
+    {
+      "id": "security-in-government-023",
+      "question": "An officer insists on accessing a classified document because of seniority, although the information is not required for the officer's duties. Which principle directly addresses this claim?",
+      "options": [
+        "Common Minimum Security Standards",
+        "Personnel security",
+        "Physical security",
+        "Need-to-know"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Access to classified information is based on a genuine requirement for official duties, not simply a person's assertion of a right to know."
+    },
+    {
+      "id": "security-in-government-024",
+      "question": "Why does the seminar recommend exposing staff to security education?",
+      "options": [
+        "To encourage cooperation and help staff understand the need to keep secrets",
+        "To transfer all security responsibilities from the DSO to employees",
+        "To permit staff to determine document classifications independently",
+        "To allow employees to access every departmental security register"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Security education is intended to secure staff cooperation and enable them to understand the need to protect secrets."
+    },
+    {
+      "id": "security-in-government-025",
+      "question": "Which set correctly identifies the three main headings under which security measures are grouped?",
+      "options": [
+        "Administrative, financial and operational security",
+        "Physical, document and personnel security",
+        "Classified, restricted and confidential security",
+        "Preventive, investigative and disciplinary security"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar groups security measures into physical security, document security and personnel security."
+    },
+    {
+      "id": "security-in-government-026",
+      "question": "Which statement most accurately describes the purpose of physical security?",
+      "options": [
+        "To control the circulation of confidential correspondence",
+        "To prevent employees of doubtful character from occupying positions of trust",
+        "To prevent destruction and unauthorised access to buildings, departments and strategic installations",
+        "To ensure that every employee signs a declaration of secrecy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Physical security consists of controls, barriers, devices and procedures designed to protect buildings, departments and strategic installations from destruction and unauthorised access."
+    },
+    {
+      "id": "security-in-government-027",
+      "question": "Which of the following combinations consists of physical security measures identified in the seminar?",
+      "options": [
+        "Sealed envelopes, dispatch records and shredding",
+        "Oaths of Secrecy, staff screening and declarations",
+        "Document classification, personnel vetting and record custody",
+        "Perimeter barriers, control of entry and protective lighting"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Perimeter barriers, control of entry and protective lighting are among the physical security methods listed in the seminar."
+    },
+    {
+      "id": "security-in-government-028",
+      "question": "A department wishes to strengthen its physical security by installing modern surveillance equipment. Which example does the seminar expressly provide?",
+      "options": [
+        "CCTV",
+        "A document dispatch register",
+        "An Oath of Secrecy register",
+        "A classified waste register"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Installation of modern gadgets, with CCTV given as an example, is one of the physical security methods identified."
+    },
+    {
+      "id": "security-in-government-029",
+      "question": "What is the central objective of document security as explained in the seminar?",
+      "options": [
+        "To prevent all documents from being circulated outside the department",
+        "To ensure classified papers are seen only by authorised persons with a genuine need for access",
+        "To ensure that every public servant can inspect classified papers",
+        "To replace document classification with physical barriers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Document security is intended to ensure that classified papers are seen only by authorised persons who genuinely need access to perform their duties."
+    },
+    {
+      "id": "security-in-government-030",
+      "question": "Which combination best reflects the document-control measures described in the seminar?",
+      "options": [
+        "Transferring all classified records to the Governor's Office and retaining every discarded copy",
+        "Allowing unrestricted production and circulation but requiring staff to sign attendance registers",
+        "Restricting and controlling the production and circulation of classified materials and properly disposing of discarded copies",
+        "Reproducing classified documents freely and relying on staff declarations to prevent disclosure"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar identifies control over the production and circulation of classified materials and proper disposal of discarded copies and waste as document-security measures."
+    },
+    {
+      "id": "security-in-government-031",
+      "question": "An officer deliberately discusses classified information with an unauthorised person during an informal conversation. Which leakage factor does this most directly illustrate?",
+      "options": [
+        "Theft of official documents",
+        "Careless storage of classified papers",
+        "Physical damage to an office installation",
+        "Word of mouth"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Word of mouth, whether deliberate or careless, is listed as a factor that can cause classified-document leakage."
+    },
+    {
+      "id": "security-in-government-032",
+      "question": "A classified file disappears after an unauthorised person gains access to the office where it was stored. Which leakage factor is most directly illustrated?",
+      "options": [
+        "Theft or unauthorised access to documents",
+        "Compromise by disloyal staff",
+        "Word of mouth",
+        "Failure to conduct sanitation inspections"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Theft or unauthorised access to documents is expressly listed as a factor that can cause classified information to leak."
+    },
+    {
+      "id": "security-in-government-033",
+      "question": "A disloyal employee persuades outsiders to believe that the employee works in a sensitive office, such as the Governor's Office, to gain their confidence and obtain information. What does the seminar identify this as?",
+      "options": [
+        "Ordinary document circulation",
+        "Compromise by disloyal staff",
+        "Common minimum security practice",
+        "Physical security inspection"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar gives an example of disloyal staff creating the impression that they work in a sensitive office as a means of compromising security."
+    },
+    {
+      "id": "security-in-government-034",
+      "question": "An officer leaves classified materials lying around the office after handling them. Which leakage factor does this demonstrate?",
+      "options": [
+        "Theft by an external intruder",
+        "Compromise through a false official identity",
+        "Carelessness in handling official documents",
+        "Deliberate disclosure through word of mouth"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Allowing classified documents or materials to lie about in the office is identified as carelessness in handling official documents."
+    },
+    {
+      "id": "security-in-government-035",
+      "question": "An officer has been instructed to transmit classified information. What should the officer establish about the intended recipient before transmission?",
+      "options": [
+        "That the recipient holds a higher salary grade",
+        "That the recipient works in the same building",
+        "That the recipient has previously handled the same document type",
+        "That the information is going to the correct person for whom it is intended"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The first listed method for protecting classified documents during transmission is to ensure that the information reaches the correct intended recipient."
+    },
+    {
+      "id": "security-in-government-036",
+      "question": "Which consideration does the seminar specifically require when selecting the person responsible for dispatching classified information?",
+      "options": [
+        "The person should be reliable staff",
+        "The person should be the most junior employee available",
+        "The person should be an employee with the longest period of service",
+        "The person should be selected from outside the department"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar states that the person who dispatches classified information should be reliable staff."
+    },
+    {
+      "id": "security-in-government-037",
+      "question": "Which procedure should accompany the dispatch of classified information, according to the seminar?",
+      "options": [
+        "Sending it in an unmarked envelope without keeping a record",
+        "Using a sealed envelope and ensuring that dispatch entries are made",
+        "Handing it to any available employee for delivery",
+        "Leaving it at the reception for collection by the intended recipient"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar requires classified information to be dispatched in a sealed envelope, with appropriate entries made for the dispatch."
+    },
+    {
+      "id": "security-in-government-038",
+      "question": "What should be done with classified materials when they are not in use?",
+      "options": [
+        "Leave them on the officer's desk for easy access",
+        "Place them where visitors cannot see them, without locking them away",
+        "Lock them away",
+        "Transfer them to a colleague's desk"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar directs that classified materials should be locked up when they are not in use."
+    },
+    {
+      "id": "security-in-government-039",
+      "question": "Which arrangement is specifically recommended to prevent visitors from gaining unauthorised exposure to classified materials?",
+      "options": [
+        "Allow visitors into the storage room only when accompanied by any employee",
+        "Keep documents on open shelves and rely on verbal warnings",
+        "Display classification labels prominently for visitors to read",
+        "Ensure classified materials are not exposed to visitors who come to visit"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar specifically states that classified materials must not be exposed to visitors who come to the office."
+    },
+    {
+      "id": "security-in-government-040",
+      "question": "Which combination best reflects the housekeeping and fire-prevention precautions identified in the seminar?",
+      "options": [
+        "Keep classified-document rooms clean, switch off electrical appliances after work and avoid inflammable materials",
+        "Leave electrical appliances running and keep discarded classified papers in open containers",
+        "Store classified waste near electrical outlets and use open flames for quick disposal",
+        "Leave taps running after work and keep windows open regardless of security conditions"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar directs that document rooms be kept clean to prevent pest damage, electrical appliances be switched off after work or during power outages, and smoking or inflammable materials be avoided to prevent fire outbreaks."
+    },
+    {
+      "id": "security-in-government-041",
+      "question": "A Ministry assigns an employee to a sensitive position where the employee can access classified information and critical materials. The Ministry introduces protective measures specifically to ensure that the employee's access does not compromise those materials. Which security category is involved?",
+      "options": [
+        "Personal security",
+        "Physical security",
+        "Personnel security",
+        "Document classification"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Personnel security concerns protective measures applied to employees in sensitive positions to safeguard classified or sensitive information and critical materials within their reach."
+    },
+    {
+      "id": "security-in-government-042",
+      "question": "Which of the following is one of the stated objectives of personnel security?",
+      "options": [
+        "To ensure that every employee can access classified information",
+        "To permit employees to determine their own security clearance",
+        "To transfer security duties from management to individual employees",
+        "To exclude persons of doubtful character from positions of trust"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The first objective of personnel security identified in the seminar is to exclude persons of doubtful character from positions of trust."
+    },
+    {
+      "id": "security-in-government-043",
+      "question": "Personnel security is also intended to ensure that persons employed remain loyal to the organisation:",
+      "options": [
+        "Even after leaving the service",
+        "Only while occupying sensitive positions",
+        "Only while receiving government salaries",
+        "Until they complete their probationary period"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar's second stated objective is to ensure that persons employed continue to be loyal to the organisation even after leaving the service."
+    },
+    {
+      "id": "security-in-government-044",
+      "question": "What was the stated purpose of enacting the Official Secrets Act in 1962?",
+      "options": [
+        "To create a new classification system for all government records",
+        "To safeguard classified information against leakage",
+        "To establish the office of the Departmental Security Officer",
+        "To regulate the personal safety of government employees outside office hours"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that the Official Secrets Act, 1962, was enacted to safeguard classified information against leakage and prevent public officers from leaking such information through wilful negligence, careless acts or omissions."
+    },
+    {
+      "id": "security-in-government-045",
+      "question": "Under the seminar's explanation of the Official Secrets Act, which conduct by a public servant may constitute an offence?",
+      "options": [
+        "Seeking clarification before handling classified information",
+        "Requesting permission to inspect a security register",
+        "Failing to take care or conduct oneself in a way that endangers the safety of an entrusted document",
+        "Reporting a suspected security breach to a superior officer"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar states that it is an offence for a public servant to fail to take care of, or conduct themselves in a manner that endangers, the safety of a document entrusted to them."
+    },
+    {
+      "id": "security-in-government-046",
+      "question": "When should personnel who are allowed access to classified information be required to sign a declaration of secrecy, according to the seminar?",
+      "options": [
+        "Only after leaving the service",
+        "Whenever they are transferred to another Ministry",
+        "After an official information leak has occurred",
+        "When they are first given access to classified information"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that personnel allowed access to classified information should be required to sign a declaration of secrecy when they are first given access."
+    },
+    {
+      "id": "security-in-government-047",
+      "question": "Under which legislation does the seminar say personnel should swear or affirm the Oath of Secrecy?",
+      "options": [
+        "The Oaths Act, 1963",
+        "The Official Secrets Act, 1962",
+        "The Constitution of the Federal Republic of Nigeria",
+        "The Federal Republic of Nigeria Security Instructions"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar states that personnel should swear or affirm the Oath of Secrecy as stipulated under the Oaths Act, 1963."
+    },
+    {
+      "id": "security-in-government-048",
+      "question": "Which of the following activities is expressly listed as an offence under the Official Secrets Act in the seminar?",
+      "options": [
+        "Reporting a suspected disclosure to the DSO",
+        "Extracting, reproducing, retaining or transmitting classified information without authority",
+        "Locking classified materials away after office hours",
+        "Signing a declaration of secrecy before accessing classified information"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Unauthorised extraction, reproduction, retention or transmission of classified information is one of the listed offences."
+    },
+    {
+      "id": "security-in-government-049",
+      "question": "A public servant deliberately ignores established security regulations governing classified materials. Which offence listed in the seminar most directly applies?",
+      "options": [
+        "Failure to conduct a personal security check",
+        "Failure to attend security education",
+        "Failure to comply with security regulations regarding classified information or materials",
+        "Failure to report for duty at the prescribed time"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Failure to comply with security regulations concerning classified information or materials is expressly listed among the offences under the Act."
+    },
+    {
+      "id": "security-in-government-050",
+      "question": "An officer's careless handling of a classified document creates a risk to its safety, although the officer did not intend to disclose it. Which listed offence is most relevant?",
+      "options": [
+        "Unauthorised appointment to a sensitive position",
+        "Improper classification of an official document",
+        "Failure to administer an Oath of Secrecy",
+        "Endangering classified information through wilful negligence, careless act or omission"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar identifies endangering the safety of classified information or materials through wilful negligence, a careless act or omission as an offence."
+    },
+    {
+      "id": "security-in-government-051",
+      "question": "Which action constitutes another offence identified under the Official Secrets Act in the seminar?",
+      "options": [
+        "Improperly disclosing official information to any person",
+        "Conducting a routine security inspection",
+        "Keeping custody of security registers",
+        "Arranging security education for employees"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Improper disclosure of official information to any person is one of the four offences listed in the seminar."
+    },
+    {
+      "id": "security-in-government-052",
+      "question": "Which statement correctly distinguishes personnel security from personal security?",
+      "options": [
+        "Personnel security protects buildings, while personal security protects classified documents",
+        "Personnel security concerns employees in sensitive positions, while personal security concerns protecting oneself",
+        "Personnel security applies only outside the workplace, while personal security applies only inside government offices",
+        "Personnel security concerns visitors, while personal security concerns departmental security registers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Personnel security relates to protective measures applied to employees in sensitive positions. Personal security, by contrast, concerns protecting oneself against threats arising in one's surroundings and daily life."
+    },
+    {
+      "id": "security-in-government-053",
+      "question": "Which of the following groups consists entirely of threat actors specifically mentioned under personal security in the seminar?",
+      "options": [
+        "Accountants, auditors, inspectors and supervisors",
+        "Visitors, contractors, cleaners and messengers",
+        "Assassins, kidnappers, ritual killers and pickpockets",
+        "Clerks, typists, records officers and security educators"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar identifies assassins, kidnappers, ritual killers, murderers, terrorists, rapists and pickpockets, among others, as possible sources of personal security threats."
+    },
+    {
+      "id": "security-in-government-054",
+      "question": "According to the seminar, where may personal security threats exist?",
+      "options": [
+        "Only in public offices",
+        "Only in residential neighbourhoods",
+        "Only in crowded public places",
+        "At home, in the office, on the street and in other locations"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that threats may exist at home, in the office, on the street and in other places. It also emphasises that no one is completely free from attack."
+    },
+    {
+      "id": "security-in-government-055",
+      "question": "Which behaviour does the seminar identify as potentially making an individual vulnerable to attackers who study regular patterns of life?",
+      "options": [
+        "Following predictable routines, including regular visits to banks or relaxation spots",
+        "Keeping personal information confidential",
+        "Being alert to one's surroundings",
+        "Avoiding flamboyant displays of wealth"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar explains that attackers may exploit regular patterns of life, such as routine bank visits, regular relaxation times, flamboyant lifestyles and dubious business relationships."
+    },
+    {
+      "id": "security-in-government-056",
+      "question": "What position does the seminar take on the use of bodyguards as a personal security measure?",
+      "options": [
+        "Bodyguards eliminate the possibility of attack",
+        "Possession of bodyguards does not offer sufficient protection by itself",
+        "Bodyguards are necessary only for officers in sensitive offices",
+        "Bodyguards are a substitute for security consciousness"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar expressly warns that possession of bodyguards does not offer sufficient protection."
+    },
+    {
+      "id": "security-in-government-057",
+      "question": "What behavioural advice does the seminar give to a responsible officer to reduce personal security exposure?",
+      "options": [
+        "Publicly discuss official duties to discourage speculation",
+        "Regularly disclose personal assets to colleagues",
+        "Avoid bragging about personal wealth or talking excessively about office matters",
+        "Make sure visitors know the officer's daily schedule"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar advises responsible officers not to brag about their lots in life or talk too much about what they do in the office. It recommends doing more listening than talking."
+    },
+    {
+      "id": "security-in-government-058",
+      "question": "Why should rooms where classified documents are kept be maintained in a clean condition?",
+      "options": [
+        "To make the documents easier for visitors to inspect",
+        "To reduce the need for document classification",
+        "To encourage unrestricted circulation of classified materials",
+        "To prevent rodents, ants and cockroaches from destroying the documents"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that rooms containing classified documents should be kept clean to prevent rodents, ants and cockroaches from destroying the documents."
+    },
+    {
+      "id": "security-in-government-059",
+      "question": "What does the seminar require concerning electrical appliances used in offices?",
+      "options": [
+        "Switch them off after work or as soon as there is a power outage",
+        "Leave them on during power outages to facilitate immediate resumption",
+        "Disconnect only appliances used to store classified information",
+        "Switch them off only when the DSO is present"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Switching off electrical appliances after work or as soon as there is a power outage is among the listed security precautions."
+    },
+    {
+      "id": "security-in-government-060",
+      "question": "Which precaution concerning water supply is specifically stated in the seminar's document-protection methods?",
+      "options": [
+        "Keep all taps running during office hours",
+        "Ensure all taps are properly closed during and after official hours",
+        "Permit water to flow when classified waste is being destroyed",
+        "Close taps only in rooms where Top Secret documents are stored"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar specifically directs that all taps must be closed properly during and after official hours."
+    },
+    {
+      "id": "security-in-government-061",
+      "question": "A government installation has experienced repeated attempts by unauthorised persons to enter its premises. Management wants to strengthen security by creating a physical obstacle around the perimeter. Which measure from the seminar is most directly suitable?",
+      "options": [
+        "Security education",
+        "Oath of Secrecy",
+        "Classified-document dispatch records",
+        "Perimeter barriers"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Perimeter barriers are identified as a physical security method. They help prevent unauthorised access to protected premises."
+    },
+    {
+      "id": "security-in-government-062",
+      "question": "A government document contains information whose unauthorised disclosure would cause serious injury to the interest of the nation. A staff member must determine its classification. Which classification should apply?",
+      "options": [
+        "Secret",
+        "Confidential",
+        "Restricted",
+        "Top Secret"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Under the seminar's classification definitions, Secret applies where unauthorised disclosure would cause serious injury to the interest of the nation."
+    },
+    {
+      "id": "security-in-government-063",
+      "question": "During an inspection, a DSO discovers discarded classified materials mixed with ordinary office waste. Which corrective disposal method is consistent with the seminar?",
+      "options": [
+        "Leave the materials for the routine waste collector",
+        "Collect and destroy the classified waste, mainly by shredding or burning, under the supervision of the DSO or a superior officer",
+        "Place the materials in an open container for later inspection by visitors",
+        "Transfer the materials to another employee without recording their movement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that classified waste should be collected and destroyed, mainly by shredding or burning, under the supervision of the DSO or a superior officer."
+    },
+    {
+      "id": "security-in-government-064",
+      "question": "An officer discovers that classified information has been exposed through a breach of departmental security. According to the seminar, which reporting action is required?",
+      "options": [
+        "Discuss the incident informally with colleagues before deciding what to do",
+        "Wait until an external security agency discovers the breach",
+        "Report all breaches of security to the Departmental Security Officer or a senior officer in the Ministry or Department",
+        "Send the information to every department to warn them of the breach"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The document-protection methods expressly require security breaches to be reported to the DSO or a senior officer in the Ministry or Department."
+    },
+    {
+      "id": "security-in-government-065",
+      "question": "A department stores classified records in a room where employees frequently smoke and keep inflammable materials. Which security precaution has been ignored?",
+      "options": [
+        "The requirement to install perimeter barriers",
+        "The requirement to keep security registers",
+        "The requirement to arrange Oaths of Secrecy",
+        "The instruction to avoid smoking or bringing inflammable materials into the office because of fire risk"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar warns against smoking or bringing inflammable materials into the office because they can cause a fire outbreak."
+    },
+    {
+      "id": "security-in-government-066",
+      "question": "An officer leaves the office and intends to walk to a parked car in an area where personal security risks may arise. Which precaution is specifically recommended?",
+      "options": [
+        "Walk to the car with the keys already in hand",
+        "Display personal valuables to discourage possible attackers",
+        "Leave the vehicle unlocked for a quick departure",
+        "Call attention to the officer's movements before reaching the vehicle"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar's personal safety recommendations include walking to one's car with the keys in hand."
+    },
+    {
+      "id": "security-in-government-067",
+      "question": "An individual is involved in a minor vehicle accident on a deserted, poorly lit road. The officer suspects that the incident may have been deliberately provoked to facilitate a carjacking. What course of action best follows the seminar's advice?",
+      "options": [
+        "Stop immediately and wait inside the vehicle for the other driver to approach",
+        "Avoid stopping in the deserted location; drive to a Police Station, gas station or populated area and contact the Police or Quick Response Squad",
+        "Leave the vehicle and pursue the other driver",
+        "Stop at the roadside and exchange personal information before assessing the surroundings"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar warns that carjackers may provoke minor accidents to make victims stop. It advises driving to a Police Station, gas station or populated area and contacting the Police or QRS."
+    },
+    {
+      "id": "security-in-government-068",
+      "question": "Someone knocks on an officer's door while the officer is alone at home. The officer cannot identify the visitor from inside. Which response best reflects the seminar's personal safety recommendations?",
+      "options": [
+        "Open the door immediately and ask the visitor's purpose",
+        "Ignore all visitors regardless of the circumstances",
+        "Establish who is at the door before opening it and consider using a wide-angle peephole",
+        "Open the door slightly without first identifying the visitor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar advises against opening the door simply because someone knocks or rings the bell. It recommends knowing who is at the door and installing a wide-angle peephole where necessary."
+    },
+    {
+      "id": "security-in-government-069",
+      "question": "An individual is boarding a public bus and needs to pay the fare. Which action is recommended to reduce personal security exposure?",
+      "options": [
+        "Open the wallet fully while boarding",
+        "Display cash before entering the bus",
+        "Keep the purse open throughout the journey",
+        "Have the fare ready rather than opening the purse or wallet while boarding"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar advises passengers not to open their purse or wallet while boarding a bus and recommends having the fare ready."
+    },
+    {
+      "id": "security-in-government-070",
+      "question": "Which personal safety precaution should an officer maintain irrespective of whether the officer is visiting another government department or moving around outside the workplace?",
+      "options": [
+        "Always carry the officer's identification card",
+        "Keep the identification card in the office for safekeeping",
+        "Carry the identification card only when attending official meetings",
+        "Display the identification card publicly at all times"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar lists always carrying one's ID card as a personal safety recommendation."
+    },
+    {
+      "id": "security-in-government-071",
+      "question": "An individual enters a crowded public place where pickpockets may operate. Which precaution does the seminar specifically recommend regarding valuable jewellery?",
+      "options": [
+        "Wear the most expensive jewellery prominently",
+        "Keep flashy jewellery out of sight",
+        "Carry additional jewellery in an open handbag",
+        "Display jewellery to discourage suspicious individuals"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Keeping flashy jewellery out of sight is one of the personal safety recommendations on page 23."
+    },
+    {
+      "id": "security-in-government-072",
+      "question": "An individual receives a text message requesting an update of banking information through a link. The sender's identity is uncertain. Which response best follows the seminar's recommendations?",
+      "options": [
+        "Click the link but avoid entering the account password",
+        "Forward the message to colleagues before responding",
+        "Do not click the link or provide personal information; use a phone password to protect access if the phone is lost or stolen",
+        "Reply with personal details to establish whether the sender is genuine"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar warns against providing personal information over the phone unless one initiated the call and specifically says not to click text-message links requesting banking-information updates. It also recommends password protection for a phone in case it is lost or stolen."
+    },
+    {
+      "id": "security-in-government-073",
+      "question": "A civil servant needs to discuss an important business and financial transaction while standing in a crowded public place. Which advice from the seminar is most relevant?",
+      "options": [
+        "Raise the voice so the conversation can be heard clearly",
+        "Discuss the details openly because public places provide witnesses",
+        "Make the call near strangers to discourage suspicious activity",
+        "Avoid making important business or financial calls in public because such calls can attract criminals"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar warns that important business and financial calls made in public may attract criminals."
+    },
+    {
+      "id": "security-in-government-074",
+      "question": "A household is recruiting domestic staff. Which precaution does the seminar specifically recommend before the hiring decision is made?",
+      "options": [
+        "Conduct comprehensive security checks",
+        "Allow the candidate to begin work before checking any details",
+        "Rely exclusively on the candidate's verbal assurance",
+        "Obtain only the candidate's preferred working hours"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar expressly recommends conducting comprehensive security checks before hiring domestic staff."
+    },
+    {
+      "id": "security-in-government-075",
+      "question": "An officer plans to travel to another location and expects to return at a particular time. Which precaution is specifically advised?",
+      "options": [
+        "Avoid telling anyone about the journey",
+        "Let someone know where the officer is going and when the officer expects to return",
+        "Publicly announce the journey on social media",
+        "Inform only unfamiliar people encountered during the journey"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar recommends letting someone know where one is going and when one expects to return."
+    },
+    {
+      "id": "security-in-government-076",
+      "question": "An individual is walking through a busy commercial area and notices suspicious persons around an ATM. Which recommendation from the seminar is most relevant?",
+      "options": [
+        "Ignore the surroundings and concentrate on the transaction",
+        "Remain in the area to observe the suspicious persons closely",
+        "Watch the surroundings and be especially alert around banks, ATMs, stores, supermarkets and the home",
+        "Display cash to discourage anyone from approaching"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar recommends remaining aware of one's surroundings and being especially alert around suspicious persons near banks, ATMs, stores, supermarkets and the home."
+    },
+    {
+      "id": "security-in-government-077",
+      "question": "An individual enters a location and begins to feel uncomfortable because of the surrounding circumstances. What does the seminar advise?",
+      "options": [
+        "Remain there until another person confirms the danger",
+        "Ignore the feeling unless an actual attack occurs",
+        "Continue with the activity because leaving may appear suspicious",
+        "Trust personal instincts and leave any situation that feels uncomfortable"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar advises individuals to trust their instincts and leave if they feel uncomfortable in any situation."
+    },
+    {
+      "id": "security-in-government-078",
+      "question": "An officer is selecting clothing and footwear for an environment where sudden movement may be necessary. Which consideration matches the seminar's advice?",
+      "options": [
+        "Choose clothes and shoes that allow freedom of movement",
+        "Select clothing that restricts movement but gives a formal appearance",
+        "Prioritise expensive clothing and footwear",
+        "Wear footwear that makes movement difficult to detect"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar specifically recommends wearing clothes and shoes that allow freedom of movement."
+    },
+    {
+      "id": "security-in-government-079",
+      "question": "A public servant wants to improve surveillance of the home and office as part of personal safety precautions. Which measure is expressly recommended?",
+      "options": [
+        "Leave the entrance doors open during working hours",
+        "Install CCTV cameras in the home and office",
+        "Permit unknown visitors to enter without identification",
+        "Display personal travel schedules at the entrance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Installing CCTV cameras in the home and office is included among the personal safety and security tips."
+    },
+    {
+      "id": "security-in-government-080",
+      "question": "A public servant argues that security consciousness is only necessary for officers occupying sensitive posts. Which position best reflects the seminar's conclusion?",
+      "options": [
+        "Security consciousness is only necessary when classified documents are being handled",
+        "Only officers responsible for departmental security need to take proactive security measures",
+        "Every public or civil servant should maintain a high level of security consciousness daily and adopt proactive measures against security threats and classified-document leakage",
+        "Security becomes the responsibility of the Police whenever an employee leaves the office"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The conclusion emphasises that security affects all individuals and organisations. Every public or civil servant should maintain security consciousness in daily duties and adopt proactive measures to prevent threats and classified-document leakage. The paper closes with the reminder: 'Be security conscious at all times' and 'If you see something, say something.'"
+    }
+  ]
+}

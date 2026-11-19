@@ -2,15 +2,15 @@ import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './CourseUpdateModal.css';
 
-const CURRENT_ANNOUNCEMENT_VERSION = 2;
+const CURRENT_ANNOUNCEMENT_VERSION = 3;
 
 const ANNOUNCEMENT_STORAGE_KEY = 'preppilot-announcement-version';
 
 const newCourses = [
   {
     id: 1,
-    icon: '🛡️',
-    name: 'Security in Government',
+    icon: '📋',
+    name: 'Office Routine / Practice',
   },
   {
     id: 2,
@@ -19,10 +19,21 @@ const newCourses = [
   },
   {
     id: 3,
-    icon: '📋',
-    name: 'General Principles and Techniques in Management',
+    icon: '📚',
+    name: 'Public Service / Government Circulars',
+  },
+  {
+    id: 4,
+    icon: '🛡️',
+    name: 'Security in Government',
+  },
+  {
+    id: 5,
+    icon: '💰',
+    name: 'Financial Management in Government',
   },
 ];
+
 const CourseUpdateModal = () => {
   const [isOpen, setIsOpen] = useState(false);
   const navigate = useNavigate();
@@ -86,15 +97,18 @@ const CourseUpdateModal = () => {
           ×
         </button>
 
-        <div className="course-update-icon">🎉</div>
+        <div className="course-update-icon">🚀</div>
 
-        <p className="course-update-eyebrow">PrepPilot Update</p>
+        <p className="course-update-eyebrow">2027 PRE-PROMOTION EXAMINATION</p>
 
-        <h2 id="course-update-title">3 New Courses Added!</h2>
+        <h2 id="course-update-title">
+          The 2027 Promotion Prep Update Is Here!
+        </h2>
 
         <p className="course-update-message">
-          We've expanded PrepPilot with three new question banks. More courses,
-          more practice.
+          Five new question banks. More practice. Better preparation. We've
+          expanded PrepPilot with five new question banks to give your 2027
+          promotion preparation a major boost.
         </p>
 
         <div className="new-courses">
@@ -109,12 +123,16 @@ const CourseUpdateModal = () => {
           ))}
         </div>
 
+        <p className="course-update-footer">
+          Your next promotion starts with preparation.
+        </p>
+
         <button
           type="button"
           className="course-update-view"
           onClick={viewCourses}
         >
-          View Courses
+          Explore New Courses
           <span aria-hidden="true">→</span>
         </button>
 

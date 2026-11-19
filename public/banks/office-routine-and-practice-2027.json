@@ -1,0 +1,1205 @@
+{
+  "metadata": {
+    "id": "office-routine-and-practice-government",
+    "title": "OFFICE ROUTINE/PRACTICE ",
+    "version": "1.0.0",
+    "totalQuestions": 100
+  },
+  "questions": [
+    {
+      "id": "office-routine-and-practice-government-001",
+      "question": "Which statement most accurately distinguishes office routine from office practice in government administration?",
+      "options": [
+        "Office routine concerns official communication, while office practice deals exclusively with document storage.",
+        "Office routine refers to regular repetitive activities, while office practice concerns accepted methods, procedures, standards and rules for carrying out official duties.",
+        "Office routine deals with the supervision of staff, while office practice concerns the preparation of government budgets.",
+        "Office routine refers to statutory requirements, while office practice concerns informal administrative arrangements."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar describes office routine as regular and repetitive office activities, whereas office practice refers to accepted methods, procedures, standards and rules followed in performing official duties."
+    },
+    {
+      "id": "office-routine-and-practice-government-002",
+      "question": "An officer consistently arrives at work at the approved time but leaves the office during official working hours without obtaining permission. Which aspect of office routine is the officer failing to observe?",
+      "options": [
+        "Proper preparation of official correspondence.",
+        "Maintenance of confidential records.",
+        "Appropriate filing and retrieval procedures.",
+        "Attendance and punctuality requirements."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar requires public officers to report at the approved time, observe official working hours and obtain permission before leaving when required."
+    },
+    {
+      "id": "office-routine-and-practice-government-003",
+      "question": "Which of the following is NOT identified in the seminar as an importance of office routine and practice in government?",
+      "options": [
+        "Personal enrichment of individual officers.",
+        "Accountability.",
+        "Prevention of fraud.",
+        "Continuity."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The listed benefits include efficiency, orderliness, accountability, transparency, continuity, discipline, service delivery and prevention of fraud. Personal enrichment is not among them."
+    },
+    {
+      "id": "office-routine-and-practice-government-004",
+      "question": "A government office receives letters, registers them, arranges them and provides information when required. Which office unit performs these functions?",
+      "options": [
+        "Accounts department.",
+        "Personnel department.",
+        "Registry.",
+        "Audit department."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar describes the registry as the office arrangement responsible for receiving, recording, arranging and providing information to support organisational objectives."
+    },
+    {
+      "id": "office-routine-and-practice-government-005",
+      "question": "According to the seminar, which colour of pen is designated for the Governor in the public service of Akwa Ibom State?",
+      "options": ["Violet.", "Green.", "Blue.", "Red."],
+      "correctAnswer": 3,
+      "explanation": "The seminar specifies red pen for the Governor."
+    },
+    {
+      "id": "office-routine-and-practice-government-006",
+      "question": "A registry officer is required to identify the file prefix AKS/ASC/AD/2/S/AD/2. According to the seminar's illustration, what is the appropriate interpretation of the file structure?",
+      "options": [
+        "It is a sub-file associated with a main file.",
+        "It is a temporary file opened because the original is missing.",
+        "It is a confidential file dealing with personal matters.",
+        "It is a case file opened for a short-lived purpose."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar illustrates a main file with the prefix AKS/ASC/AD/2 and a related sub-file with the additional prefix AKS/ASC/AD/2/S/.... A sub-file exists in relation to an already existing main file."
+    },
+    {
+      "id": "office-routine-and-practice-government-007",
+      "question": "Which category of file may be handled by any officer without restriction as to the officer who may handle it?",
+      "options": [
+        "Restricted files.",
+        "Open files.",
+        "Confidential files.",
+        "Secret files."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Open files are described as files that can be handled by any officer, without restriction on who may handle them."
+    },
+    {
+      "id": "office-routine-and-practice-government-008",
+      "question": "A file contains personal matters affecting employees, including reports on officers and promotional matters. Under the seminar's classification, which category is most appropriate?",
+      "options": [
+        "Secret file.",
+        "Top-secret file.",
+        "Confidential file.",
+        "Open file."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Confidential files concern personal matters affecting employees, including reports on officers and promotional matters."
+    },
+    {
+      "id": "office-routine-and-practice-government-009",
+      "question": "Which statement best describes the distinction between secret files and top-secret files in the seminar?",
+      "options": [
+        "Secret files are restricted to heads of department, while top-secret files deal with highly important government matters such as state security and diplomatic matters.",
+        "Secret files contain only employee records, while top-secret files contain ordinary correspondence.",
+        "Secret files are available to every officer, while top-secret files are restricted to registry staff.",
+        "Secret files are temporary records, while top-secret files are permanent archival documents."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar states that secret files deal mainly with top policy matters and circulation is restricted to heads of department. Top-secret files deal with matters of great importance to government, including state security and diplomatic matters."
+    },
+    {
+      "id": "office-routine-and-practice-government-010",
+      "question": "Which of the following correctly describes restricted files as presented in the seminar?",
+      "options": [
+        "Files available to every officer because they are not confidential.",
+        "Files that must be destroyed immediately after the matter is concluded.",
+        "Files used exclusively for employee promotion and disciplinary matters.",
+        "Files that are neither secret nor confidential but should not be exposed to the generality of the office."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Restricted files contain material that is neither secret nor confidential but should not be exposed to the generality of the office because of their special nature."
+    },
+    {
+      "id": "office-routine-and-practice-government-011",
+      "question": "A file has been opened for a specific purpose and is expected to be destroyed soon after serving that purpose. Which classification does the seminar assign to it?",
+      "options": [
+        "Main file.",
+        "Case file.",
+        "Confidential file.",
+        "Temporary file."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Case files are opened for specific reasons and are described as short-lived because they may be destroyed after serving their intended purpose."
+    },
+    {
+      "id": "office-routine-and-practice-government-012",
+      "question": "An officer is transferred from one government office to another. A file is to be opened for the officer in the new department. Which statement agrees with the seminar?",
+      "options": [
+        "The old file must automatically be converted into a top-secret file.",
+        "The officer's previous file must be destroyed before another can be opened.",
+        "A new file will be opened for the officer in the new department.",
+        "A sub-file must be opened without reference to the officer's new department."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar states that when a staff member is posted from one office to another, a new file will be opened for that officer in the new department."
+    },
+    {
+      "id": "office-routine-and-practice-government-013",
+      "question": "A letter is urgently required, but the main file is missing or cannot be released because it is in action. Which procedure may be adopted?",
+      "options": [
+        "Open a temporary file, subject to the prescribed conditions.",
+        "Create a permanent file without consulting the relevant officer.",
+        "Destroy the existing file and create a replacement.",
+        "Process the matter using an unrecorded loose sheet."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar provides for temporary files when the main file is missing or cannot be released because it is in action. It also requires consultation with the schedule officer and prohibits using a temporary file for processing payment."
+    },
+    {
+      "id": "office-routine-and-practice-government-014",
+      "question": "According to the seminar, if a required file cannot be found or released within 24 hours of receiving the letter for which it is needed, who should be consulted?",
+      "options": [
+        "The officer who originally created the file.",
+        "The head of the accounts department.",
+        "The registry messenger.",
+        "The officer who will be required to deal with the letter."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that the officer who will deal with the letter should be consulted and will decide whether action should be taken in a temporary file, awaited or recovered from the officer holding it."
+    },
+    {
+      "id": "office-routine-and-practice-government-015",
+      "question": "Which condition must be satisfied before a new file is opened for a subject matter?",
+      "options": [
+        "The subject must have been discussed at an executive council meeting.",
+        "There must be no existing file for that subject matter, or the staff member must be newly employed in the office.",
+        "The existing file must have been classified as secret.",
+        "The matter must have been approved for archival preservation."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies the absence of an existing file for the subject matter or the employment of a new staff member as circumstances for opening a new file. It also says authorization by the relevant officer is required."
+    },
+    {
+      "id": "office-routine-and-practice-government-016",
+      "question": "When opening a new file, what should primarily guide the choice of its title?",
+      "options": [
+        "The personal preference of the registry officer.",
+        "The name of the officer who will first handle it.",
+        "A brief but clear description of the subject matter.",
+        "The date on which the first correspondence was received."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar requires careful consideration of the file title and states that it should be brief but clearly descriptive of the subject matter."
+    },
+    {
+      "id": "office-routine-and-practice-government-017",
+      "question": "A registry officer needs to open a new volume because the existing volume has been closed. What is the recommended maximum page capacity of the existing volume before opening a new one?",
+      "options": [
+        "About 120 pages.",
+        "About 100 pages.",
+        "About 150 pages.",
+        "About 200 pages."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar recommends opening a new volume when the existing volume has grown to about 120 pages, extracting the last 20 pages into the new cover."
+    },
+    {
+      "id": "office-routine-and-practice-government-018",
+      "question": "When opening a new volume, which portion of the closed volume should be extracted and placed in the new cover?",
+      "options": [
+        "The first 20 pages.",
+        "The first 10 pages.",
+        "The last 10 pages.",
+        "The last 20 pages."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar directs that the last 20 pages of the closed volume should be extracted and enclosed in the new cover."
+    },
+    {
+      "id": "office-routine-and-practice-government-019",
+      "question": "Which inscription should be written boldly on the last page of a closed volume to indicate that work continues in the succeeding volume?",
+      "options": [
+        "FILE CLOSED — NO FURTHER ACTION.",
+        "THIS VOLUME CLOSED — ACTION CONTINUES IN VOL. II.",
+        "NEW VOLUME OPENED — PREVIOUS FILE CANCELLED.",
+        "RECORD TRANSFERRED — ORIGINAL VOLUME DESTROYED."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar specifically prescribes the inscription “THIS VOLUME CLOSED” and “ACTION CONTINUES IN VOL. II,” with the appropriate volume number substituted for subsequent volumes."
+    },
+    {
+      "id": "office-routine-and-practice-government-020",
+      "question": "Which statement correctly describes the pagination of a succeeding volume?",
+      "options": [
+        "Every succeeding volume must begin with the page number of the first volume.",
+        "The page numbers must be assigned according to the date of correspondence.",
+        "The succeeding volume continues the numbering from the previous volume until page 100 is reached, after which numbering starts again from one.",
+        "The page numbers of every volume must be consecutive without restarting."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar states that numbering continues from previous volumes until page 100 is reached, after which the succeeding page starts again from number one."
+    },
+    {
+      "id": "office-routine-and-practice-government-021",
+      "question": "What is the primary purpose of cross-referencing in registry operations?",
+      "options": [
+        "Linking two matters that are related in nature in a file.",
+        "Replacing the original correspondence with a summary.",
+        "Transferring every document in a file to another department.",
+        "Separating unrelated matters into different files."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar defines cross-referencing as linking by reference two matters that are related in nature in a file. It identifies cross-referencing of the same matter in different files and related matters within the same file."
+    },
+    {
+      "id": "office-routine-and-practice-government-022",
+      "question": "A registry officer discovers that a document has been wrongly filed in another file. What should happen first under the correction procedure described in the seminar?",
+      "options": [
+        "The wrongly filed paper should be destroyed.",
+        "The paper should be removed and replaced with a blank foolscap sheet.",
+        "The old file should be closed permanently.",
+        "A new file should be opened without recording the transfer."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar says the wrongly filed paper should first be removed and replaced with a blank foolscap sheet. The transfer should then be recorded on the foolscap sheet."
+    },
+    {
+      "id": "office-routine-and-practice-government-023",
+      "question": "When a misfiled paper is transferred to a new file, what information should be recorded on the replacement foolscap sheet?",
+      "options": [
+        "Only the name of the officer who discovered the error.",
+        "The date the original file was opened and the subject of the new file.",
+        "The fact that the paper was transferred, together with the new file number and page number.",
+        "Only the signature of the registry supervisor."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar requires the foolscap sheet to record that the misfiled paper was transferred to a new file, including the new file number and page taken by the misfiled paper in the new file."
+    },
+    {
+      "id": "office-routine-and-practice-government-024",
+      "question": "Which of the following is a recognised method of tracking file movement according to the seminar?",
+      "options": [
+        "Verbal instructions between officers without written records.",
+        "Informal notes kept by individual officers.",
+        "Personal diaries maintained by registry staff.",
+        "File movement register, charge slip, search or morning list."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar lists absent file cards and transit cards, notebook method or file movement register, charge slip, search or morning list as methods that could be adopted."
+    },
+    {
+      "id": "office-routine-and-practice-government-025",
+      "question": "A file is sent from one desk to another without notifying the registry. Which problem identified in the seminar does this illustrate?",
+      "options": [
+        "Improper conduct of the morning list.",
+        "Unrecorded movement or informal passing of files without registry notification.",
+        "Failure to open a new volume.",
+        "Incorrect classification of confidential correspondence."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies unrecorded movement of files and passing files from one person to another without notifying the registry as hindrances to effective registry management."
+    },
+    {
+      "id": "office-routine-and-practice-government-026",
+      "question": "A government department has generated a record and now needs to make it available to officers who require it for official duties. At which stage of the records management cycle does this activity occur?",
+      "options": [
+        "Maintenance.",
+        "Disposal/transfer.",
+        "Distribution.",
+        "Creation/generation."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Distribution involves identifying who needs the records, including internal and external users. Creation/generation is the stage at which records originate."
+    },
+    {
+      "id": "office-routine-and-practice-government-027",
+      "question": "An officer retrieves a stored government record to trace an earlier decision before preparing a new submission. Which stage of records management does this activity represent?",
+      "options": [
+        "Maintenance.",
+        "Distribution.",
+        "Disposal/transfer.",
+        "Creation/generation."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar places storing files, retrieving references and tracing records under maintenance."
+    },
+    {
+      "id": "office-routine-and-practice-government-028",
+      "question": "A government office has retained records for the required period and must now determine their final disposition. Which activity belongs to this stage of the records management cycle?",
+      "options": [
+        "Distributing the records to internal and external users.",
+        "Creating records from incoming and outgoing correspondence.",
+        "Retrieving records to support administrative decisions.",
+        "Retaining records or destroying them, as appropriate."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The disposal/transfer stage concerns whether records should be retained or destroyed. The seminar also recommends transferring valuable public documents to permanent storage in archives rather than disposing of them."
+    },
+    {
+      "id": "office-routine-and-practice-government-029",
+      "question": "Which of the following best reflects the seminar's position on public records with legal contents or value after their retention period?",
+      "options": [
+        "They should be destroyed immediately once the retention period expires.",
+        "They should be transferred to a permanent storage place called archives.",
+        "They should remain indefinitely with the officer who generated them.",
+        "They should be converted into temporary files for future reference."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar advises that public documents, especially those with legal contents or value, should be transferred to permanent storage called archives rather than simply disposed of."
+    },
+    {
+      "id": "office-routine-and-practice-government-030",
+      "question": "Which of the following combinations best represents an effective government records management programme as described in the seminar?",
+      "options": [
+        "Creating every possible record, retaining all records permanently and restricting retrieval to senior officers.",
+        "Destroying obsolete and historical records alike, while relying on manual storage alone.",
+        "Creating necessary records, retaining essential evidence, safely storing historical records and enabling efficient retrieval.",
+        "Transferring all records to archives immediately after creation and limiting their use to external users."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar identifies the creation of necessary records, retention of essential evidence, safe storage of historical records and efficient retrieval as features of effective records management."
+    },
+    {
+      "id": "office-routine-and-practice-government-031",
+      "question": "A government office has accumulated numerous documents that are no longer useful as essential evidence. Which approach is most consistent with the records management principles in the seminar?",
+      "options": [
+        "Retain essential records while getting rid of obsolete records.",
+        "Destroy all records created before the current administration.",
+        "Keep every record indefinitely to prevent possible administrative disputes.",
+        "Transfer all obsolete records to officers who previously handled them."
+      ],
+      "correctAnswer": 0,
+      "explanation": "An effective programme retains records needed as essential evidence and gets rid of obsolete records. The seminar does not recommend indiscriminate destruction."
+    },
+    {
+      "id": "office-routine-and-practice-government-032",
+      "question": "A director instructs an officer to submit a minute directly to a senior authority. However, the officer has not been given any special instruction to bypass the normal administrative channel. What should the officer ordinarily do?",
+      "options": [
+        "Submit directly to the most senior officer available.",
+        "Send the minute to the registry for independent approval.",
+        "Retain the minute until the director personally presents it.",
+        "Address the minute to the next superior officer."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar's general principle is that officers should address their minutes to their next superior officer unless special instructions require a different route."
+    },
+    {
+      "id": "office-routine-and-practice-government-033",
+      "question": "A submission originates from a junior officer but is addressed to a higher authority because that authority issued the original instruction. According to the seminar, how should the submission ordinarily be routed?",
+      "options": [
+        "It should bypass all intermediate officers because the instruction came from a higher authority.",
+        "It may be addressed to the higher authority but should pass through officers of immediate status.",
+        "It should be redirected to the accounts department before reaching the higher authority.",
+        "It should be submitted only through the registry supervisor, regardless of the subject."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar recognises that an officer may address a submission to a higher authority when that authority issued the instruction, but it should still be routed through officers of immediate status."
+    },
+    {
+      "id": "office-routine-and-practice-government-034",
+      "question": "Which of the following is NOT one of the three purposes of routing official submissions through intermediate officers identified in the seminar?",
+      "options": [
+        "Ensuring that an unauthorised direct approach is not made.",
+        "Giving higher authorities the benefit of useful comments from intermediate officers.",
+        "Ensuring that officers are aware of matters raised by their subordinates.",
+        "Allowing intermediate officers to permanently withhold submissions they disagree with."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The three stated purposes concern proper channels, useful comments from intermediate officers and awareness of matters raised by subordinates. Permanent withholding is not identified as a purpose."
+    },
+    {
+      "id": "office-routine-and-practice-government-035",
+      "question": "A chief executive writes “B.U.” against a matter in a file, indicating that the responsible officer should provide a fuller account before a decision is taken. What does the instruction mean?",
+      "options": [
+        "The officer should bring the file to the registry for updating.",
+        "The officer should prepare a new volume for the matter.",
+        "The officer should brief the superior fully on the issue.",
+        "The officer should prepare a circular for distribution."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar explains that “Bring up” or “B.U.” means the officer should brief the superior fully on the issue to enable an appropriate decision."
+    },
+    {
+      "id": "office-routine-and-practice-government-036",
+      "question": "Which statement best describes the function of abbreviations in official minuting?",
+      "options": [
+        "They replace the need to communicate the substance of a matter.",
+        "They are used only when preparing confidential reports.",
+        "They make written instructions longer but more formal.",
+        "They help superiors and subordinates save time in written communication and convey concise directives."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that abbreviations serve both superiors and subordinates by saving time in written communication and helping to convey corrective, single and concise directives."
+    },
+    {
+      "id": "office-routine-and-practice-government-037",
+      "question": "A department receives a letter containing information that must be conveyed to another government office. Instead of copying the entire letter and forwarding it, the receiving office endorses the original correspondence. What is the principal advantage identified in the seminar?",
+      "options": [
+        "It eliminates the need to retain the original correspondence.",
+        "It saves time and labour by avoiding unnecessary copying and forwarding.",
+        "It converts the original correspondence into a government circular.",
+        "It removes the need to identify the officer responsible for the endorsement."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Endorsement saves time and labour by avoiding the need to copy and forward letters merely to convey their contents to other government offices."
+    },
+    {
+      "id": "office-routine-and-practice-government-038",
+      "question": "Which of the following details is required in an endorsement according to the seminar?",
+      "options": [
+        "The officer's name or Ministry, date, Head of Department's subscription and the officer's name in brackets.",
+        "Only the name and signature of the registry officer.",
+        "The recipient's residential address and personal telephone number.",
+        "The file classification, page count and date of the next review."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar specifies the officer's name or Ministry, date, Head of Department's subscription and the officer's name in brackets. It also says the original letter should indicate to whom copies were sent."
+    },
+    {
+      "id": "office-routine-and-practice-government-039",
+      "question": "An officer prepares a reply to routine correspondence for the superior authority's approval. The superior approves it, after which the document is sent to the secretary for production in the correct form. Which statement correctly describes this process?",
+      "options": [
+        "The initial document is a final draft, while the approved document becomes an endorsement.",
+        "The initial document is a circular, while the approved document becomes a file note.",
+        "The initial document is a draft, while the typing of the approved letter in the correct form produces the final draft.",
+        "The initial document is a brief, while the approved document becomes a government white paper."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar describes the initial preparation as a draft. Once approved, it is sent to a secretary for production in the correct form; the typing of the letter in this form is referred to as the Fairing Draft, and the finished document as the Fair Draft."
+    },
+    {
+      "id": "office-routine-and-practice-government-040",
+      "question": "An officer is preparing a draft for a superior's consideration. Which combination of qualities does the seminar recommend?",
+      "options": [
+        "Lengthy sentences, extensive technical language and indirect presentation.",
+        "Detailed historical background, informal expressions and multiple unrelated issues.",
+        "Complex grammar, persuasive exaggeration and elaborate descriptions.",
+        "Simple and concise grammar, clear content, accuracy, direction, politeness and precision."
+      ],
+      "correctAnswer": 3,
+      "explanation": "These are the drafting guidelines expressly listed in the seminar."
+    },
+    {
+      "id": "office-routine-and-practice-government-041",
+      "question": "A registry officer writes “put away (p.a.)” on a file to indicate what should happen to it. Which type of official record does this instruction represent?",
+      "options": [
+        "Endorsement.",
+        "File note.",
+        "Circular.",
+        "Executive Council memo."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies file notes as brief written records of events or actions, giving examples such as “put away (p.a.)” and “bring up (b.u.).”"
+    },
+    {
+      "id": "office-routine-and-practice-government-042",
+      "question": "Which of the following most accurately distinguishes an organisation circular from a government circular?",
+      "options": [
+        "An organisation circular is issued by the Federal Government, while a government circular is issued by a private organisation.",
+        "An organisation circular is always confidential, while a government circular is always open.",
+        "An organisation circular communicates information or directives from one department to another organisation, while a government circular clarifies rules or fills gaps in their implementation.",
+        "An organisation circular is used only for financial approvals, while a government circular is used exclusively for personnel matters."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar distinguishes the two by their purpose: organisation circulars convey information or directives between organisations, while government circulars clarify rules or address gaps observed during implementation."
+    },
+    {
+      "id": "office-routine-and-practice-government-043",
+      "question": "A Federal Government circular is issued on a particular administrative matter. Before it can be implemented in a state, what does the seminar say must happen?",
+      "options": [
+        "It must first be adopted in the state.",
+        "It must be endorsed by every local government chairman.",
+        "It must be converted into an organisation circular.",
+        "It must be approved by the registry supervisor."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar states that Federal Government circulars must first be adopted in the state before implementation, explaining this by reference to Nigeria's federal system of administration."
+    },
+    {
+      "id": "office-routine-and-practice-government-044",
+      "question": "A government letter has several bulky schedules attached to it. The registry officer wants to ensure that the attachments can be located and identified without unnecessarily increasing the volume of the file. Which approach agrees with the seminar?",
+      "options": [
+        "Remove the attachments and destroy them after recording their titles.",
+        "Assign separate reference numbers to each attachment and detach them permanently.",
+        "Place the bulky attachments in a different file without cross-referencing.",
+        "Identify bulky enclosures with the same reference number, place them in a bag envelope appended to the file cover and make a file note showing their location."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar recommends placing bulky enclosures in a bag envelope appended to the file cover, using the same reference number and making a file note indicating their location."
+    },
+    {
+      "id": "office-routine-and-practice-government-045",
+      "question": "Which statement correctly reflects the seminar's distinction between bulky and less bulky enclosures?",
+      "options": [
+        "Both must be placed in separate files and assigned new reference numbers.",
+        "Bulky enclosures may be kept in a bag envelope appended to the file cover, while less bulky ones may be left at the back of the file.",
+        "Less bulky enclosures must be kept outside the file, while bulky ones must be attached to every copy of the letter.",
+        "Bulky enclosures must be destroyed after the original letter is registered, while less bulky ones are sent to archives."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar says bulky enclosures should be kept in a bag envelope appended to the file cover, while less bulky enclosures may be left at the back of the file for future reference."
+    },
+    {
+      "id": "office-routine-and-practice-government-046",
+      "question": "A government department issues a circular to another organisation containing important information. Under the seminar's guidance, what should happen to the copy of the circular?",
+      "options": [
+        "It should be placed in the relevant subject-matter file.",
+        "It should be retained only by the officer who signed it.",
+        "It should be destroyed once the receiving organisation acknowledges it.",
+        "It should be transferred directly to the archives without being filed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar states that when an organisation issues a circular to another organisation, a copy should be placed in the relevant subject-matter file."
+    },
+    {
+      "id": "office-routine-and-practice-government-047",
+      "question": "A government office wants to communicate important information or a directive from one department to another department within the same organisation. Which instrument is specifically identified in the seminar for this purpose?",
+      "options": [
+        "Government white paper.",
+        "Executive Council memo.",
+        "Organisation circular.",
+        "Judicial panel report."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Organisation circulars are described as instruments for conveying important information or directives from one department to another department within an organisation."
+    },
+    {
+      "id": "office-routine-and-practice-government-048",
+      "question": "An officer is asked to prepare a report following an administrative panel of enquiry. Which feature would distinguish this panel from a judicial panel of enquiry under the seminar's description?",
+      "options": [
+        "It must be chaired by a High Court judge.",
+        "It must have powers to compel attendance and commit persons to prison.",
+        "Its report must automatically become a government white paper.",
+        "It may be constituted by an MDA to look into an issue without the judicial powers described for a judicial panel."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that MDAs can establish administrative panels of enquiry. It contrasts these with judicial panels, which must have a High Court judge as chairman and powers to compel attendance and commit a person to prison."
+    },
+    {
+      "id": "office-routine-and-practice-government-049",
+      "question": "A panel of enquiry has completed its investigation. Which of the following represents the standard report structure listed in the seminar?",
+      "options": [
+        "Heading, correspondence, endorsement, enclosures and signature.",
+        "Background, terms of reference, membership or composition, methodology, findings, recommendations and conclusion.",
+        "Introduction, financial implications, prayer and decision sought.",
+        "File note, action taken, reference number and volume number."
+      ],
+      "correctAnswer": 1,
+      "explanation": "These are the components of the standard report format listed in the seminar."
+    },
+    {
+      "id": "office-routine-and-practice-government-050",
+      "question": "A government report has been studied and the government must communicate whether it accepts, notes, rejects or otherwise acts on its findings. What document is produced to communicate the government's position on the report?",
+      "options": [
+        "An organisation circular.",
+        "A confidential file.",
+        "A government white paper.",
+        "An Executive Council memo."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar describes a government white paper as the government's position on a report, indicating whether its findings or recommendations are accepted, noted, rejected or otherwise acted upon."
+    },
+    {
+      "id": "office-routine-and-practice-government-051",
+      "question": "A registry supervisor discovers that files are frequently delayed because senior officers lock them away, while other officers transfer files between desks without informing the registry. Which combination of problems from the seminar most directly describes this situation?",
+      "options": [
+        "Improper conduct of the morning list and failure to merge T-files.",
+        "Unrecorded file movement and unnecessary retention of files by senior officers.",
+        "Wrong classification of correspondence and omission of file notes.",
+        "Lack of motivation among registry staff and improper preparation of new volumes."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies both the locking-up of files by senior officers and the unrecorded movement of files between persons without notifying the registry as hindrances to effective registry management."
+    },
+    {
+      "id": "office-routine-and-practice-government-052",
+      "question": "A department repeatedly receives correspondence that cannot be matched with the appropriate file because the outgoing letters do not carry file reference numbers. Which registry deficiency does this illustrate?",
+      "options": [
+        "Improper perception of the role of information management.",
+        "Non-availability of file jackets for new files.",
+        "Wrong classification of correspondence.",
+        "Omission of file reference numbers from outgoing correspondence."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar specifically lists omission of file reference numbers from outgoing correspondence as one of the hindrances to effective registry management."
+    },
+    {
+      "id": "office-routine-and-practice-government-053",
+      "question": "A registry officer receives a newly created file but discovers that there are no file jackets available for opening additional files. Which identified registry problem does this represent?",
+      "options": [
+        "Non-availability of file jackets for opening new files.",
+        "Inability to trace closed volumes of files.",
+        "Improper conduct of the morning list.",
+        "Lack of proper motivation for registry staff."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar expressly identifies the non-availability of file jackets for opening new files as a hindrance to effective management."
+    },
+    {
+      "id": "office-routine-and-practice-government-054",
+      "question": "An officer deliberately changes the contents and scope of a file without the registry's knowledge. Which concern is most directly raised by this action?",
+      "options": [
+        "Failure to open a new volume at the appropriate time.",
+        "Incorrect application of the rules governing confidential files.",
+        "Unauthorised alteration of the file's contents and scope.",
+        "Failure to prepare a government white paper."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Changing the scope and contents of a file without the registry's knowledge is specifically listed among the registry management problems."
+    },
+    {
+      "id": "office-routine-and-practice-government-055",
+      "question": "A public servant is assigned to make a registry reference and page a file. The officer is considering which pen colour to use. Which combination is correct according to the Akwa Ibom State public service arrangements stated in the seminar?",
+      "options": [
+        "Green for Permanent Secretaries; black for Directors; blue for Commissioners.",
+        "Violet for Permanent Secretaries; green for Directors; red for Commissioners.",
+        "Black for Permanent Secretaries; blue for Commissioners; green for Directors.",
+        "Black for Permanent Secretaries; blue for Directors and other officers; green for the Secretary to the State Government, Head of Civil Service, Commissioners and specified local government and board officials."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar specifies black for Permanent Secretaries, blue for Directors and other officers, and green for the listed senior state and local government officials. It separately specifies red for the Governor and violet for the Deputy Governor."
+    },
+    {
+      "id": "office-routine-and-practice-government-056",
+      "question": "An officer has completed a matter involving correspondence that must be preserved as part of the organisation's records. Which sequence best reflects the records management cycle presented in the seminar?",
+      "options": [
+        "Creation/generation → Distribution → Use → Maintenance → Disposal/transfer.",
+        "Distribution → Creation/generation → Maintenance → Disposal/transfer → Use.",
+        "Creation/generation → Maintenance → Disposal/transfer → Distribution → Use.",
+        "Maintenance → Use → Creation/generation → Distribution → Disposal/transfer."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The page 6 diagram presents the cycle through creation/generation, distribution, use, maintenance and disposal/transfer. The stages are interconnected, but this sequence follows the lifecycle as illustrated."
+    },
+    {
+      "id": "office-routine-and-practice-government-057",
+      "question": "A record is created after an official letter is written and sent to the schedule officer. It may later be needed to support a decision or provide future reference. Which statement best captures the seminar's explanation of the record's significance?",
+      "options": [
+        "It becomes a record only after it has been transferred to archives.",
+        "It is primarily intended for immediate disposal after the correspondence is answered.",
+        "It may serve as evidence for decision-making or be retained for future reference and enquiry.",
+        "It must be distributed to external users before it can be maintained."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar explains that records generated from correspondence may be used in decision-making or kept for future reference or enquiry."
+    },
+    {
+      "id": "office-routine-and-practice-government-058",
+      "question": "A government office stores its historical records safely but has no efficient retrieval system. Officers routinely spend considerable time locating information needed for administrative decisions. Which feature of effective records management is missing?",
+      "options": [
+        "The creation of records that the office needs.",
+        "Quick retrieval of information through an efficient retrieval access and retrieval system.",
+        "The recognition that records management is everyone's job.",
+        "The promotion of archival records as a community resource."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar requires information to be retrieved quickly through an efficient retrieval access and retrieval system."
+    },
+    {
+      "id": "office-routine-and-practice-government-059",
+      "question": "A government office has adopted information technology but uses it indiscriminately without considering the purpose of the records or the office's needs. Which records management principle does this fail to follow?",
+      "options": [
+        "Use the right information technology for the right reasons.",
+        "Retain all records regardless of their usefulness.",
+        "Transfer all historical records to external users.",
+        "Create records only when requested by senior officers."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar emphasises using the right information technology for the right reasons as one of the attributes of an effective records management programme."
+    },
+    {
+      "id": "office-routine-and-practice-government-060",
+      "question": "A senior officer wants to bring a matter to the attention of the Governor-in-Council for a decision on whether a proposed programme should be implemented. Which form of Executive Council memorandum most appropriately serves this purpose?",
+      "options": [
+        "A memorandum requesting approval for an already implemented programme.",
+        "A memorandum transmitting an administrative panel's findings for archival purposes.",
+        "A memorandum notifying the Governor-in-Council of an issue that does not require a decision.",
+        "A Note to Council drawing attention to an important matter and seeking a decision on whether it should become part of the state's programme."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar identifies two forms of Executive Council memo. A Note to Council draws the Governor-in-Council's attention to an important matter and seeks a decision on whether it should form part of the state's programme."
+    },
+    {
+      "id": "office-routine-and-practice-government-061",
+      "question": "A Commissioner submits a memorandum seeking approval for implementing a government programme. Which feature must be included in the memorandum's introductory section according to the seminar?",
+      "options": [
+        "The complete list of all officers who will handle the file.",
+        "The background information explaining why the memorandum is being brought forward.",
+        "The final decision of the Governor-in-Council before consideration.",
+        "The full findings and recommendations of a judicial panel."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The introduction of an EXCO memorandum should state the background information explaining why the memorandum is being brought forward."
+    },
+    {
+      "id": "office-routine-and-practice-government-062",
+      "question": "A proposed government programme has three possible implementation approaches. The Commissioner recommends one approach but has not explained why the alternatives should be rejected. Which section of the Executive Council memorandum should address this deficiency?",
+      "options": [
+        "The heading.",
+        "The introduction.",
+        "The consideration section.",
+        "The prayer."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The consideration paragraph should outline the available options for consideration and the reasons for recommending a particular option."
+    },
+    {
+      "id": "office-routine-and-practice-government-063",
+      "question": "A Commissioner submits an EXCO memo recommending the introduction of a new government tax. The memo discusses the policy objectives but omits the cost of implementation and the proposed funding source. Which requirement has been neglected?",
+      "options": [
+        "The financial implications and source of funding.",
+        "The originating Commissioner's designation.",
+        "The reference number of the registry file.",
+        "The final findings of the government printer."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar requires the financial implications and source of funding to be stated, giving examples such as budgetary provisions, introduction of new taxes and sources of grants."
+    },
+    {
+      "id": "office-routine-and-practice-government-064",
+      "question": "An EXCO memorandum contains all the background information, available options and financial implications. However, it does not clearly state what the Governor-in-Council is being asked to approve or decide. Which component is deficient?",
+      "options": [
+        "The consideration paragraph.",
+        "The introductory paragraph.",
+        "The originating commissioner's designation.",
+        "The prayer."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The prayer should draw attention to anything that needs to be noted and state the decision being sought from the Governor-in-Council."
+    },
+    {
+      "id": "office-routine-and-practice-government-065",
+      "question": "A newly prepared Executive Council memorandum is ready for submission. Which combination of formal presentation requirements agrees with the seminar?",
+      "options": [
+        "It should be marked CONFIDENTIAL at the bottom right, without a number or date.",
+        "It should be boldly marked SECRET at the top left-hand corner and carry a number and date, with the originating Commissioner clearly designated.",
+        "It should be marked OPEN at the top right-hand corner and carry only the originating department's file reference.",
+        "It should be marked TOP SECRET at the bottom left-hand corner and signed only by the registry supervisor."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that EXCO memos are secret documents, must be boldly marked SECRET at the top left-hand corner, and must carry a number and date. The originating Commissioner must also be clearly designated."
+    },
+    {
+      "id": "office-routine-and-practice-government-066",
+      "question": "An MDA establishes a panel to investigate an administrative matter. After the investigation, the panel submits its report. Which statement is consistent with the seminar's description of the next stage for such a report?",
+      "options": [
+        "It must automatically be published as a government white paper.",
+        "It must be submitted directly to the High Court for sentencing.",
+        "It must be placed before an appropriate management committee for deliberation, acceptance and implementation.",
+        "It must be converted into an Executive Council memo without further consideration."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar states that, in the case of an internal administrative panel of enquiry, its report should be placed before an appropriate management committee for deliberation, acceptance and implementation."
+    },
+    {
+      "id": "office-routine-and-practice-government-067",
+      "question": "A government report contains several findings and recommendations. The government has decided to reject some recommendations, accept others and note the remaining ones. Which statement best describes the purpose of the government white paper in this situation?",
+      "options": [
+        "It communicates the government's decision on the report, including acceptance, rejection or noting of its findings and recommendations.",
+        "It reproduces the panel's evidence without indicating the government's position.",
+        "It replaces the report and prevents the government from taking further action.",
+        "It serves as the original terms of reference for the panel."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar describes a white paper as the government's position on a report, stating whether the findings or recommendations are accepted, noted, rejected or otherwise acted upon."
+    },
+    {
+      "id": "office-routine-and-practice-government-068",
+      "question": "A government office is preparing a brief on a petition submitted by a public servant. The officer's employment history, rank, grade level and any past or pending disciplinary action are relevant. Where should this information be presented?",
+      "options": [
+        "In the heading.",
+        "In the Decision Sought section.",
+        "In the conclusion of the brief.",
+        "In the background section."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar says the background of a standard brief should contain information about the petitioner, including when the officer joined the service, rank, grade level and past or pending disciplinary action."
+    },
+    {
+      "id": "office-routine-and-practice-government-069",
+      "question": "A brief is being prepared for a disciplinary petition. The officer's explanation, previous similar offences and the outcome of earlier disciplinary proceedings are relevant. Which section should contain the detailed examination of these matters?",
+      "options": [
+        "The heading.",
+        "The consideration section.",
+        "The Decision Sought section.",
+        "The background section alone."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The consideration section should examine the officer's response, whether similar offences were committed before, previous decisions, the comment of the officer who ordered the query and the applicable rule."
+    },
+    {
+      "id": "office-routine-and-practice-government-070",
+      "question": "An officer preparing a brief for a commission has discussed the facts and the petitioner's response but has not addressed whether the request has merit or whether the officer should be exonerated. What is the most important deficiency?",
+      "options": [
+        "The brief lacks a file reference number.",
+        "The brief has not been converted into a circular.",
+        "The officer has failed to express an opinion and provide a reasoned recommendation.",
+        "The officer has omitted the originating Commissioner's designation."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar emphasises that officers preparing briefs should state their opinion, assess the merits of the request and explain whether the officer should be exonerated or the request granted."
+    },
+    {
+      "id": "office-routine-and-practice-government-071",
+      "question": "A commission is considering a petition. The officer preparing the brief merely forwards all the facts and supporting documents without recommending a course of action. Which statement best reflects the seminar's criticism of this approach?",
+      "options": [
+        "A brief should provide a recommendation to guide the committee or commission, which remains free to decide otherwise.",
+        "A brief should contain only the petitioner's account without the officer's comments.",
+        "A brief should avoid recommendations because only the registry can determine the appropriate decision.",
+        "A brief should reproduce the applicable rule without considering the facts of the matter."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar says officers must make a recommendation as schedule officers to guide the committee or commission, which remains at liberty to decide otherwise."
+    },
+    {
+      "id": "office-routine-and-practice-government-072",
+      "question": "A brief is being prepared for a commission concerning a petition. Which combination of questions most closely reflects the matters the seminar expects the officer to consider?",
+      "options": [
+        "Who opened the file? When was the file registered? Which officer last handled it?",
+        "Was the letter endorsed? Was a new volume opened? Was the correspondence distributed?",
+        "Was the matter circulated? Was the file classified as confidential? Has the record been archived?",
+        "What was the officer queried about? Did the officer respond? Does the request have merit? What rule applies, and what decision is recommended?"
+      ],
+      "correctAnswer": 3,
+      "explanation": "These are central considerations in the seminar's guidance on brief writing, including the subject of the query, response, merits, applicable rules and recommendation."
+    },
+    {
+      "id": "office-routine-and-practice-government-073",
+      "question": "An officer is asked to prepare a short summary of a subject for a departmental head to use at a meeting. Which statement best describes the document being requested?",
+      "options": [
+        "An Executive Council memorandum seeking approval for a state programme.",
+        "A brief summarising a subject for a superior authority, such as a departmental head, for use at a meeting or by commission members.",
+        "A government white paper setting out the government's final position on an enquiry report.",
+        "An organisation circular conveying instructions between departments."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar defines a brief as a summary of a subject prepared for a superior authority, such as a departmental head, for use at a meeting or for commission members."
+    },
+    {
+      "id": "office-routine-and-practice-government-074",
+      "question": "An officer has prepared a brief with a clearly written background and consideration sections but has failed to indicate the proposed course of action. Which part of the brief should contain the recommendation?",
+      "options": [
+        "The heading.",
+        "The background.",
+        "The Decision Sought section.",
+        "The terms of reference."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar explains that the Decision Sought should be based on the facts expressed under consideration and should provide a recommendation to guide the committee or commission."
+    },
+    {
+      "id": "office-routine-and-practice-government-075",
+      "question": "A department is reviewing its administrative practices. It wants to ensure that public officers do not use established office procedures to justify unlawful instructions or conceal wrongdoing. Which principle from the seminar should guide the review?",
+      "options": [
+        "Routine procedures must not be used to justify unlawful instructions, conceal wrongdoing or unnecessarily delay legitimate public service.",
+        "Routine procedures should always take precedence over the lawful objectives of public administration.",
+        "Administrative instructions should be followed even when they conceal wrongdoing, provided they come through official channels.",
+        "Officers should suspend legitimate public service whenever an established procedure creates inconvenience."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar expressly warns that important routine procedures must not be used to justify unlawful instructions, conceal wrongdoing or delay legitimate public service unnecessarily."
+    },
+    {
+      "id": "office-routine-and-practice-government-076",
+      "question": "A registry officer is opening a new volume after the existing volume has reached its recommended capacity. However, a five-page letter begins at page 96 and ends at page 100, with the pagination of the letter extending across the boundary into the succeeding volume. What does the seminar prescribe?",
+      "options": [
+        "Split the letter between both volumes to preserve the page limit.",
+        "Remove the entire letter and register it as a new correspondence.",
+        "Retain the whole letter in the closed volume or place the whole letter in the new volume rather than splitting it.",
+        "Retain only the first page in the old volume and transfer the remaining pages to the new volume."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar specifically warns against splitting multiple-page letters when opening a new volume. The entire letter should either remain in the closed volume or be placed in the new volume."
+    },
+    {
+      "id": "office-routine-and-practice-government-077",
+      "question": "A schedule officer is unavailable, but a registry officer believes that a temporary file would speed up the processing of an urgent payment. Which action is consistent with the seminar?",
+      "options": [
+        "Open the temporary file immediately and obtain approval later.",
+        "Open the temporary file because urgent payments are an exception to normal procedures.",
+        "Allow the officer handling the payment to open the temporary file without informing the schedule officer.",
+        "Do not open the temporary file without the schedule officer's knowledge and consent, and do not use a temporary file for processing payment."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar expressly prohibits opening a temporary file without the knowledge and consent of the schedule officer concerned and states that a temporary file should never be used for processing payment."
+    },
+    {
+      "id": "office-routine-and-practice-government-078",
+      "question": "During registry work, an officer discovers that the name of a deceased public servant appears in the registry records. The officer must also make a reference and page a file. Which instruction is specifically given in the seminar?",
+      "options": [
+        "Red pen is allowed for reference, paging of files and writing the name of a deceased officer.",
+        "Blue pen must be used for all registry activities involving deceased officers.",
+        "Green pen is reserved for writing the names of deceased officers.",
+        "Violet pen must be used whenever a file contains the name of a deceased officer."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar specifically notes that registry staff are allowed to use red pen for reference, paging of files and writing the name of a deceased officer."
+    },
+    {
+      "id": "office-routine-and-practice-government-079",
+      "question": "A file contains a detachable schedule that has been placed in a bag envelope appended to the file cover. Which combination of details should the accompanying file note contain?",
+      "options": [
+        "The subject of the correspondence, the file classification and the recipient's address.",
+        "The location of the detached schedule, the date and the initials of the writer.",
+        "The name of the officer who approved the expenditure and the payment reference.",
+        "The number of pages in the original letter and the date of the next registry inspection."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that a file note should be made to show the location of a detached schedule and should carry the date and initials of the writer."
+    },
+    {
+      "id": "office-routine-and-practice-government-080",
+      "question": "An officer is preparing a letter with several attachments for filing. Which arrangement of page numbering agrees with the seminar?",
+      "options": [
+        "Both the attachments and the letter should be numbered in red.",
+        "The attachments should be numbered in red, while the letter should be numbered in blue.",
+        "Both the attachments and the letter should be numbered in blue.",
+        "Attachments should be numbered in blue, while the letter should be numbered in red during filing."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that attachments are usually numbered with blue ink, while letters are numbered with red ink during filing."
+    },
+    {
+      "id": "office-routine-and-practice-government-081",
+      "question": "A senior officer writes “treat” against a matter in a file. Another writes “speak” on a separate submission. Which interpretation best reflects the purpose of these expressions as presented in the seminar?",
+      "options": [
+        "They are file classification codes used to distinguish open files from confidential files.",
+        "They are formal headings required in an Executive Council memorandum.",
+        "They are examples of concise official minuting expressions used to convey directives.",
+        "They are registry instructions for opening new volumes and transferring records."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar lists expressions such as “speak” and “treat” among examples of official minuting. It explains that abbreviations and concise expressions help communicate directives efficiently."
+    },
+    {
+      "id": "office-routine-and-practice-government-082",
+      "question": "An officer prepares a brief written record of an event that occurred in the office, indicating the action already taken and the action still required. The officer places it in the relevant file but fails to date it. What requirement has been overlooked?",
+      "options": [
+        "The file note should be initiated and dated.",
+        "The file note must be endorsed by the Governor.",
+        "The file note must be converted into an organisation circular.",
+        "The file note must be assigned a separate volume number."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar describes file notes as brief records of events or actions and states that such notes should be initiated and dated."
+    },
+    {
+      "id": "office-routine-and-practice-government-083",
+      "question": "An office endorses an original letter to convey its contents to another government office. The reason for sending copies is not obvious from the correspondence. What additional step does the seminar recommend?",
+      "options": [
+        "Remove the original letter from the file after endorsement.",
+        "Record the reasons why the copies were endorsed and sent.",
+        "Open a separate confidential file for every recipient.",
+        "Convert the endorsed letter into a government circular."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar states that if the reasons for endorsement are not obvious, they should also be recorded. The original letter should indicate to whom copies were sent."
+    },
+    {
+      "id": "office-routine-and-practice-government-084",
+      "question": "A department issues an organisation circular to another organisation. The issuing officer is neither the chief executive nor the head of department and has not been delegated authority to issue circulars. Which conclusion follows from the seminar?",
+      "options": [
+        "The circular is valid because any officer may issue an organisation circular.",
+        "The circular is valid if the registry has registered it.",
+        "The circular becomes a government circular once it is distributed.",
+        "The circular should not be issued by that officer because the authority to issue it must come from the chief executive, head of department or a properly delegated officer."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that circulars may not be issued by an organisation unless authorised by the chief executive, head of department or an officer delegated authority in that respect."
+    },
+    {
+      "id": "office-routine-and-practice-government-085",
+      "question": "A public service department is identifying the types of government circulars that may be issued to clarify rules or address gaps in implementation. Which option contains only examples specifically mentioned in the seminar?",
+      "options": [
+        "Civil Service Commission Circulars, Head of Service Circulars, Establishments Circulars and Ministry of Finance/Accountant-General Circulars.",
+        "Registry Supervisor Circulars, Judicial Panel Circulars, Archives Circulars and Executive Council Circulars.",
+        "Departmental Minutes Circulars, Confidential File Circulars, Temporary File Circulars and Enclosure Circulars.",
+        "Governor's Personal Circulars, Staff Attendance Circulars, File Movement Circulars and Private Organisation Circulars."
+      ],
+      "correctAnswer": 0,
+      "explanation": "These are among the examples of government circulars expressly listed on page 7 of the seminar."
+    },
+    {
+      "id": "office-routine-and-practice-government-086",
+      "question": "An MDA wants to communicate a matter arising from decisions taken at a national council meeting attended by representatives of different MDAs. According to the seminar, where should such decisions be brought to the attention of the state government?",
+      "options": [
+        "The registry supervisor for inclusion in the morning list.",
+        "The accounts department for financial authorisation.",
+        "The Governor-in-Council through a Note to Council.",
+        "The archives for permanent preservation before implementation."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar gives decisions from various national council meetings attended by different MDAs as an example of matters that should be brought to the attention of the Governor-in-Council through a Note to Council."
+    },
+    {
+      "id": "office-routine-and-practice-government-087",
+      "question": "A government department has completed the consideration of an EXCO memorandum seeking approval for a proposed programme. The memorandum has been properly presented, but the officer has confused the two forms of Executive Council memo. Which statement correctly distinguishes them?",
+      "options": [
+        "Both forms are exclusively intended to communicate the findings of enquiry panels.",
+        "One seeks the Governor-in-Council's approval for implementing a programme, project or policy, while the other draws attention to an important matter for a decision on whether it should form part of the state's programme.",
+        "One is used for staff promotion, while the other is used exclusively for financial transactions.",
+        "One is a government circular, while the other is a report from a judicial panel."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies two forms: a memorandum seeking approval for implementation of a programme, project or policy, and a Note to Council drawing attention to an important matter and seeking a decision on whether it should form part of the state's programme."
+    },
+    {
+      "id": "office-routine-and-practice-government-088",
+      "question": "A government department receives an EXCO memorandum proposing a new programme. The memo contains a prayer and a consideration paragraph, but the consideration does not explain why the recommended option is preferable to the alternatives. What is the most appropriate correction?",
+      "options": [
+        "Replace the prayer with a registry file movement record.",
+        "Move the entire consideration paragraph into the background section.",
+        "Remove the alternative options so that only the preferred option remains.",
+        "Strengthen the consideration paragraph by outlining the available options and the reasons for recommending the preferred option."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar states that the consideration paragraph should outline several options for consideration and the reasons for recommending a particular option."
+    },
+    {
+      "id": "office-routine-and-practice-government-089",
+      "question": "A government office has completed a report, and the government has considered its findings and recommendations. The government has decided its position and wishes to publish the resulting document. Which final step is described in the seminar?",
+      "options": [
+        "The decisions should be published by the government printer as a government white paper on the report.",
+        "The original report should be replaced with an organisation circular.",
+        "The report should be transferred to the archives without any government decision.",
+        "The findings should be converted into a temporary file for implementation."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar states that the decisions taken by the Governor-in-Council and thereafter should be published by the government printer as a government white paper on the report."
+    },
+    {
+      "id": "office-routine-and-practice-government-090",
+      "question": "A brief prepared for a disciplinary petition includes the officer's rank and grade level but omits whether the officer has any past or pending disciplinary action. Why is this omission significant under the seminar's guidance?",
+      "options": [
+        "The information belongs exclusively in an Executive Council memo.",
+        "Past disciplinary history is relevant only to registry file classification.",
+        "The background of the brief should provide the officer's past or pending disciplinary history where relevant to the matter.",
+        "Disciplinary history must be included only in the final government white paper."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar identifies past or pending disciplinary action as part of the background information in a brief concerning an officer."
+    },
+    {
+      "id": "office-routine-and-practice-government-091",
+      "question": "A commission receives a brief that contains extensive correspondence but does not clearly explain the issue requiring a decision. Which criticism is most consistent with the seminar?",
+      "options": [
+        "The brief is too concise to be useful.",
+        "The brief lacks pertinent information needed for decision-making.",
+        "The brief contains too many file reference numbers.",
+        "The brief should have been submitted as a government circular."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar observes that many briefs lack pertinent information for decision-making, making it difficult for decisions to be taken at meetings."
+    },
+    {
+      "id": "office-routine-and-practice-government-092",
+      "question": "A brief concerns a petition in which an officer has been queried. The officer responds, but the brief writer does not examine the officer's explanation or the comment of the officer who ordered the query. Which part of the brief is inadequately developed?",
+      "options": [
+        "The heading.",
+        "The background.",
+        "The Decision Sought.",
+        "The consideration section."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The consideration section should examine the officer's response to the query and the comment of the officer who ordered the query, among other relevant matters."
+    },
+    {
+      "id": "office-routine-and-practice-government-093",
+      "question": "A department is preparing a brief for a commission. The officer believes that a petition should be granted but does not explain whether the request has merit or whether the applicable rule supports the recommendation. Which approach best complies with the seminar?",
+      "options": [
+        "State the opinion and support the recommendation with the facts, the merits of the request and the applicable rule.",
+        "Avoid giving an opinion because the commission alone is responsible for examining the facts.",
+        "Recommend approval based only on the petitioner's personal circumstances.",
+        "Forward the petition without comment and leave the commission to reconstruct the facts."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar expects the officer to assess the merits of the request, consider the applicable rule and state an opinion with a reasoned recommendation."
+    },
+    {
+      "id": "office-routine-and-practice-government-094",
+      "question": "A public officer is asked to prepare a brief concerning a disciplinary matter. The officer includes the petitioner's request but fails to state whether the officer has committed a similar offence before or what decision was taken in that earlier matter. Which specific consideration has been omitted?",
+      "options": [
+        "The financial implications of the petition.",
+        "The name of the originating Commissioner.",
+        "The officer's previous similar offence and the decision taken in that matter.",
+        "The reference number of the registry's morning list."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar specifically directs the brief writer to consider whether a similar offence was committed before and what decision was taken in that earlier case."
+    },
+    {
+      "id": "office-routine-and-practice-government-095",
+      "question": "An officer has been asked to prepare a brief for a commission. The officer believes that the commission may disagree with the recommendation. Which statement best reflects the responsibility of the brief writer?",
+      "options": [
+        "Avoid making a recommendation so that the commission cannot disagree.",
+        "Make a recommendation as schedule officer to guide the committee or commission, recognising that it remains free to decide otherwise.",
+        "Present the recommendation as a final decision that the commission must adopt.",
+        "Submit only the petitioner's request and exclude the officer's opinion."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar says the schedule officer must make a recommendation to guide the committee or commission, which remains at liberty to decide otherwise."
+    },
+    {
+      "id": "office-routine-and-practice-government-096",
+      "question": "A government office has an effective filing system but frequently delays legitimate public service because officers insist on following routine procedures even when those procedures are being used to conceal wrongdoing. Which principle should govern the officers' conduct?",
+      "options": [
+        "Established procedures must be followed regardless of their consequences.",
+        "The concealment of wrongdoing may be tolerated if the registry has been informed.",
+        "Routine procedures should be suspended whenever an officer considers them inconvenient.",
+        "Office procedures must not be used to justify unlawful instructions, conceal wrongdoing or unnecessarily delay legitimate public service."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The seminar expressly cautions that office routine must not become a justification for unlawful instructions, concealment of wrongdoing or unnecessary delay of legitimate public service."
+    },
+    {
+      "id": "office-routine-and-practice-government-097",
+      "question": "A public office has generated records, distributed them to users and maintained them for reference. The records include historical documents with lasting value. Which management decision is most consistent with the seminar?",
+      "options": [
+        "Preserve valuable historical records securely and transfer records of legal contents or value to permanent archival storage when appropriate.",
+        "Destroy historical records once they have been used to make a decision.",
+        "Retain all records permanently in the personal offices of the officers who generated them.",
+        "Transfer every record to external users once the maintenance stage is completed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The seminar emphasises safe storage of historical records and recommends transferring valuable public documents to permanent storage called archives rather than disposing of them indiscriminately."
+    },
+    {
+      "id": "office-routine-and-practice-government-098",
+      "question": "A department is reviewing its office practice and wants to improve accountability in the handling of official requests and expenditure. Which combination of practices is most directly supported by the seminar?",
+      "options": [
+        "Processing requests through informal channels and recording only approved payments.",
+        "Allowing officers to approve expenditure verbally before creating a record.",
+        "Following approved communication channels, observing confidentiality and using established procedures for approving expenditure and processing official requests.",
+        "Restricting official records to the officer who initiated the request."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seminar identifies approved communication channels, confidentiality, accurate transaction records and established procedures for approving expenditure and processing official requests as elements of proper office practice."
+    },
+    {
+      "id": "office-routine-and-practice-government-099",
+      "question": "An officer is reviewing a government office's records management policy. The office creates necessary records, retains essential evidence and provides efficient retrieval, but treats records management as the exclusive responsibility of registry staff. Which aspect of the seminar's recommended programme is missing?",
+      "options": [
+        "The requirement to open a new volume every 100 pages.",
+        "Recognition through policy and procedure that records management is everyone's job.",
+        "The requirement that all records be distributed to external users.",
+        "The requirement that all historical records be destroyed after use."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The seminar identifies recognition through policy and procedure that records management is everyone's job as one of the attributes of an effective records management programme."
+    },
+    {
+      "id": "office-routine-and-practice-government-100",
+      "question": "A government office is redesigning its administrative procedures. It wants to achieve orderly operations, transparency, accountability and continuity while ensuring that public officers handle correspondence, records and official duties professionally. Which conclusion best reflects the central argument of the seminar?",
+      "options": [
+        "Office routine is mainly a means of controlling the movement of correspondence.",
+        "Office practice is relevant only to registry and administrative officers.",
+        "Government offices can achieve efficiency by relying on informal practices rather than established procedures.",
+        "Effective public administration depends on applying appropriate office routines and practices while upholding integrity, discipline, transparency and accountability."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The conclusion of the seminar emphasises that office routine and practice support effective public administration through organised work, information management, communication, accountability and service delivery."
+    }
+  ]
+}

@@ -6,10 +6,11 @@ import './References.css';
 const references = [
   {
     id: 1,
-    iconColor: '#e7800af5',
-    title: '2022 Akwa Ibom State Public Service Rules',
-    questionBank: 'Akwa Ibom Public Service Rules',
-    type: 'Official Reference Material',
+    iconColor: '#0ae7a89a',
+    title:
+      'Pre-Promotion Examination Seminar Paper for Civil Servants GL. 06 - 16 2027',
+    questionBank: 'Pre-Promotion Examination Seminar Materials',
+    type: 'Study Material',
   },
 
   // Add future question banks here
@@ -59,6 +60,13 @@ const references = [
     questionBank:
       '2025 Seminar for APOCE on General Principles and Techniques in Management',
     type: 'Study Material',
+  },
+  {
+    id: 8,
+    iconColor: '#e7800af5',
+    title: '2022 Akwa Ibom State Public Service Rules',
+    questionBank: 'Akwa Ibom Public Service Rules',
+    type: 'Official Reference Material',
   },
 ];
 
