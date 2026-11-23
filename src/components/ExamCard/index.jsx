@@ -36,6 +36,19 @@ const ExamCard = ({ exam }) => {
           <ConfigCard title="Exam Duration" icon={<FaClock />}>
             <div className="setting-options">
               <button
+                className={timer === 10 * 60 ? 'active' : ''}
+                onClick={() => setTimer(10 * 60)}
+              >
+                10 min
+              </button>
+              <button
+                className={timer === 15 * 60 ? 'active' : ''}
+                onClick={() => setTimer(15 * 60)}
+              >
+                15 min
+              </button>
+
+              <button
                 className={timer === 20 * 60 ? 'active' : ''}
                 onClick={() => setTimer(20 * 60)}
               >
@@ -67,6 +80,12 @@ const ExamCard = ({ exam }) => {
 
           <ConfigCard title="Questions" icon={<FaListOl />}>
             <div className="setting-options">
+              <button
+                className={questionCount === 10 ? 'active' : ''}
+                onClick={() => setQuestionCount(10)}
+              >
+                10
+              </button>
               <button
                 className={questionCount === 20 ? 'active' : ''}
                 onClick={() => setQuestionCount(20)}
